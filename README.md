@@ -14,6 +14,8 @@ Plain HTML + CSS + a tiny bit of JS. No build step. Repo root = GitHub Pages roo
 
 Clip page: **https://mikesilla-kog.github.io/growth-on-the-vine/clips/noise-without-love/**
 
+Search: **https://mikesilla-kog.github.io/growth-on-the-vine/search/**
+
 ## How it is deployed
 
 1. Source lives in this repository (`mikesilla-KOG/growth-on-the-vine`).
@@ -76,6 +78,42 @@ cd /path/to/this/repo
 python3 -m http.server 8080
 # visit http://localhost:8080/
 ```
+
+
+## Clip index + keyword search
+
+Search UI: **https://mikesilla-kog.github.io/growth-on-the-vine/search/**
+
+All search reads one registry: `assets/data/clips.json`.
+
+### Add a clip to the index (when publishing a new Short)
+
+1. Publish the clip page under `clips/<slug>/` as usual.
+2. Append **one object** to the array in `assets/data/clips.json` (do not remove existing entries).
+3. Fill every field you can; search scores `title`, `keyTakeaway`, `keyScripture`, `scriptureText`, `tags`, `keywords`, and `sermon`.
+
+```json
+{
+  "id": "your-slug",
+  "title": "Your Title",
+  "slug": "your-slug",
+  "url": "clips/your-slug/",
+  "youtube": "https://youtube.com/shorts/VIDEO_ID",
+  "sermon": "Source Sermon Title",
+  "keyTakeaway": "One or two sentences — the heart of the clip.",
+  "keyScripture": "Book Chapter:Verse",
+  "scriptureText": "The verse text used on the page.",
+  "tags": ["primary tag", "supporting query"],
+  "keywords": "space-separated terms people might type",
+  "duration": "PT57S",
+  "published": "YYYY-MM-DD"
+}
+```
+
+4. Commit and push `main` — Pages rebuilds; `/search/?q=…` picks up the new entry with no build step.
+5. Spot-check: open `/search/?q=` with a tag or verse from the new clip.
+
+Pattern: **every new Short = one new `clips.json` entry.** AI-assisted search comes later; this keyword index is the durable registry.
 
 ## Content notes
 

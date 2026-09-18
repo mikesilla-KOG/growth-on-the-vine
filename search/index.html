@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Search clips — Growth on the Vine</title>
+  <meta name="description" content="Search Growth on the Vine clips by topic, verse, or keyword — Bible-backed short clips that prick the heart.">
+  <link rel="canonical" href="https://mikesilla-kog.github.io/growth-on-the-vine/search/">
+  <meta name="theme-color" content="#0f2a20">
+  <link rel="icon" type="image/png" sizes="32x32" href="../assets/img/favicon-32.png">
+  <link rel="apple-touch-icon" href="../assets/img/favicon.png">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Growth on the Vine">
+  <meta property="og:title" content="Search clips — Growth on the Vine">
+  <meta property="og:description" content="Type a topic, verse, or keyword to find Bible-backed short clips.">
+  <meta property="og:url" content="https://mikesilla-kog.github.io/growth-on-the-vine/search/">
+  <meta property="og:image" content="https://mikesilla-kog.github.io/growth-on-the-vine/assets/img/gotv-official-og.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Search clips — Growth on the Vine">
+  <meta name="twitter:description" content="Type a topic, verse, or keyword to find Bible-backed short clips.">
+  <meta name="twitter:image" content="https://mikesilla-kog.github.io/growth-on-the-vine/assets/img/gotv-official-og.jpg">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../assets/css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="../">
+        <img src="../assets/img/gotv-official.png" alt="" width="52" height="52">
+        <span class="brand-text">Growth on the Vine</span>
+      </a>
+      <nav class="nav" aria-label="Primary">
+        <a href="../">Home</a>
+        <a href="../clips/noise-without-love/">Clips</a>
+        <a href="./" aria-current="page">Search</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap search-page">
+    <p class="section-label">Search</p>
+    <h1>Ask the clips</h1>
+    <p class="search-lede">Type a topic, verse, or keyword. Results rank against title, takeaway, Scripture, tags, and keywords.</p>
+
+    <form id="search-form" class="search-form" role="search" action="./" method="get">
+      <label class="visually-hidden" for="search-input">Search clips</label>
+      <div class="search-box">
+        <input
+          id="search-input"
+          name="q"
+          type="search"
+          enterkeyhint="search"
+          autocomplete="off"
+          autocorrect="off"
+          spellcheck="false"
+          placeholder="e.g. clanging cymbal, 1 Corinthians 13, love…"
+          aria-describedby="search-status"
+        >
+        <button type="submit" class="btn search-submit">Search</button>
+      </div>
+    </form>
+
+    <p id="search-status" class="search-status idle" aria-live="polite">Loading clips…</p>
+    <div id="search-results" class="search-results"></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>
+        <p class="footer-brand">Growth on the Vine</p>
+        <p>Keyword search · AI provider later.</p>
+      </div>
+      <div>
+        <p><a href="../">Home</a> · <a href="../clips/noise-without-love/">Noise Without Love</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../assets/js/search.js" data-root="../" data-clips="../assets/data/clips.json"></script>
+</body>
+</html>
