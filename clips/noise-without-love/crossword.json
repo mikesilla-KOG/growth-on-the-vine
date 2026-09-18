@@ -1,0 +1,71 @@
+{
+  "title": "Noise Without Love",
+  "rows": 6,
+  "cols": 10,
+  "words": [
+    {
+      "id": "angels",
+      "answer": "ANGELS",
+      "clue": "Tongues of men and of ___",
+      "row": 3,
+      "col": 4,
+      "dir": "across"
+    },
+    {
+      "id": "speak",
+      "answer": "SPEAK",
+      "clue": "If I ___ … but have not love",
+      "row": 1,
+      "col": 7,
+      "dir": "down"
+    },
+    {
+      "id": "cymbal",
+      "answer": "CYMBAL",
+      "clue": "Clanging ___ (1 Cor 13:1)",
+      "row": 4,
+      "col": 3,
+      "dir": "across"
+    },
+    {
+      "id": "noise",
+      "answer": "NOISE",
+      "clue": "What speech without love becomes",
+      "row": 0,
+      "col": 9,
+      "dir": "down"
+    },
+    {
+      "id": "gifts",
+      "answer": "GIFTS",
+      "clue": "Desired in chapter 12 — love is greater",
+      "row": 1,
+      "col": 3,
+      "dir": "across"
+    },
+    {
+      "id": "gong",
+      "answer": "GONG",
+      "clue": "The \"noisy ___\"",
+      "row": 1,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "love",
+      "answer": "LOVE",
+      "clue": "The more excellent way",
+      "row": 0,
+      "col": 1,
+      "dir": "down"
+    },
+    {
+      "id": "paul",
+      "answer": "PAUL",
+      "clue": "Wrote 1 Corinthians 13",
+      "row": 0,
+      "col": 8,
+      "dir": "down"
+    }
+  ]
+}
