@@ -67,7 +67,7 @@
   </section>
 
   <main class="wrap-wide">
-    <p class="section-label">Featured clip</p>
+    <p class="section-label">Clips · A More Excellent Way</p>
     <a class="clip-card" href="clips/noise-without-love/">
       <div class="clip-card-media">
         <video muted playsinline preload="metadata" poster="assets/img/gotv-official-og.jpg" aria-hidden="true">
@@ -85,7 +85,91 @@
         <span class="cta-row">Watch the clip →</span>
       </div>
     </a>
-
+    <a class="clip-card" href="clips/i-never-knew-you/">
+      <div class="clip-card-media">
+        <video muted playsinline preload="metadata" poster="assets/img/gotv-official-og.jpg" aria-hidden="true">
+          <source src="assets/video/i-never-knew-you.mp4" type="video/mp4">
+        </video>
+        <span class="play-badge">~1 min</span>
+      </div>
+      <div class="clip-card-body">
+        <div class="clip-meta">
+          <span>Matthew 7:22–23</span>
+          <span>A More Excellent Way</span>
+        </div>
+        <h2>I Never Knew You</h2>
+        <p>You can prophesy, cast out demons, and do mighty works in Jesus’ name — and still hear Him say, “I never knew you.”</p>
+        <span class="cta-row">Watch the clip →</span>
+      </div>
+    </a>
+    <a class="clip-card" href="clips/love-doesnt-demand-its-own-way/">
+      <div class="clip-card-media">
+        <video muted playsinline preload="metadata" poster="assets/img/gotv-official-og.jpg" aria-hidden="true">
+          <source src="assets/video/love-doesnt-demand-its-own-way.mp4" type="video/mp4">
+        </video>
+        <span class="play-badge">~1 min</span>
+      </div>
+      <div class="clip-card-body">
+        <div class="clip-meta">
+          <span>1 Corinthians 13:4–7</span>
+          <span>A More Excellent Way</span>
+        </div>
+        <h2>Love Doesn't Demand Its Own Way</h2>
+        <p>Love doesn’t say “my way or the highway.” It demands the right way — the truth — and keeps no record of wrongs.</p>
+        <span class="cta-row">Watch the clip →</span>
+      </div>
+    </a>
+    <a class="clip-card" href="clips/fruit-before-fireworks/">
+      <div class="clip-card-media">
+        <video muted playsinline preload="metadata" poster="assets/img/gotv-official-og.jpg" aria-hidden="true">
+          <source src="assets/video/fruit-before-fireworks.mp4" type="video/mp4">
+        </video>
+        <span class="play-badge">~1 min</span>
+      </div>
+      <div class="clip-card-body">
+        <div class="clip-meta">
+          <span>Galatians 5:22</span>
+          <span>A More Excellent Way</span>
+        </div>
+        <h2>Fruit Before Fireworks</h2>
+        <p>Love is the first fruit of the Spirit and the peak of divine character. Don’t chase manifestations without becoming like God.</p>
+        <span class="cta-row">Watch the clip →</span>
+      </div>
+    </a>
+    <a class="clip-card" href="clips/perfect-means-mature/">
+      <div class="clip-card-media">
+        <video muted playsinline preload="metadata" poster="assets/img/gotv-official-og.jpg" aria-hidden="true">
+          <source src="assets/video/perfect-means-mature.mp4" type="video/mp4">
+        </video>
+        <span class="play-badge">~1 min</span>
+      </div>
+      <div class="clip-card-body">
+        <div class="clip-meta">
+          <span>Matthew 5:48</span>
+          <span>A More Excellent Way</span>
+        </div>
+        <h2>Perfect Means Mature</h2>
+        <p>When Jesus says “be perfect,” He isn’t demanding a flawless life — He’s calling you into spiritual maturity and completeness.</p>
+        <span class="cta-row">Watch the clip →</span>
+      </div>
+    </a>
+    <a class="clip-card" href="clips/goal-is-love/">
+      <div class="clip-card-media">
+        <video muted playsinline preload="metadata" poster="assets/img/gotv-official-og.jpg" aria-hidden="true">
+          <source src="assets/video/goal-is-love.mp4" type="video/mp4">
+        </video>
+        <span class="play-badge">~90s</span>
+      </div>
+      <div class="clip-card-body">
+        <div class="clip-meta">
+          <span>1 Timothy 1:5</span>
+          <span>A More Excellent Way</span>
+        </div>
+        <h2>The Goal Is Love</h2>
+        <p>The goal of the commandment is love out of a pure heart. Gifts and religious activity are means — not the destination.</p>
+        <span class="cta-row">Watch the clip →</span>
+      </div>
+    </a>
 
     <section class="search-cta" aria-labelledby="search-cta-heading">
       <h2 id="search-cta-heading">Looking for a verse or topic?</h2>
@@ -116,23 +200,23 @@
         <p>Pilot site · Custom domain <em>growthonthevine.com</em> coming later.</p>
       </div>
       <div>
-        <p><a href="search/">Search</a> · <a href="clips/noise-without-love/">Noise Without Love</a></p>
+        <p><a href="search/">Search</a> · <a href="clips/noise-without-love/">Clips</a></p>
       </div>
     </div>
   </footer>
 
   <script>
-    // Soft preview on featured card when visible (muted)
     (function () {
-      var v = document.querySelector('.clip-card-media video');
-      if (!v) return;
+      var videos = document.querySelectorAll('.clip-card-media video');
+      if (!videos.length) return;
       var io = new IntersectionObserver(function (entries) {
         entries.forEach(function (e) {
+          var v = e.target;
           if (e.isIntersecting) { v.play().catch(function(){}); }
           else { v.pause(); }
         });
       }, { threshold: 0.4 });
-      io.observe(v);
+      videos.forEach(function (v) { io.observe(v); });
     })();
   </script>
 </body>

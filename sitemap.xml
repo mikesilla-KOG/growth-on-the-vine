@@ -7,15 +7,45 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://mikesilla-kog.github.io/growth-on-the-vine/search/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mikesilla-kog.github.io/growth-on-the-vine/clips/noise-without-love/</loc>
     <lastmod>2026-09-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mikesilla-kog.github.io/growth-on-the-vine/search/</loc>
+    <loc>https://mikesilla-kog.github.io/growth-on-the-vine/clips/i-never-knew-you/</loc>
     <lastmod>2026-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://mikesilla-kog.github.io/growth-on-the-vine/clips/love-doesnt-demand-its-own-way/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://mikesilla-kog.github.io/growth-on-the-vine/clips/fruit-before-fireworks/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://mikesilla-kog.github.io/growth-on-the-vine/clips/perfect-means-mature/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://mikesilla-kog.github.io/growth-on-the-vine/clips/goal-is-love/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
 </urlset>

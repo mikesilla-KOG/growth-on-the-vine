@@ -1,0 +1,63 @@
+{
+  "title": "The Goal Is Love",
+  "rows": 8,
+  "cols": 10,
+  "words": [
+    {
+      "id": "goal",
+      "answer": "GOAL",
+      "clue": "What \u201cend\u201d means in 1 Tim 1:5",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "love",
+      "answer": "LOVE",
+      "clue": "The goal of the commandment",
+      "row": 0,
+      "col": 3,
+      "dir": "down"
+    },
+    {
+      "id": "heart",
+      "answer": "HEART",
+      "clue": "Love out of a pure ___",
+      "row": 3,
+      "col": 2,
+      "dir": "across"
+    },
+    {
+      "id": "means",
+      "answer": "MEANS",
+      "clue": "Gifts are ___ \u2014 not the destination",
+      "row": 1,
+      "col": 4,
+      "dir": "down"
+    },
+    {
+      "id": "faith",
+      "answer": "FAITH",
+      "clue": "Sincere ___ (1 Tim 1:5)",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "pure",
+      "answer": "PURE",
+      "clue": "Out of a ___ heart",
+      "row": 2,
+      "col": 6,
+      "dir": "across"
+    },
+    {
+      "id": "paul",
+      "answer": "PAUL",
+      "clue": "Wrote 1 Timothy",
+      "row": 5,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}

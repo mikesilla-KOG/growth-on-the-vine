@@ -1,0 +1,63 @@
+{
+  "title": "Perfect Means Mature",
+  "rows": 9,
+  "cols": 10,
+  "words": [
+    {
+      "id": "mature",
+      "answer": "MATURE",
+      "clue": "What \u201cperfect\u201d means here",
+      "row": 3,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "perfect",
+      "answer": "PERFECT",
+      "clue": "\u201cBe ye therefore ___\u201d (Matt 5:48)",
+      "row": 1,
+      "col": 4,
+      "dir": "down"
+    },
+    {
+      "id": "james",
+      "answer": "JAMES",
+      "clue": "___ 1:4 \u2014 perfect and entire",
+      "row": 0,
+      "col": 2,
+      "dir": "across"
+    },
+    {
+      "id": "entire",
+      "answer": "ENTIRE",
+      "clue": "Perfect and ___, lacking nothing",
+      "row": 5,
+      "col": 4,
+      "dir": "across"
+    },
+    {
+      "id": "grow",
+      "answer": "GROW",
+      "clue": "Call is to ___ into completeness",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "meat",
+      "answer": "MEAT",
+      "clue": "Strong ___ for the mature (Heb 5:14)",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "flaw",
+      "answer": "FLAW",
+      "clue": "Not \u201ca life with no ___\u201d",
+      "row": 7,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}
