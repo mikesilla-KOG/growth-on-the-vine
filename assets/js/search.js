@@ -146,7 +146,7 @@
         el(
           "div",
           "search-empty",
-          "<p class=\"search-empty-title\">Ask the clips</p>" +
+          "<p class=\"search-empty-title\">Search the vines</p>" +
             "<p>Type what you’re looking for. Results rank by title, Scripture, tags, and keywords.</p>" +
             "<ul class=\"search-suggestions\">" +
             "<li><button type=\"button\" data-q=\"clanging cymbal\">clanging cymbal</button></li>" +
