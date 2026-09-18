@@ -1,6 +1,6 @@
 # Growth on the Vine — website
 
-Static pilot site for [Growth on the Vine](https://mikesilla-KOG.github.io/growth-on-the-vine/).
+Static pilot site for [Growth on the Vine](https://mikesilla-kog.github.io/growth-on-the-vine/).
 
 Cream / forest-green branding, first clip: **Noise Without Love** (1 Corinthians 13:1).
 
@@ -10,9 +10,9 @@ Plain HTML + CSS + a tiny bit of JS. No build step. Repo root = GitHub Pages roo
 
 ## Live URL
 
-**https://mikesilla-KOG.github.io/growth-on-the-vine/**
+**https://mikesilla-kog.github.io/growth-on-the-vine/**
 
-Clip page: **https://mikesilla-KOG.github.io/growth-on-the-vine/clips/noise-without-love/**
+Clip page: **https://mikesilla-kog.github.io/growth-on-the-vine/clips/noise-without-love/**
 
 ## How it is deployed
 
@@ -61,7 +61,7 @@ Do **not** buy or attach the domain until you are ready. When you are:
 2. In GitHub → Settings → Pages → Custom domain, enter `growthonthevine.com` (and optionally `www.growthonthevine.com`).
 3. At your DNS provider, add records GitHub documents (typically):
    - **A** records for apex → GitHub Pages IPs, **or**
-   - **CNAME** for `www` → `mikesilla-KOG.github.io`
+   - **CNAME** for `www` → `mikesilla-kog.github.io`
 4. Wait for DNS + GitHub HTTPS certificate provisioning.
 5. Update absolute URLs in `sitemap.xml`, `robots.txt`, and Open Graph / JSON-LD / canonical tags to `https://growthonthevine.com/...`.
 
