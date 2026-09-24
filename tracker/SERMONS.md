@@ -53,7 +53,7 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 | `noise-without-love` | Noise Without Love | [WQzEFrkZY-U](https://www.youtube.com/watch?v=WQzEFrkZY-U) | clean-cut |
 | `i-never-knew-you` | I Never Knew You | [y-ub_M4b9RQ](https://www.youtube.com/watch?v=y-ub_M4b9RQ) | clean-cut |
 | `love-doesnt-demand-its-own-way` | Love Doesn't Demand Its Own Way | [rw47lv6qr5M](https://www.youtube.com/watch?v=rw47lv6qr5M) | clean-cut |
-| `fruit-before-fireworks` | Fruit Before Fireworks | [CWpFMV9dltM](https://www.youtube.com/watch?v=CWpFMV9dltM) | clean-cut |
+| `fruit-before-fireworks` | Fruit Before Fireworks | [nUiwQXu1JkU](https://www.youtube.com/watch?v=nUiwQXu1JkU) | clean-cut |
 | `perfect-means-mature` | Perfect Means Mature | [sHrKIGRSYek](https://www.youtube.com/watch?v=sHrKIGRSYek) | clean-cut |
 | `goal-is-love` | The Goal Is Love | [gCDtt-H6nT4](https://www.youtube.com/watch?v=gCDtt-H6nT4) | clean-cut |
 
