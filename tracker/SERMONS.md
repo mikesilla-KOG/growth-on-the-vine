@@ -2,7 +2,7 @@
 
 Channel: [@vinecluster3113](https://www.youtube.com/@vinecluster3113) (`UC69eXjjXFbD2JV4Lwj7ImJg`) — Pastor David G. Kincer
 
-**Updated:** 2026-09-23 23:12 PT
+**Updated:** 2026-09-24 12:45 AM PT
 
 ## Workflow rule
 
@@ -22,21 +22,40 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 |--------|-------|
 | Total videos | 732 |
 | Upload date range | 2014-06-18 → 2026-07-18 |
-| not_started | 730 |
-| in_progress | 0 |
+| not_started | 729 |
+| in_progress | 1 |
 | done | 1 |
 | skipped | 1 |
 
 ## Next up
 
-**#1 — Saving a Nation**
+**#1 — Saving a Nation** is **in_progress** (see below). When finished, next is **#2 — Division Part 1** (`34dKzwX6zgQ`).
 
-- Upload: `2014-06-18`
-- Duration: 32:52
+
+## In progress
+
+### #1 — Saving a Nation (`1FewcFhtiz8`)
+
+- Status: **in_progress** (started 2026-09-24)
+- Upload: `2014-06-18` · Duration: 32:52
+- Work folder: `sermons/saving-a-nation/`
 - URL: https://www.youtube.com/watch?v=1FewcFhtiz8
-- Video id: `1FewcFhtiz8`
+- Preview: https://growthonthevine.com/previews/saving-a-nation/
+- Shorts (illustrated · status **preview** · no YouTube id yet):
 
-> Note: **A More Excellent Way** is done at order **#44** (pilot, not the oldest). Continue from Next up.
+| Slug | Default title | Scripture | Timestamps | Style | Status |
+|------|---------------|-----------|------------|-------|--------|
+| `blessings-or-his-rule` | Do we want God’s blessings — or His rule? | 1 Sam 8:7; Luke 19:14 | 10:14–11:35 | illustrated | preview |
+| `speak-smooth-things` | Do we only want to hear smooth things? | Isaiah 30:10 | 19:34–20:55 | illustrated | preview |
+| `if-a-nation-turns` | What if a nation turns back to God? | Jer 12:17; Jer 18:8 | 21:54–23:07 | illustrated | preview |
+| `word-turns-a-nation` | Can the Word still turn a nation? | Isaiah 55:11 (alluded) | 31:16–32:40 | illustrated | preview |
+
+**Unused candidates:**
+
+- **Scriptures for our learning** (`scriptures-for-learning`): Rom 15:4; 1 Cor 10:11 · ~00:36–01:52
+- **Bad works → good works** (`bad-works-to-good-works`): 2 Tim 3:16–17 · ~02:11–02:58
+- **No king / own eyes setup** (`no-king-own-eyes`): Judges 17:5–6 · ~09:24–10:14
+- **Unite on Bible morals** (`unite-on-bible-morals`): 1 Cor 5 themes · ~27:28–29:12
 
 ## Done
 
@@ -68,7 +87,7 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 
 | # | Upload | Sermon | Duration | Status | Title | Video id |
 |---|--------|--------|----------|--------|-------|----------|
-| 1 | 2014-06-18 | — | 32:52 | not_started | [Saving a Nation](https://www.youtube.com/watch?v=1FewcFhtiz8) | `1FewcFhtiz8` |
+| 1 | 2014-06-18 | — | 32:52 | **in_progress** | [Saving a Nation](https://www.youtube.com/watch?v=1FewcFhtiz8) | `1FewcFhtiz8` |
 | 2 | 2014-06-18 | — | 22:44 | not_started | [Division Part 1](https://www.youtube.com/watch?v=34dKzwX6zgQ) | `34dKzwX6zgQ` |
 | 3 | 2014-06-18 | 2013-10-13 | 46:44 | not_started | [The Role of the Church](https://www.youtube.com/watch?v=4EM8Til1fM0) | `4EM8Til1fM0` |
 | 4 | 2014-06-18 | — | 22:49 | not_started | [Division Part 2](https://www.youtube.com/watch?v=6NKKxhLki6o) | `6NKKxhLki6o` |

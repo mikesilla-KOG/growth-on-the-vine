@@ -35,8 +35,8 @@
     "same_day_bulk_upload_note": "57 videos share upload_date 2014-06-18 (channel bulk upload). Within a day, order is by video_id ASCII."
   },
   "counts": {
-    "not_started": 730,
-    "in_progress": 0,
+    "not_started": 729,
+    "in_progress": 1,
     "done": 1,
     "skipped": 1
   },
@@ -47,13 +47,14 @@
     "upload_date": "2014-06-18",
     "sermon_date": null,
     "url": "https://www.youtube.com/watch?v=1FewcFhtiz8",
-    "duration_display": "32:52"
+    "duration_display": "32:52",
+    "status": "in_progress"
   },
   "a_more_excellent_way": {
     "order": 44,
     "note": "Done out of chronological order as the pilot; that is fine \u2014 record truthfully and continue from Next up."
   },
-  "updated_at": "2026-09-23 23:12 PT",
+  "updated_at": "2026-09-24 12:45 AM PT",
   "sermons": [
     {
       "order": 1,
@@ -64,13 +65,115 @@
       "sermon_date": null,
       "duration_seconds": 1972,
       "duration_display": "32:52",
-      "status": "not_started",
-      "started_date": null,
+      "status": "in_progress",
+      "started_date": "2026-09-24",
       "finished_date": null,
-      "work_folder": null,
-      "shorts": [],
-      "unused_candidates": [],
-      "notes": ""
+      "work_folder": "sermons/saving-a-nation/",
+      "shorts": [
+        {
+          "slug": "blessings-or-his-rule",
+          "title": "Do we want God\u2019s blessings \u2014 or His rule?",
+          "title_options": [
+            "Do we want God\u2019s blessings \u2014 or His rule?",
+            "What if we want heaven but not His Word?",
+            "Have we rejected God ruling over us?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "1 Samuel 8:7; Luke 19:14",
+          "sermon_timestamps": "10:14\u201311:35",
+          "body_duration_seconds": 81,
+          "branded_duration_seconds": 88,
+          "summary": "Israel rejected God ruling over them\u2014wanting heaven and blessings without obedience. Luke 19:14: we will not have this man to rule over us."
+        },
+        {
+          "slug": "speak-smooth-things",
+          "title": "Do we only want to hear smooth things?",
+          "title_options": [
+            "Do we only want to hear smooth things?",
+            "Are we paying pastors to flatter us?",
+            "What if confidence isn\u2019t the same as being okay?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "Isaiah 30:10",
+          "sermon_timestamps": "19:34\u201320:55",
+          "body_duration_seconds": 81,
+          "branded_duration_seconds": 88,
+          "summary": "Groups hire ministers to flatter them\u2014Isaiah 30:10 speak smooth things. Scripture is for righteousness, but many only want to hear that they\u2019re okay."
+        },
+        {
+          "slug": "if-a-nation-turns",
+          "title": "What if a nation turns back to God?",
+          "title_options": [
+            "What if a nation turns back to God?",
+            "Can God relent over a nation?",
+            "Is Bible morality an umbrella of protection?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "Jeremiah 12:17; Jeremiah 18:8",
+          "sermon_timestamps": "21:54\u201323:07",
+          "body_duration_seconds": 73,
+          "branded_duration_seconds": 80,
+          "summary": "God will pluck up a disobedient nation\u2014but if that nation turns from evil, He will relent. Bible morality is an umbrella of protection when God judges."
+        },
+        {
+          "slug": "word-turns-a-nation",
+          "title": "Can the Word still turn a nation?",
+          "title_options": [
+            "Can the Word still turn a nation?",
+            "What if speaking the Word is enough?",
+            "Where does saving a nation start?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "Isaiah 55:11 (alluded)",
+          "sermon_timestamps": "31:16\u201332:40",
+          "body_duration_seconds": 84,
+          "branded_duration_seconds": 91,
+          "summary": "It\u2019s the Word that must get out\u2014speak it; it convicts and convinces. The turning of a nation starts with the church."
+        }
+      ],
+      "unused_candidates": [
+        {
+          "slug_candidate": "scriptures-for-learning",
+          "working_title": "Why were these stories written down? / What if nations fall so we can learn?",
+          "core_truth": "Romans 15:4 and 1 Cor 10:11 \u2014 OT events occurred as examples for our learning when God deals with nations.",
+          "scripture": "Romans 15:4; 1 Corinthians 10:11",
+          "approx_timestamp": "00:36\u201301:52",
+          "notes": "Strong opener; overlap with sermon thesis already covered by if-a-nation-turns / word-turns-a-nation"
+        },
+        {
+          "slug_candidate": "bad-works-to-good-works",
+          "working_title": "Is the Bible trying to turn us to good works?",
+          "core_truth": "2 Tim 3:16\u201317 \u2014 all Scripture profitable; focus righteousness; turn from bad works to good works via the Spirit.",
+          "scripture": "2 Timothy 3:16\u201317",
+          "approx_timestamp": "02:11\u201302:58",
+          "notes": "Solid shorter punch; keep for follow-up"
+        },
+        {
+          "slug_candidate": "no-king-own-eyes",
+          "working_title": "What happens when every man does what\u2019s right in his own eyes?",
+          "core_truth": "Judges 17:5\u20136 setup \u2014 no king in Israel; homemade religion; folded partly into blessings-or-his-rule opening.",
+          "scripture": "Judges 17:5\u20136",
+          "approx_timestamp": "09:24\u201310:14",
+          "notes": "Setup material; skip map/Dan history ~12:00\u201319:00"
+        },
+        {
+          "slug_candidate": "unite-on-bible-morals",
+          "working_title": "What should believers unite around?",
+          "core_truth": "Unite on Bible moral issues (not secondary disputes); list of things not to fellowship over.",
+          "scripture": "1 Corinthians 5 themes",
+          "approx_timestamp": "27:28\u201329:12",
+          "notes": "Strong but long list + culture tangents"
+        }
+      ],
+      "notes": "Illustrated Shorts previewed at /previews/saving-a-nation/ (2026-09-24). Not posted to YouTube yet. GenerateImage unavailable to subagent \u2014 used Unsplash + Wikimedia CC stock."
     },
     {
       "order": 2,
