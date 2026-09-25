@@ -2,7 +2,7 @@
 
 Channel: [@vinecluster3113](https://www.youtube.com/@vinecluster3113) (`UC69eXjjXFbD2JV4Lwj7ImJg`) — Pastor David G. Kincer
 
-**Updated:** 2026-09-24 12:45 AM PT
+**Updated:** 2026-09-25 12:08 AM PT
 
 ## Workflow rule
 
@@ -41,11 +41,11 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 - Work folder: `sermons/saving-a-nation/`
 - URL: https://www.youtube.com/watch?v=1FewcFhtiz8
 - Preview: https://growthonthevine.com/previews/saving-a-nation/
-- Shorts (illustrated · status **preview** · no YouTube id yet):
+- Shorts (illustrated · one **published**, three **preview** · YouTube id pending for the published Short):
 
 | Slug | Default title | Scripture | Timestamps | Style | Status |
 |------|---------------|-----------|------------|-------|--------|
-| `blessings-or-his-rule` | Do we want God’s blessings — or His rule? | 1 Sam 8:7; Luke 19:14 | 10:14–11:35 | illustrated | preview |
+| `blessings-or-his-rule` | Do we want God’s blessings — or His rule? | 1 Sam 8:7; Luke 19:14 | 10:14–11:35 | illustrated | **published** (YouTube id pending) |
 | `speak-smooth-things` | Do we only want to hear smooth things? | Isaiah 30:10 | 19:34–20:55 | illustrated | preview |
 | `if-a-nation-turns` | What if a nation turns back to God? | Jer 12:17; Jer 18:8 | 21:54–23:07 | illustrated | preview |
 | `word-turns-a-nation` | Can the Word still turn a nation? | Isaiah 55:11 (alluded) | 31:16–32:40 | illustrated | preview |

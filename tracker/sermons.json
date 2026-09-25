@@ -54,7 +54,7 @@
     "order": 44,
     "note": "Done out of chronological order as the pilot; that is fine \u2014 record truthfully and continue from Next up."
   },
-  "updated_at": "2026-09-24 12:45 AM PT",
+  "updated_at": "2026-09-25 12:08 AM PT",
   "sermons": [
     {
       "order": 1,
@@ -80,7 +80,7 @@
           ],
           "youtube_id": null,
           "style": "illustrated",
-          "status": "preview",
+          "status": "published",
           "scripture": "1 Samuel 8:7; Luke 19:14",
           "sermon_timestamps": "10:14\u201311:35",
           "body_duration_seconds": 81,
@@ -173,7 +173,7 @@
           "notes": "Strong but long list + culture tangents"
         }
       ],
-      "notes": "Illustrated Shorts previewed at /previews/saving-a-nation/ (2026-09-24). Not posted to YouTube yet. GenerateImage unavailable to subagent \u2014 used Unsplash + Wikimedia CC stock."
+      "notes": "Illustrated Shorts previewed at /previews/saving-a-nation/ (2026-09-24). Public clip page published for blessings-or-his-rule (2026-09-25); YouTube ID pending for that Short. GenerateImage unavailable to subagent \u2014 used Unsplash + Wikimedia CC stock."
     },
     {
       "order": 2,
