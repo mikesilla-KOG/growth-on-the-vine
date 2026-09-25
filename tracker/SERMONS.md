@@ -2,7 +2,7 @@
 
 Channel: [@vinecluster3113](https://www.youtube.com/@vinecluster3113) (`UC69eXjjXFbD2JV4Lwj7ImJg`) — Pastor David G. Kincer
 
-**Updated:** 2026-09-25 12:16 AM PT
+**Updated:** 2026-09-25 9:52 AM PT
 
 ## Workflow rule
 
@@ -22,21 +22,49 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 |--------|-------|
 | Total videos | 732 |
 | Upload date range | 2014-06-18 → 2026-07-18 |
-| not_started | 729 |
+| not_started | 728 |
 | in_progress | 1 |
-| done | 1 |
+| done | 2 |
 | skipped | 1 |
 
 ## Next up
 
-**#1 — Saving a Nation** is **in_progress** (see below). When finished, next is **#2 — Division Part 1** (`34dKzwX6zgQ`).
+**#2 — Division Part 1** (`34dKzwX6zgQ`) is **in_progress** (see below). When finished, next is **#3 — The Role of the Church** (`4EM8Til1fM0`).
 
 
 ## In progress
 
+### #2 — Division Part 1 (`34dKzwX6zgQ`)
+
+- Status: **in_progress** (started 2026-09-25)
+- Upload: `2014-06-18` · Duration: 22:44
+- Work folder: `sermons/division-part-1/`
+- URL: https://www.youtube.com/watch?v=34dKzwX6zgQ
+- Preview: https://growthonthevine.com/previews/division-part-1/
+- Shorts (illustrated · four **preview**, not posted):
+
+| Slug | Default title | Scripture | Timestamps | Length | Music | Style | Status |
+|------|---------------|-----------|------------|--------|-------|-------|--------|
+| `is-church-boring` | Is church really boring? | Psalm 122:1 | 3:42–5:08 | 93s | “Wholesome” | illustrated | preview |
+| `same-as-a-big-mac` | Should church be as consistent as a Big Mac? | 1 Corinthians 1:10 | 9:19–9:59 + 10:38–11:03 | 71s | “Dreamer” | illustrated | preview |
+| `can-a-divided-home-stand` | Can a divided home still stand? | Matthew 12:25 | 12:00–12:34 + 12:44–13:37 | 94s | “Resolutions” | illustrated | preview |
+| `is-christ-divided` | Who was really crucified for you? | 1 Corinthians 1:12–13 | 15:39–16:05 + 16:16–16:30 + 16:52–17:12 + 17:23–17:46 | 90s | “Touching Moments Two - Higher” | illustrated | preview |
+
+**Unused candidates:**
+
+- **Is it the church's fault I left?** (`not-the-churchs-fault`): (Acts 1:8 power) · ~01:02–02:10 — Strong personal testimony; overlaps is-church-boring theme.
+- **Do we line up with Scripture — or make it line up with us?** (`line-up-with-scripture`): Romans 3:4 · ~07:41–08:42 — Good short, ~60s.
+- **Can the church change the Scriptures to be liked?** (`cant-change-the-scriptures`): — · ~05:59–07:00 — Sensitive topics (abortion, sexual sin); would need very careful soft framing.
+- **What do our kids actually need to see?** (`kids-need-to-see-it`): Acts 1:8 · ~13:47–14:30 — Continues can-a-divided-home-stand.
+- **Why do we tell the world when we disagree?** (`righteous-judgment`): John 7:24; 1 Corinthians 1:10–11 · ~14:35–15:35
+- **Are we following a minister — or Jesus?** (`follow-jesus-not-ministers`): 1 Corinthians 1:14–17 · ~19:55–21:30 — Contains Mormon/Muslim contrasts nearby (18:01–19:55) — avoid those.
+- **Can new and mature believers eat at the same table?** (`milk-and-meat-one-table`): (1 Corinthians 3:2; Hebrews 5:12–14) · ~21:45–22:27 — Ends at the sermon end (applause/music).
+
+## Done
+
 ### #1 — Saving a Nation (`1FewcFhtiz8`)
 
-- Status: **in_progress** (started 2026-09-24)
+- Status: **done** (started 2026-09-24 · finished 2026-09-25)
 - Upload: `2014-06-18` · Duration: 32:52
 - Work folder: `sermons/saving-a-nation/`
 - URL: https://www.youtube.com/watch?v=1FewcFhtiz8
@@ -56,8 +84,6 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 - **Bad works → good works** (`bad-works-to-good-works`): 2 Tim 3:16–17 · ~02:11–02:58
 - **No king / own eyes setup** (`no-king-own-eyes`): Judges 17:5–6 · ~09:24–10:14
 - **Unite on Bible morals** (`unite-on-bible-morals`): 1 Cor 5 themes · ~27:28–29:12
-
-## Done
 
 ### #44 — A More Excellent Way (`nD9oDfikXQ0`)
 
@@ -87,8 +113,8 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 
 | # | Upload | Sermon | Duration | Status | Title | Video id |
 |---|--------|--------|----------|--------|-------|----------|
-| 1 | 2014-06-18 | — | 32:52 | **in_progress** | [Saving a Nation](https://www.youtube.com/watch?v=1FewcFhtiz8) | `1FewcFhtiz8` |
-| 2 | 2014-06-18 | — | 22:44 | not_started | [Division Part 1](https://www.youtube.com/watch?v=34dKzwX6zgQ) | `34dKzwX6zgQ` |
+| 1 | 2014-06-18 | — | 32:52 | **done** | [Saving a Nation](https://www.youtube.com/watch?v=1FewcFhtiz8) | `1FewcFhtiz8` |
+| 2 | 2014-06-18 | — | 22:44 | **in_progress** | [Division Part 1](https://www.youtube.com/watch?v=34dKzwX6zgQ) | `34dKzwX6zgQ` |
 | 3 | 2014-06-18 | 2013-10-13 | 46:44 | not_started | [The Role of the Church](https://www.youtube.com/watch?v=4EM8Til1fM0) | `4EM8Til1fM0` |
 | 4 | 2014-06-18 | — | 22:49 | not_started | [Division Part 2](https://www.youtube.com/watch?v=6NKKxhLki6o) | `6NKKxhLki6o` |
 | 5 | 2014-06-18 | — | 22:39 | not_started | [2012 Best Church Service one 0401](https://www.youtube.com/watch?v=6arMfL_YD0M) | `6arMfL_YD0M` |

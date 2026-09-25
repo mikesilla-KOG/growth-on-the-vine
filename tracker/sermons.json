@@ -35,26 +35,26 @@
     "same_day_bulk_upload_note": "57 videos share upload_date 2014-06-18 (channel bulk upload). Within a day, order is by video_id ASCII."
   },
   "counts": {
-    "not_started": 729,
+    "not_started": 728,
     "in_progress": 1,
-    "done": 1,
+    "done": 2,
     "skipped": 1
   },
   "next_up": {
-    "order": 1,
-    "video_id": "1FewcFhtiz8",
-    "title": "Saving a Nation",
+    "order": 2,
+    "video_id": "34dKzwX6zgQ",
+    "title": "Division Part 1",
     "upload_date": "2014-06-18",
     "sermon_date": null,
-    "url": "https://www.youtube.com/watch?v=1FewcFhtiz8",
-    "duration_display": "32:52",
+    "url": "https://www.youtube.com/watch?v=34dKzwX6zgQ",
+    "duration_display": "22:44",
     "status": "in_progress"
   },
   "a_more_excellent_way": {
     "order": 44,
     "note": "Done out of chronological order as the pilot; that is fine \u2014 record truthfully and continue from Next up."
   },
-  "updated_at": "2026-09-25 12:16 AM PT",
+  "updated_at": "2026-09-25 09:52 PT",
   "sermons": [
     {
       "order": 1,
@@ -65,9 +65,9 @@
       "sermon_date": null,
       "duration_seconds": 1972,
       "duration_display": "32:52",
-      "status": "in_progress",
+      "status": "done",
       "started_date": "2026-09-24",
-      "finished_date": null,
+      "finished_date": "2026-09-25",
       "work_folder": "sermons/saving-a-nation/",
       "shorts": [
         {
@@ -186,13 +186,143 @@
       "sermon_date": null,
       "duration_seconds": 1364,
       "duration_display": "22:44",
-      "status": "not_started",
-      "started_date": null,
+      "status": "in_progress",
+      "started_date": "2026-09-25",
       "finished_date": null,
-      "work_folder": null,
-      "shorts": [],
-      "unused_candidates": [],
-      "notes": ""
+      "work_folder": "sermons/division-part-1/",
+      "shorts": [
+        {
+          "slug": "is-church-boring",
+          "title": "Is church really boring?",
+          "title_options": [
+            "Is church really boring?",
+            "Is it the church\u2019s fault we\u2019re bored?",
+            "What if church isn\u2019t boring \u2014 we just stopped getting involved?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "Psalm 122:1",
+          "sermon_timestamps": "3:42\u20135:08",
+          "body_duration_seconds": 86.6,
+          "branded_duration_seconds": 93.4,
+          "music": "\u201cWholesome\u201d \u2014 Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "Young people say church is boring \u2014 he said it too, as a clock-watching teen who didn\u2019t get involved. David was glad to go to the house of the Lord; the church is the people."
+        },
+        {
+          "slug": "same-as-a-big-mac",
+          "title": "Should church be as consistent as a Big Mac?",
+          "title_options": [
+            "Should church be as consistent as a Big Mac?",
+            "What if every church spoke the same thing?",
+            "Why is a Big Mac the same everywhere \u2014 but church isn\u2019t?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "1 Corinthians 1:10",
+          "sermon_timestamps": "9:19\u20139:59 + 10:38\u201311:03",
+          "body_duration_seconds": 64.4,
+          "branded_duration_seconds": 71.2,
+          "music": "\u201cDreamer\u201d \u2014 Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "A Big Mac is identical in Brazil, Korea, China and every state. Paul says \u201cspeak the same thing\u201d \u2014 the Holy Ghost, salvation and holy living should be preached the same in every church."
+        },
+        {
+          "slug": "can-a-divided-home-stand",
+          "title": "Can a divided home still stand?",
+          "title_options": [
+            "Can a divided home still stand?",
+            "Why do husband and wife need the same truth?",
+            "What happens when a family is divided?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "Matthew 12:25",
+          "sermon_timestamps": "12:00\u201312:34 + 12:44\u201313:37",
+          "body_duration_seconds": 87.1,
+          "branded_duration_seconds": 93.9,
+          "music": "\u201cResolutions\u201d \u2014 Scott Buckley (scottbuckley.com.au), CC BY 4.0",
+          "summary": "Jesus: a kingdom or house divided against itself will not stand. Husband and wife must stand together in the same truth and show their children Jesus \u2014 or the home won\u2019t stand."
+        },
+        {
+          "slug": "is-christ-divided",
+          "title": "Who was really crucified for you?",
+          "title_options": [
+            "Who was really crucified for you?",
+            "Is Christ divided?",
+            "Which church group is the right one?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "1 Corinthians 1:12\u201313",
+          "sermon_timestamps": "15:39\u201316:05 + 16:16\u201316:30 + 16:52\u201317:12 + 17:23\u201317:46",
+          "body_duration_seconds": 83.2,
+          "branded_duration_seconds": 90.0,
+          "music": "\u201cTouching Moments Two - Higher\u201d \u2014 Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "\u201cI am of Paul\u2026 Apollos\u2026 Peter\u2026 Christ.\u201d Only the Christ group is right. Was Paul crucified for you? No pope, priest, denomination or famous minister saves \u2014 it is Christ and the Scriptures."
+        }
+      ],
+      "unused_candidates": [
+        {
+          "slug_candidate": "not-the-churchs-fault",
+          "working_title": "Is it the church's fault I left?",
+          "core_truth": "He left church as a teen because he wanted to sin, not because of the church; God told him to get in and make a difference.",
+          "scripture": "(Acts 1:8 power)",
+          "approx_timestamp": "01:02\u201302:10",
+          "notes": "Strong personal testimony; overlaps is-church-boring theme."
+        },
+        {
+          "slug_candidate": "line-up-with-scripture",
+          "working_title": "Do we line up with Scripture \u2014 or make it line up with us?",
+          "core_truth": "Let God be true and every man a liar; voices blaming the church are wrong; we must line up with the Scriptures (suit story).",
+          "scripture": "Romans 3:4",
+          "approx_timestamp": "07:41\u201308:42",
+          "notes": "Good short, ~60s."
+        },
+        {
+          "slug_candidate": "cant-change-the-scriptures",
+          "working_title": "Can the church change the Scriptures to be liked?",
+          "core_truth": "The church cannot change the Scriptures because public policy changes.",
+          "scripture": "\u2014",
+          "approx_timestamp": "05:59\u201307:00",
+          "notes": "Sensitive topics (abortion, sexual sin); would need very careful soft framing."
+        },
+        {
+          "slug_candidate": "kids-need-to-see-it",
+          "working_title": "What do our kids actually need to see?",
+          "core_truth": "Kids need to see our moral standards, tongue and curbed anger \u2014 not just hear about the Second Coming.",
+          "scripture": "Acts 1:8",
+          "approx_timestamp": "13:47\u201314:30",
+          "notes": "Continues can-a-divided-home-stand."
+        },
+        {
+          "slug_candidate": "righteous-judgment",
+          "working_title": "Why do we tell the world when we disagree?",
+          "core_truth": "Judge righteous judgment backed by Scripture; don't blab church disagreements to the world.",
+          "scripture": "John 7:24; 1 Corinthians 1:10\u201311",
+          "approx_timestamp": "14:35\u201315:35",
+          "notes": ""
+        },
+        {
+          "slug_candidate": "follow-jesus-not-ministers",
+          "working_title": "Are we following a minister \u2014 or Jesus?",
+          "core_truth": "Follow and imitate Jesus, not ministers or church groups; Paul baptized few so no one would follow his name.",
+          "scripture": "1 Corinthians 1:14\u201317",
+          "approx_timestamp": "19:55\u201321:30",
+          "notes": "Contains Mormon/Muslim contrasts nearby (18:01\u201319:55) \u2014 avoid those."
+        },
+        {
+          "slug_candidate": "milk-and-meat-one-table",
+          "working_title": "Can new and mature believers eat at the same table?",
+          "core_truth": "Like a family dinner with milk and meat, new and mature believers can be fed in one meeting.",
+          "scripture": "(1 Corinthians 3:2; Hebrews 5:12\u201314)",
+          "approx_timestamp": "21:45\u201322:27",
+          "notes": "Ends at the sermon end (applause/music)."
+        }
+      ],
+      "notes": "Illustrated Shorts previewed at /previews/division-part-1/ (2026-09-25). Not posted to YouTube. GenerateImage unavailable to subagent \u2014 used public-domain Bible art + Commons/Openverse CC photos (see sermons/division-part-1/_stock/ATTRIBUTION.md). BGM: Wholesome (new), Dreamer, Resolutions, Touching Moments Two - Higher."
     },
     {
       "order": 3,
