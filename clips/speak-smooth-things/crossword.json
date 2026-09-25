@@ -1,0 +1,39 @@
+{
+  "title": "Do we only want to hear smooth things?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "smooth",
+      "answer": "SMOOTH",
+      "clue": "Things people asked prophets to speak",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "right",
+      "answer": "RIGHT",
+      "clue": "The opposite of smooth in Isaiah 30:10",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "word",
+      "answer": "WORD",
+      "clue": "God’s message in Scripture",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "truth",
+      "answer": "TRUTH",
+      "clue": "What God’s Word tells us",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}
