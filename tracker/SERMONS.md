@@ -2,7 +2,7 @@
 
 Channel: [@vinecluster3113](https://www.youtube.com/@vinecluster3113) (`UC69eXjjXFbD2JV4Lwj7ImJg`) — Pastor David G. Kincer
 
-**Updated:** 2026-09-25 9:52 AM PT
+**Updated:** 2026-09-25 5:10 PM PT
 
 ## Workflow rule
 
@@ -41,14 +41,14 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 - Work folder: `sermons/division-part-1/`
 - URL: https://www.youtube.com/watch?v=34dKzwX6zgQ
 - Preview: https://growthonthevine.com/previews/division-part-1/
-- Shorts (illustrated · four **preview**, not posted):
+- Shorts (illustrated · four **approved** 2026-09-25, clip pages live on the site; YouTube scheduling pending):
 
 | Slug | Default title | Scripture | Timestamps | Length | Music | Style | Status |
 |------|---------------|-----------|------------|--------|-------|-------|--------|
-| `is-church-boring` | Is church really boring? | Psalm 122:1 | 3:42–5:08 | 93s | “Wholesome” | illustrated | preview |
-| `same-as-a-big-mac` | Should church be as consistent as a Big Mac? | 1 Corinthians 1:10 | 9:19–9:59 + 10:38–11:03 | 71s | “Dreamer” | illustrated | preview |
-| `can-a-divided-home-stand` | Can a divided home still stand? | Matthew 12:25 | 12:00–12:34 + 12:44–13:37 | 94s | “Resolutions” | illustrated | preview |
-| `is-christ-divided` | Who was really crucified for you? | 1 Corinthians 1:12–13 | 15:39–16:05 + 16:16–16:30 + 16:52–17:12 + 17:23–17:46 | 90s | “Touching Moments Two - Higher” | illustrated | preview |
+| `is-church-boring` | Is church really boring? | Psalm 122:1 | 3:42–5:08 | 93s | “Wholesome” | illustrated | **approved** · planned 2026-09-26 8:30 AM PT · [site](https://growthonthevine.com/clips/is-church-boring/) |
+| `same-as-a-big-mac` | Should church be as consistent as a Big Mac? | 1 Corinthians 1:10 | 9:19–9:59 + 10:38–11:03 | 71s | “Dreamer” | illustrated | **approved** · planned 2026-09-26 12:30 PM PT · [site](https://growthonthevine.com/clips/same-as-a-big-mac/) |
+| `can-a-divided-home-stand` | Can a divided home still stand? | Matthew 12:25 | 12:00–12:34 + 12:44–13:37 | 94s | “Resolutions” | illustrated | **approved** · planned 2026-09-26 4:30 PM PT · [site](https://growthonthevine.com/clips/can-a-divided-home-stand/) |
+| `is-christ-divided` | Who was really crucified for you? | 1 Corinthians 1:12–13 | 15:39–16:05 + 16:16–16:30 + 16:52–17:12 + 17:23–17:46 | 90s | “Touching Moments Two - Higher” | illustrated | **approved** · planned 2026-09-26 8:30 PM PT · [site](https://growthonthevine.com/clips/is-christ-divided/) |
 
 **Unused candidates:**
 
@@ -69,14 +69,14 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 - Work folder: `sermons/saving-a-nation/`
 - URL: https://www.youtube.com/watch?v=1FewcFhtiz8
 - Preview: https://growthonthevine.com/previews/saving-a-nation/
-- Shorts (illustrated · one **published**, two **scheduled**):
+- Shorts (illustrated · four **published**):
 
 | Slug | Default title | Scripture | Timestamps | Style | Status |
 |------|---------------|-----------|------------|-------|--------|
 | `blessings-or-his-rule` | Do we want God’s blessings — or His rule? | 1 Sam 8:7; Luke 19:14 | 10:14–11:35 | illustrated | **published** ([rIZCHnLapCk](https://youtube.com/shorts/rIZCHnLapCk)) |
 | `speak-smooth-things` | Do we only want to hear smooth things? | Isaiah 30:10 | 19:34–20:55 | illustrated | **published** ([m3K0ObEYNsk](https://youtube.com/shorts/m3K0ObEYNsk)) |
-| `if-a-nation-turns` | What if a nation turns back to God? | Jer 12:17; Jer 18:8 | 21:54–23:07 | illustrated | **scheduled** ([kxrTHVkln28](https://youtube.com/shorts/kxrTHVkln28)) · 2026-09-25 12:30 PM PT |
-| `word-turns-a-nation` | Can the Word still turn a nation? | Isaiah 55:11 (alluded) | 31:16–32:40 | illustrated | **scheduled** ([LjnQyq7d05Q](https://youtube.com/shorts/LjnQyq7d05Q)) · 2026-09-25 4:30 PM PT |
+| `if-a-nation-turns` | What if a nation turns back to God? | Jer 12:17; Jer 18:8 | 21:54–23:07 | illustrated | **published** ([kxrTHVkln28](https://youtube.com/shorts/kxrTHVkln28)) · 2026-09-25 12:30 PM PT |
+| `word-turns-a-nation` | Can the Word still turn a nation? | Isaiah 55:11 (alluded) | 31:16–32:40 | illustrated | **published** ([LjnQyq7d05Q](https://youtube.com/shorts/LjnQyq7d05Q)) · 2026-09-25 4:30 PM PT |
 
 **Unused candidates:**
 

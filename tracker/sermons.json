@@ -54,7 +54,7 @@
     "order": 44,
     "note": "Done out of chronological order as the pilot; that is fine \u2014 record truthfully and continue from Next up."
   },
-  "updated_at": "2026-09-25 09:52 PT",
+  "updated_at": "2026-09-25 17:10 PT",
   "sermons": [
     {
       "order": 1,
@@ -114,13 +114,13 @@
           ],
           "youtube_id": "kxrTHVkln28",
           "style": "illustrated",
-          "status": "scheduled",
-          "scheduled_at": "2026-09-25 12:30 PM PT",
+          "status": "published",
           "scripture": "Jeremiah 12:17; Jeremiah 18:8",
           "sermon_timestamps": "21:54\u201323:07",
           "body_duration_seconds": 73,
           "branded_duration_seconds": 80,
-          "summary": "God will pluck up a disobedient nation\u2014but if that nation turns from evil, He will relent. Bible morality is an umbrella of protection when God judges."
+          "summary": "God will pluck up a disobedient nation\u2014but if that nation turns from evil, He will relent. Bible morality is an umbrella of protection when God judges.",
+          "published_at": "2026-09-25 12:30 PM PT"
         },
         {
           "slug": "word-turns-a-nation",
@@ -132,13 +132,13 @@
           ],
           "youtube_id": "LjnQyq7d05Q",
           "style": "illustrated",
-          "status": "scheduled",
-          "scheduled_at": "2026-09-25 4:30 PM PT",
+          "status": "published",
           "scripture": "Isaiah 55:11 (alluded)",
           "sermon_timestamps": "31:16\u201332:40",
           "body_duration_seconds": 84,
           "branded_duration_seconds": 91,
-          "summary": "It\u2019s the Word that must get out\u2014speak it; it convicts and convinces. The turning of a nation starts with the church."
+          "summary": "It\u2019s the Word that must get out\u2014speak it; it convicts and convinces. The turning of a nation starts with the church.",
+          "published_at": "2026-09-25 4:30 PM PT"
         }
       ],
       "unused_candidates": [
@@ -201,13 +201,16 @@
           ],
           "youtube_id": null,
           "style": "illustrated",
-          "status": "preview",
+          "status": "approved",
           "scripture": "Psalm 122:1",
           "sermon_timestamps": "3:42\u20135:08",
           "body_duration_seconds": 86.6,
           "branded_duration_seconds": 93.4,
           "music": "\u201cWholesome\u201d \u2014 Kevin MacLeod (incompetech.com), CC BY 4.0",
-          "summary": "Young people say church is boring \u2014 he said it too, as a clock-watching teen who didn\u2019t get involved. David was glad to go to the house of the Lord; the church is the people."
+          "summary": "Young people say church is boring \u2014 he said it too, as a clock-watching teen who didn\u2019t get involved. David was glad to go to the house of the Lord; the church is the people.",
+          "approved_date": "2026-09-25",
+          "planned_release": "2026-09-26 8:30 AM PT",
+          "site_page": "https://growthonthevine.com/clips/is-church-boring/"
         },
         {
           "slug": "same-as-a-big-mac",
@@ -219,13 +222,16 @@
           ],
           "youtube_id": null,
           "style": "illustrated",
-          "status": "preview",
+          "status": "approved",
           "scripture": "1 Corinthians 1:10",
           "sermon_timestamps": "9:19\u20139:59 + 10:38\u201311:03",
           "body_duration_seconds": 64.4,
           "branded_duration_seconds": 71.2,
           "music": "\u201cDreamer\u201d \u2014 Kevin MacLeod (incompetech.com), CC BY 4.0",
-          "summary": "A Big Mac is identical in Brazil, Korea, China and every state. Paul says \u201cspeak the same thing\u201d \u2014 the Holy Ghost, salvation and holy living should be preached the same in every church."
+          "summary": "A Big Mac is identical in Brazil, Korea, China and every state. Paul says \u201cspeak the same thing\u201d \u2014 the Holy Ghost, salvation and holy living should be preached the same in every church.",
+          "approved_date": "2026-09-25",
+          "planned_release": "2026-09-26 12:30 PM PT",
+          "site_page": "https://growthonthevine.com/clips/same-as-a-big-mac/"
         },
         {
           "slug": "can-a-divided-home-stand",
@@ -237,13 +243,16 @@
           ],
           "youtube_id": null,
           "style": "illustrated",
-          "status": "preview",
+          "status": "approved",
           "scripture": "Matthew 12:25",
           "sermon_timestamps": "12:00\u201312:34 + 12:44\u201313:37",
           "body_duration_seconds": 87.1,
           "branded_duration_seconds": 93.9,
           "music": "\u201cResolutions\u201d \u2014 Scott Buckley (scottbuckley.com.au), CC BY 4.0",
-          "summary": "Jesus: a kingdom or house divided against itself will not stand. Husband and wife must stand together in the same truth and show their children Jesus \u2014 or the home won\u2019t stand."
+          "summary": "Jesus: a kingdom or house divided against itself will not stand. Husband and wife must stand together in the same truth and show their children Jesus \u2014 or the home won\u2019t stand.",
+          "approved_date": "2026-09-25",
+          "planned_release": "2026-09-26 4:30 PM PT",
+          "site_page": "https://growthonthevine.com/clips/can-a-divided-home-stand/"
         },
         {
           "slug": "is-christ-divided",
@@ -255,13 +264,16 @@
           ],
           "youtube_id": null,
           "style": "illustrated",
-          "status": "preview",
+          "status": "approved",
           "scripture": "1 Corinthians 1:12\u201313",
           "sermon_timestamps": "15:39\u201316:05 + 16:16\u201316:30 + 16:52\u201317:12 + 17:23\u201317:46",
           "body_duration_seconds": 83.2,
           "branded_duration_seconds": 90.0,
           "music": "\u201cTouching Moments Two - Higher\u201d \u2014 Kevin MacLeod (incompetech.com), CC BY 4.0",
-          "summary": "\u201cI am of Paul\u2026 Apollos\u2026 Peter\u2026 Christ.\u201d Only the Christ group is right. Was Paul crucified for you? No pope, priest, denomination or famous minister saves \u2014 it is Christ and the Scriptures."
+          "summary": "\u201cI am of Paul\u2026 Apollos\u2026 Peter\u2026 Christ.\u201d Only the Christ group is right. Was Paul crucified for you? No pope, priest, denomination or famous minister saves \u2014 it is Christ and the Scriptures.",
+          "approved_date": "2026-09-25",
+          "planned_release": "2026-09-26 8:30 PM PT",
+          "site_page": "https://growthonthevine.com/clips/is-christ-divided/"
         }
       ],
       "unused_candidates": [
@@ -322,7 +334,7 @@
           "notes": "Ends at the sermon end (applause/music)."
         }
       ],
-      "notes": "Illustrated Shorts previewed at /previews/division-part-1/ (2026-09-25). Not posted to YouTube. GenerateImage unavailable to subagent \u2014 used public-domain Bible art + Commons/Openverse CC photos (see sermons/division-part-1/_stock/ATTRIBUTION.md). BGM: Wholesome (new), Dreamer, Resolutions, Touching Moments Two - Higher."
+      "notes": "Illustrated Shorts previewed at /previews/division-part-1/ (2026-09-25). Not posted to YouTube. GenerateImage unavailable to subagent \u2014 used public-domain Bible art + Commons/Openverse CC photos (see sermons/division-part-1/_stock/ATTRIBUTION.md). BGM: Wholesome (new), Dreamer, Resolutions, Touching Moments Two - Higher. 2026-09-25: Michael approved all four with default titles; clip pages published on the site; YouTube scheduling for 2026-09-26 (8:30 AM / 12:30 PM / 4:30 PM / 8:30 PM PT) pending upload."
     },
     {
       "order": 3,

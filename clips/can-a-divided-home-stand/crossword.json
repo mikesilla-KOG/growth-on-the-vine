@@ -1,0 +1,39 @@
+{
+  "title": "Can a divided home still stand?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "divided",
+      "answer": "DIVIDED",
+      "clue": "A house ___ against itself",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "stand",
+      "answer": "STAND",
+      "clue": "What a divided house shall not do",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "home",
+      "answer": "HOME",
+      "clue": "Where husband and wife stand together",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "truth",
+      "answer": "TRUTH",
+      "clue": "What a couple should share",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Should church be as consistent as a Big Mac?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "same",
+      "answer": "SAME",
+      "clue": "Paul: speak the ___ thing",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "unity",
+      "answer": "UNITY",
+      "clue": "The opposite of division",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "ghost",
+      "answer": "GHOST",
+      "clue": "The Holy ___ should be preached the same",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "salvation",
+      "answer": "SALVATION",
+      "clue": "Should be preached the same in every church",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}
