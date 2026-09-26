@@ -40,15 +40,15 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 - Upload: `2014-06-18` · Duration: 22:44
 - Work folder: `sermons/division-part-1/`
 - URL: https://www.youtube.com/watch?v=34dKzwX6zgQ
-- Preview: https://growthonthevine.com/previews/division-part-1/
+- Preview: https://growonthevine.com/previews/division-part-1/
 - Shorts (illustrated · four **scheduled** 2026-09-25, clip pages live on the site):
 
 | Slug | Default title | Scripture | Timestamps | Length | Music | Style | Status |
 |------|---------------|-----------|------------|--------|-------|-------|--------|
-| `is-church-boring` | Is church really boring? | Psalm 122:1 | 3:42–5:08 | 93s | “Wholesome” | illustrated | **scheduled** ([oT9Rpbu6rG0](https://youtube.com/shorts/oT9Rpbu6rG0)) · scheduled_at `2026-09-26T08:30:00-07:00` · planned 2026-09-26 8:30 AM PT · [site](https://growthonthevine.com/clips/is-church-boring/) |
-| `same-as-a-big-mac` | Should church be as consistent as a Big Mac? | 1 Corinthians 1:10 | 9:19–9:59 + 10:38–11:03 | 71s | “Dreamer” | illustrated | **scheduled** ([8w9OIcXF2C4](https://youtube.com/shorts/8w9OIcXF2C4)) · scheduled_at `2026-09-26T12:30:00-07:00` · planned 2026-09-26 12:30 PM PT · [site](https://growthonthevine.com/clips/same-as-a-big-mac/) |
-| `can-a-divided-home-stand` | Can a divided home still stand? | Matthew 12:25 | 12:00–12:34 + 12:44–13:37 | 94s | “Resolutions” | illustrated | **scheduled** ([N5m0voP2HTU](https://youtube.com/shorts/N5m0voP2HTU)) · scheduled_at `2026-09-26T16:30:00-07:00` · planned 2026-09-26 4:30 PM PT · [site](https://growthonthevine.com/clips/can-a-divided-home-stand/) |
-| `is-christ-divided` | Who was really crucified for you? | 1 Corinthians 1:12–13 | 15:39–16:05 + 16:16–16:30 + 16:52–17:12 + 17:23–17:46 | 90s | “Touching Moments Two - Higher” | illustrated | **scheduled** ([GRBza45LXiY](https://youtube.com/shorts/GRBza45LXiY)) · scheduled_at `2026-09-26T20:30:00-07:00` · planned 2026-09-26 8:30 PM PT · [site](https://growthonthevine.com/clips/is-christ-divided/) |
+| `is-church-boring` | Is church really boring? | Psalm 122:1 | 3:42–5:08 | 93s | “Wholesome” | illustrated | **scheduled** ([oT9Rpbu6rG0](https://youtube.com/shorts/oT9Rpbu6rG0)) · scheduled_at `2026-09-26T08:30:00-07:00` · planned 2026-09-26 8:30 AM PT · [site](https://growonthevine.com/clips/is-church-boring/) |
+| `same-as-a-big-mac` | Should church be as consistent as a Big Mac? | 1 Corinthians 1:10 | 9:19–9:59 + 10:38–11:03 | 71s | “Dreamer” | illustrated | **scheduled** ([8w9OIcXF2C4](https://youtube.com/shorts/8w9OIcXF2C4)) · scheduled_at `2026-09-26T12:30:00-07:00` · planned 2026-09-26 12:30 PM PT · [site](https://growonthevine.com/clips/same-as-a-big-mac/) |
+| `can-a-divided-home-stand` | Can a divided home still stand? | Matthew 12:25 | 12:00–12:34 + 12:44–13:37 | 94s | “Resolutions” | illustrated | **scheduled** ([N5m0voP2HTU](https://youtube.com/shorts/N5m0voP2HTU)) · scheduled_at `2026-09-26T16:30:00-07:00` · planned 2026-09-26 4:30 PM PT · [site](https://growonthevine.com/clips/can-a-divided-home-stand/) |
+| `is-christ-divided` | Who was really crucified for you? | 1 Corinthians 1:12–13 | 15:39–16:05 + 16:16–16:30 + 16:52–17:12 + 17:23–17:46 | 90s | “Touching Moments Two - Higher” | illustrated | **scheduled** ([GRBza45LXiY](https://youtube.com/shorts/GRBza45LXiY)) · scheduled_at `2026-09-26T20:30:00-07:00` · planned 2026-09-26 8:30 PM PT · [site](https://growonthevine.com/clips/is-christ-divided/) |
 
 **Unused candidates:**
 
@@ -68,7 +68,7 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 - Upload: `2014-06-18` · Duration: 32:52
 - Work folder: `sermons/saving-a-nation/`
 - URL: https://www.youtube.com/watch?v=1FewcFhtiz8
-- Preview: https://growthonthevine.com/previews/saving-a-nation/
+- Preview: https://growonthevine.com/previews/saving-a-nation/
 - Shorts (illustrated · four **published**):
 
 | Slug | Default title | Scripture | Timestamps | Style | Status |

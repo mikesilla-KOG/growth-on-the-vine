@@ -50,22 +50,22 @@ Status:
 gh api repos/mikesilla-KOG/growth-on-the-vine/pages
 ```
 
-## Custom domain later (growthonthevine.com)
+## Custom domain later (growonthevine.com)
 
 Do **not** buy or attach the domain until you are ready. When you are:
 
 1. In the repo, add a file named `CNAME` at the **site root** (same level as `index.html`) with one line:
 
    ```
-   growthonthevine.com
+   growonthevine.com
    ```
 
-2. In GitHub → Settings → Pages → Custom domain, enter `growthonthevine.com` (and optionally `www.growthonthevine.com`).
+2. In GitHub → Settings → Pages → Custom domain, enter `growonthevine.com` (and optionally `www.growonthevine.com`).
 3. At your DNS provider, add records GitHub documents (typically):
    - **A** records for apex → GitHub Pages IPs, **or**
    - **CNAME** for `www` → `mikesilla-kog.github.io`
 4. Wait for DNS + GitHub HTTPS certificate provisioning.
-5. Update absolute URLs in `sitemap.xml`, `robots.txt`, and Open Graph / JSON-LD / canonical tags to `https://growthonthevine.com/...`.
+5. Update absolute URLs in `sitemap.xml`, `robots.txt`, and Open Graph / JSON-LD / canonical tags to `https://growonthevine.com/...`.
 
 Until then, keep using the `*.github.io` URLs.
 
