@@ -1,5 +1,5 @@
 /**
- * Growth on the Vine — client-side clip keyword search
+ * Grow on the Vine — client-side clip keyword search
  * Loads assets/data/clips.json, scores title / takeaway / scripture / tags / keywords.
  * Mount: #search-form, #search-input, #search-results, #search-status
  * Optional: script[data-clips] and script[data-root] for path overrides.

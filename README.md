@@ -1,6 +1,6 @@
-# Growth on the Vine — website
+# Grow on the Vine — website
 
-Static pilot site for [Growth on the Vine](https://mikesilla-kog.github.io/growth-on-the-vine/).
+Static pilot site for [Grow on the Vine](https://mikesilla-kog.github.io/growth-on-the-vine/).
 
 Cream / forest-green branding, first clip: **Noise Without Love** (1 Corinthians 13:1).
 

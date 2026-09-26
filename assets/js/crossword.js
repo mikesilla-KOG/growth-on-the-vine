@@ -1,5 +1,5 @@
 /**
- * Growth on the Vine — reusable crossword engine
+ * Grow on the Vine — reusable crossword engine
  * Each clip page supplies its own crossword.json (same folder as the clip).
  * Pattern: clips/<slug>/crossword.json + mountCrossword(container, jsonUrl)
  */

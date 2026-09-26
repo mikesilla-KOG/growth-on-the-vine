@@ -1,4 +1,4 @@
-# Growth on the Vine — Sermon Tracker
+# Grow on the Vine — Sermon Tracker
 
 Channel: [@vinecluster3113](https://www.youtube.com/@vinecluster3113) (`UC69eXjjXFbD2JV4Lwj7ImJg`) — Pastor David G. Kincer
 
