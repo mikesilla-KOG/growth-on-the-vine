@@ -54,7 +54,7 @@
     "order": 44,
     "note": "Done out of chronological order as the pilot; that is fine \u2014 record truthfully and continue from Next up."
   },
-  "updated_at": "2026-09-25 17:10 PT",
+  "updated_at": "2026-09-25 17:28 PT",
   "sermons": [
     {
       "order": 1,
@@ -199,9 +199,9 @@
             "Is it the church\u2019s fault we\u2019re bored?",
             "What if church isn\u2019t boring \u2014 we just stopped getting involved?"
           ],
-          "youtube_id": null,
+          "youtube_id": "oT9Rpbu6rG0",
           "style": "illustrated",
-          "status": "approved",
+          "status": "scheduled",
           "scripture": "Psalm 122:1",
           "sermon_timestamps": "3:42\u20135:08",
           "body_duration_seconds": 86.6,
@@ -210,7 +210,8 @@
           "summary": "Young people say church is boring \u2014 he said it too, as a clock-watching teen who didn\u2019t get involved. David was glad to go to the house of the Lord; the church is the people.",
           "approved_date": "2026-09-25",
           "planned_release": "2026-09-26 8:30 AM PT",
-          "site_page": "https://growthonthevine.com/clips/is-church-boring/"
+          "site_page": "https://growthonthevine.com/clips/is-church-boring/",
+          "scheduled_at": "2026-09-26T08:30:00-07:00"
         },
         {
           "slug": "same-as-a-big-mac",
@@ -220,9 +221,9 @@
             "What if every church spoke the same thing?",
             "Why is a Big Mac the same everywhere \u2014 but church isn\u2019t?"
           ],
-          "youtube_id": null,
+          "youtube_id": "8w9OIcXF2C4",
           "style": "illustrated",
-          "status": "approved",
+          "status": "scheduled",
           "scripture": "1 Corinthians 1:10",
           "sermon_timestamps": "9:19\u20139:59 + 10:38\u201311:03",
           "body_duration_seconds": 64.4,
@@ -231,7 +232,8 @@
           "summary": "A Big Mac is identical in Brazil, Korea, China and every state. Paul says \u201cspeak the same thing\u201d \u2014 the Holy Ghost, salvation and holy living should be preached the same in every church.",
           "approved_date": "2026-09-25",
           "planned_release": "2026-09-26 12:30 PM PT",
-          "site_page": "https://growthonthevine.com/clips/same-as-a-big-mac/"
+          "site_page": "https://growthonthevine.com/clips/same-as-a-big-mac/",
+          "scheduled_at": "2026-09-26T12:30:00-07:00"
         },
         {
           "slug": "can-a-divided-home-stand",
@@ -241,9 +243,9 @@
             "Why do husband and wife need the same truth?",
             "What happens when a family is divided?"
           ],
-          "youtube_id": null,
+          "youtube_id": "N5m0voP2HTU",
           "style": "illustrated",
-          "status": "approved",
+          "status": "scheduled",
           "scripture": "Matthew 12:25",
           "sermon_timestamps": "12:00\u201312:34 + 12:44\u201313:37",
           "body_duration_seconds": 87.1,
@@ -252,7 +254,8 @@
           "summary": "Jesus: a kingdom or house divided against itself will not stand. Husband and wife must stand together in the same truth and show their children Jesus \u2014 or the home won\u2019t stand.",
           "approved_date": "2026-09-25",
           "planned_release": "2026-09-26 4:30 PM PT",
-          "site_page": "https://growthonthevine.com/clips/can-a-divided-home-stand/"
+          "site_page": "https://growthonthevine.com/clips/can-a-divided-home-stand/",
+          "scheduled_at": "2026-09-26T16:30:00-07:00"
         },
         {
           "slug": "is-christ-divided",
@@ -262,9 +265,9 @@
             "Is Christ divided?",
             "Which church group is the right one?"
           ],
-          "youtube_id": null,
+          "youtube_id": "GRBza45LXiY",
           "style": "illustrated",
-          "status": "approved",
+          "status": "scheduled",
           "scripture": "1 Corinthians 1:12\u201313",
           "sermon_timestamps": "15:39\u201316:05 + 16:16\u201316:30 + 16:52\u201317:12 + 17:23\u201317:46",
           "body_duration_seconds": 83.2,
@@ -273,7 +276,8 @@
           "summary": "\u201cI am of Paul\u2026 Apollos\u2026 Peter\u2026 Christ.\u201d Only the Christ group is right. Was Paul crucified for you? No pope, priest, denomination or famous minister saves \u2014 it is Christ and the Scriptures.",
           "approved_date": "2026-09-25",
           "planned_release": "2026-09-26 8:30 PM PT",
-          "site_page": "https://growthonthevine.com/clips/is-christ-divided/"
+          "site_page": "https://growthonthevine.com/clips/is-christ-divided/",
+          "scheduled_at": "2026-09-26T20:30:00-07:00"
         }
       ],
       "unused_candidates": [
