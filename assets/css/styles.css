@@ -945,3 +945,10 @@ main { flex: 1; width: 100%; }
 .nav a[aria-current="page"] {
   background: var(--cream-deep);
 }
+.site-footer .footer-scripture-notice {
+  max-width: var(--wide);
+  margin: 1rem auto 0;
+  font-size: 0.8rem;
+  opacity: 0.85;
+  text-align: center;
+}
