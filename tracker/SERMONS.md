@@ -2,7 +2,7 @@
 
 Channel: [@vinecluster3113](https://www.youtube.com/@vinecluster3113) (`UC69eXjjXFbD2JV4Lwj7ImJg`) — Pastor David G. Kincer
 
-**Updated:** 2026-09-25 5:28 PM PT
+**Updated:** 2026-09-27 7:56 AM PT
 
 ## Workflow rule
 
@@ -22,17 +22,46 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 |--------|-------|
 | Total videos | 732 |
 | Upload date range | 2014-06-18 → 2026-07-18 |
-| not_started | 728 |
-| in_progress | 1 |
+| not_started | 727 |
+| in_progress | 2 |
 | done | 2 |
 | skipped | 1 |
 
 ## Next up
 
-**#2 — Division Part 1** (`34dKzwX6zgQ`) is **in_progress** (see below). When finished, next is **#3 — The Role of the Church** (`4EM8Til1fM0`).
+**#3 — The Role of the Church** (`4EM8Til1fM0`) is **in_progress** (started 2026-09-27, see below). **#2 — Division Part 1** also stays **in_progress** (its four Shorts are scheduled for 2026-09-26). After #3, next is **#4 — Division Part 2** (`6NKKxhLki6o`).
 
 
 ## In progress
+
+### #3 — The Role of the Church (`4EM8Til1fM0`)
+
+- Status: **in_progress** (started 2026-09-27)
+- Upload: `2014-06-18` · Sermon: `2013-10-13` · Duration: 46:44
+- Speaker: Vine Cluster preacher (not Pastor Kincer; unnamed in the video)
+- Work folder: `sermons/the-role-of-the-church/`
+- URL: https://www.youtube.com/watch?v=4EM8Til1fM0
+- Preview: https://growonthevine.com/previews/the-role-of-the-church/
+- Shorts (illustrated · four **preview**, not posted):
+
+| Slug | Default title | Scripture | Timestamps | Length | Music | Style | Status |
+|------|---------------|-----------|------------|--------|-------|-------|--------|
+| `what-is-the-church-for` | What is the church really for? | Matthew 4:4 | 6:34–6:58 + 15:16–15:49 | 48s | “Faith In Tomorrow” | illustrated | preview |
+| `never-thirst` | What if your soul is thirsty? | John 6:35 | 16:24–17:12 | 54s | “Clean Soul” | illustrated | preview |
+| `set-the-captives-free` | Can anyone really set you free? | Luke 4:18 | 32:07–32:40 + 33:15–33:36 | 51s | “Inspired” | illustrated | preview |
+| `skeptic-opens-the-bible` | What happened when a skeptic read the Bible? | 2 Timothy 3:16 | 40:43–41:20 + 43:42–43:57 + 44:38–45:19 | 50s | “Canon in D Major” | illustrated | preview |
+
+**Unused candidates:**
+
+- **Can you love Jesus but not His church?** (`cant-separate-jesus-and-the-church`): Acts 9:4; (Ephesians 5:31–32) · ~10:23–11:19 — Strong; ~55s.
+- **What should people see when they walk into church?** (`they-should-see-the-vine`): John 15:5 · ~18:40–19:17 — Brand fit (Vine).
+- **Why does a simple hello matter so much?** (`extend-your-hand`): Proverbs 31:20 · ~22:52–23:49
+- **What does it mean to be clothed in scarlet?** (`clothed-in-scarlet`): Proverbs 31:21; Revelation 1:5 · ~24:25–27:40 — Pick the 26:32–27:40 part (naked on the cross).
+- **Do people feel welcome when they walk in?** (`accepted-in-the-beloved`): Ephesians 1:6 · ~36:36–37:41
+- **Can the blood of Jesus really change who you are?** (`the-blood-changes-you`): (1 Peter 1:18–19) · ~38:11–38:40 — Short on its own (~30s).
+- **Why would someone rather not have a God?** (`rather-not-have-a-god`): (Psalm 139:1–4) · ~43:57–44:32 — Continues skeptic-opens-the-bible.
+- **Did God have a plan from the very beginning?** (`planned-from-the-beginning`): Matthew 25:34 · ~02:29–03:26
+- **Are you a sheep or a goat?** (`sheep-or-goat`): Matthew 25:31–34 · ~01:17–02:29 — Heavier/fear-leaning; needs soft framing.
 
 ### #2 — Division Part 1 (`34dKzwX6zgQ`)
 
@@ -115,7 +144,7 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 |---|--------|--------|----------|--------|-------|----------|
 | 1 | 2014-06-18 | — | 32:52 | **done** | [Saving a Nation](https://www.youtube.com/watch?v=1FewcFhtiz8) | `1FewcFhtiz8` |
 | 2 | 2014-06-18 | — | 22:44 | **in_progress** | [Division Part 1](https://www.youtube.com/watch?v=34dKzwX6zgQ) | `34dKzwX6zgQ` |
-| 3 | 2014-06-18 | 2013-10-13 | 46:44 | not_started | [The Role of the Church](https://www.youtube.com/watch?v=4EM8Til1fM0) | `4EM8Til1fM0` |
+| 3 | 2014-06-18 | 2013-10-13 | 46:44 | **in_progress** | [The Role of the Church](https://www.youtube.com/watch?v=4EM8Til1fM0) | `4EM8Til1fM0` |
 | 4 | 2014-06-18 | — | 22:49 | not_started | [Division Part 2](https://www.youtube.com/watch?v=6NKKxhLki6o) | `6NKKxhLki6o` |
 | 5 | 2014-06-18 | — | 22:39 | not_started | [2012 Best Church Service one 0401](https://www.youtube.com/watch?v=6arMfL_YD0M) | `6arMfL_YD0M` |
 | 6 | 2014-06-18 | — | 33:57 | not_started | [To Cover or Not to Cover Part 1](https://www.youtube.com/watch?v=75xNMCiRsD8) | `75xNMCiRsD8` |
