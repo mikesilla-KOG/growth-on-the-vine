@@ -2,7 +2,7 @@
 
 Channel: [@vinecluster3113](https://www.youtube.com/@vinecluster3113) (`UC69eXjjXFbD2JV4Lwj7ImJg`) — Pastor David G. Kincer
 
-**Updated:** 2026-09-27 7:56 AM PT
+**Updated:** 2026-09-28 11:13 PM PT
 
 ## Workflow rule
 
@@ -22,21 +22,102 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 |--------|-------|
 | Total videos | 732 |
 | Upload date range | 2014-06-18 → 2026-07-18 |
-| not_started | 727 |
-| in_progress | 2 |
+| not_started | 724 |
+| in_progress | 4 |
 | done | 2 |
+| parked | 1 |
 | skipped | 1 |
 
 ## Next up
 
-**#3 — The Role of the Church** (`4EM8Til1fM0`) is **in_progress** (started 2026-09-27, see below). **#2 — Division Part 1** also stays **in_progress** (its four Shorts are scheduled for 2026-09-26). After #3, next is **#4 — Division Part 2** (`6NKKxhLki6o`).
+**Division series** (one series: #2 Division Part 1 · #4 Division Part 2 · #54 Division Concluded Part 1 · #45 Division Concluded Part 2) is **in_progress**. Part 2 and both Concluded parts started 2026-09-28 with 4 preview Shorts each at https://growonthevine.com/previews/division-series/. **#3 — The Role of the Church** is **parked** (Michael parked its 4 Shorts on 2026-09-28; data kept). After the series: **#5 — 2012 Best Church Service one 0401** (`6arMfL_YD0M`).
 
 
 ## In progress
 
+### #45 — Division Concluded Part 2 (`n_VSSQI9h3c`)
+
+- Status: **in_progress** (started 2026-09-28) · Series: **Division** (with #2 Division Part 1, #4 Division Part 2, #54 Division Concluded Part 1, #45 Division Concluded Part 2)
+- Upload: `2014-06-18` · Duration: 22:05
+- Speaker: Pastor David G. Kincer (named on the opening title card)
+- Work folder: `sermons/division-concluded-part-2/`
+- URL: https://www.youtube.com/watch?v=n_VSSQI9h3c
+- Preview: https://growonthevine.com/previews/division-series/#division-concluded-part-2
+- Shorts (illustrated · 4 **preview**, not posted):
+
+| Slug | Default title | Scripture | Timestamps | Length | Music | Style | Status |
+|------|---------------|-----------|------------|--------|-------|-------|--------|
+| `can-you-pick-and-choose` | Can you pick and choose with God? | 2 Timothy 2:3 | 3:30–3:34 + 3:38–3:45 + 3:48–4:08 + 4:28–4:34 + 4:38–4:58 | 55s | “Sapphire Isle” | illustrated | preview |
+| `is-jesus-the-only-way` | Is Jesus really the only way? | John 14:6 | 8:05–8:22 + 8:30–9:02 | 53s | “Clear Air” | illustrated | preview |
+| `what-does-living-your-faith-look-like` | What does living your faith look like? | Matthew 5:16 | 9:36–10:09 + 10:18–10:28 + 10:36–10:43 | 45s | “Windswept” | illustrated | preview |
+| `does-it-matter-if-you-show-up` | Does it matter if you show up? | Hebrews 10:25 | 17:41–18:14 + 18:20–18:36 | 47s | “Fresh Air” | illustrated | preview |
+
+**Unused candidates:**
+
+- **Was Jesus just a nice man?** (`was-jesus-just-a-nice-man`): (Hebrews 4:15; John 10:18) · ~12:46–13:37 — Strong for unbelievers: “He had no sin… He is God.”
+- **Is faith just words?** (`not-in-word-but-power`): 1 Corinthians 4:20 · ~06:33–08:05 — Name-drops Wesley, Calvin, Billy Graham.
+- **What can the church learn from the Marines?** (`no-one-left-behind`): (Galatians 6:2) · ~00:52–02:36 — Marine code of conduct; pairs with can-you-pick-and-choose.
+- **How can you tell a real believer?** (`by-their-fruits`): Matthew 7:20 · ~15:16–16:21 — Checklist of questions.
+- **Are you a minister without knowing it?** (`kingdom-of-priests`): 1 Peter 2:9 · ~16:43–17:29
+- **What does growing up in faith look like?** (`clean-up-the-room`): (1 Corinthians 13:11) · ~18:51–19:43 — Youth / clean-up example; local.
+- **Does the way you’re baptized matter?** (`baptism-method`): Romans 6:4 · ~12:09–12:38 — Doctrinally touchy; avoid.
+
+### #54 — Division Concluded Part 1 (`w1apdlEqqmE`)
+
+- Status: **in_progress** (started 2026-09-28) · Series: **Division** (with #2 Division Part 1, #4 Division Part 2, #54 Division Concluded Part 1, #45 Division Concluded Part 2)
+- Upload: `2014-06-18` · Duration: 22:50
+- Speaker: Pastor David G. Kincer (named on the opening title card)
+- Work folder: `sermons/division-concluded-part-1/`
+- URL: https://www.youtube.com/watch?v=w1apdlEqqmE
+- Preview: https://growonthevine.com/previews/division-series/#division-concluded-part-1
+- Shorts (illustrated · 4 **preview**, not posted):
+
+| Slug | Default title | Scripture | Timestamps | Length | Music | Style | Status |
+|------|---------------|-----------|------------|--------|-------|-------|--------|
+| `is-following-jesus-foolish` | Is following Jesus foolish? | 1 Corinthians 4:10 | 4:47–5:07 + 5:13–5:31 + 5:47–5:57 | 50s | “Enchanted Journey” | illustrated | preview |
+| `how-should-you-answer-an-insult` | How should you answer an insult? | 1 Corinthians 4:12 | 10:17–10:21 + 10:48–10:59 + 11:07–11:41 | 47s | “Stoic Morning” | illustrated | preview |
+| `what-makes-a-real-father` | What makes a real father? | 1 Corinthians 4:15 | 15:01–15:09 + 15:28–15:42 + 16:00–16:33 | 52s | “Jesu, Joy of Man's Desiring” | illustrated | preview |
+| `is-god-still-shaping-you` | Is God still shaping you? | Galatians 4:19 | 21:01–21:12 + 21:18–21:32 + 22:00–22:10 + 22:25–22:36 | 49s | “Vision of Persistence” | illustrated | preview |
+
+**Unused candidates:**
+
+- **Who is the greatest in God’s kingdom?** (`greatest-is-servant`): Mark 9:35 · ~03:32–04:11 — Short; would pair with the apostles-last lines.
+- **What did Paul really go through?** (`pauls-sufferings`): 2 Corinthians 11:23–28 · ~06:44–07:50 — Mostly Scripture read aloud; good art (shipwreck, prison).
+- **Is a new car a sign of a successful church?** (`new-car-success`): 1 Corinthians 4:11–12 · ~08:55–09:44 — Critiques TV preachers; soft framing needed.
+- **What if you answered your critics with “come along”?** (`come-along-work-together`): 1 Corinthians 4:13 · ~12:26–13:30 — Continues how-should-you-answer-an-insult (defamation story).
+- **Do you want a church that flatters you?** (`cant-flatter-my-kids`): 1 Corinthians 4:14 · ~16:42–17:33 — Continues what-makes-a-real-father.
+- **Who are you following?** (`follow-me-as-i-follow-christ`): 1 Corinthians 11:1 · ~20:04–20:51 — Overlaps Division Part 1’s follow-Jesus theme.
+- **Are we killing young faith?** (`churches-aborting-christians`): — · ~18:28–19:34 — Abortion analogy — sensitive; avoid.
+
+### #4 — Division Part 2 (`6NKKxhLki6o`)
+
+- Status: **in_progress** (started 2026-09-28) · Series: **Division** (with #2 Division Part 1, #4 Division Part 2, #54 Division Concluded Part 1, #45 Division Concluded Part 2)
+- Upload: `2014-06-18` · Duration: 22:49
+- Speaker: Pastor David G. Kincer (named on the opening title card)
+- Work folder: `sermons/division-part-2/`
+- URL: https://www.youtube.com/watch?v=6NKKxhLki6o
+- Preview: https://growonthevine.com/previews/division-series/#division-part-2
+- Shorts (illustrated · 4 **preview**, not posted):
+
+| Slug | Default title | Scripture | Timestamps | Length | Music | Style | Status |
+|------|---------------|-----------|------------|--------|-------|-------|--------|
+| `does-god-have-grandchildren` | Does God have grandchildren? | John 3:3 | 13:19–13:35 + 15:02–15:41 | 48s | “Simple Duet” | illustrated | preview |
+| `is-god-only-for-emergencies` | Is God only for emergencies? | Matthew 6:11 | 16:04–16:40 + 17:15–17:40 | 51s | “Meditation Impromptu 01” | illustrated | preview |
+| `can-god-change-a-person` | Can God really change a person? | 2 Corinthians 5:17 | 5:25–5:45 + 6:01–6:25 | 46s | “Morning” | illustrated | preview |
+| `how-do-you-spell-love` | How do you spell love? | James 4:8 | 21:18–22:02 + 22:12–22:15 + 22:20–22:24 | 46s | “Crinoline Dreams” | illustrated | preview |
+
+**Unused candidates:**
+
+- **Can you find Jesus even in a “lousy” church?** (`find-jesus-in-a-lousy-church`): Jeremiah 29:13 · ~02:13–02:43 — Short (~30s); he says “you can go to a lousy church and look for Jesus and find Him.”
+- **Is there any sin the cross can’t forgive?** (`no-sin-the-cross-cant-forgive`): 1 John 1:9 · ~14:20–14:41 — Strong for unbelievers; ~25s, would need the lead-in.
+- **Why wasn’t he afraid to die?** (`why-arent-you-afraid-to-die`): Philippians 1:21 · ~17:41–18:27 — Continues is-god-only-for-emergencies (hospital); “no magical formula for healing.”
+- **Do you expect God to show up?** (`summon-him`): Hebrews 10:25; James 4:8 · ~18:38–20:34 — Long; “summoning” court-paper image; would need tight cuts.
+- **Does God need polished speakers?** (`power-not-polish`): 1 Corinthians 2:4–5 · ~03:07–04:37 — Toastmasters / Apollos illustration.
+- **What is the Holy Spirit’s first name?** (`first-name-holy`): (Galatians 5:16) · ~07:39–08:49 — Memorable, but it criticizes a named-type (a priest who swore and smoked); sensitive.
+
 ### #3 — The Role of the Church (`4EM8Til1fM0`)
 
-- Status: **in_progress** (started 2026-09-27)
+- Status: **parked** 2026-09-28 (Michael parked its 4 preview Shorts; not posted; data kept) · started 2026-09-27
 - Upload: `2014-06-18` · Sermon: `2013-10-13` · Duration: 46:44
 - Speaker: Vine Cluster preacher (not Pastor Kincer; unnamed in the video)
 - Work folder: `sermons/the-role-of-the-church/`
@@ -65,7 +146,7 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 
 ### #2 — Division Part 1 (`34dKzwX6zgQ`)
 
-- Status: **in_progress** (started 2026-09-25)
+- Status: **in_progress** (started 2026-09-25) · Series: **Division** (continues in #4, #54, #45 — see above)
 - Upload: `2014-06-18` · Duration: 22:44
 - Work folder: `sermons/division-part-1/`
 - URL: https://www.youtube.com/watch?v=34dKzwX6zgQ
@@ -144,8 +225,8 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 |---|--------|--------|----------|--------|-------|----------|
 | 1 | 2014-06-18 | — | 32:52 | **done** | [Saving a Nation](https://www.youtube.com/watch?v=1FewcFhtiz8) | `1FewcFhtiz8` |
 | 2 | 2014-06-18 | — | 22:44 | **in_progress** | [Division Part 1](https://www.youtube.com/watch?v=34dKzwX6zgQ) | `34dKzwX6zgQ` |
-| 3 | 2014-06-18 | 2013-10-13 | 46:44 | **in_progress** | [The Role of the Church](https://www.youtube.com/watch?v=4EM8Til1fM0) | `4EM8Til1fM0` |
-| 4 | 2014-06-18 | — | 22:49 | not_started | [Division Part 2](https://www.youtube.com/watch?v=6NKKxhLki6o) | `6NKKxhLki6o` |
+| 3 | 2014-06-18 | 2013-10-13 | 46:44 | **parked** | [The Role of the Church](https://www.youtube.com/watch?v=4EM8Til1fM0) | `4EM8Til1fM0` |
+| 4 | 2014-06-18 | — | 22:49 | **in_progress** | [Division Part 2](https://www.youtube.com/watch?v=6NKKxhLki6o) | `6NKKxhLki6o` |
 | 5 | 2014-06-18 | — | 22:39 | not_started | [2012 Best Church Service one 0401](https://www.youtube.com/watch?v=6arMfL_YD0M) | `6arMfL_YD0M` |
 | 6 | 2014-06-18 | — | 33:57 | not_started | [To Cover or Not to Cover Part 1](https://www.youtube.com/watch?v=75xNMCiRsD8) | `75xNMCiRsD8` |
 | 7 | 2014-06-18 | 2012-05-06 | 30:58 | not_started | [Resurrection Part 1](https://www.youtube.com/watch?v=BV5gwxjnniI) | `BV5gwxjnniI` |
@@ -186,7 +267,7 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 | 42 | 2014-06-18 | — | 20:37 | not_started | [2012 Belivers Displeasing God one 0226](https://www.youtube.com/watch?v=lx3GClC_lVM) | `lx3GClC_lVM` |
 | 43 | 2014-06-18 | — | 23:40 | not_started | [Many Adversaries Part 1](https://www.youtube.com/watch?v=mPNta6EVUsU) | `mPNta6EVUsU` |
 | 44 | 2014-06-18 | 2012-03-25 | 29:19 | done | [A More Excellent Way](https://www.youtube.com/watch?v=nD9oDfikXQ0) | `nD9oDfikXQ0` |
-| 45 | 2014-06-18 | — | 22:05 | not_started | [Division Concluded Part 2](https://www.youtube.com/watch?v=n_VSSQI9h3c) | `n_VSSQI9h3c` |
+| 45 | 2014-06-18 | — | 22:05 | **in_progress** | [Division Concluded Part 2](https://www.youtube.com/watch?v=n_VSSQI9h3c) | `n_VSSQI9h3c` |
 | 46 | 2014-06-18 | — | 27:45 | not_started | [Three Revelations Part 1](https://www.youtube.com/watch?v=nkb6TMy79eY) | `nkb6TMy79eY` |
 | 47 | 2014-06-18 | — | 23:47 | not_started | [Many Adversaries Part 2](https://www.youtube.com/watch?v=noHm8AYgM5s) | `noHm8AYgM5s` |
 | 48 | 2014-06-18 | 2011-05-29 | 31:13 | not_started | [The War of The Word Part 1](https://www.youtube.com/watch?v=obr6-v4hvcY) | `obr6-v4hvcY` |
@@ -195,7 +276,7 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 | 51 | 2014-06-18 | — | 41:04 | not_started | [False Shepherds Run](https://www.youtube.com/watch?v=uS53qkykYLo) | `uS53qkykYLo` |
 | 52 | 2014-06-18 | 2013-04-21 | 34:18 | not_started | [Sodom's Judgment](https://www.youtube.com/watch?v=vICVl53v--Q) | `vICVl53v--Q` |
 | 53 | 2014-06-18 | — | 39:48 | not_started | [How do We Know that We Know God?](https://www.youtube.com/watch?v=vs8aDiDSxj8) | `vs8aDiDSxj8` |
-| 54 | 2014-06-18 | — | 22:50 | not_started | [Division Concluded Part 1](https://www.youtube.com/watch?v=w1apdlEqqmE) | `w1apdlEqqmE` |
+| 54 | 2014-06-18 | — | 22:50 | **in_progress** | [Division Concluded Part 1](https://www.youtube.com/watch?v=w1apdlEqqmE) | `w1apdlEqqmE` |
 | 55 | 2014-06-18 | — | 26:15 | not_started | [Fair or Not Fair](https://www.youtube.com/watch?v=w90qwVoFvVw) | `w90qwVoFvVw` |
 | 56 | 2014-06-18 | — | 32:07 | not_started | [God is the Judge Part 2](https://www.youtube.com/watch?v=wjKpT9bz2cA) | `wjKpT9bz2cA` |
 | 57 | 2014-06-18 | 2011-05-08 | 23:14 | not_started | [Two Mothers of Revelation Part 2](https://www.youtube.com/watch?v=wybYmJA2EMI) | `wybYmJA2EMI` |

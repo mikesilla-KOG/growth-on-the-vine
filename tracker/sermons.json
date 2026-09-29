@@ -35,27 +35,26 @@
     "same_day_bulk_upload_note": "57 videos share upload_date 2014-06-18 (channel bulk upload). Within a day, order is by video_id ASCII."
   },
   "counts": {
-    "not_started": 727,
-    "in_progress": 2,
+    "not_started": 724,
+    "in_progress": 4,
     "done": 2,
-    "skipped": 1
+    "skipped": 1,
+    "parked": 1
   },
   "next_up": {
-    "order": 3,
-    "video_id": "4EM8Til1fM0",
-    "title": "The Role of the Church",
+    "order": 4,
+    "video_id": "6NKKxhLki6o",
+    "title": "Division series (Part 2 + Concluded Parts 1 & 2)",
     "upload_date": "2014-06-18",
-    "sermon_date": "2013-10-13",
-    "url": "https://www.youtube.com/watch?v=4EM8Til1fM0",
-    "duration_display": "46:44",
+    "url": "https://growonthevine.com/previews/division-series/",
     "status": "in_progress",
-    "note": "Started 2026-09-27 at Michael’s request while #2 Division Part 1 stays in_progress (its 4 Shorts scheduled for 2026-09-26). After #3: #4 Division Part 2 (6NKKxhLki6o)."
+    "note": "Started 2026-09-28 at Michael’s request: #4 Division Part 2, #54 Division Concluded Part 1, #45 Division Concluded Part 2, treated as one series with #2 Division Part 1. 12 preview Shorts at /previews/division-series/. #3 The Role of the Church parked 2026-09-28. After the series: #5 2012 Best Church Service one 0401 (6arMfL_YD0M)."
   },
   "a_more_excellent_way": {
     "order": 44,
     "note": "Done out of chronological order as the pilot; that is fine — record truthfully and continue from Next up."
   },
-  "updated_at": "2026-09-27 7:56 AM PT",
+  "updated_at": "2026-09-28T23:13:10-07:00",
   "sermons": [
     {
       "order": 1,
@@ -339,7 +338,24 @@
           "notes": "Ends at the sermon end (applause/music)."
         }
       ],
-      "notes": "Illustrated Shorts previewed at /previews/division-part-1/ (2026-09-25). Not posted to YouTube. GenerateImage unavailable to subagent — used public-domain Bible art + Commons/Openverse CC photos (see sermons/division-part-1/_stock/ATTRIBUTION.md). BGM: Wholesome (new), Dreamer, Resolutions, Touching Moments Two - Higher. 2026-09-25: Michael approved all four with default titles; clip pages published on the site; YouTube scheduling for 2026-09-26 (8:30 AM / 12:30 PM / 4:30 PM / 8:30 PM PT) pending upload."
+      "notes": "Illustrated Shorts previewed at /previews/division-part-1/ (2026-09-25). Not posted to YouTube. GenerateImage unavailable to subagent — used public-domain Bible art + Commons/Openverse CC photos (see sermons/division-part-1/_stock/ATTRIBUTION.md). BGM: Wholesome (new), Dreamer, Resolutions, Touching Moments Two - Higher. 2026-09-25: Michael approved all four with default titles; clip pages published on the site; YouTube scheduling for 2026-09-26 (8:30 AM / 12:30 PM / 4:30 PM / 8:30 PM PT) pending upload.",
+      "series": {
+        "name": "Division",
+        "part_of": "The Corinthians (Pastor David G. Kincer)",
+        "video_ids": [
+          "34dKzwX6zgQ",
+          "6NKKxhLki6o",
+          "w1apdlEqqmE",
+          "n_VSSQI9h3c"
+        ],
+        "parts": [
+          "Division Part 1",
+          "Division Part 2",
+          "Division Concluded Part 1",
+          "Division Concluded Part 2"
+        ],
+        "preview": "https://growonthevine.com/previews/division-series/"
+      }
     },
     {
       "order": 3,
@@ -350,7 +366,7 @@
       "sermon_date": "2013-10-13",
       "duration_seconds": 2804,
       "duration_display": "46:44",
-      "status": "in_progress",
+      "status": "parked",
       "started_date": "2026-09-27",
       "finished_date": null,
       "work_folder": "sermons/the-role-of-the-church/",
@@ -502,7 +518,9 @@
           "notes": "Heavier/fear-leaning; needs soft framing."
         }
       ],
-      "notes": "Illustrated Shorts previewed at /previews/the-role-of-the-church/ (2026-09-27). Not posted to YouTube. Speaker is a Vine Cluster preacher, not Pastor Kincer (refers to 'Mr. Kincer' / 'our pastor'); unnamed, so Shorts do not name him. Public-domain Bible art + Commons/Openverse CC photos (sermons/the-role-of-the-church/_stock/ATTRIBUTION.md). BGM: Faith In Tomorrow, Clean Soul (new), Inspired (new), Canon in D Major (new). Bumpers: open-short-v2.mp4 / close-short-v2.mp4 ('Grow on the Vine')."
+      "notes": "Illustrated Shorts previewed at /previews/the-role-of-the-church/ (2026-09-27). Not posted to YouTube. Speaker is a Vine Cluster preacher, not Pastor Kincer (refers to 'Mr. Kincer' / 'our pastor'); unnamed, so Shorts do not name him. Public-domain Bible art + Commons/Openverse CC photos (sermons/the-role-of-the-church/_stock/ATTRIBUTION.md). BGM: Faith In Tomorrow, Clean Soul (new), Inspired (new), Canon in D Major (new). Bumpers: open-short-v2.mp4 / close-short-v2.mp4 ('Grow on the Vine').",
+      "parked_date": "2026-09-28",
+      "parked_note": "Michael parked its 4 preview Shorts on 2026-09-28 (not posted). Data kept; resume only when Michael asks."
     },
     {
       "order": 4,
@@ -513,13 +531,151 @@
       "sermon_date": null,
       "duration_seconds": 1369,
       "duration_display": "22:49",
-      "status": "not_started",
-      "started_date": null,
+      "status": "in_progress",
+      "started_date": "2026-09-28",
       "finished_date": null,
-      "work_folder": null,
-      "shorts": [],
-      "unused_candidates": [],
-      "notes": ""
+      "work_folder": "sermons/division-part-2/",
+      "shorts": [
+        {
+          "slug": "does-god-have-grandchildren",
+          "title": "Does God have grandchildren?",
+          "title_options": [
+            "Does God have grandchildren?",
+            "Can you inherit your faith?",
+            "Is your parents' faith enough?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "John 3:3",
+          "sermon_timestamps": "13:19–13:35 + 15:02–15:41",
+          "body_duration_seconds": 41.1,
+          "branded_duration_seconds": 47.9,
+          "music": "“Simple Duet” — Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "“My granddad was a Baptist, my dad was a Baptist, I’m a Baptist — don’t bug me.” Pastor Kincer says God has no grandchildren and no stepchildren, only children. Each of us has to be born again and meet Him for ourselves.",
+          "preview": "https://growonthevine.com/previews/division-series/#does-god-have-grandchildren"
+        },
+        {
+          "slug": "is-god-only-for-emergencies",
+          "title": "Is God only for emergencies?",
+          "title_options": [
+            "Is God only for emergencies?",
+            "Do we only call on God in a crisis?",
+            "What if we need God every day?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "Matthew 6:11",
+          "sermon_timestamps": "16:04–16:40 + 17:15–17:40",
+          "body_duration_seconds": 44.2,
+          "branded_duration_seconds": 51.0,
+          "music": "“Meditation Impromptu 01” — Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "After 9/11 the churches filled up, and within 60 days they were empty again. Pastor Kincer remembers lying near death in hospital: he didn’t need a healer, he needed the Healer. We need God every day, not only in a crisis.",
+          "preview": "https://growonthevine.com/previews/division-series/#is-god-only-for-emergencies"
+        },
+        {
+          "slug": "can-god-change-a-person",
+          "title": "Can God really change a person?",
+          "title_options": [
+            "Can God really change a person?",
+            "What happened at the altar?",
+            "Is the power of God real?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "2 Corinthians 5:17",
+          "sermon_timestamps": "5:25–5:45 + 6:01–6:25",
+          "body_duration_seconds": 38.7,
+          "branded_duration_seconds": 45.5,
+          "music": "“Morning” — Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "Pastor Kincer tells how he went to the altar, was baptized, and felt the presence of God. He left church that night in love with everybody. The power of God is real, and it made him a changed person.",
+          "preview": "https://growonthevine.com/previews/division-series/#can-god-change-a-person"
+        },
+        {
+          "slug": "how-do-you-spell-love",
+          "title": "How do you spell love?",
+          "title_options": [
+            "How do you spell love?",
+            "What if love is spelled T-I-M-E?",
+            "Where do we really spend our time?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "James 4:8",
+          "sermon_timestamps": "21:18–22:02 + 22:12–22:15 + 22:20–22:24",
+          "body_duration_seconds": 39.4,
+          "branded_duration_seconds": 46.2,
+          "music": "“Crinoline Dreams” — Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "TV, sports and recreation don’t give us power. Pastor Kincer told his daughter that love isn’t only spelled L-O-V-E, it’s spelled T-I-M-E. If we love our children, or God, we will spend time with them.",
+          "preview": "https://growonthevine.com/previews/division-series/#how-do-you-spell-love"
+        }
+      ],
+      "unused_candidates": [
+        {
+          "slug_candidate": "find-jesus-in-a-lousy-church",
+          "working_title": "Can you find Jesus even in a “lousy” church?",
+          "scripture": "Jeremiah 29:13",
+          "approx_timestamp": "02:13–02:43",
+          "notes": "Short (~30s); he says “you can go to a lousy church and look for Jesus and find Him.”"
+        },
+        {
+          "slug_candidate": "no-sin-the-cross-cant-forgive",
+          "working_title": "Is there any sin the cross can’t forgive?",
+          "scripture": "1 John 1:9",
+          "approx_timestamp": "14:20–14:41",
+          "notes": "Strong for unbelievers; ~25s, would need the lead-in."
+        },
+        {
+          "slug_candidate": "why-arent-you-afraid-to-die",
+          "working_title": "Why wasn’t he afraid to die?",
+          "scripture": "Philippians 1:21",
+          "approx_timestamp": "17:41–18:27",
+          "notes": "Continues is-god-only-for-emergencies (hospital); “no magical formula for healing.”"
+        },
+        {
+          "slug_candidate": "summon-him",
+          "working_title": "Do you expect God to show up?",
+          "scripture": "Hebrews 10:25; James 4:8",
+          "approx_timestamp": "18:38–20:34",
+          "notes": "Long; “summoning” court-paper image; would need tight cuts."
+        },
+        {
+          "slug_candidate": "power-not-polish",
+          "working_title": "Does God need polished speakers?",
+          "scripture": "1 Corinthians 2:4–5",
+          "approx_timestamp": "03:07–04:37",
+          "notes": "Toastmasters / Apollos illustration."
+        },
+        {
+          "slug_candidate": "first-name-holy",
+          "working_title": "What is the Holy Spirit’s first name?",
+          "scripture": "(Galatians 5:16)",
+          "approx_timestamp": "07:39–08:49",
+          "notes": "Memorable, but it criticizes a named-type (a priest who swore and smoked); sensitive."
+        }
+      ],
+      "notes": "Illustrated Shorts previewed at /previews/division-series/ (2026-09-28). Not posted to YouTube. Speaker: Pastor David G. Kincer (named on the opening title card). Public-domain Bible art + Commons/Openverse CC photos (sermons/division-part-2/_stock/ATTRIBUTION.md); GenerateImage unavailable. BGM: new Kevin MacLeod tracks (none reused from Division Part 1 or The Role of the Church). Bumpers v2 ('Grow on the Vine').",
+      "series": {
+        "name": "Division",
+        "part_of": "The Corinthians (Pastor David G. Kincer)",
+        "video_ids": [
+          "34dKzwX6zgQ",
+          "6NKKxhLki6o",
+          "w1apdlEqqmE",
+          "n_VSSQI9h3c"
+        ],
+        "parts": [
+          "Division Part 1",
+          "Division Part 2",
+          "Division Concluded Part 1",
+          "Division Concluded Part 2"
+        ],
+        "preview": "https://growonthevine.com/previews/division-series/"
+      },
+      "speaker": "Pastor David G. Kincer"
     },
     {
       "order": 5,
@@ -1272,13 +1428,158 @@
       "sermon_date": null,
       "duration_seconds": 1325,
       "duration_display": "22:05",
-      "status": "not_started",
-      "started_date": null,
+      "status": "in_progress",
+      "started_date": "2026-09-28",
       "finished_date": null,
-      "work_folder": null,
-      "shorts": [],
-      "unused_candidates": [],
-      "notes": ""
+      "work_folder": "sermons/division-concluded-part-2/",
+      "shorts": [
+        {
+          "slug": "can-you-pick-and-choose",
+          "title": "Can you pick and choose with God?",
+          "title_options": [
+            "Can you pick and choose with God?",
+            "Would a Marine skip roll call?",
+            "Do we only show up when we want to?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "2 Timothy 2:3",
+          "sermon_timestamps": "3:30–3:34 + 3:38–3:45 + 3:48–4:08 + 4:28–4:34 + 4:38–4:58",
+          "body_duration_seconds": 48.0,
+          "branded_duration_seconds": 54.8,
+          "music": "“Sapphire Isle” — Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "Can you imagine a Marine skipping reveille, or saying, “I’ll just be the sharpshooter, no marching”? Marines move in unity. Pastor Kincer says the church has been led to believe we can pick and choose.",
+          "preview": "https://growonthevine.com/previews/division-series/#can-you-pick-and-choose"
+        },
+        {
+          "slug": "is-jesus-the-only-way",
+          "title": "Is Jesus really the only way?",
+          "title_options": [
+            "Is Jesus really the only way?",
+            "Do all roads lead to God?",
+            "Is everybody okay with God?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "John 14:6",
+          "sermon_timestamps": "8:05–8:22 + 8:30–9:02",
+          "body_duration_seconds": 46.5,
+          "branded_duration_seconds": 53.3,
+          "music": "“Clear Air” — Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "Some say there’s another way, or that all roads lead to the same God. Pastor Kincer points to Jesus’ words: He is the way, the truth and the life. Our unity is around Jesus, His word and the cross.",
+          "preview": "https://growonthevine.com/previews/division-series/#is-jesus-the-only-way"
+        },
+        {
+          "slug": "what-does-living-your-faith-look-like",
+          "title": "What does living your faith look like?",
+          "title_options": [
+            "What does living your faith look like?",
+            "Can one life point people to Jesus?",
+            "Are you living what you believe?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "Matthew 5:16",
+          "sermon_timestamps": "9:36–10:09 + 10:18–10:28 + 10:36–10:43",
+          "body_duration_seconds": 38.4,
+          "branded_duration_seconds": 45.2,
+          "music": "“Windswept” — Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "Pastor Kincer talks about Tim Tebow bowing on the field and praising his Lord and Savior in interviews. He says Tebow isn’t putting on an act. He is living what he believes, and that gives his words weight.",
+          "preview": "https://growonthevine.com/previews/division-series/#what-does-living-your-faith-look-like"
+        },
+        {
+          "slug": "does-it-matter-if-you-show-up",
+          "title": "Does it matter if you show up?",
+          "title_options": [
+            "Does it matter if you show up?",
+            "Can just being there make a difference?",
+            "What can God do through simple obedience?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "Hebrews 10:25",
+          "sermon_timestamps": "17:41–18:14 + 18:20–18:36",
+          "body_duration_seconds": 40.0,
+          "branded_duration_seconds": 46.8,
+          "music": "“Fresh Air” — Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "You don’t need a speaking or singing part. Pastor Kincer says the power of one member just being present touches people’s lives. So does lifting your hands in simple obedience, because God is the one who causes the growth.",
+          "preview": "https://growonthevine.com/previews/division-series/#does-it-matter-if-you-show-up"
+        }
+      ],
+      "unused_candidates": [
+        {
+          "slug_candidate": "was-jesus-just-a-nice-man",
+          "working_title": "Was Jesus just a nice man?",
+          "scripture": "(Hebrews 4:15; John 10:18)",
+          "approx_timestamp": "12:46–13:37",
+          "notes": "Strong for unbelievers: “He had no sin… He is God.”"
+        },
+        {
+          "slug_candidate": "not-in-word-but-power",
+          "working_title": "Is faith just words?",
+          "scripture": "1 Corinthians 4:20",
+          "approx_timestamp": "06:33–08:05",
+          "notes": "Name-drops Wesley, Calvin, Billy Graham."
+        },
+        {
+          "slug_candidate": "no-one-left-behind",
+          "working_title": "What can the church learn from the Marines?",
+          "scripture": "(Galatians 6:2)",
+          "approx_timestamp": "00:52–02:36",
+          "notes": "Marine code of conduct; pairs with can-you-pick-and-choose."
+        },
+        {
+          "slug_candidate": "by-their-fruits",
+          "working_title": "How can you tell a real believer?",
+          "scripture": "Matthew 7:20",
+          "approx_timestamp": "15:16–16:21",
+          "notes": "Checklist of questions."
+        },
+        {
+          "slug_candidate": "kingdom-of-priests",
+          "working_title": "Are you a minister without knowing it?",
+          "scripture": "1 Peter 2:9",
+          "approx_timestamp": "16:43–17:29",
+          "notes": ""
+        },
+        {
+          "slug_candidate": "clean-up-the-room",
+          "working_title": "What does growing up in faith look like?",
+          "scripture": "(1 Corinthians 13:11)",
+          "approx_timestamp": "18:51–19:43",
+          "notes": "Youth / clean-up example; local."
+        },
+        {
+          "slug_candidate": "baptism-method",
+          "working_title": "Does the way you’re baptized matter?",
+          "scripture": "Romans 6:4",
+          "approx_timestamp": "12:09–12:38",
+          "notes": "Doctrinally touchy; avoid."
+        }
+      ],
+      "notes": "Illustrated Shorts previewed at /previews/division-series/ (2026-09-28). Not posted to YouTube. Speaker: Pastor David G. Kincer (named on the opening title card). Public-domain Bible art + Commons/Openverse CC photos (sermons/division-concluded-part-2/_stock/ATTRIBUTION.md); GenerateImage unavailable. BGM: new Kevin MacLeod tracks (none reused from Division Part 1 or The Role of the Church). Bumpers v2 ('Grow on the Vine').",
+      "series": {
+        "name": "Division",
+        "part_of": "The Corinthians (Pastor David G. Kincer)",
+        "video_ids": [
+          "34dKzwX6zgQ",
+          "6NKKxhLki6o",
+          "w1apdlEqqmE",
+          "n_VSSQI9h3c"
+        ],
+        "parts": [
+          "Division Part 1",
+          "Division Part 2",
+          "Division Concluded Part 1",
+          "Division Concluded Part 2"
+        ],
+        "preview": "https://growonthevine.com/previews/division-series/"
+      },
+      "speaker": "Pastor David G. Kincer"
     },
     {
       "order": 46,
@@ -1425,13 +1726,158 @@
       "sermon_date": null,
       "duration_seconds": 1370,
       "duration_display": "22:50",
-      "status": "not_started",
-      "started_date": null,
+      "status": "in_progress",
+      "started_date": "2026-09-28",
       "finished_date": null,
-      "work_folder": null,
-      "shorts": [],
-      "unused_candidates": [],
-      "notes": ""
+      "work_folder": "sermons/division-concluded-part-1/",
+      "shorts": [
+        {
+          "slug": "is-following-jesus-foolish",
+          "title": "Is following Jesus foolish?",
+          "title_options": [
+            "Is following Jesus foolish?",
+            "Why would anyone give up a good job for God?",
+            "What if the world calls you a fool?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "1 Corinthians 4:10",
+          "sermon_timestamps": "4:47–5:07 + 5:13–5:31 + 5:47–5:57",
+          "body_duration_seconds": 43.7,
+          "branded_duration_seconds": 50.5,
+          "music": "“Enchanted Journey” — Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "Peter and John left a good fishing business to preach the gospel. The world says that makes no sense. Paul answers: “We are fools for Christ’s sake” — because we put Christ first.",
+          "preview": "https://growonthevine.com/previews/division-series/#is-following-jesus-foolish"
+        },
+        {
+          "slug": "how-should-you-answer-an-insult",
+          "title": "How should you answer an insult?",
+          "title_options": [
+            "How should you answer an insult?",
+            "What do you say when someone speaks evil of you?",
+            "Can you bless someone who hurts you?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "1 Corinthians 4:12",
+          "sermon_timestamps": "10:17–10:21 + 10:48–10:59 + 11:07–11:41",
+          "body_duration_seconds": 40.3,
+          "branded_duration_seconds": 47.1,
+          "music": "“Stoic Morning” — Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "Paul worked with his own hands. When he was insulted, he spoke good words back. Pastor Kincer says that is the sign of a real believer: when you are verbally abused, answer with kindness and goodness.",
+          "preview": "https://growonthevine.com/previews/division-series/#how-should-you-answer-an-insult"
+        },
+        {
+          "slug": "what-makes-a-real-father",
+          "title": "What makes a real father?",
+          "title_options": [
+            "What makes a real father?",
+            "Who is helping you grow up in faith?",
+            "Is talk enough to raise a Christian?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "1 Corinthians 4:15",
+          "sermon_timestamps": "15:01–15:09 + 15:28–15:42 + 16:00–16:33",
+          "body_duration_seconds": 45.1,
+          "branded_duration_seconds": 51.9,
+          "music": "“Jesu, Joy of Man's Desiring” — Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "Paul told the Corinthians they had ten thousand instructors but not many fathers. A father gives life, then takes the time and labor to raise a child through every stage to maturity. Talk alone can’t do that.",
+          "preview": "https://growonthevine.com/previews/division-series/#what-makes-a-real-father"
+        },
+        {
+          "slug": "is-god-still-shaping-you",
+          "title": "Is God still shaping you?",
+          "title_options": [
+            "Is God still shaping you?",
+            "What if God isn't finished with you yet?",
+            "What is God forming in you?"
+          ],
+          "youtube_id": null,
+          "style": "illustrated",
+          "status": "preview",
+          "scripture": "Galatians 4:19",
+          "sermon_timestamps": "21:01–21:12 + 21:18–21:32 + 22:00–22:10 + 22:25–22:36",
+          "body_duration_seconds": 42.0,
+          "branded_duration_seconds": 48.8,
+          "music": "“Vision of Persistence” — Kevin MacLeod (incompetech.com), CC BY 4.0",
+          "summary": "Paul prayed that Christ would be formed in his readers. Pastor Kincer says the verse gave him great hope as a young Christian who was struggling: God is in me and shaping me into Himself, so I can accept where I am while I pursue the goal.",
+          "preview": "https://growonthevine.com/previews/division-series/#is-god-still-shaping-you"
+        }
+      ],
+      "unused_candidates": [
+        {
+          "slug_candidate": "greatest-is-servant",
+          "working_title": "Who is the greatest in God’s kingdom?",
+          "scripture": "Mark 9:35",
+          "approx_timestamp": "03:32–04:11",
+          "notes": "Short; would pair with the apostles-last lines."
+        },
+        {
+          "slug_candidate": "pauls-sufferings",
+          "working_title": "What did Paul really go through?",
+          "scripture": "2 Corinthians 11:23–28",
+          "approx_timestamp": "06:44–07:50",
+          "notes": "Mostly Scripture read aloud; good art (shipwreck, prison)."
+        },
+        {
+          "slug_candidate": "new-car-success",
+          "working_title": "Is a new car a sign of a successful church?",
+          "scripture": "1 Corinthians 4:11–12",
+          "approx_timestamp": "08:55–09:44",
+          "notes": "Critiques TV preachers; soft framing needed."
+        },
+        {
+          "slug_candidate": "come-along-work-together",
+          "working_title": "What if you answered your critics with “come along”?",
+          "scripture": "1 Corinthians 4:13",
+          "approx_timestamp": "12:26–13:30",
+          "notes": "Continues how-should-you-answer-an-insult (defamation story)."
+        },
+        {
+          "slug_candidate": "cant-flatter-my-kids",
+          "working_title": "Do you want a church that flatters you?",
+          "scripture": "1 Corinthians 4:14",
+          "approx_timestamp": "16:42–17:33",
+          "notes": "Continues what-makes-a-real-father."
+        },
+        {
+          "slug_candidate": "follow-me-as-i-follow-christ",
+          "working_title": "Who are you following?",
+          "scripture": "1 Corinthians 11:1",
+          "approx_timestamp": "20:04–20:51",
+          "notes": "Overlaps Division Part 1’s follow-Jesus theme."
+        },
+        {
+          "slug_candidate": "churches-aborting-christians",
+          "working_title": "Are we killing young faith?",
+          "scripture": "—",
+          "approx_timestamp": "18:28–19:34",
+          "notes": "Abortion analogy — sensitive; avoid."
+        }
+      ],
+      "notes": "Illustrated Shorts previewed at /previews/division-series/ (2026-09-28). Not posted to YouTube. Speaker: Pastor David G. Kincer (named on the opening title card). Public-domain Bible art + Commons/Openverse CC photos (sermons/division-concluded-part-1/_stock/ATTRIBUTION.md); GenerateImage unavailable. BGM: new Kevin MacLeod tracks (none reused from Division Part 1 or The Role of the Church). Bumpers v2 ('Grow on the Vine').",
+      "series": {
+        "name": "Division",
+        "part_of": "The Corinthians (Pastor David G. Kincer)",
+        "video_ids": [
+          "34dKzwX6zgQ",
+          "6NKKxhLki6o",
+          "w1apdlEqqmE",
+          "n_VSSQI9h3c"
+        ],
+        "parts": [
+          "Division Part 1",
+          "Division Part 2",
+          "Division Concluded Part 1",
+          "Division Concluded Part 2"
+        ],
+        "preview": "https://growonthevine.com/previews/division-series/"
+      },
+      "speaker": "Pastor David G. Kincer"
     },
     {
       "order": 55,
