@@ -959,3 +959,40 @@ Work folders: `sermons/<slug>/` going forward (legacy pilot: `pilot/a-more-excel
 ## Machine-readable
 
 See [`sermons.json`](./sermons.json) for the full structured tracker (shorts lists, unused candidates, notes).
+
+## Source links (“To see the full message, click here”)
+
+Every Short’s YouTube description (right after the clip-page link) and its clip page carry a link to the sermon it was cut from, at the second the clip starts: `https://www.youtube.com/watch?v=<sermon id>&t=<start seconds>s`. Recorded per Short in `tracker/sermons.json` as `source_url` + `source_start_seconds`. The six *A More Excellent Way* starts were found by audio matching (no timestamps were kept in the pilot); all others are the first cut’s start from `sermon_timestamps`. Preview Shorts get the line via the generator (`ship_division.py` / `ship.py`) so it appears when their clip pages are built.
+
+| Sermon | Slug | Start | Link |
+|---|---|---|---|
+| Saving a Nation | `blessings-or-his-rule` | 614s | https://www.youtube.com/watch?v=1FewcFhtiz8&t=614s |
+| Saving a Nation | `speak-smooth-things` | 1174s | https://www.youtube.com/watch?v=1FewcFhtiz8&t=1174s |
+| Saving a Nation | `if-a-nation-turns` | 1314s | https://www.youtube.com/watch?v=1FewcFhtiz8&t=1314s |
+| Saving a Nation | `word-turns-a-nation` | 1876s | https://www.youtube.com/watch?v=1FewcFhtiz8&t=1876s |
+| Division Part 1 | `is-church-boring` | 222s | https://www.youtube.com/watch?v=34dKzwX6zgQ&t=222s |
+| Division Part 1 | `same-as-a-big-mac` | 559s | https://www.youtube.com/watch?v=34dKzwX6zgQ&t=559s |
+| Division Part 1 | `can-a-divided-home-stand` | 720s | https://www.youtube.com/watch?v=34dKzwX6zgQ&t=720s |
+| Division Part 1 | `is-christ-divided` | 939s | https://www.youtube.com/watch?v=34dKzwX6zgQ&t=939s |
+| The Role of the Church | `what-is-the-church-for` | 394s | https://www.youtube.com/watch?v=4EM8Til1fM0&t=394s |
+| The Role of the Church | `never-thirst` | 984s | https://www.youtube.com/watch?v=4EM8Til1fM0&t=984s |
+| The Role of the Church | `set-the-captives-free` | 1927s | https://www.youtube.com/watch?v=4EM8Til1fM0&t=1927s |
+| The Role of the Church | `skeptic-opens-the-bible` | 2443s | https://www.youtube.com/watch?v=4EM8Til1fM0&t=2443s |
+| Division Part 2 | `does-god-have-grandchildren` | 799s | https://www.youtube.com/watch?v=6NKKxhLki6o&t=799s |
+| Division Part 2 | `is-god-only-for-emergencies` | 964s | https://www.youtube.com/watch?v=6NKKxhLki6o&t=964s |
+| Division Part 2 | `can-god-change-a-person` | 325s | https://www.youtube.com/watch?v=6NKKxhLki6o&t=325s |
+| Division Part 2 | `how-do-you-spell-love` | 1278s | https://www.youtube.com/watch?v=6NKKxhLki6o&t=1278s |
+| A More Excellent Way | `noise-without-love` | 21s | https://www.youtube.com/watch?v=nD9oDfikXQ0&t=21s |
+| A More Excellent Way | `i-never-knew-you` | 142s | https://www.youtube.com/watch?v=nD9oDfikXQ0&t=142s |
+| A More Excellent Way | `love-doesnt-demand-its-own-way` | 385s | https://www.youtube.com/watch?v=nD9oDfikXQ0&t=385s |
+| A More Excellent Way | `fruit-before-fireworks` | 508s | https://www.youtube.com/watch?v=nD9oDfikXQ0&t=508s |
+| A More Excellent Way | `perfect-means-mature` | 952s | https://www.youtube.com/watch?v=nD9oDfikXQ0&t=952s |
+| A More Excellent Way | `goal-is-love` | 1387s | https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1387s |
+| Division Concluded Part 2 | `can-you-pick-and-choose` | 210s | https://www.youtube.com/watch?v=n_VSSQI9h3c&t=210s |
+| Division Concluded Part 2 | `is-jesus-the-only-way` | 485s | https://www.youtube.com/watch?v=n_VSSQI9h3c&t=485s |
+| Division Concluded Part 2 | `what-does-living-your-faith-look-like` | 576s | https://www.youtube.com/watch?v=n_VSSQI9h3c&t=576s |
+| Division Concluded Part 2 | `does-it-matter-if-you-show-up` | 1061s | https://www.youtube.com/watch?v=n_VSSQI9h3c&t=1061s |
+| Division Concluded Part 1 | `is-following-jesus-foolish` | 287s | https://www.youtube.com/watch?v=w1apdlEqqmE&t=287s |
+| Division Concluded Part 1 | `how-should-you-answer-an-insult` | 617s | https://www.youtube.com/watch?v=w1apdlEqqmE&t=617s |
+| Division Concluded Part 1 | `what-makes-a-real-father` | 901s | https://www.youtube.com/watch?v=w1apdlEqqmE&t=901s |
+| Division Concluded Part 1 | `is-god-still-shaping-you` | 1261s | https://www.youtube.com/watch?v=w1apdlEqqmE&t=1261s |

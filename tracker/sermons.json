@@ -13,7 +13,8 @@
     "tracker_files": [
       "tracker/sermons.json",
       "tracker/SERMONS.md"
-    ]
+    ],
+    "source_link_rule": "Every Short’s description (right after the clip-page link) and its clip page carry “To see the full message, click here: https://www.youtube.com/watch?v=<sermon id>&t=<source_start_seconds>s”. Record source_url + source_start_seconds per Short."
   },
   "channel_tabs_note": {
     "videos": 732,
@@ -85,7 +86,9 @@
           "sermon_timestamps": "10:14–11:35",
           "body_duration_seconds": 81,
           "branded_duration_seconds": 88,
-          "summary": "Israel rejected God ruling over them—wanting heaven and blessings without obedience. Luke 19:14: we will not have this man to rule over us."
+          "summary": "Israel rejected God ruling over them—wanting heaven and blessings without obedience. Luke 19:14: we will not have this man to rule over us.",
+          "source_url": "https://www.youtube.com/watch?v=1FewcFhtiz8&t=614s",
+          "source_start_seconds": 614
         },
         {
           "slug": "speak-smooth-things",
@@ -102,7 +105,9 @@
           "sermon_timestamps": "19:34–20:55",
           "body_duration_seconds": 81,
           "branded_duration_seconds": 88,
-          "summary": "Groups hire ministers to flatter them—Isaiah 30:10 speak smooth things. Scripture is for righteousness, but many only want to hear that they’re okay."
+          "summary": "Groups hire ministers to flatter them—Isaiah 30:10 speak smooth things. Scripture is for righteousness, but many only want to hear that they’re okay.",
+          "source_url": "https://www.youtube.com/watch?v=1FewcFhtiz8&t=1174s",
+          "source_start_seconds": 1174
         },
         {
           "slug": "if-a-nation-turns",
@@ -120,7 +125,9 @@
           "body_duration_seconds": 73,
           "branded_duration_seconds": 80,
           "summary": "God will pluck up a disobedient nation—but if that nation turns from evil, He will relent. Bible morality is an umbrella of protection when God judges.",
-          "published_at": "2026-09-25 12:30 PM PT"
+          "published_at": "2026-09-25 12:30 PM PT",
+          "source_url": "https://www.youtube.com/watch?v=1FewcFhtiz8&t=1314s",
+          "source_start_seconds": 1314
         },
         {
           "slug": "word-turns-a-nation",
@@ -138,7 +145,9 @@
           "body_duration_seconds": 84,
           "branded_duration_seconds": 91,
           "summary": "It’s the Word that must get out—speak it; it convicts and convinces. The turning of a nation starts with the church.",
-          "published_at": "2026-09-25 4:30 PM PT"
+          "published_at": "2026-09-25 4:30 PM PT",
+          "source_url": "https://www.youtube.com/watch?v=1FewcFhtiz8&t=1876s",
+          "source_start_seconds": 1876
         }
       ],
       "unused_candidates": [
@@ -211,7 +220,9 @@
           "approved_date": "2026-09-25",
           "planned_release": "2026-09-26 8:30 AM PT",
           "site_page": "https://growonthevine.com/clips/is-church-boring/",
-          "scheduled_at": "2026-09-26T08:30:00-07:00"
+          "scheduled_at": "2026-09-26T08:30:00-07:00",
+          "source_url": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=222s",
+          "source_start_seconds": 222
         },
         {
           "slug": "same-as-a-big-mac",
@@ -233,7 +244,9 @@
           "approved_date": "2026-09-25",
           "planned_release": "2026-09-26 12:30 PM PT",
           "site_page": "https://growonthevine.com/clips/same-as-a-big-mac/",
-          "scheduled_at": "2026-09-26T12:30:00-07:00"
+          "scheduled_at": "2026-09-26T12:30:00-07:00",
+          "source_url": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=559s",
+          "source_start_seconds": 559
         },
         {
           "slug": "can-a-divided-home-stand",
@@ -255,7 +268,9 @@
           "approved_date": "2026-09-25",
           "planned_release": "2026-09-26 4:30 PM PT",
           "site_page": "https://growonthevine.com/clips/can-a-divided-home-stand/",
-          "scheduled_at": "2026-09-26T16:30:00-07:00"
+          "scheduled_at": "2026-09-26T16:30:00-07:00",
+          "source_url": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=720s",
+          "source_start_seconds": 720
         },
         {
           "slug": "is-christ-divided",
@@ -277,7 +292,9 @@
           "approved_date": "2026-09-25",
           "planned_release": "2026-09-26 8:30 PM PT",
           "site_page": "https://growonthevine.com/clips/is-christ-divided/",
-          "scheduled_at": "2026-09-26T20:30:00-07:00"
+          "scheduled_at": "2026-09-26T20:30:00-07:00",
+          "source_url": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=939s",
+          "source_start_seconds": 939
         }
       ],
       "unused_candidates": [
@@ -387,7 +404,9 @@
           "body_duration_seconds": 41.1,
           "branded_duration_seconds": 47.9,
           "music": "“Faith In Tomorrow” — Sascha Ende, CC BY 4.0",
-          "summary": "The world can take in strangers, feed people and give them water — so what is the church for? The spiritual man needs food too: God’s word, the truth. Only Jesus and His bride can give that."
+          "summary": "The world can take in strangers, feed people and give them water — so what is the church for? The spiritual man needs food too: God’s word, the truth. Only Jesus and His bride can give that.",
+          "source_url": "https://www.youtube.com/watch?v=4EM8Til1fM0&t=394s",
+          "source_start_seconds": 394
         },
         {
           "slug": "never-thirst",
@@ -405,7 +424,9 @@
           "body_duration_seconds": 47.4,
           "branded_duration_seconds": 54.1,
           "music": "“Clean Soul” — Kevin MacLeod (incompetech.com), CC BY 4.0",
-          "summary": "Jesus said whoever believes in Him will never thirst. People carry questions like “Is there an afterlife?” — the church leads them to the well of life, like the woman at the well who met Jesus and changed."
+          "summary": "Jesus said whoever believes in Him will never thirst. People carry questions like “Is there an afterlife?” — the church leads them to the well of life, like the woman at the well who met Jesus and changed.",
+          "source_url": "https://www.youtube.com/watch?v=4EM8Til1fM0&t=984s",
+          "source_start_seconds": 984
         },
         {
           "slug": "set-the-captives-free",
@@ -423,7 +444,9 @@
           "body_duration_seconds": 44.6,
           "branded_duration_seconds": 51.4,
           "music": "“Inspired” — Kevin MacLeod (incompetech.com), CC BY 4.0",
-          "summary": "People are enslaved to sin — alcohol, drugs, greed, money. Jesus stood up in the synagogue and read that He came to set the captives free. Just as God freed Israel from Egypt, Jesus can break the chains."
+          "summary": "People are enslaved to sin — alcohol, drugs, greed, money. Jesus stood up in the synagogue and read that He came to set the captives free. Just as God freed Israel from Egypt, Jesus can break the chains.",
+          "source_url": "https://www.youtube.com/watch?v=4EM8Til1fM0&t=1927s",
+          "source_start_seconds": 1927
         },
         {
           "slug": "skeptic-opens-the-bible",
@@ -441,7 +464,9 @@
           "body_duration_seconds": 43.5,
           "branded_duration_seconds": 50.3,
           "music": "“Canon in D Major” — Kevin MacLeod (incompetech.com), CC BY 4.0",
-          "summary": "A Chinese scholar (read aloud in the sermon) visited American churches and was moved by their friendliness and joy. He read the Bible to disprove God — and after three months admitted defeat."
+          "summary": "A Chinese scholar (read aloud in the sermon) visited American churches and was moved by their friendliness and joy. He read the Bible to disprove God — and after three months admitted defeat.",
+          "source_url": "https://www.youtube.com/watch?v=4EM8Til1fM0&t=2443s",
+          "source_start_seconds": 2443
         }
       ],
       "unused_candidates": [
@@ -553,7 +578,9 @@
           "branded_duration_seconds": 47.9,
           "music": "“Simple Duet” — Kevin MacLeod (incompetech.com), CC BY 4.0",
           "summary": "“My granddad was a Baptist, my dad was a Baptist, I’m a Baptist — don’t bug me.” Pastor Kincer says God has no grandchildren and no stepchildren, only children. Each of us has to be born again and meet Him for ourselves.",
-          "preview": "https://growonthevine.com/previews/division-series/#does-god-have-grandchildren"
+          "preview": "https://growonthevine.com/previews/division-series/#does-god-have-grandchildren",
+          "source_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=799s",
+          "source_start_seconds": 799
         },
         {
           "slug": "is-god-only-for-emergencies",
@@ -572,7 +599,9 @@
           "branded_duration_seconds": 51.0,
           "music": "“Meditation Impromptu 01” — Kevin MacLeod (incompetech.com), CC BY 4.0",
           "summary": "After 9/11 the churches filled up, and within 60 days they were empty again. Pastor Kincer remembers lying near death in hospital: he didn’t need a healer, he needed the Healer. We need God every day, not only in a crisis.",
-          "preview": "https://growonthevine.com/previews/division-series/#is-god-only-for-emergencies"
+          "preview": "https://growonthevine.com/previews/division-series/#is-god-only-for-emergencies",
+          "source_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=964s",
+          "source_start_seconds": 964
         },
         {
           "slug": "can-god-change-a-person",
@@ -591,7 +620,9 @@
           "branded_duration_seconds": 45.5,
           "music": "“Morning” — Kevin MacLeod (incompetech.com), CC BY 4.0",
           "summary": "Pastor Kincer tells how he went to the altar, was baptized, and felt the presence of God. He left church that night in love with everybody. The power of God is real, and it made him a changed person.",
-          "preview": "https://growonthevine.com/previews/division-series/#can-god-change-a-person"
+          "preview": "https://growonthevine.com/previews/division-series/#can-god-change-a-person",
+          "source_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=325s",
+          "source_start_seconds": 325
         },
         {
           "slug": "how-do-you-spell-love",
@@ -610,7 +641,9 @@
           "branded_duration_seconds": 46.2,
           "music": "“Crinoline Dreams” — Kevin MacLeod (incompetech.com), CC BY 4.0",
           "summary": "TV, sports and recreation don’t give us power. Pastor Kincer told his daughter that love isn’t only spelled L-O-V-E, it’s spelled T-I-M-E. If we love our children, or God, we will spend time with them.",
-          "preview": "https://growonthevine.com/previews/division-series/#how-do-you-spell-love"
+          "preview": "https://growonthevine.com/previews/division-series/#how-do-you-spell-love",
+          "source_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=1278s",
+          "source_start_seconds": 1278
         }
       ],
       "unused_candidates": [
@@ -1359,42 +1392,54 @@
           "title": "Noise Without Love",
           "youtube_id": "WQzEFrkZY-U",
           "style": "clean-cut",
-          "notes": "Eligible for illustrated remake"
+          "notes": "Eligible for illustrated remake",
+          "source_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=21s",
+          "source_start_seconds": 21
         },
         {
           "slug": "i-never-knew-you",
           "title": "I Never Knew You",
           "youtube_id": "y-ub_M4b9RQ",
           "style": "clean-cut",
-          "notes": "Eligible for illustrated remake"
+          "notes": "Eligible for illustrated remake",
+          "source_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=142s",
+          "source_start_seconds": 142
         },
         {
           "slug": "love-doesnt-demand-its-own-way",
           "title": "Love Doesn't Demand Its Own Way",
           "youtube_id": "rw47lv6qr5M",
           "style": "clean-cut",
-          "notes": "Eligible for illustrated remake"
+          "notes": "Eligible for illustrated remake",
+          "source_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=385s",
+          "source_start_seconds": 385
         },
         {
           "slug": "fruit-before-fireworks",
           "title": "Fruit Before Fireworks",
           "youtube_id": "nUiwQXu1JkU",
           "style": "clean-cut",
-          "notes": "Eligible for illustrated remake; illustrated preview exists"
+          "notes": "Eligible for illustrated remake; illustrated preview exists",
+          "source_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=508s",
+          "source_start_seconds": 508
         },
         {
           "slug": "perfect-means-mature",
           "title": "Perfect Means Mature",
           "youtube_id": "sHrKIGRSYek",
           "style": "clean-cut",
-          "notes": "Eligible for illustrated remake"
+          "notes": "Eligible for illustrated remake",
+          "source_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=952s",
+          "source_start_seconds": 952
         },
         {
           "slug": "goal-is-love",
           "title": "The Goal Is Love",
           "youtube_id": "gCDtt-H6nT4",
           "style": "clean-cut",
-          "notes": "Eligible for illustrated remake; illustrated preview is gold-standard reference"
+          "notes": "Eligible for illustrated remake; illustrated preview is gold-standard reference",
+          "source_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1387s",
+          "source_start_seconds": 1387
         }
       ],
       "unused_candidates": [
@@ -1450,7 +1495,9 @@
           "branded_duration_seconds": 54.8,
           "music": "“Sapphire Isle” — Kevin MacLeod (incompetech.com), CC BY 4.0",
           "summary": "Can you imagine a Marine skipping reveille, or saying, “I’ll just be the sharpshooter, no marching”? Marines move in unity. Pastor Kincer says the church has been led to believe we can pick and choose.",
-          "preview": "https://growonthevine.com/previews/division-series/#can-you-pick-and-choose"
+          "preview": "https://growonthevine.com/previews/division-series/#can-you-pick-and-choose",
+          "source_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=210s",
+          "source_start_seconds": 210
         },
         {
           "slug": "is-jesus-the-only-way",
@@ -1469,7 +1516,9 @@
           "branded_duration_seconds": 53.3,
           "music": "“Clear Air” — Kevin MacLeod (incompetech.com), CC BY 4.0",
           "summary": "Some say there’s another way, or that all roads lead to the same God. Pastor Kincer points to Jesus’ words: He is the way, the truth and the life. Our unity is around Jesus, His word and the cross.",
-          "preview": "https://growonthevine.com/previews/division-series/#is-jesus-the-only-way"
+          "preview": "https://growonthevine.com/previews/division-series/#is-jesus-the-only-way",
+          "source_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=485s",
+          "source_start_seconds": 485
         },
         {
           "slug": "what-does-living-your-faith-look-like",
@@ -1488,7 +1537,9 @@
           "branded_duration_seconds": 45.2,
           "music": "“Windswept” — Kevin MacLeod (incompetech.com), CC BY 4.0",
           "summary": "Pastor Kincer talks about Tim Tebow bowing on the field and praising his Lord and Savior in interviews. He says Tebow isn’t putting on an act. He is living what he believes, and that gives his words weight.",
-          "preview": "https://growonthevine.com/previews/division-series/#what-does-living-your-faith-look-like"
+          "preview": "https://growonthevine.com/previews/division-series/#what-does-living-your-faith-look-like",
+          "source_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=576s",
+          "source_start_seconds": 576
         },
         {
           "slug": "does-it-matter-if-you-show-up",
@@ -1507,7 +1558,9 @@
           "branded_duration_seconds": 46.8,
           "music": "“Fresh Air” — Kevin MacLeod (incompetech.com), CC BY 4.0",
           "summary": "You don’t need a speaking or singing part. Pastor Kincer says the power of one member just being present touches people’s lives. So does lifting your hands in simple obedience, because God is the one who causes the growth.",
-          "preview": "https://growonthevine.com/previews/division-series/#does-it-matter-if-you-show-up"
+          "preview": "https://growonthevine.com/previews/division-series/#does-it-matter-if-you-show-up",
+          "source_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=1061s",
+          "source_start_seconds": 1061
         }
       ],
       "unused_candidates": [
@@ -1748,7 +1801,9 @@
           "branded_duration_seconds": 50.5,
           "music": "“Enchanted Journey” — Kevin MacLeod (incompetech.com), CC BY 4.0",
           "summary": "Peter and John left a good fishing business to preach the gospel. The world says that makes no sense. Paul answers: “We are fools for Christ’s sake” — because we put Christ first.",
-          "preview": "https://growonthevine.com/previews/division-series/#is-following-jesus-foolish"
+          "preview": "https://growonthevine.com/previews/division-series/#is-following-jesus-foolish",
+          "source_url": "https://www.youtube.com/watch?v=w1apdlEqqmE&t=287s",
+          "source_start_seconds": 287
         },
         {
           "slug": "how-should-you-answer-an-insult",
@@ -1767,7 +1822,9 @@
           "branded_duration_seconds": 47.1,
           "music": "“Stoic Morning” — Kevin MacLeod (incompetech.com), CC BY 4.0",
           "summary": "Paul worked with his own hands. When he was insulted, he spoke good words back. Pastor Kincer says that is the sign of a real believer: when you are verbally abused, answer with kindness and goodness.",
-          "preview": "https://growonthevine.com/previews/division-series/#how-should-you-answer-an-insult"
+          "preview": "https://growonthevine.com/previews/division-series/#how-should-you-answer-an-insult",
+          "source_url": "https://www.youtube.com/watch?v=w1apdlEqqmE&t=617s",
+          "source_start_seconds": 617
         },
         {
           "slug": "what-makes-a-real-father",
@@ -1786,7 +1843,9 @@
           "branded_duration_seconds": 51.9,
           "music": "“Jesu, Joy of Man's Desiring” — Kevin MacLeod (incompetech.com), CC BY 4.0",
           "summary": "Paul told the Corinthians they had ten thousand instructors but not many fathers. A father gives life, then takes the time and labor to raise a child through every stage to maturity. Talk alone can’t do that.",
-          "preview": "https://growonthevine.com/previews/division-series/#what-makes-a-real-father"
+          "preview": "https://growonthevine.com/previews/division-series/#what-makes-a-real-father",
+          "source_url": "https://www.youtube.com/watch?v=w1apdlEqqmE&t=901s",
+          "source_start_seconds": 901
         },
         {
           "slug": "is-god-still-shaping-you",
@@ -1805,7 +1864,9 @@
           "branded_duration_seconds": 48.8,
           "music": "“Vision of Persistence” — Kevin MacLeod (incompetech.com), CC BY 4.0",
           "summary": "Paul prayed that Christ would be formed in his readers. Pastor Kincer says the verse gave him great hope as a young Christian who was struggling: God is in me and shaping me into Himself, so I can accept where I am while I pursue the goal.",
-          "preview": "https://growonthevine.com/previews/division-series/#is-god-still-shaping-you"
+          "preview": "https://growonthevine.com/previews/division-series/#is-god-still-shaping-you",
+          "source_url": "https://www.youtube.com/watch?v=w1apdlEqqmE&t=1261s",
+          "source_start_seconds": 1261
         }
       ],
       "unused_candidates": [

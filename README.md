@@ -120,3 +120,15 @@ Pattern: **every new Short = one new `clips.json` entry.** AI-assisted search co
 - Soft branding; Paul-close hooks (no “talent without love”).
 - Clip SEO draft source (monorepo): `pilot/a-more-excellent-way/clips/noise-without-love/page.md`
 - Official logo: `assets/img/gotv-official.png`
+
+## Clip page template: source-sermon link (required)
+
+Every clip page (`clips/<slug>/index.html`) carries, directly under the video/hook and above Key Takeaway, a gold button:
+
+```html
+<p class="full-message"><a class="btn btn-full-message" href="https://www.youtube.com/watch?v=<sermon id>&amp;t=<start seconds>s" rel="noopener noreferrer" target="_blank">To see the full message, click here</a></p>
+```
+
+Style: `.btn-full-message` in `assets/css/styles.css`. Data: `assets/data/clips.json` fields `source_url`, `source_video_id`, `source_start_seconds`; tracker: `source_url` / `source_start_seconds` per Short. If a start time is unknown, link the sermon without `&t=`.
+
+Page generation notes: unpublished Shorts (previews under `previews/division-series/` and `previews/the-role-of-the-church/`) show the same line in their draft description and a visible button; when their clip pages are built (`gotv-work/build_division_pages.py` pattern → `FULLMSG(c)`), insert the button after the hook. The YouTube description carries `To see the full message, click here: <url>` right after the clip-page link.
