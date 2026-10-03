@@ -22,3 +22,10 @@
   .af-short .af-tag{min-width:0}
   .af-short .af-answer{font-size:1.12rem}
 }
+/* amber "From the sermon" quotes: the pastor's own words, each with a ▶ link to that second of the full sermon */
+.af-quotes{margin:0 0 1rem}
+.af-quotes .vs-head h2.vs-src{margin:0;font-size:.95rem;font-weight:600}
+.af-quotes .af-quote{margin:0 0 .65rem;padding:0;border:0;background:none;font-style:normal;display:flex;flex-wrap:wrap;gap:.25rem .6rem;align-items:baseline}
+.af-quotes .af-quote:last-child{margin-bottom:0}
+.af-quotes .af-quote p{margin:0;flex:1 1 18rem;font-family:var(--font-sans);font-size:1.05rem;line-height:1.55;color:var(--ink,#121a16)}
+.af-quotes a.vs-ts{margin:0;flex:0 0 auto}
