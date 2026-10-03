@@ -1,11 +1,14 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Ask a question (preview demo) | Grow on the Vine</title><meta name="description" content="Preview only: a demo of asking a Bible question and getting one answer drawn from Scripture (Berean Standard Bible) and Pastor David G. Kincer's messages."><meta name="theme-color" content="#0f2a20"><link rel="icon" type="image/png" sizes="32x32" href="../../assets/img/favicon-32.png"><link rel="apple-touch-icon" href="../../assets/img/favicon.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="../../assets/css/styles.css"><style>.preview-banner{background:#fff4cf;border:1.5px solid var(--gold);color:var(--forest);font-size:.86rem;font-weight:700;text-align:center;padding:.35rem .75rem;border-radius:999px;margin:0 0 1rem}
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Ask a question (preview) | Grow on the Vine</title><meta name="description" content="Preview only: asking a Bible question and getting one answer drawn from Scripture (Berean Standard Bible) and Pastor David G. Kincer's messages."><meta name="theme-color" content="#0f2a20"><link rel="icon" type="image/png" sizes="32x32" href="../../assets/img/favicon-32.png"><link rel="apple-touch-icon" href="../../assets/img/favicon.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="../../assets/css/styles.css"><style>.preview-banner{background:#fff4cf;border:1.5px solid var(--gold);color:var(--forest);font-size:.86rem;font-weight:700;text-align:center;padding:.35rem .75rem;border-radius:999px;margin:0 0 1rem}
 .demo-note{background:#fff8e1;border-left:5px solid var(--gold);border-radius:0 var(--radius) var(--radius) 0;padding:.8rem 1.1rem;margin:0 0 1.2rem}
 .demo-note p{margin:0 0 .4rem}.demo-note p:last-child{margin:0}
 .askbox{background:var(--card);border:1.5px solid var(--border);border-radius:var(--radius);padding:1rem 1.1rem;margin:0 0 1.2rem}
 .askbox label{font-weight:700;display:block;margin:0 0 .4rem}
 .askrow{display:flex;gap:.5rem;flex-wrap:wrap}
-.askrow input{flex:1 1 220px;font:inherit;padding:.6rem .8rem;border:1.5px solid var(--border);border-radius:999px;background:#f1eee5;color:var(--muted)}
-.askrow button.go{font:inherit;font-weight:700;padding:.6rem 1.2rem;border-radius:999px;border:0;background:#b9b4a4;color:#fff;cursor:not-allowed}
+.askrow input{flex:1 1 220px;font:inherit;padding:.6rem .9rem;border:1.5px solid var(--border);border-radius:999px;background:#fff;color:var(--ink,#1e2a22)}
+.askrow input:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+.askrow button.go{font:inherit;font-weight:700;padding:.6rem 1.4rem;border-radius:999px;border:0;background:var(--forest-mid);color:#fff;cursor:pointer}
+.askrow button.go:hover{background:var(--leaf)}.askrow button.go:disabled{background:#b9b4a4;cursor:wait}
+.askrow button.go:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
 .askbox .hint{font-size:.92rem;color:var(--muted);margin:.5rem 0 0}
 .samples{margin:0 0 1.5rem}.samples h2{font-size:1.15rem;margin:0 0 .5rem}
 .qbtn{font:inherit;font-weight:600;cursor:pointer;margin:0 .4rem .5rem 0;padding:.5rem .95rem;border-radius:999px;border:1.5px solid var(--leaf);background:var(--card);color:var(--forest)}
@@ -46,14 +49,23 @@ blockquote.verse cite{font-style:normal;font-size:.9rem;color:var(--muted)}
 .gapnote strong{color:#7a2222}
 .built{margin:1.2rem 0 0;font-size:.92rem;color:var(--muted)}.built summary{cursor:pointer;font-weight:600}
 .credit{font-size:.88rem;color:var(--muted)}
+
+.livemsg{border:1.5px solid var(--border);border-left:5px solid var(--gold);background:var(--card);border-radius:0 var(--radius) var(--radius) 0;padding:.8rem 1.1rem;margin:0 0 1.5rem}
+.livemsg.care{border-left-color:var(--leaf);background:#f3f8f4}.livemsg.err{border-left-color:#b04a4a;background:#fbf3f3}
+.livemsg p{margin:0 0 .5rem}.livemsg p:last-child{margin:0}
+.loading{display:flex;align-items:center;gap:.7rem;margin:0 0 1.5rem;color:var(--muted)}
+.spin{width:1.1rem;height:1.1rem;border:3px solid var(--border);border-top-color:var(--leaf);border-radius:50%;animation:sp 1s linear infinite}
+@keyframes sp{to{transform:rotate(360deg)}}@media(prefers-reduced-motion:reduce){.spin{animation:none}}
+.aiword{font-size:.88rem;color:var(--muted);margin:.8rem 0 0}
 </style><script>document.documentElement.className+=' js'</script></head><body><header class="site-header"><div class="header-inner"><a class="brand" href="../../"><img src="../../assets/img/gotv-official.png" alt="" width="112" height="112"><span class="brand-text-stack"><span class="brand-text">Grow on the Vine</span><span class="brand-tagline">Believe, Know, &amp; Grow</span></span></a><nav class="nav" aria-label="Primary"><a href="../../">Home</a><a href="../../search/">Search the vines</a></nav></div></header>
 <main class="wrap"><p class="preview-banner" role="note">Preview — not yet public</p>
 <h1>Ask a question</h1>
 <p>Ask a Bible question and get one answer that brings together <strong>what Scripture says</strong> (Berean Standard Bible) and <strong>what Pastor David G. Kincer teaches</strong> in our sermons, with a link to the exact moment in the video. If the sermons haven’t covered your question yet, we say so and answer from Scripture only.</p>
-<div class="demo-note" role="note"><p><strong>This is a demo with sample answers.</strong> The answers below were prepared ahead of time from the real Bible text and the real sermon transcripts. The question box is not switched on yet, so typing a question will not produce a new answer.</p><p>Where Pastor Kincer looks at a question from more than one side, the answer shows both. We never put words in his mouth: his own words are quoted exactly and linked to the video.</p></div>
-<form class="askbox" onsubmit="return false"><label for="q">Your question</label><div class="askrow"><input id="q" type="text" disabled placeholder="Live questions are not switched on in this preview" aria-describedby="qhint"><button class="go" type="submit" disabled>Ask</button></div><p class="hint" id="qhint">Live answers need a small private service that is not set up yet. For now, try one of the sample questions below.</p></form>
-<div class="samples"><h2>Try a sample question</h2><div id="btns"><button type="button" class="qbtn" data-target="a-demon">Can a Christian have a demon?</button><button type="button" class="qbtn" data-target="a-bored">Is church boring?</button><button type="button" class="qbtn" data-target="a-love">What does the Bible say about love?</button><button type="button" class="qbtn" data-target="a-tongues">Do I have to speak in tongues?</button><button type="button" class="qbtn" data-target="a-division">Why does the church have divisions?</button><button type="button" class="qbtn" data-target="a-onlyway">Is Jesus the only way to God?</button><button type="button" class="qbtn" data-target="a-change">Can God really change a person’s life?</button><button type="button" class="qbtn" data-target="a-suffering">Why does God allow suffering?</button></div></div>
-<div id="answers" aria-live="polite">
+<div class="demo-note" role="note"><p><strong>This is a preview of a live feature.</strong> Type a question below and an AI assistant will put together one answer using <em>only</em> Bible passages (Berean Standard Bible) and sermon transcripts that the search finds for your question. Pastor Kincer’s own words are quoted exactly and linked to the video, and a computer checks every quote against the source text.</p><p>Where Pastor Kincer looks at a question from more than one side, the answer shows both. If the sermons here do not cover your question, it says so and answers from Scripture alone. It can still make mistakes, so please read the verses and watch the clip. It does not give medical, legal, or crisis advice.</p></div>
+<form class="askbox" id="askform"><label for="q">Your question</label><div class="askrow"><input id="q" type="text" maxlength="300" autocomplete="off" placeholder="For example: What does the Bible say about forgiveness?" aria-describedby="qhint"><button class="go" id="go" type="submit">Ask</button></div><p class="hint" id="qhint">Up to 300 characters. Questions may be reviewed to improve answers. Please do not include personal details.</p></form>
+<div class="samples"><h2>Or try a sample question</h2><div id="btns"><button type="button" class="qbtn" data-q="Can a Christian have a demon?" data-target="a-demon">Can a Christian have a demon?</button><button type="button" class="qbtn" data-q="Is church boring?" data-target="a-bored">Is church boring?</button><button type="button" class="qbtn" data-q="What does the Bible say about love?" data-target="a-love">What does the Bible say about love?</button><button type="button" class="qbtn" data-q="Do I have to speak in tongues?" data-target="a-tongues">Do I have to speak in tongues?</button><button type="button" class="qbtn" data-q="Why does the church have divisions?" data-target="a-division">Why does the church have divisions?</button><button type="button" class="qbtn" data-q="Is Jesus the only way to God?" data-target="a-onlyway">Is Jesus the only way to God?</button><button type="button" class="qbtn" data-q="Can God really change a person’s life?" data-target="a-change">Can God really change a person’s life?</button><button type="button" class="qbtn" data-q="Why does God allow suffering?" data-target="a-suffering">Why does God allow suffering?</button></div></div>
+<div id="live" aria-live="polite" aria-busy="false"></div>
+<div id="answers">
 <article class="answer" id="a-demon" aria-labelledby="h-demon"><h2 id="h-demon">Can a Christian have a demon?</h2><p class="badge badge-mid">Partly covered in the sermons</p>
 <div class="summarycard"><p class="slabel">Answer <span>woven from Scripture (BSB) and the sermons</span></p>
 <p>Thoughtful Christians have understood this question in more than one way, and no single verse answers it in so many words. What Scripture makes clear is that the struggle is real and that Christ is greater. It speaks of <q class="b">“the spiritual forces of evil in the heavenly realms”</q> <span class="cite">(BSB, <a class="rc" href="#v-demon-1">Ephesians 6:11-12</a>)</span>, and it also says <q class="b">“Resist the devil, and he will flee from you”</q> <span class="cite">(BSB, <a class="rc" href="#v-demon-2">James 4:7</a>)</span> and <q class="b">“greater is He who is in you than he who is in the world”</q> <span class="cite">(BSB, <a class="rc" href="#v-demon-3">1 John 4:4</a>)</span>.</p>
@@ -269,13 +281,71 @@ blockquote.verse cite{font-style:normal;font-size:.9rem;color:var(--muted)}
 </section>
 <details class="built"><summary>How this sample answer was put together</summary><p>The whole Berean Standard Bible was searched (keyword ranking over every verse pair, with OpenBible.info topic lists as an aid: suffering, sufferings). Top Bible hits included 2 Corinthians 1:5-6, Psalm 34:18-19, Psalm 107:17-18, 2 Corinthians 6:3-4, 2 Corinthians 1:4-5, Revelation 2:9-10, 2 Corinthians 1:7-8, Psalm 34:17-18. Sermon passages came from a keyword search over the six message transcripts. A person then chose what to show and wrote the summary, using only those verses and passages. Every Bible quote was checked against two copies of the BSB text, and every Pastor Kincer quote against the transcript.</p></details></article>
 </div>
-<p class="credit">Bible topic lists courtesy of <a href="https://www.openbible.info/topics/" target="_blank" rel="noopener noreferrer">OpenBible.info</a> (CC BY). Sermon text is from the full messages on this site. This preview is not linked from the live site.</p>
+<p class="credit">Questions may be reviewed to improve answers. Bible topic lists courtesy of <a href="https://www.openbible.info/topics/" target="_blank" rel="noopener noreferrer">OpenBible.info</a> (CC BY). Sermon text is from the full messages on this site. This preview is not linked from the live site.</p>
 <p style="margin-top:2rem"><a class="btn" href="../../" target="_blank" rel="noopener noreferrer">← Back home</a></p></main>
 <footer class="site-footer"><div class="footer-inner"><div><p class="footer-brand">Grow on the Vine</p><p>Preview — not yet public · Grow on the Vine.</p></div><div><p><a href="../../" target="_blank" rel="noopener noreferrer">Home</a> · <a href="../../search/" target="_blank" rel="noopener noreferrer">Search the vines</a></p></div></div><p class="footer-scripture-notice">Scripture quotations are from the Berean Standard Bible (BSB), bereanbible.com. The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain. Bible topic lists: <a href="https://www.openbible.info/topics/" target="_blank" rel="noopener noreferrer">OpenBible.info</a> (CC BY).</p></footer>
 <script>
-(function(){var as=[].slice.call(document.querySelectorAll('.answer')),bs=[].slice.call(document.querySelectorAll('.qbtn'));
-function show(id,push){as.forEach(function(a){a.classList.toggle('on',a.id===id)});bs.forEach(function(b){b.setAttribute('aria-pressed',b.dataset.target===id)});
-var el=document.getElementById(id);if(el&&push){el.scrollIntoView({behavior:'smooth',block:'start'});history.replaceState(null,'','#'+id)}}
-bs.forEach(function(b){b.addEventListener('click',function(){show(b.dataset.target,true)})});
-var h=(location.hash||'').slice(1);if(h){var m=h.match(/^(?:a|v)-([a-z]+)/);if(m&&document.getElementById('a-'+m[1]))show('a-'+m[1],false)}})();
+(function(){
+var API='https://gotv-ask.growonthevine.workers.dev/ask';
+var as=[].slice.call(document.querySelectorAll('#answers .answer')),bs=[].slice.call(document.querySelectorAll('.qbtn'));
+var live=document.getElementById('live'),form=document.getElementById('askform'),inp=document.getElementById('q'),go=document.getElementById('go');
+function el(t,c,x){var n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n}
+function link(href,cls,txt){var a=el('a',cls,txt);a.href=href;a.target='_blank';a.rel='noopener noreferrer';return a}
+function safeUrl(u){return /^https:\/\/(www\.youtube\.com|growonthevine\.com)\//.test(u)?u:'#'}
+function showSample(id,push){live.textContent='';as.forEach(function(a){a.classList.toggle('on',a.id===id)});bs.forEach(function(b){b.setAttribute('aria-pressed',b.dataset.target===id)});
+ var e=document.getElementById(id);if(e&&push){e.scrollIntoView({behavior:'smooth',block:'start'});history.replaceState(null,'','#'+id)}}
+function clearSamples(){as.forEach(function(a){a.classList.remove('on')});bs.forEach(function(b){b.setAttribute('aria-pressed','false')})}
+function msg(kind,paras,verse){var d=el('div','livemsg '+kind);paras.forEach(function(p){d.appendChild(el('p',null,p))});
+ if(verse){var bq=el('blockquote','verse');bq.appendChild(el('p',null,verse.text));var c=el('cite');c.appendChild(el('strong',null,verse.ref+' (BSB)'));bq.appendChild(c);d.appendChild(bq)}return d}
+function render(d){
+ var art=el('article','answer on');art.id='a-live';var h=el('h2',null,d.question);art.appendChild(h);
+ var cls=d.coverage==='full'?['ok','Covered in the sermons']:d.coverage==='partial'?['mid','Partly covered in the sermons']:['no','Not covered in the sermons yet'];
+ art.appendChild(el('p','badge badge-'+cls[0],cls[1]));
+ var vnum={};(d.verses||[]).forEach(function(v,i){vnum[v.id]=i+1});var sm={};(d.sermons||[]).forEach(function(s){sm[s.id]=s});var vref={};(d.verses||[]).forEach(function(v){vref[v.id]=v.ref});
+ var card=el('div','summarycard');var sl=el('p','slabel','Answer ');sl.appendChild(el('span',null,'woven from Scripture (BSB) and the sermons'));card.appendChild(sl);
+ (d.paragraphs||[]).forEach(function(pg){
+  if(pg.label)card.appendChild(el('h3','plabel',pg.label));var p=el('p');
+  pg.segs.forEach(function(g){
+   if(g.t==='text'){p.appendChild(document.createTextNode(g.v))}
+   else if(g.t==='b'){var q=el('q','b','\u201C'+g.v+'\u201D');p.appendChild(q);var c=el('span','cite');c.appendChild(document.createTextNode(' (BSB, '));var a=el('a','rc',vref[g.vid]||'');a.href='#v-live-'+(vnum[g.vid]||1);c.appendChild(a);c.appendChild(document.createTextNode(')'));p.appendChild(c)}
+   else if(g.t==='k'){p.appendChild(el('q','k','\u201C'+g.v+'\u201D'))}
+   else if(g.t==='s'&&sm[g.sid]){var s=sm[g.sid];p.appendChild(document.createTextNode(' '));var a2=link(safeUrl(s.watch_url),'sc','\u25B6 '+s.title+' '+s.time);a2.title='Watch this part on YouTube';p.appendChild(a2);p.appendChild(document.createTextNode(' '))}
+   else if(g.t==='v'){var a3=el('a','rc',vref[g.vid]||'');a3.href='#v-live-'+(vnum[g.vid]||1);p.appendChild(a3)}
+  });card.appendChild(p)});
+ var lg=el('p','legend');lg.appendChild(el('q','b','Green'));lg.appendChild(document.createTextNode(' = Scripture (BSB) \u00B7 '));lg.appendChild(el('q','k','Gold'));lg.appendChild(document.createTextNode(' = Pastor Kincer\u2019s own words from the sermon transcripts'));card.appendChild(lg);art.appendChild(card);
+ if(d.not_covered){var gn=el('div','gapnote');gn.appendChild(el('strong',null,'Not covered in the sermons yet. '));gn.appendChild(document.createTextNode(d.not_covered));art.appendChild(gn)}
+ var sc=el('section','blk');var h3=el('h3',null,'Scripture ');sc.appendChild(h3);h3.appendChild(el('span','chip chip-bible','BSB'));
+ (d.verses||[]).forEach(function(v,i){var bq=el('blockquote','verse');bq.id='v-live-'+(i+1);bq.appendChild(el('p',null,v.text));var c=el('cite');c.appendChild(el('strong',null,v.ref+' (BSB)'));bq.appendChild(c);sc.appendChild(bq)});art.appendChild(sc);
+ var ss=el('section','blk');ss.appendChild(el('h3',null,'Sermons that talk about this'));
+ if((d.sermons||[]).length){var ul=el('ul','smlist');d.sermons.forEach(function(s){var li=el('li');li.appendChild(el('span','smt','\u201C'+s.title+'\u201D \u00B7 '+s.section_question));var ac=el('span','actions');
+   ac.appendChild(link(safeUrl(s.watch_url),'btn-watch','\u25B6 Watch this part ('+s.time+')'));ac.appendChild(link(safeUrl(s.page_url),'btn-watch alt','Read this part on the message page'));li.appendChild(ac);ul.appendChild(li)});ss.appendChild(ul);
+   var seen={},ms=[];d.sermons.forEach(function(s){if(!seen[s.message_url]){seen[s.message_url]=1;ms.push(s)}});
+   var fm=el('p','mini','Full messages: ');ms.forEach(function(s,i){if(i)fm.appendChild(document.createTextNode(' \u00B7 '));fm.appendChild(link(safeUrl(s.message_url),null,s.title))});ss.appendChild(fm);
+   var cl={},cs=[];d.sermons.forEach(function(s){(s.clips||[]).forEach(function(c){if(!cl[c.url]){cl[c.url]=1;cs.push(c)}})});
+   if(cs.length){var rc=el('p','mini','Related Shorts: ');cs.forEach(function(c,i){if(i)rc.appendChild(document.createTextNode(' \u00B7 '));rc.appendChild(link(safeUrl(c.url),null,c.title))});ss.appendChild(rc)}
+ }else{ss.appendChild(el('p',null,'None of the six messages on our site speaks to this question yet.'))}
+ art.appendChild(ss);art.appendChild(el('p','aiword','This answer was put together by an AI assistant using only the Bible passages and sermon transcripts shown here. A computer checked each quote against the source text, but it can still make mistakes. Please read the verses and watch the clip.'));
+ return art}
+function busy(on){go.disabled=on;live.setAttribute('aria-busy',on?'true':'false')}
+var seq=0;
+function ask(q,fallbackId){
+ q=(q||'').replace(/\s+/g,' ').trim();if(!q){inp.focus();return}
+ if(q.length>300){live.textContent='';live.appendChild(msg('err',['Please keep your question under 300 characters.']));return}
+ var my=++seq;clearSamples();live.textContent='';var ld=el('div','loading');ld.appendChild(el('span','spin'));ld.appendChild(el('span',null,'Looking through Scripture and the sermons\u2026 this takes about 10 seconds.'));live.appendChild(ld);busy(true);
+ live.scrollIntoView({behavior:'smooth',block:'nearest'});
+ var ctl=new AbortController(),to=setTimeout(function(){ctl.abort()},60000);
+ function fail(paras){if(my!==seq)return;live.textContent='';if(fallbackId&&document.getElementById(fallbackId)){var m=msg('err',paras.concat(['Showing the prepared sample answer instead.']));live.appendChild(m);as.forEach(function(a){a.classList.toggle('on',a.id===fallbackId)});bs.forEach(function(b){b.setAttribute('aria-pressed',b.dataset.target===fallbackId)})}else live.appendChild(msg('err',paras))}
+ fetch(API,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({q:q}),signal:ctl.signal}).then(function(r){return r.json().catch(function(){return {}}).then(function(d){return {s:r.status,d:d}})}).then(function(x){
+  clearTimeout(to);if(my!==seq)return;busy(false);var d=x.d||{};
+  if(d.kind==='answer'&&d.ok){live.textContent='';var a=render(d);live.appendChild(a);a.scrollIntoView({behavior:'smooth',block:'start'})}
+  else if(d.kind==='crisis'){live.textContent='';live.appendChild(msg('care',[d.message],d.verse))}
+  else if(d.kind==='declined'||d.kind==='bad'){live.textContent='';live.appendChild(msg('',[d.message]))}
+  else if(d.kind==='limit'){fail([d.message])}
+  else{fail([d.message||'Something went wrong on our side and we could not put an answer together. Please try again in a moment.'])}
+ }).catch(function(){clearTimeout(to);busy(false);fail(['We could not reach the answer service just now. Please check your connection and try again in a moment.'])});
+}
+form.addEventListener('submit',function(e){e.preventDefault();ask(inp.value,null)});
+bs.forEach(function(b){b.addEventListener('click',function(){inp.value=b.dataset.q;ask(b.dataset.q,b.dataset.target)})});
+var h=(location.hash||'').slice(1);if(h){var m=h.match(/^(?:a|v)-([a-z]+)/);if(m&&document.getElementById('a-'+m[1]))showSample('a-'+m[1],false)}
+})();
 </script></body></html>
