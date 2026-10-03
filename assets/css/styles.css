@@ -967,3 +967,64 @@ main { flex: 1; width: 100%; }
 
 /* Home: link to the library */
 .all-link { text-align: center; margin: 0 0 1.5rem; }
+
+/* =====================================================================
+   Large screens: widen the layout progressively. Everything below is
+   inside min-width media queries, so phones and tablets (<900px) are
+   unchanged. Long reading text keeps a ~75ch line length.
+   ===================================================================== */
+@media (min-width: 900px) {
+  /* home: clip cards use as many columns as fit */
+  .clip-list { grid-template-columns: repeat(auto-fill, minmax(min(100%, 19rem), 1fr)); }
+}
+@media (min-width: 1200px) {
+  :root { --wide: 1120px; --pad-x: clamp(1.5rem, 3vw, 3rem); }
+  .site-header, .site-footer { padding-left: var(--pad-x); padding-right: var(--pad-x); }
+  /* container content width == --wide, so the header, page body and footer line up */
+  .wrap-wide { max-width: calc(var(--wide) + 2 * var(--pad-x)); padding-left: var(--pad-x); padding-right: var(--pad-x); }
+  .hero { padding: 3rem var(--pad-x) 2.6rem; }
+  .hero-invite, .hero-scripture { max-width: 56rem; }
+  .hero-join { max-width: 48rem; }
+  .hero-lead { font-size: clamp(2rem, 2.6vw, 2.7rem); }
+  .hero-lead-sub { font-size: clamp(1.4rem, 1.9vw, 1.9rem); }
+  .hero-scripture p { font-size: clamp(1.2rem, 1.5vw, 1.45rem); }
+  .search-cta, .about-blurb { max-width: 64rem; margin-left: auto; margin-right: auto; }
+  .about-blurb p { max-width: 75ch; }
+
+  /* Full-message pages: sticky table of contents on the left, transcript column (~75ch) beside it */
+  main.wrap:has(> .toc) {
+    max-width: calc(var(--wide) + 2 * var(--pad-x));
+    padding-left: var(--pad-x); padding-right: var(--pad-x);
+    display: grid; grid-template-columns: minmax(240px, 300px) minmax(0, 41rem);
+    column-gap: clamp(2rem, 4vw, 4rem); justify-content: center; align-items: start;
+  }
+  main.wrap:has(> .toc) > * { grid-column: 2; min-width: 0; }
+  main.wrap:has(> .toc) > h1 { justify-self: start; }
+  main.wrap:has(> .toc) > .toc {
+    grid-column: 1; grid-row: 1 / span 100; margin: 0;
+    position: sticky; top: 10rem; max-height: calc(100vh - 12rem); overflow-y: auto;
+  }
+
+  /* Clip pages: video on the left (stays in view), takeaway / scripture / transcript on the right */
+  main.wrap:has(> .video-stage) {
+    max-width: calc(var(--wide) + 2 * var(--pad-x));
+    padding-left: var(--pad-x); padding-right: var(--pad-x);
+    display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+    column-gap: clamp(2rem, 4vw, 3.5rem); align-items: start;
+  }
+  main.wrap:has(> .video-stage) > * { grid-column: 2; min-width: 0; }
+  main.wrap:has(> .video-stage) > .section-label,
+  main.wrap:has(> .video-stage) > h1 { grid-column: 1 / -1; }
+  main.wrap:has(> .video-stage) > h1 { justify-self: start; }
+  main.wrap:has(> .video-stage) > .video-stage { grid-column: 1; grid-row: 3 / span 40; position: sticky; top: 10rem; }
+  main.wrap:has(> .video-stage) > .crossword-section,
+  main.wrap:has(> .video-stage) > .crossword-section ~ * { grid-column: 1 / -1; }
+}
+@media (min-width: 1440px) { :root { --wide: 1320px; } }
+@media (min-width: 1800px) {
+  :root { --wide: 1480px; }
+  /* message pages: video moves to a sticky right-hand column */
+  main.wrap:has(> .toc) { grid-template-columns: minmax(240px, 280px) minmax(0, 40rem) minmax(0, 1fr); }
+  main.wrap:has(> .toc) > .embed { grid-column: 3; grid-row: 1 / span 100; position: sticky; top: 10rem; margin: .4rem 0 0; }
+}
+@media (min-width: 2200px) { :root { --wide: 1600px; } }

@@ -54,3 +54,5 @@ mark{background:#f6df8b;color:var(--forest);padding:0 .08em;border-radius:3px}
 @media (max-width:420px){.lib-page.wrap-wide{padding-left:1rem;padding-right:1rem}.lib-chip{font-size:.9rem;padding:.4rem .75rem}}
 @media (prefers-reduced-motion:reduce){.lib-card{transition:none}.lib-card:hover{transform:none}}
 .lib-search input[type="search"]::-webkit-search-cancel-button{-webkit-appearance:none;appearance:none;display:none}
+@media (min-width:940px){.lib-grid{grid-template-columns:repeat(auto-fill,minmax(min(100%,18rem),1fr))}}
+@media (min-width:1200px){.lib-search{max-width:48rem}.lib-lede{max-width:48rem}}

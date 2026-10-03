@@ -71,3 +71,16 @@ blockquote.verse cite{font-style:normal;font-size:.9rem;color:var(--muted)}
 .ask-home .credit{margin:.4rem 0 0}
 .ask-home .answer{margin-top:1.2rem}
 @media(max-width:480px){.askrow button.go{flex:1 1 100%}.qbtn{font-size:.95rem}}
+
+/* ---- large screens: Ask box and answers use the width sensibly (phones/tablets unchanged) ---- */
+@media(min-width:1200px){
+  .ask-home-inner{max-width:min(var(--wide),68rem)}
+  .ask-page{max-width:calc(min(var(--wide),1400px) + 2*var(--pad-x));padding-left:var(--pad-x);padding-right:var(--pad-x)}
+  .ask-page>p,.ask-page .ai-disclaimer{max-width:75ch}
+  .ask-page .askbox,.ask-page .samples{max-width:60rem}
+  /* answers flow into two columns: the written answer, then the verses and sermon moments; headings span both */
+  .answer{column-count:2;column-gap:2.5rem}
+  .answer>h2,.answer>.badge{column-span:all}
+  .answer .summarycard,.answer .gapnote,blockquote.verse,.smlist li{break-inside:avoid}
+  .answer .blk h3{break-after:avoid}
+}
