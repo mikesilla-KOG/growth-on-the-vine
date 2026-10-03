@@ -964,3 +964,6 @@ main { flex: 1; width: 100%; }
   opacity: 0.85;
   text-align: center;
 }
+
+/* Home: link to the library */
+.all-link { text-align: center; margin: 0 0 1.5rem; }
