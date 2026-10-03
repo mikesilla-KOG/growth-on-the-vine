@@ -25,7 +25,7 @@ function render(d){
    else if(g.t==='s'&&sm[g.sid]){var s=sm[g.sid];p.appendChild(document.createTextNode(' '));var a2=link(safeUrl(s.watch_url),'sc','\u25B6 '+s.title+' '+s.time);a2.title='Watch this part on YouTube';p.appendChild(a2);p.appendChild(document.createTextNode(' '))}
    else if(g.t==='v'){var a3=el('a','rc',vref[g.vid]||'');a3.href='#v-live-'+(vnum[g.vid]||1);p.appendChild(a3)}
   });card.appendChild(p)});
- var lg=el('p','legend');lg.appendChild(el('q','b','Green'));lg.appendChild(document.createTextNode(' = Scripture (BSB) \u00B7 '));lg.appendChild(el('q','k','Gold'));lg.appendChild(document.createTextNode(' = words from the sermon from the sermon transcripts'));card.appendChild(lg);art.appendChild(card);
+ var lg=el('p','legend');lg.appendChild(el('q','b','Green'));lg.appendChild(document.createTextNode(' = Scripture (BSB) \u00B7 '));lg.appendChild(el('q','k','Gold'));lg.appendChild(document.createTextNode(' = words from the sermons'));card.appendChild(lg);art.appendChild(card);
  if(d.not_covered){var gn=el('div','gapnote');gn.appendChild(el('strong',null,'Not covered in the sermons yet. '));gn.appendChild(document.createTextNode(d.not_covered));art.appendChild(gn)}
  var sc=el('section','blk');var h3=el('h3',null,'Scripture ');sc.appendChild(h3);h3.appendChild(el('span','chip chip-bible','BSB'));
  (d.verses||[]).forEach(function(v,i){var bq=el('blockquote','verse');bq.id='v-live-'+(i+1);bq.appendChild(el('p',null,v.text));var c=el('cite');c.appendChild(el('strong',null,v.ref+' (BSB)'));bq.appendChild(c);sc.appendChild(bq)});art.appendChild(sc);
