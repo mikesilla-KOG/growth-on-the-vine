@@ -1,0 +1,1 @@
+{"name":"gotv-ask-worker","private":true,"type":"module","scripts":{"build-data":"node build/build_data.mjs","deploy":"wrangler deploy"},"devDependencies":{"node":"^22.23.3","wrangler":"^4"}}

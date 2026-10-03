@@ -1,0 +1,22 @@
+name = "gotv-ask"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+workers_dev = true
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+run_worker_first = true
+
+[[kv_namespaces]]
+binding = "KV"
+id = "ffc3cb6222c74cc196fca3773b8ee07d"
+
+[vars]
+PLAN_MODEL = "gpt-4.1-mini"
+JUDGE_MODEL = "gpt-5.2"
+COMPOSE_MODEL = "gpt-5.4-mini"
+LIMIT_HOUR = "10"
+LIMIT_DAY = "40"
+GLOBAL_CAP = "60"
+MAX_OUT = "1400"
