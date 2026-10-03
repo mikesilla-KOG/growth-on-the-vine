@@ -1,0 +1,762 @@
+{
+ "schema_version": 1,
+ "sermon": {
+  "slug": "division-part-1",
+  "title": "Division Part 1",
+  "series": "The Corinthians series",
+  "series_part": "Part 1",
+  "speaker": "Pastor David G. Kincer",
+  "church": "Vine Cluster Church",
+  "video_id": "34dKzwX6zgQ",
+  "video_url": "https://www.youtube.com/watch?v=34dKzwX6zgQ",
+  "upload_date": "2014-06-18",
+  "duration_seconds": 1364,
+  "language": "en",
+  "page_url": "https://growonthevine.com/messages/division-part-1/",
+  "status": "live",
+  "summary": "In “Division Part 1,” Pastor David G. Kincer answers a new book that blames the church for young people leaving, saying the complaints are not new and the answer is to stop blaming and get in and make a difference. He then turns to 1 Corinthians 1:10, where Paul’s first correction of the Corinthians is division, and says our unity is in Jesus and the Scriptures, not in a minister, a denomination or whoever baptized us. Along the way he speaks about church boredom, science, intolerance, the home, and other religions.",
+  "transcript_source": "This transcript comes from YouTube’s automatic English captions, which supply the timing and the words, and a Whisper speech-to-text pass of the same audio, which added punctuation and filled words the captions dropped. Punctuation, paragraphing and obvious caption errors were cleaned; his wording was not rewritten. “[unclear]” marks a word or name that was not clear.",
+  "brand": "Grow on the Vine"
+ },
+ "bible_translation": {
+  "code": "NKJV",
+  "notice": "Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved."
+ },
+ "chunks": [
+  {
+   "id": "division-part-1:why-young-people-leave-church",
+   "type": "section",
+   "sermon_slug": "division-part-1",
+   "section_question": "Why do young people leave the church?",
+   "short_answer": "Pastor Kincer says the claim that 75% of young people are out of the church after high school is not new: it has been there since he became a Christian, and it used to be higher. When he stayed away as a young person, he says, it was his own decision, not the church’s fault. He wanted to go his own way and sin.",
+   "text": "There’s a new book out called You Lost Us. It’s going to sell millions of copies, like the other ones did that I’ve brought out before. And it’s all about attacking the church, blaming the church for the falling away of young people — Barna [unclear], and all these people, you know — and I debated with them this week, because I think they’re wrong.\n\nNumber one, the statistic that 75% of young people are out of the church when they leave high school and go into college has always been there since I’ve been a Christian. In fact, it was a little higher. If it’s only 75%, we gained some ground. It used to be 80-some percent. Okay, that’s not a new statistic. Back when I was a young person, I didn’t go to church because I wanted to do my thing. It wasn’t the church’s fault. It was my decision. I wanted to sin. I wanted to go the way I wanted to go. I didn’t want any church or any God bridling me and telling me what to do. Don’t tell me what I can and can’t do.",
+   "start_seconds": 0,
+   "end_seconds": 91,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=0s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#q-why-young-people-leave-church",
+   "paragraphs": [
+    {
+     "start_seconds": 0,
+     "text": "There’s a new book out called You Lost Us. It’s going to sell millions of copies, like the other ones did that I’ve brought out before. And it’s all about attacking the church, blaming the church for the falling away of young people — Barna [unclear], and all these people, you know — and I debated with them this week, because I think they’re wrong.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=0s"
+    },
+    {
+     "start_seconds": 40,
+     "text": "Number one, the statistic that 75% of young people are out of the church when they leave high school and go into college has always been there since I’ve been a Christian. In fact, it was a little higher. If it’s only 75%, we gained some ground. It used to be 80-some percent. Okay, that’s not a new statistic. Back when I was a young person, I didn’t go to church because I wanted to do my thing. It wasn’t the church’s fault. It was my decision. I wanted to sin. I wanted to go the way I wanted to go. I didn’t want any church or any God bridling me and telling me what to do. Don’t tell me what I can and can’t do.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=40s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "division-part-1:blame-the-church-or-take-responsibility",
+   "type": "section",
+   "sermon_slug": "division-part-1",
+   "section_question": "Should we blame the church, or take responsibility?",
+   "short_answer": "He says God told him, “Son, don’t complain of the church. Get in and make a difference in the church.” It is easy to blame a church, he says, but another thing to take it on your own shoulders to find your God and make a difference. He adds that being baptized in the Holy Ghost brings power, the supernatural ability to make good, right, wise decisions.",
+   "text": "When I got saved and I complained to God about these things, he told me, “Son, don’t complain of the church. Get in and make a difference in the church.” See, when you’re baptized in the Holy Ghost, you can actually get direction before you ever know the Scriptures, because the Holy Spirit will always give you the nature of God and the truth of the Scriptures until you know them. Do you understand that? And the baptism of the Holy Ghost is very important. Remember, he said you’d receive power. He didn’t say you’d receive tongues and prophecy. He said you would receive what? Power — supernatural ability to make good decisions, right decisions, wise decisions. Are you with me so far?\n\nAnd it’s easy to blame the Catholic church, the Baptist church, the Pentecostal church. It’s easy to blame. It’s another thing to take it on your shoulders to be responsible to find your God, and take it on your shoulders that I can make the difference in the church.",
+   "start_seconds": 91,
+   "end_seconds": 173,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=91s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#q-blame-the-church-or-take-responsibility",
+   "paragraphs": [
+    {
+     "start_seconds": 91,
+     "text": "When I got saved and I complained to God about these things, he told me, “Son, don’t complain of the church. Get in and make a difference in the church.” See, when you’re baptized in the Holy Ghost, you can actually get direction before you ever know the Scriptures, because the Holy Spirit will always give you the nature of God and the truth of the Scriptures until you know them. Do you understand that? And the baptism of the Holy Ghost is very important. Remember, he said you’d receive power. He didn’t say you’d receive tongues and prophecy. He said you would receive what? Power — supernatural ability to make good decisions, right decisions, wise decisions. Are you with me so far?",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=91s"
+    },
+    {
+     "start_seconds": 148,
+     "text": "And it’s easy to blame the Catholic church, the Baptist church, the Pentecostal church. It’s easy to blame. It’s another thing to take it on your shoulders to be responsible to find your God, and take it on your shoulders that I can make the difference in the church.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=148s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 1:8",
+     "translation": "NKJV",
+     "text_nkjv": "But you shall receive power when the Holy Spirit has come upon you; and you shall be witnesses to Me in Jerusalem, and in all Judea and Samaria, and to the end of the earth.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+1%3A8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=129s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "division-part-1:does-the-church-reject-science",
+   "type": "section",
+   "sermon_slug": "division-part-1",
+   "section_question": "Does the church reject science?",
+   "short_answer": "He calls that claim a lie. He says that in this generation there are movies, DVDs, pamphlets and books on science and the Bible, so no young person has an excuse for not understanding, though he adds that the church cannot talk about science in the Bible every Sunday.",
+   "text": "So they said young people — after they were interviewed in the statistics, and they went all through asking young people why they left the church — one of them was science. The church does not embrace science. I said, that’s a lie. We don’t go around talking about science all the time, but in this generation, like no generation before, there is such materials about science in the Bible that no young person has any excuse for not understanding. Could that be true? You can get movies, you can get DVDs, you can get pamphlets, you can get books on the issue and read them yourself. But the church can’t get up every Sunday and talk about science in the Bible.",
+   "start_seconds": 173,
+   "end_seconds": 222,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=173s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#q-does-the-church-reject-science",
+   "paragraphs": [
+    {
+     "start_seconds": 173,
+     "text": "So they said young people — after they were interviewed in the statistics, and they went all through asking young people why they left the church — one of them was science. The church does not embrace science. I said, that’s a lie. We don’t go around talking about science all the time, but in this generation, like no generation before, there is such materials about science in the Bible that no young person has any excuse for not understanding. Could that be true? You can get movies, you can get DVDs, you can get pamphlets, you can get books on the issue and read them yourself. But the church can’t get up every Sunday and talk about science in the Bible.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=173s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "division-part-1:is-church-boring",
+   "type": "section",
+   "sermon_slug": "division-part-1",
+   "section_question": "Is church boring?",
+   "short_answer": "He says church felt boring to him at 16 to 18 because he would not get involved. He was a clock-watcher who did not want to sing to the Lord or pray. David said he was glad to go to the house of the Lord (Psalm 122:1), and he says anyone who does not want to get involved in church, or in God, will be bored and will find every excuse not to be involved.",
+   "text": "Anyway, the second thing is the young people said church was boring. Well, that’s exactly what I said when I was 17, 16, 18: church is boring — because I didn’t get involved. I wanted to do my thing. I didn’t want to sing unto the Lord. I didn’t want to get down and pray. I just couldn’t wait for the thing to get over. I was the clock watcher. When is this people going to quit? In fact, if I could, I’d get there late so I didn’t have to endure. The only thing is, my dad was never late to anything, and I picked up the habit. But a lot of us were late because we don’t want to spend any more minutes in that boring place than we have to, or we just lost our desire for Jesus.\n\nDavid said, “I was glad when they said unto me, Let us” — what? — “go to the house of the Lord.” Man, he was excited. It’s assembly time. Oh, glory, let’s go! And, see, we’ve lost all that. A lot of Christians have lost all that, and so they write these books blaming the church. But the church is made up of who? People. And it’s the people that are the determination of a church. Hallelujah. And so I go, that’s not nothing new. Anybody that doesn’t want to get involved in the church, involved in God, are going to be bored. Hallelujah. They’ll find every excuse not to be involved. Church, we can blame till we’re blue in the face, but the thing is, it’s our problem. It’s your problem. It’s your decision. Hallelujah.",
+   "start_seconds": 222,
+   "end_seconds": 356,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=222s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#q-is-church-boring",
+   "paragraphs": [
+    {
+     "start_seconds": 222,
+     "text": "Anyway, the second thing is the young people said church was boring. Well, that’s exactly what I said when I was 17, 16, 18: church is boring — because I didn’t get involved. I wanted to do my thing. I didn’t want to sing unto the Lord. I didn’t want to get down and pray. I just couldn’t wait for the thing to get over. I was the clock watcher. When is this people going to quit? In fact, if I could, I’d get there late so I didn’t have to endure. The only thing is, my dad was never late to anything, and I picked up the habit. But a lot of us were late because we don’t want to spend any more minutes in that boring place than we have to, or we just lost our desire for Jesus.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=222s"
+    },
+    {
+     "start_seconds": 280,
+     "text": "David said, “I was glad when they said unto me, Let us” — what? — “go to the house of the Lord.” Man, he was excited. It’s assembly time. Oh, glory, let’s go! And, see, we’ve lost all that. A lot of Christians have lost all that, and so they write these books blaming the church. But the church is made up of who? People. And it’s the people that are the determination of a church. Hallelujah. And so I go, that’s not nothing new. Anybody that doesn’t want to get involved in the church, involved in God, are going to be bored. Hallelujah. They’ll find every excuse not to be involved. Church, we can blame till we’re blue in the face, but the thing is, it’s our problem. It’s your problem. It’s your decision. Hallelujah.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=280s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Psalm 122:1",
+     "translation": "NKJV",
+     "text_nkjv": "I was glad when they said to me, “Let us go into the house of the LORD.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Psalm+122%3A1&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=280s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": [
+    {
+     "slug": "is-church-boring",
+     "title": "Is church really boring?",
+     "url": "https://growonthevine.com/clips/is-church-boring/"
+    }
+   ]
+  },
+  {
+   "id": "division-part-1:is-the-church-intolerant",
+   "type": "section",
+   "sermon_slug": "division-part-1",
+   "section_question": "Is the church intolerant?",
+   "short_answer": "He says the church cannot change the Scriptures because public policy says certain things are okay. It has to preach what the Bible says, whether young people like it or not, and he names homosexuality and abortion as the examples the book raised.",
+   "text": "They said the third thing, which should have been the first thing, is the church is intolerant. And then they describe that we are hard on the homosexuals, and hard on abortion. And I go, well, you can’t change the Scriptures because public policy says that these things are okay. And young people can’t change the Scriptures and blame the church when the Bible says that homosexuality is a sin, and you will go to hell for it. The church can’t change the Scriptures. We’ve got to preach it, whether the young people like it or not. Isn’t that true? And if they want to blame us for wanting to protect the life of innocent kids from abortion on demand, then that’s their problem. They’ve got to stand before God and give accountability for that.",
+   "start_seconds": 356,
+   "end_seconds": 413,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=356s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#q-is-the-church-intolerant",
+   "paragraphs": [
+    {
+     "start_seconds": 356,
+     "text": "They said the third thing, which should have been the first thing, is the church is intolerant. And then they describe that we are hard on the homosexuals, and hard on abortion. And I go, well, you can’t change the Scriptures because public policy says that these things are okay. And young people can’t change the Scriptures and blame the church when the Bible says that homosexuality is a sin, and you will go to hell for it. The church can’t change the Scriptures. We’ve got to preach it, whether the young people like it or not. Isn’t that true? And if they want to blame us for wanting to protect the life of innocent kids from abortion on demand, then that’s their problem. They’ve got to stand before God and give accountability for that.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=356s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "division-part-1:should-the-church-change-its-message",
+   "type": "section",
+   "sermon_slug": "division-part-1",
+   "section_question": "Does the church have to change its message to keep young people?",
+   "short_answer": "He says the voices blaming the church are wrong, and asks, “Do we have to line up with the Scriptures, or do we get the Scriptures to line up with us?” His answer is that we have to line up with the Scriptures, since God is true and every man a liar. He also says the church does have its problems.",
+   "text": "And I told the leader of this topic, you guys are wrong. This is nothing new at all. To me, you’re just wanting to sell another book. And they didn’t like that. Yeah, they’re going to make millions of bucks off this book. And people are going to be thinking, and see, that justifies the young people for leaving the church and going into sin and having sex before marriage and all the rest, because the book said the church is at fault. And the church does have its problems. And so this message, starting on January 1st, is in retaliation to all this stuff. You know why I got a suit on today? Because they said suits turn young people off. I said, a suit does not change me in any way or any shape. And just because you said suit, I’m going to wear a suit for two months. I hadn’t put on a suit for quite a while. A suit’s got nothing to do with it. People don’t come to church because you wear a suit. Where is the focus, church? We’ve lost it.\n\nAnd I wanted to introduce this message this way because I want you to understand there’s voices out there that are wrong. Let God be what? True. Let the Scriptures be what? True. And every man a what? Liar. Do we have to line up with the Scriptures, or do we get the Scriptures to line up with us? We’ve got to line up with the Scriptures. Hallelujah.",
+   "start_seconds": 413,
+   "end_seconds": 525,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=413s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#q-should-the-church-change-its-message",
+   "paragraphs": [
+    {
+     "start_seconds": 413,
+     "text": "And I told the leader of this topic, you guys are wrong. This is nothing new at all. To me, you’re just wanting to sell another book. And they didn’t like that. Yeah, they’re going to make millions of bucks off this book. And people are going to be thinking, and see, that justifies the young people for leaving the church and going into sin and having sex before marriage and all the rest, because the book said the church is at fault. And the church does have its problems. And so this message, starting on January 1st, is in retaliation to all this stuff. You know why I got a suit on today? Because they said suits turn young people off. I said, a suit does not change me in any way or any shape. And just because you said suit, I’m going to wear a suit for two months. I hadn’t put on a suit for quite a while. A suit’s got nothing to do with it. People don’t come to church because you wear a suit. Where is the focus, church? We’ve lost it.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=413s"
+    },
+    {
+     "start_seconds": 497,
+     "text": "And I wanted to introduce this message this way because I want you to understand there’s voices out there that are wrong. Let God be what? True. Let the Scriptures be what? True. And every man a what? Liar. Do we have to line up with the Scriptures, or do we get the Scriptures to line up with us? We’ve got to line up with the Scriptures. Hallelujah.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=497s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Romans 3:4",
+     "translation": "NKJV",
+     "text_nkjv": "Certainly not! Indeed, let God be true but every man a liar. As it is written: “That You may be justified in Your words, And may overcome when You are judged.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Romans+3%3A4&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=505s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "division-part-1:what-does-speak-the-same-thing-mean",
+   "type": "section",
+   "sermon_slug": "division-part-1",
+   "section_question": "What does it mean to speak the same thing in church?",
+   "short_answer": "He says the first confrontation Paul brings to the Corinthian church is division: “I want you to all speak the same thing” (1 Corinthians 1:10). Like a Big Mac that is identical in every country, he says the Holy Ghost, salvation, righteousness and holy living should be preached the same in every church.",
+   "text": "And thusly, we are going to have our second session on starting, developing, and governing a New Testament church. This week we’re going to look at the development of the church, and the first confrontation that Paul is going to confront this tremendous church with is division — separating one from another. He says, “I want you to all speak the same thing.” First Corinthians 1:10.\n\nYou see that McDonald’s sign up there? When I was in Salvador, when I was in Brazil, when I was in Korea, when I was in China, when I go to any state in America, I can go to McDonald’s, order a Big Mac, and it’s identical. They didn’t change the Big Mac. If I order fries, I get McDonald’s fries. If I order a Coke, I get the real Coke. I don’t get a China Coke, I don’t get a Korean Coke — I get Coke. And if you’ve never been to a third world country and ministering for two or three weeks, and your body can’t handle the food and you’re losing weight and all that, and you see a McDonald’s, it’s like seeing the tongues of fire on the day of Pentecost. Wow! Man, I said, stop the car! Stop the car, man! The driver pulled [over] — what’s wrong? What’s wrong? — There’s a McDonald’s! Go over there! The whole schedule changed. I ordered — must have been four Big Macs. I tell you, big fries, a Coke — and it was the same.\n\nSee, the Holy Ghost shouldn’t be preached different in one church and preached another way in another church. It should be the what? Same. Salvation should be what? The same. Righteousness and holy living should be what? The same. Everything should be the same, like McDonald’s is. But in America, do we have that? No! And so we confuse everybody. He says, “I want you to speak the same thing.” Why? He says, “I don’t want there to be divisions, separations among you.” Why?",
+   "start_seconds": 525,
+   "end_seconds": 691,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=525s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#q-what-does-speak-the-same-thing-mean",
+   "paragraphs": [
+    {
+     "start_seconds": 525,
+     "text": "And thusly, we are going to have our second session on starting, developing, and governing a New Testament church. This week we’re going to look at the development of the church, and the first confrontation that Paul is going to confront this tremendous church with is division — separating one from another. He says, “I want you to all speak the same thing.” First Corinthians 1:10.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=525s"
+    },
+    {
+     "start_seconds": 566,
+     "text": "You see that McDonald’s sign up there? When I was in Salvador, when I was in Brazil, when I was in Korea, when I was in China, when I go to any state in America, I can go to McDonald’s, order a Big Mac, and it’s identical. They didn’t change the Big Mac. If I order fries, I get McDonald’s fries. If I order a Coke, I get the real Coke. I don’t get a China Coke, I don’t get a Korean Coke — I get Coke. And if you’ve never been to a third world country and ministering for two or three weeks, and your body can’t handle the food and you’re losing weight and all that, and you see a McDonald’s, it’s like seeing the tongues of fire on the day of Pentecost. Wow! Man, I said, stop the car! Stop the car, man! The driver pulled [over] — what’s wrong? What’s wrong? — There’s a McDonald’s! Go over there! The whole schedule changed. I ordered — must have been four Big Macs. I tell you, big fries, a Coke — and it was the same.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=566s"
+    },
+    {
+     "start_seconds": 638,
+     "text": "See, the Holy Ghost shouldn’t be preached different in one church and preached another way in another church. It should be the what? Same. Salvation should be what? The same. Righteousness and holy living should be what? The same. Everything should be the same, like McDonald’s is. But in America, do we have that? No! And so we confuse everybody. He says, “I want you to speak the same thing.” Why? He says, “I don’t want there to be divisions, separations among you.” Why?",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=638s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 1:10",
+     "translation": "NKJV",
+     "text_nkjv": "Now I plead with you, brethren, by the name of our Lord Jesus Christ, that you all speak the same thing, and that there be no divisions among you, but that you be perfectly joined together in the same mind and in the same judgment.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=559s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": [
+    {
+     "slug": "same-as-a-big-mac",
+     "title": "Should church be as consistent as a Big Mac?",
+     "url": "https://growonthevine.com/clips/same-as-a-big-mac/"
+    }
+   ]
+  },
+  {
+   "id": "division-part-1:why-is-unity-important",
+   "type": "section",
+   "sermon_slug": "division-part-1",
+   "section_question": "Why is unity in the church so important?",
+   "short_answer": "He points to Jesus’ words in Matthew 12:25: every kingdom, city or house divided against itself will not stand. He compares standing to a military taking a stand to defend its country, and says a divided people will lose the war.",
+   "text": "Why is this so important? Why did he take this subject as the first confrontation with this very good church? Didn’t he just describe it as a very good church? Yes, but they’ve got some changing to do, and division is the first one. Now this is why. This is why unity is so important. Are you ready? Matthew 12:25: every kingdom — are we in the kingdom of God? Yes. — every kingdom, every city, every house, every family, and even Satan. Jesus said these words: “If they’re divided against themselves, they will not stand.” See, the word stand means a military — you know, they’re taking a stand to defend their country. And if they’re not in unity, what’s going to happen? They’re going to lose the war. Are we losing the war in America? Yes, we are. We’ve got to admit that so that we can be a part of changing that.",
+   "start_seconds": 691,
+   "end_seconds": 764,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=691s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#q-why-is-unity-important",
+   "paragraphs": [
+    {
+     "start_seconds": 691,
+     "text": "Why is this so important? Why did he take this subject as the first confrontation with this very good church? Didn’t he just describe it as a very good church? Yes, but they’ve got some changing to do, and division is the first one. Now this is why. This is why unity is so important. Are you ready? Matthew 12:25: every kingdom — are we in the kingdom of God? Yes. — every kingdom, every city, every house, every family, and even Satan. Jesus said these words: “If they’re divided against themselves, they will not stand.” See, the word stand means a military — you know, they’re taking a stand to defend their country. And if they’re not in unity, what’s going to happen? They’re going to lose the war. Are we losing the war in America? Yes, we are. We’ve got to admit that so that we can be a part of changing that.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=691s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Matthew 12:25",
+     "translation": "NKJV",
+     "text_nkjv": "But Jesus knew their thoughts, and said to them: “Every kingdom divided against itself is brought to desolation, and every city or house divided against itself will not stand.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+12%3A25&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=720s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": [
+    {
+     "slug": "can-a-divided-home-stand",
+     "title": "Can a divided home still stand?",
+     "url": "https://growonthevine.com/clips/can-a-divided-home-stand/"
+    }
+   ]
+  },
+  {
+   "id": "division-part-1:can-a-divided-home-stand",
+   "type": "section",
+   "sermon_slug": "division-part-1",
+   "section_question": "Can a divided home stand?",
+   "short_answer": "He says no: husband and wife need to stand together in the same truth and the same moral standards, and show their children Jesus in their lives, or the home will not stand. When parents go two different ways, he says, conflict follows and kids cannot wait to get out of the home.",
+   "text": "In the home, is it imperative that the husband and wife stand together with the same truth, the same moral standards? Is it important? And being an example to their children — not just telling their children about Jesus, but showing them in their life. Yes, it is. Why? Or the home isn’t going to stand. See, why do we get divorce in America, even in the Christian church? Because the husband and wife go two different ways. They start getting different beliefs, and then their actions come out of those beliefs, and then there’s conflict in the home. And kids can’t wait to get out of that conflict. They want to get out of home. You know, they’ll do anything. “Send me to college.” “Let me get married.” “I’ll join the military.” “Just get me out of this mess.”\n\nThe unity is very important. And your kids’ parents need to see you in unity around Jesus, around truth — especially the morals of the Bible. Second Coming doesn’t mean a thing to kids. They need to see our moral standards. Amen? They need to see our tongue speaking rightly, our anger curbed. You shall receive what when the Holy Ghost comes upon you? Power. Hallelujah. So are we offered the sources, the solutions? Absolutely. You can’t violate these things.",
+   "start_seconds": 764,
+   "end_seconds": 879,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=764s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#q-can-a-divided-home-stand",
+   "paragraphs": [
+    {
+     "start_seconds": 764,
+     "text": "In the home, is it imperative that the husband and wife stand together with the same truth, the same moral standards? Is it important? And being an example to their children — not just telling their children about Jesus, but showing them in their life. Yes, it is. Why? Or the home isn’t going to stand. See, why do we get divorce in America, even in the Christian church? Because the husband and wife go two different ways. They start getting different beliefs, and then their actions come out of those beliefs, and then there’s conflict in the home. And kids can’t wait to get out of that conflict. They want to get out of home. You know, they’ll do anything. “Send me to college.” “Let me get married.” “I’ll join the military.” “Just get me out of this mess.”",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=764s"
+    },
+    {
+     "start_seconds": 827,
+     "text": "The unity is very important. And your kids’ parents need to see you in unity around Jesus, around truth — especially the morals of the Bible. Second Coming doesn’t mean a thing to kids. They need to see our moral standards. Amen? They need to see our tongue speaking rightly, our anger curbed. You shall receive what when the Holy Ghost comes upon you? Power. Hallelujah. So are we offered the sources, the solutions? Absolutely. You can’t violate these things.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=827s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Matthew 12:25",
+     "translation": "NKJV",
+     "text_nkjv": "But Jesus knew their thoughts, and said to them: “Every kingdom divided against itself is brought to desolation, and every city or house divided against itself will not stand.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+12%3A25&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=720s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Acts 1:8",
+     "translation": "NKJV",
+     "text_nkjv": "But you shall receive power when the Holy Spirit has come upon you; and you shall be witnesses to Me in Jerusalem, and in all Judea and Samaria, and to the end of the earth.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+1%3A8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=856s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": [
+    {
+     "slug": "can-a-divided-home-stand",
+     "title": "Can a divided home still stand?",
+     "url": "https://growonthevine.com/clips/can-a-divided-home-stand/"
+    }
+   ]
+  },
+  {
+   "id": "division-part-1:how-to-handle-disagreements-in-church",
+   "type": "section",
+   "sermon_slug": "division-part-1",
+   "section_question": "How should Christians handle disagreements in the church?",
+   "short_answer": "He says to be joined in the same mind and judgment, and to judge “right judgment” rather than by personal opinion, with decisions backed up by the Word of God, with two or three verses (John 7:24). He also says that when we disagree with something in the church, we should not go tell the whole world, because it weakens the church more.",
+   "text": "And so the church should not be like it is today. “Perfectly joined in the same mind and judgment” — completely joined in the same thought, the same understanding. “Judge not according to appearance,” John 7:24, “but judge” what? Right judgment. Don’t judge for your personal opinion. Make decisions that are right and backed up by the Word of God, with two or three verses. “It’s been declared that there is quarreling, arguments, contentions among you.” And that’s what we do. If we disagree with it, we go out and blab to the world. Isn’t that right? We disagree with something going on in the church or some brother or something, we go out and tell everybody in the world. And it just weakens the church more.",
+   "start_seconds": 879,
+   "end_seconds": 939,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=879s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#q-how-to-handle-disagreements-in-church",
+   "paragraphs": [
+    {
+     "start_seconds": 879,
+     "text": "And so the church should not be like it is today. “Perfectly joined in the same mind and judgment” — completely joined in the same thought, the same understanding. “Judge not according to appearance,” John 7:24, “but judge” what? Right judgment. Don’t judge for your personal opinion. Make decisions that are right and backed up by the Word of God, with two or three verses. “It’s been declared that there is quarreling, arguments, contentions among you.” And that’s what we do. If we disagree with it, we go out and blab to the world. Isn’t that right? We disagree with something going on in the church or some brother or something, we go out and tell everybody in the world. And it just weakens the church more.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=879s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 1:10",
+     "translation": "NKJV",
+     "text_nkjv": "Now I plead with you, brethren, by the name of our Lord Jesus Christ, that you all speak the same thing, and that there be no divisions among you, but that you be perfectly joined together in the same mind and in the same judgment.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=879s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "John 7:24",
+     "translation": "NKJV",
+     "text_nkjv": "Do not judge according to appearance, but judge with righteous judgment.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=John+7%3A24&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=890s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "1 Corinthians 1:11",
+     "translation": "NKJV",
+     "text_nkjv": "For it has been declared to me concerning you, my brethren, by those of Chloe’s household, that there are contentions among you.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=908s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "division-part-1:who-should-we-follow",
+   "type": "section",
+   "sermon_slug": "division-part-1",
+   "section_question": "Who should we follow — a pastor, a denomination, or Christ?",
+   "short_answer": "Of the four groups in Corinth (“I’m of Paul,” “of Apollos,” “of Peter,” “of Christ”), he says only the Christ group is right. He says our unity comes from Christ, who is one with the Father and the Scriptures, not from a church name, a church group or a minister, and he asks whether the Pope, priests, Pentecostals or Baptists can save anyone. His answer is no.",
+   "text": "Okay, here’s the focus of the division. One says, “I’m of Paul.” One says, “I’m of Apollos.” One says, “I’m of Peter.” And one says, “I’m of Christ.” You’ve got four groups here and only one is right. Can you rationally, reasonably, logically tell me which group is right? Yeah, the Christ group. Hallelujah. And he explains it: is Christ divided? See, is Christ one with the Father? Is Christ one with the Scriptures? Is he united with the Father and the Scriptures? Yes. So where do I find my source of unity? In Christ, and me being like him, in unity with God and in unity with the Spirit. Not my church’s opinions, not my opinions, but Christ, in unity with his Father and in unity with the Scriptures.\n\nHe says, “Was Paul bap— crucified for you?” See, was the Pope crucified for Catholics? Can the Pope save Catholics? No. Can their priests save Catholics? Can Pentecostals who speak in tongues save Pentecostals? No. Can the Baptists, who say tongues aren’t for today — and the baptism of the Holy Ghost, as we know it in Acts chapter 2 — can they save people? No. Is his argument good? Yes. So what he’s saying is, that last group is the right group. They’re focused on Christ, who can do something. Not their church name, not their church group, not some minister. It isn’t Schuller or Oral Roberts [unclear] or somebody. It is Christ and the Scriptures.",
+   "start_seconds": 939,
+   "end_seconds": 1069,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=939s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#q-who-should-we-follow",
+   "paragraphs": [
+    {
+     "start_seconds": 939,
+     "text": "Okay, here’s the focus of the division. One says, “I’m of Paul.” One says, “I’m of Apollos.” One says, “I’m of Peter.” And one says, “I’m of Christ.” You’ve got four groups here and only one is right. Can you rationally, reasonably, logically tell me which group is right? Yeah, the Christ group. Hallelujah. And he explains it: is Christ divided? See, is Christ one with the Father? Is Christ one with the Scriptures? Is he united with the Father and the Scriptures? Yes. So where do I find my source of unity? In Christ, and me being like him, in unity with God and in unity with the Spirit. Not my church’s opinions, not my opinions, but Christ, in unity with his Father and in unity with the Scriptures.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=939s"
+    },
+    {
+     "start_seconds": 1011,
+     "text": "He says, “Was Paul bap— crucified for you?” See, was the Pope crucified for Catholics? Can the Pope save Catholics? No. Can their priests save Catholics? Can Pentecostals who speak in tongues save Pentecostals? No. Can the Baptists, who say tongues aren’t for today — and the baptism of the Holy Ghost, as we know it in Acts chapter 2 — can they save people? No. Is his argument good? Yes. So what he’s saying is, that last group is the right group. They’re focused on Christ, who can do something. Not their church name, not their church group, not some minister. It isn’t Schuller or Oral Roberts [unclear] or somebody. It is Christ and the Scriptures.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1011s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 1:12-13",
+     "translation": "NKJV",
+     "text_nkjv": "Now I say this, that each of you says, “I am of Paul,” or “I am of Apollos,” or “I am of Cephas,” or “I am of Christ.” Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A12-13&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=942s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": [
+    {
+     "slug": "is-christ-divided",
+     "title": "Who was really crucified for you?",
+     "url": "https://growonthevine.com/clips/is-christ-divided/"
+    }
+   ]
+  },
+  {
+   "id": "division-part-1:is-jesus-the-only-way-to-god",
+   "type": "section",
+   "sermon_slug": "division-part-1",
+   "section_question": "Is Jesus the only way to God, or do all religions lead to the same God?",
+   "short_answer": "He says it is not all the same road to the same God. He points to Mormons re-baptizing converts and Muslims saying Christ did not die on the cross, says neither group believes Jesus is God, and says wanting everybody to be okay “makes Jesus a liar.” For him, “Jesus is God. If you know Jesus, you know God.”",
+   "text": "“Were you baptized in Paul’s name?” You see, I’m going to be making a statement later in this message about Mormons and Muslims. And the reason I know they’re not Christian is, Mormons, if you join their group, you have to get re-baptized. See, if they were Christians, they wouldn’t have to re-baptize us. I mean, if somebody’s baptized in the Baptist church or the Presbyterian church, I don’t get them re-baptized. Christ died how many times? Once. And besides, Satan definitely was not Jesus’s brother. And the Holy Ghost don’t make a mistake [unclear] polygamy and then have to change it. If an angel said something — angels don’t make mistakes. Muslims say that Christ did not die on the cross. Well, you just threw the whole Bible out. He said in the Old Testament he would die; in the New Testament it showed him dying. So it’s not all the same road to the same God, is it?\n\nAnd that’s what a lot of these young people that are blaming the church are wanting. They’re wanting everybody to be okay. That makes Jesus a liar. Hallelujah. And is Jesus God? See, the Mormons don’t believe that, and neither do the Muslims, and that’s a big problem. Jesus is God. If you know Jesus, you know God.",
+   "start_seconds": 1069,
+   "end_seconds": 1193,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1069s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#q-is-jesus-the-only-way-to-god",
+   "paragraphs": [
+    {
+     "start_seconds": 1069,
+     "text": "“Were you baptized in Paul’s name?” You see, I’m going to be making a statement later in this message about Mormons and Muslims. And the reason I know they’re not Christian is, Mormons, if you join their group, you have to get re-baptized. See, if they were Christians, they wouldn’t have to re-baptize us. I mean, if somebody’s baptized in the Baptist church or the Presbyterian church, I don’t get them re-baptized. Christ died how many times? Once. And besides, Satan definitely was not Jesus’s brother. And the Holy Ghost don’t make a mistake [unclear] polygamy and then have to change it. If an angel said something — angels don’t make mistakes. Muslims say that Christ did not die on the cross. Well, you just threw the whole Bible out. He said in the Old Testament he would die; in the New Testament it showed him dying. So it’s not all the same road to the same God, is it?",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1069s"
+    },
+    {
+     "start_seconds": 1157,
+     "text": "And that’s what a lot of these young people that are blaming the church are wanting. They’re wanting everybody to be okay. That makes Jesus a liar. Hallelujah. And is Jesus God? See, the Mormons don’t believe that, and neither do the Muslims, and that’s a big problem. Jesus is God. If you know Jesus, you know God.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1157s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 1:12-13",
+     "translation": "NKJV",
+     "text_nkjv": "Now I say this, that each of you says, “I am of Paul,” or “I am of Apollos,” or “I am of Cephas,” or “I am of Christ.” Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A12-13&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1069s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "division-part-1:does-it-matter-who-baptized-you",
+   "type": "section",
+   "sermon_slug": "division-part-1",
+   "section_question": "Does it matter who baptized you?",
+   "short_answer": "He says no: Paul baptized only a few people so no one could say he baptized in his own name, so we should focus on Jesus rather than on the person or church group that baptized us. He sums up Paul’s three statements: follow and imitate Jesus, focus on Jesus, and preach Christ, his gospel and the cross, where the power of God is.",
+   "text": "So, number one statement: follow and imitate Jesus, not a minister’s or a church group. Because Jesus is in unity with God. He is sinless. He died for us. He cleansed us from sin through water baptism. You see, Muslims don’t baptize in water. They have a purification ceremony. Jesus went down to the river and was what? Baptized. People were baptized — submerged in water. And Paul — uh, John the Baptist — said for the what? Remission of sin, the cleansing, the forgiveness of sin. And, church, that makes them wrong, and we can’t just overlook that, can we? We can’t change the Scriptures. Are you there? “All speak the same thing.”\n\nPaul baptized only three people to avoid that he baptized in his own name. So the second statement is, we’re not to focus on the person or the church group that baptized you. We’ve got to focus on who? Jesus. It’s almost identical to the second, first statement Paul made. Number three, Paul’s statement: preach Christ, preach his gospel, and preach the cross, for that’s where what is? Yeah — you want the power of God.",
+   "start_seconds": 1193,
+   "end_seconds": 1309,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1193s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#q-does-it-matter-who-baptized-you",
+   "paragraphs": [
+    {
+     "start_seconds": 1193,
+     "text": "So, number one statement: follow and imitate Jesus, not a minister’s or a church group. Because Jesus is in unity with God. He is sinless. He died for us. He cleansed us from sin through water baptism. You see, Muslims don’t baptize in water. They have a purification ceremony. Jesus went down to the river and was what? Baptized. People were baptized — submerged in water. And Paul — uh, John the Baptist — said for the what? Remission of sin, the cleansing, the forgiveness of sin. And, church, that makes them wrong, and we can’t just overlook that, can we? We can’t change the Scriptures. Are you there? “All speak the same thing.”",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1193s"
+    },
+    {
+     "start_seconds": 1258,
+     "text": "Paul baptized only three people to avoid that he baptized in his own name. So the second statement is, we’re not to focus on the person or the church group that baptized you. We’ve got to focus on who? Jesus. It’s almost identical to the second, first statement Paul made. Number three, Paul’s statement: preach Christ, preach his gospel, and preach the cross, for that’s where what is? Yeah — you want the power of God.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1258s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 1:14-18",
+     "translation": "NKJV",
+     "text_nkjv": "I thank God that I baptized none of you except Crispus and Gaius, lest anyone should say that I had baptized in my own name. Yes, I also baptized the household of Stephanas. Besides, I do not know whether I baptized any other. For Christ did not send me to baptize, but to preach the gospel, not with wisdom of words, lest the cross of Christ should be made of no effect. For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A14-18&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1258s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "division-part-1:new-and-older-believers-together",
+   "type": "section",
+   "sermon_slug": "division-part-1",
+   "section_question": "Can new believers and long-time Christians worship in the same meeting?",
+   "short_answer": "He says yes. At a dinner table you can serve milk along with meat and mashed potatoes without a different supper for each age, and in the same way “we can have it all in one setting.”",
+   "text": "And they say, well, you know, you can’t have new believers and old believers in the same meeting, in this new book. Folks, how many know, at a dinner table, you can serve milk along with meat and mashed potatoes? You don’t have to have, you know, a different supper for your four-year-old, and then a different supper for your adolescent, and then, you know, a real supper for the 30-year-old. I mean, we can have it all in one setting.",
+   "start_seconds": 1309,
+   "end_seconds": 1364,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1309s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#q-new-and-older-believers-together",
+   "paragraphs": [
+    {
+     "start_seconds": 1309,
+     "text": "And they say, well, you know, you can’t have new believers and old believers in the same meeting, in this new book. Folks, how many know, at a dinner table, you can serve milk along with meat and mashed potatoes? You don’t have to have, you know, a different supper for your four-year-old, and then a different supper for your adolescent, and then, you know, a real supper for the 30-year-old. I mean, we can have it all in one setting.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1309s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  }
+ ],
+ "faqs": [
+  {
+   "id": "division-part-1:is-the-75-percent-statistic-new",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "Is it true that 75% of young people leave church after high school?",
+   "answer": "He says that statistic is not new. It “has always been there since I’ve been a Christian,” he says, and it was a little higher, 80-some percent, so “we gained some ground.”",
+   "start_seconds": 40,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=40s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-is-the-75-percent-statistic-new",
+   "scriptures": []
+  },
+  {
+   "id": "division-part-1:what-does-baptism-in-the-holy-ghost-give-you",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "What does the baptism of the Holy Ghost give you?",
+   "answer": "He says you would receive power, not “tongues and prophecy”: the “supernatural ability to make good decisions, right decisions, wise decisions.” He also says the Holy Spirit will give you the nature of God and the truth of the Scriptures until you know them.",
+   "start_seconds": 91,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=91s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-what-does-baptism-in-the-holy-ghost-give-you",
+   "scriptures": [
+    {
+     "ref": "Acts 1:8",
+     "translation": "NKJV",
+     "text_nkjv": "But you shall receive power when the Holy Spirit has come upon you; and you shall be witnesses to Me in Jerusalem, and in all Judea and Samaria, and to the end of the earth.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+1%3A8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=129s",
+     "quoted_without_naming_reference": true
+    }
+   ]
+  },
+  {
+   "id": "division-part-1:where-can-young-people-learn-science-and-the-bible",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "Where can young people learn about science and the Bible?",
+   "answer": "He says there are movies, DVDs, pamphlets and books on the issue that you can read yourself. He adds that the church cannot get up every Sunday and talk about science in the Bible.",
+   "start_seconds": 173,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=173s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-where-can-young-people-learn-science-and-the-bible",
+   "scriptures": []
+  },
+  {
+   "id": "division-part-1:why-do-christians-lose-excitement-for-church",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "Why do some Christians lose their excitement for church?",
+   "answer": "He says David was excited to go to the house of the Lord (Psalm 122:1), but a lot of Christians have lost that. He says some are late because they do not want to spend more minutes in church than they have to, “or we just lost our desire for Jesus.”",
+   "start_seconds": 222,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=222s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-why-do-christians-lose-excitement-for-church",
+   "scriptures": [
+    {
+     "ref": "Psalm 122:1",
+     "translation": "NKJV",
+     "text_nkjv": "I was glad when they said to me, “Let us go into the house of the LORD.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Psalm+122%3A1&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=280s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "division-part-1:can-the-church-change-the-bible-to-match-public-opinion",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "Can the church change the Bible to match public opinion?",
+   "answer": "He says no. “You can’t change the Scriptures because public policy says that these things are okay,” and the church has to preach the Bible whether young people like it or not.",
+   "start_seconds": 356,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=356s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-can-the-church-change-the-bible-to-match-public-opinion",
+   "scriptures": []
+  },
+  {
+   "id": "division-part-1:does-wearing-a-suit-matter-in-church",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "Does wearing a suit matter in church?",
+   "answer": "He says no. He wore a suit for two months because the book said suits turn young people off, but “a suit does not change me in any way or any shape,” and “people don’t come to church because you wear a suit.”",
+   "start_seconds": 413,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=413s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-does-wearing-a-suit-matter-in-church",
+   "scriptures": []
+  },
+  {
+   "id": "division-part-1:what-does-a-big-mac-have-to-do-with-church",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "What does a Big Mac have to do with church?",
+   "answer": "He says a Big Mac is identical in Salvador, Brazil, Korea, China and every state: “They didn’t change the Big Mac.” In the same way, he says, the Holy Ghost, salvation, righteousness and holy living should be preached the same in every church, but in America “we confuse everybody.”",
+   "start_seconds": 566,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=566s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-what-does-a-big-mac-have-to-do-with-church",
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 1:10",
+     "translation": "NKJV",
+     "text_nkjv": "Now I plead with you, brethren, by the name of our Lord Jesus Christ, that you all speak the same thing, and that there be no divisions among you, but that you be perfectly joined together in the same mind and in the same judgment.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=559s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "division-part-1:why-did-paul-confront-division-first",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "Why did Paul confront division first in the Corinthian church?",
+   "answer": "He notes that Paul had just described the Corinthians as a very good church, yet division was the first thing he corrected. The reason, he says, is Jesus’ words in Matthew 12:25: a divided kingdom, city or house will not stand, and a divided people loses the war.",
+   "start_seconds": 691,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=691s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-why-did-paul-confront-division-first",
+   "scriptures": [
+    {
+     "ref": "Matthew 12:25",
+     "translation": "NKJV",
+     "text_nkjv": "But Jesus knew their thoughts, and said to them: “Every kingdom divided against itself is brought to desolation, and every city or house divided against itself will not stand.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+12%3A25&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=720s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "division-part-1:why-do-marriages-fall-apart-even-in-the-church",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "Why do marriages fall apart, even in the church?",
+   "answer": "He says it happens when husband and wife go two different ways. They start getting different beliefs, their actions come out of those beliefs, and then there is conflict in the home. He says a husband and wife need to stand together in the same truth and moral standards.",
+   "start_seconds": 764,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=764s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-why-do-marriages-fall-apart-even-in-the-church",
+   "scriptures": []
+  },
+  {
+   "id": "division-part-1:how-can-parents-show-their-children-jesus",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "How can parents show their children Jesus?",
+   "answer": "He says children need to see it lived, not just hear it: “not just telling their children about Jesus, but showing them in their life.” They need to see their parents in unity around Jesus and truth, especially the morals of the Bible, with their tongue speaking rightly and their anger curbed.",
+   "start_seconds": 827,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=827s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-how-can-parents-show-their-children-jesus",
+   "scriptures": [
+    {
+     "ref": "Acts 1:8",
+     "translation": "NKJV",
+     "text_nkjv": "But you shall receive power when the Holy Spirit has come upon you; and you shall be witnesses to Me in Jerusalem, and in all Judea and Samaria, and to the end of the earth.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+1%3A8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=856s",
+     "quoted_without_naming_reference": true
+    }
+   ]
+  },
+  {
+   "id": "division-part-1:should-i-tell-people-when-i-disagree-with-my-church",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "Should I tell people when I disagree with something at church?",
+   "answer": "He says that when we disagree with something going on in the church or with some brother, we go out and tell everybody in the world, “and it just weakens the church more.” He points instead to making decisions that are right and backed up by the Word of God (John 7:24).",
+   "start_seconds": 879,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=879s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-should-i-tell-people-when-i-disagree-with-my-church",
+   "scriptures": [
+    {
+     "ref": "John 7:24",
+     "translation": "NKJV",
+     "text_nkjv": "Do not judge according to appearance, but judge with righteous judgment.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=John+7%3A24&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=890s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "1 Corinthians 1:11",
+     "translation": "NKJV",
+     "text_nkjv": "For it has been declared to me concerning you, my brethren, by those of Chloe’s household, that there are contentions among you.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=908s",
+     "quoted_without_naming_reference": true
+    }
+   ]
+  },
+  {
+   "id": "division-part-1:what-does-i-am-of-paul-i-am-of-apollos-mean",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "What does “I am of Paul, I am of Apollos, I am of Christ” mean?",
+   "answer": "He explains that in Corinth there were four groups, “I’m of Paul,” “of Apollos,” “of Peter,” and “of Christ,” and only one is right: the Christ group. Paul asks “Is Christ divided?” and he says our unity is in Christ, in unity with his Father and the Scriptures, not in our church’s opinions or our own.",
+   "start_seconds": 939,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=939s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-what-does-i-am-of-paul-i-am-of-apollos-mean",
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 1:12-13",
+     "translation": "NKJV",
+     "text_nkjv": "Now I say this, that each of you says, “I am of Paul,” or “I am of Apollos,” or “I am of Cephas,” or “I am of Christ.” Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A12-13&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=942s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "division-part-1:can-a-pope-priest-or-denomination-save-you",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "Can a pope, a priest or a denomination save you?",
+   "answer": "He uses Paul’s question, was Paul crucified for you, to ask whether the Pope can save Catholics, whether Pentecostals who speak in tongues can save Pentecostals, and whether Baptists can save people. His answer is no. He says the focus is “Christ and the Scriptures,” not a church name, a church group or some minister.",
+   "start_seconds": 1011,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1011s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-can-a-pope-priest-or-denomination-save-you",
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 1:12-13",
+     "translation": "NKJV",
+     "text_nkjv": "Now I say this, that each of you says, “I am of Paul,” or “I am of Apollos,” or “I am of Cephas,” or “I am of Christ.” Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A12-13&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1011s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "division-part-1:is-jesus-god",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "Is Jesus God?",
+   "answer": "He says yes: “Jesus is God. If you know Jesus, you know God.” He says the Mormons do not believe that, and neither do the Muslims, “and that’s a big problem.”",
+   "start_seconds": 1157,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1157s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-is-jesus-god",
+   "scriptures": []
+  },
+  {
+   "id": "division-part-1:what-is-water-baptism-for",
+   "type": "faq",
+   "sermon_slug": "division-part-1",
+   "question": "What does he say water baptism is for?",
+   "answer": "He says Jesus cleansed us from sin through water baptism. He points to Jesus going down to the river and being baptized, with people baptized, “submerged in water,” and says John baptized for the remission of sin, “the cleansing, the forgiveness of sin.”",
+   "start_seconds": 1193,
+   "video_url_at_time": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1193s",
+   "page_anchor_url": "https://growonthevine.com/messages/division-part-1/#faq-what-is-water-baptism-for",
+   "scriptures": []
+  }
+ ]
+}
