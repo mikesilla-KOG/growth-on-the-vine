@@ -974,8 +974,13 @@ main { flex: 1; width: 100%; }
    unchanged. Long reading text keeps a ~75ch line length.
    ===================================================================== */
 @media (min-width: 900px) {
-  /* home: clip cards use as many columns as fit */
-  .clip-list { grid-template-columns: repeat(auto-fill, minmax(min(100%, 19rem), 1fr)); }
+  /* home: clip cards use as many columns as fit. In a multi-column grid each card is narrow, so the
+     card stacks (thumbnail above text) instead of the side-by-side layout used in a single wide column
+     (<900px). Side-by-side needs ~280px for the thumbnail alone and squeezed the text into a sliver. */
+  .clip-list { grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr)); align-items: stretch; }
+  .clip-list > .clip-card { grid-template-columns: minmax(0, 1fr); align-items: start; align-content: start; min-width: 0; }
+  .clip-list > .clip-card .clip-card-media { width: 100%; }
+  .clip-list > .clip-card .clip-card-body { display: block; padding: 0 1.25rem 1.35rem; min-width: 0; overflow-wrap: anywhere; }
 }
 @media (min-width: 1200px) {
   :root { --wide: 1120px; --pad-x: clamp(1.5rem, 3vw, 3rem); }
