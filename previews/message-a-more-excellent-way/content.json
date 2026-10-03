@@ -1,0 +1,985 @@
+{
+ "schema_version": 1,
+ "sermon": {
+  "slug": "a-more-excellent-way",
+  "title": "A More Excellent Way",
+  "series": "Single message",
+  "series_part": "Full sermon",
+  "speaker": "Pastor David G. Kincer",
+  "church": "Vine Cluster Church",
+  "video_id": "nD9oDfikXQ0",
+  "video_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0",
+  "upload_date": "2014-06-18",
+  "duration_seconds": 1759,
+  "language": "en",
+  "page_url": "https://growonthevine.com/messages/a-more-excellent-way/",
+  "status": "preview",
+  "summary": "In “A More Excellent Way,” preached March 25, 2012, Pastor David G. Kincer teaches from 1 Corinthians 12:31–13:13 that love is the more excellent way to the spiritual manifestations. Without love, he says, tongues, prophecy, knowledge, faith, giving and even martyrdom are worth nothing. He defines love from 1 Corinthians 13, says everyone in the church has a part and must grow up out of childish things, and says the goal of the commandment is love out of a pure heart.",
+  "transcript_source": "This transcript comes from YouTube’s automatic English captions, which supply the timing and the words, and a Whisper speech-to-text pass of the same audio, which settled punctuation and several words the captions got wrong; the Whisper pass skipped some stretches, where the captions alone were used. Punctuation, paragraphing and obvious caption errors were cleaned; his wording was not rewritten. “[unclear]” marks a word or name that was not clear. The video ends mid-applause. The message was preached March 25, 2012 and uploaded to YouTube June 18, 2014.",
+  "brand": "Grow on the Vine"
+ },
+ "bible_translation": {
+  "code": "NKJV",
+  "notice": "Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved."
+ },
+ "chunks": [
+  {
+   "id": "a-more-excellent-way:what-does-a-more-excellent-way-mean-in-1-corinthians-12-13",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "What does “a more excellent way” mean in 1 Corinthians 12–13?",
+   "short_answer": "He says Paul ends 1 Corinthians 12 by saying he will show a more excellent, more superior way to get spiritual manifestations, and that way is love. Without love, he says, tongues of men and angels are like a clanging cymbal, and prophecy, knowledge and all faith without love leave you “nothing.” He gives the man of God in 1 Kings 13 and Solomon as people who had the message or the wisdom but not the love.",
+   "text": "And today we’re going to look at this subject, love, the more excellent way to spiritual manifestations. Remember, in 1 Corinthians 12:31, Paul ended that chapter by saying, “Desire the best gifts, and I will show you a more excellent, more superior way to get spiritual manifestations.” And then in 1 Corinthians 13:1 he says, “Though, or if, I speak with tongues of men and angels, but have not love, I am become a sounding brass or a clanging cymbal.” And if I had someone over there just clang the cymbals together, you know, in about thirty seconds you would go, “You’re driving me nuts. What’s the point?” See, cymbals without anything around them are worthless. And he says that’s people that speak with tongues of men. He describes two kinds of languages here. Tongues is nothing but languages. There’s languages of men, like they spoke on the day of Pentecost, and there are languages of angels. But the key is, love is more important than both of those.\n\nIn verse two, he says, “If I have prophecy, understand all mysteries, all knowledge, and have all faith, so I could remove mountains, but have not love, I am nothing.” I am worthless. I am zero.\n\nNow, remember in 1 Kings 13, when the man of God was chosen by God to take a message to the king of Israel, Jeroboam, that God was going to disrespect the bones of the very leaders who chose to worship God out of his method? They used an improper method to worship God. And he told that prophet, “You go and you give the message, and you don’t tarry; you turn around and you come back. Do not stay there.” Well, he gave the great message. He even gave the name of the guy that was going to do it: Josiah is going to come and he’s going to, you know, desecrate the bones of these people that worship God wrongly. And you can worship God wrongly. But he didn’t listen. He let one of those lion prophets talk to him into staying. And so when he did leave, a lion got him and killed him.\n\nSee, love is to obey God. He had the message, but he didn’t have the love. Solomon had the wisdom and mysteries and knowledge of everything, but in his last years he let his wives, which he had many of, hundreds, thousands altogether, lead him away from God, and his heart wasn’t right before God.",
+   "start_seconds": 0,
+   "end_seconds": 162,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=0s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-what-does-a-more-excellent-way-mean-in-1-corinthians-12-13",
+   "paragraphs": [
+    {
+     "start_seconds": 0,
+     "text": "And today we’re going to look at this subject, love, the more excellent way to spiritual manifestations. Remember, in 1 Corinthians 12:31, Paul ended that chapter by saying, “Desire the best gifts, and I will show you a more excellent, more superior way to get spiritual manifestations.” And then in 1 Corinthians 13:1 he says, “Though, or if, I speak with tongues of men and angels, but have not love, I am become a sounding brass or a clanging cymbal.” And if I had someone over there just clang the cymbals together, you know, in about thirty seconds you would go, “You’re driving me nuts. What’s the point?” See, cymbals without anything around them are worthless. And he says that’s people that speak with tongues of men. He describes two kinds of languages here. Tongues is nothing but languages. There’s languages of men, like they spoke on the day of Pentecost, and there are languages of angels. But the key is, love is more important than both of those.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=0s"
+    },
+    {
+     "start_seconds": 72,
+     "text": "In verse two, he says, “If I have prophecy, understand all mysteries, all knowledge, and have all faith, so I could remove mountains, but have not love, I am nothing.” I am worthless. I am zero.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=72s"
+    },
+    {
+     "start_seconds": 87,
+     "text": "Now, remember in 1 Kings 13, when the man of God was chosen by God to take a message to the king of Israel, Jeroboam, that God was going to disrespect the bones of the very leaders who chose to worship God out of his method? They used an improper method to worship God. And he told that prophet, “You go and you give the message, and you don’t tarry; you turn around and you come back. Do not stay there.” Well, he gave the great message. He even gave the name of the guy that was going to do it: Josiah is going to come and he’s going to, you know, desecrate the bones of these people that worship God wrongly. And you can worship God wrongly. But he didn’t listen. He let one of those lion prophets talk to him into staying. And so when he did leave, a lion got him and killed him.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=87s"
+    },
+    {
+     "start_seconds": 138,
+     "text": "See, love is to obey God. He had the message, but he didn’t have the love. Solomon had the wisdom and mysteries and knowledge of everything, but in his last years he let his wives, which he had many of, hundreds, thousands altogether, lead him away from God, and his heart wasn’t right before God.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=138s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 12:31",
+     "translation": "NKJV",
+     "text_nkjv": "But earnestly desire the best gifts. And yet I show you a more excellent way.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+12%3A31&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=11s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "1 Corinthians 13:1",
+     "translation": "NKJV",
+     "text_nkjv": "Though I speak with the tongues of men and of angels, but have not love, I have become sounding brass or a clanging cymbal.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A1&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=21s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "1 Corinthians 13:2",
+     "translation": "NKJV",
+     "text_nkjv": "And though I have the gift of prophecy, and understand all mysteries and all knowledge, and though I have all faith, so that I could remove mountains, but have not love, I am nothing.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A2&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=72s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "1 Kings 13:1-2",
+     "translation": "NKJV",
+     "text_nkjv": "And behold, a man of God went from Judah to Bethel by the word of the LORD, and Jeroboam stood by the altar to burn incense. Then he cried out against the altar by the word of the LORD, and said, “O altar, altar! Thus says the LORD: ‘Behold, a child, Josiah by name, shall be born to the house of David; and on you he shall sacrifice the priests of the high places who burn incense on you, and men’s bones shall be burned on you.’ ”",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Kings+13%3A1-2&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=87s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "a-more-excellent-way:what-did-jesus-mean-by-i-never-knew-you",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "What did Jesus mean when He said “I never knew you”?",
+   "short_answer": "He reads Matthew 7:22, where many say “Lord, Lord, have we not prophesied in your name,” and says they had faith and the spiritual manifestations were working in them. Jesus still said, “I never knew you,” and he says, “You might have been used of God to do things, but you missed the important thing, and that is love.” He adds that Jesus used moving a mountain as a metaphor, and Paul says that even if you could and do not have love, “you are zero.”",
+   "text": "See, all this without love, Paul says, is worthless, if I have all faith. And in Matthew 7:22, remember Jesus said, “Many will come to me in that day” and said, “Lord, Lord, have we not prophesied in your name, cast out devils in your name, and in your day, and done many mighty works and many mighty miracles?” See, they had faith to do all these things, and these gifts and these spiritual manifestations were working in them. And Jesus said, “I will say to them, I never knew you. Depart from me, you workers of iniquity.” You see, you didn’t have love. You might have been used of God to do things, but you missed the important thing, and that is love. Are you with me? Hallelujah.\n\nAnd he says, and he quotes this, you could remove mountains. Jesus used that in Matthew. He said, “If you say to this mountain” — if you believe and say to this mountain, “Be removed, cast into the sea,” and not doubt in your heart, that mountain will be removed and go into the sea. Jesus used that as a metaphor, as an illustration. Believe me, there’s no mountains being moved by anybody. But Paul used it to say, even if you could, and you don’t have love, you are zero.",
+   "start_seconds": 162,
+   "end_seconds": 235,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=162s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-what-did-jesus-mean-by-i-never-knew-you",
+   "paragraphs": [
+    {
+     "start_seconds": 162,
+     "text": "See, all this without love, Paul says, is worthless, if I have all faith. And in Matthew 7:22, remember Jesus said, “Many will come to me in that day” and said, “Lord, Lord, have we not prophesied in your name, cast out devils in your name, and in your day, and done many mighty works and many mighty miracles?” See, they had faith to do all these things, and these gifts and these spiritual manifestations were working in them. And Jesus said, “I will say to them, I never knew you. Depart from me, you workers of iniquity.” You see, you didn’t have love. You might have been used of God to do things, but you missed the important thing, and that is love. Are you with me? Hallelujah.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=162s"
+    },
+    {
+     "start_seconds": 204,
+     "text": "And he says, and he quotes this, you could remove mountains. Jesus used that in Matthew. He said, “If you say to this mountain” — if you believe and say to this mountain, “Be removed, cast into the sea,” and not doubt in your heart, that mountain will be removed and go into the sea. Jesus used that as a metaphor, as an illustration. Believe me, there’s no mountains being moved by anybody. But Paul used it to say, even if you could, and you don’t have love, you are zero.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=204s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Matthew 7:22-23",
+     "translation": "NKJV",
+     "text_nkjv": "Many will say to Me in that day, ‘Lord, Lord, have we not prophesied in Your name, cast out demons in Your name, and done many wonders in Your name?’ And then I will declare to them, ‘I never knew you; depart from Me, you who practice lawlessness!’",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+7%3A22-23&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=162s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Matthew 21:21",
+     "translation": "NKJV",
+     "text_nkjv": "So Jesus answered and said to them, “Assuredly, I say to you, if you have faith and do not doubt, you will not only do what was done to the fig tree, but also if you say to this mountain, ‘Be removed and be cast into the sea,’ it will be done.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+21%3A21&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=207s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": [
+    {
+     "slug": "i-never-knew-you",
+     "title": "I Never Knew You",
+     "url": "https://growonthevine.com/clips/i-never-knew-you/"
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:do-good-works-and-sacrifice-count-without-love",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "Do good works and sacrifice count if you don’t have love?",
+   "short_answer": "He says that if you give all your goods to feed the hungry or give your body to be burned and have not love, “it profits me nothing.” He says Judas wanted a humanitarian program rather than a Jesus program, and that “ministering to Jesus is above alms and helping the poor.” He adds that we can give our bodies for religion and our beliefs, and it can benefit us nothing.",
+   "text": "And then he says in verse three, “If I bestow all my goods to feed those that are hungry, and I give my body to be burned” — I die, I become a martyr — “and have not love, it profits me nothing.” It benefits me nothing. Judas was one. Mary came in and she anointed Jesus’s feet with alabaster perfume, and Judas said, “Oh man, this stuff could be sold and it could be given to the poor.” The Bible even says there he didn’t care about the poor. He just wanted a humanitarian program. He wanted social programs rather than a Jesus program. This woman was ministering unto Jesus. And we all like social programs above ministering-to-Jesus programs. We think we’re really doing great when we’re helping people. But if you don’t have the Jesus program in your life, all your humanitarian things are worthless. Are you with me?\n\nAnd you remember the disciples, in Matthew 26, when they saw the woman pour the ointment on Jesus’s head, they said the same thing. In fact, they had indignation, and they said, “What purpose is this waste? This could have been sold and we could have given the money to the poor.” And Jesus says, “What’s the matter with you guys? This woman’s anointing me for my burial, and this act that she’s doing will be remembered all around the world.” And God put it in the Scriptures. Why? Ministering to Jesus is above alms and helping the poor and giving clothing. Are you with me?\n\nSee, if we don’t have love, we’re missing it. And the Jews would die for their temple and their traditions. And not only the Jews, but a couple of guys in the Bible, Theudas and Judas, in Acts, the Bible says they caused insurrection against the Roman Empire. And they claimed to be a prophet, one of them, and got the people to follow them, and the Romans killed them. See, they died a worthless death. Why? Because that was God’s timing for the Jews at that time to be under Roman, the Roman Empire. And we can give our bodies for religion and our beliefs, and it can benefit us nothing.",
+   "start_seconds": 235,
+   "end_seconds": 384,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=235s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-do-good-works-and-sacrifice-count-without-love",
+   "paragraphs": [
+    {
+     "start_seconds": 235,
+     "text": "And then he says in verse three, “If I bestow all my goods to feed those that are hungry, and I give my body to be burned” — I die, I become a martyr — “and have not love, it profits me nothing.” It benefits me nothing. Judas was one. Mary came in and she anointed Jesus’s feet with alabaster perfume, and Judas said, “Oh man, this stuff could be sold and it could be given to the poor.” The Bible even says there he didn’t care about the poor. He just wanted a humanitarian program. He wanted social programs rather than a Jesus program. This woman was ministering unto Jesus. And we all like social programs above ministering-to-Jesus programs. We think we’re really doing great when we’re helping people. But if you don’t have the Jesus program in your life, all your humanitarian things are worthless. Are you with me?",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=235s"
+    },
+    {
+     "start_seconds": 298,
+     "text": "And you remember the disciples, in Matthew 26, when they saw the woman pour the ointment on Jesus’s head, they said the same thing. In fact, they had indignation, and they said, “What purpose is this waste? This could have been sold and we could have given the money to the poor.” And Jesus says, “What’s the matter with you guys? This woman’s anointing me for my burial, and this act that she’s doing will be remembered all around the world.” And God put it in the Scriptures. Why? Ministering to Jesus is above alms and helping the poor and giving clothing. Are you with me?",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=298s"
+    },
+    {
+     "start_seconds": 334,
+     "text": "See, if we don’t have love, we’re missing it. And the Jews would die for their temple and their traditions. And not only the Jews, but a couple of guys in the Bible, Theudas and Judas, in Acts, the Bible says they caused insurrection against the Roman Empire. And they claimed to be a prophet, one of them, and got the people to follow them, and the Romans killed them. See, they died a worthless death. Why? Because that was God’s timing for the Jews at that time to be under Roman, the Roman Empire. And we can give our bodies for religion and our beliefs, and it can benefit us nothing.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=334s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 13:3",
+     "translation": "NKJV",
+     "text_nkjv": "And though I bestow all my goods to feed the poor, and though I give my body to be burned, but have not love, it profits me nothing.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A3&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=235s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "John 12:4-6",
+     "translation": "NKJV",
+     "text_nkjv": "But one of His disciples, Judas Iscariot, Simon’s son, who would betray Him, said, “Why was this fragrant oil not sold for three hundred denarii and given to the poor?” This he said, not that he cared for the poor, but because he was a thief, and had the money box; and he used to take what was put in it.",
+     "source_url": "https://www.biblegateway.com/passage/?search=John+12%3A4-6&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=250s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Matthew 26:8-13",
+     "translation": "NKJV",
+     "text_nkjv": "But when His disciples saw it, they were indignant, saying, “Why this waste? For this fragrant oil might have been sold for much and given to the poor.” But when Jesus was aware of it, He said to them, “Why do you trouble the woman? For she has done a good work for Me. For you have the poor with you always, but Me you do not have always. For in pouring this fragrant oil on My body, she did it for My burial. Assuredly, I say to you, wherever this gospel is preached in the whole world, what this woman has done will also be told as a memorial to her.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+26%3A8-13&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=298s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Acts 5:36-37",
+     "translation": "NKJV",
+     "text_nkjv": "For some time ago Theudas rose up, claiming to be somebody. A number of men, about four hundred, joined him. He was slain, and all who obeyed him were scattered and came to nothing. After this man, Judas of Galilee rose up in the days of the census, and drew away many people after him. He also perished, and all who obeyed him were dispersed.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+5%3A36-37&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=350s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "a-more-excellent-way:what-does-love-look-like-in-1-corinthians-13",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "What does love look like in 1 Corinthians 13:4–7?",
+   "short_answer": "He walks through Paul’s definition: love is patient, kind and mannerly, does not envy, brag or behave rudely, and is not easily provoked. He says “love doesn’t demand its own way, in the family, in the church, or in the community. It demands the right way, the truth.” He says love bears all things, believes what the Bible says to trust, hopes that God will perform what he said, and remains, staying in the home and steadfast in the church.",
+   "text": "And then he gives the definition of love. 1 Corinthians 13:4: Love is patient. It suffers long. Love is kind. It’s mannerly. Love doesn’t envy. It’s not jealous. Love doesn’t brag about itself. Love is not prideful, not puffed up. Love does not behave rudely, not ill-mannered. Love does not seek its own way. Well, it’s going to be my way, I’m going to hit the highway. You know, love doesn’t demand its own way, in the family, in the church, or in the community. It demands the right way, the truth.\n\nLove is not easily provoked. It, you know, they’re not touchy. You know, if you don’t say the right thing or do the right thing, they’re all ticked off. And love doesn’t do that. It thinks no evil about people, no harm. It keeps no record of wrongs done to it. One version says, you see, love does not rejoice in iniquity, but in the truth. It’s not happy when the community goes wrong. It’s happy when the community goes right, or the church goes the right direction.\n\nAnd check this out in verse 7. Love bears all things, which means covers with silence all things said to it. Pause for heart checking. Believes all things that the Bible says to put your trust in. They put their trust in all things the Bible says to. They hope; they expect that God would perform everything that he said he would perform. Not what people want, but what God wants. And love bears, or remains, in all things. No matter how it’s treated, no matter how mistreatment or whatever, it remains. It stays in the home and it stays steadfast in the church. It sticks right there. It doesn’t move.",
+   "start_seconds": 384,
+   "end_seconds": 502,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=384s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-what-does-love-look-like-in-1-corinthians-13",
+   "paragraphs": [
+    {
+     "start_seconds": 384,
+     "text": "And then he gives the definition of love. 1 Corinthians 13:4: Love is patient. It suffers long. Love is kind. It’s mannerly. Love doesn’t envy. It’s not jealous. Love doesn’t brag about itself. Love is not prideful, not puffed up. Love does not behave rudely, not ill-mannered. Love does not seek its own way. Well, it’s going to be my way, I’m going to hit the highway. You know, love doesn’t demand its own way, in the family, in the church, or in the community. It demands the right way, the truth.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=384s"
+    },
+    {
+     "start_seconds": 423,
+     "text": "Love is not easily provoked. It, you know, they’re not touchy. You know, if you don’t say the right thing or do the right thing, they’re all ticked off. And love doesn’t do that. It thinks no evil about people, no harm. It keeps no record of wrongs done to it. One version says, you see, love does not rejoice in iniquity, but in the truth. It’s not happy when the community goes wrong. It’s happy when the community goes right, or the church goes the right direction.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=423s"
+    },
+    {
+     "start_seconds": 453,
+     "text": "And check this out in verse 7. Love bears all things, which means covers with silence all things said to it. Pause for heart checking. Believes all things that the Bible says to put your trust in. They put their trust in all things the Bible says to. They hope; they expect that God would perform everything that he said he would perform. Not what people want, but what God wants. And love bears, or remains, in all things. No matter how it’s treated, no matter how mistreatment or whatever, it remains. It stays in the home and it stays steadfast in the church. It sticks right there. It doesn’t move.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=453s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 13:4-7",
+     "translation": "NKJV",
+     "text_nkjv": "Love suffers long and is kind; love does not envy; love does not parade itself, is not puffed up; does not behave rudely, does not seek its own, is not provoked, thinks no evil; does not rejoice in iniquity, but rejoices in the truth; bears all things, believes all things, hopes all things, endures all things.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A4-7&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=388s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": [
+    {
+     "slug": "love-doesnt-demand-its-own-way",
+     "title": "Love Doesn't Demand Its Own Way",
+     "url": "https://growonthevine.com/clips/love-doesnt-demand-its-own-way/"
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:can-you-have-the-gifts-of-the-spirit-without-the-fruit-of-the-spirit",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "Can you have the gifts of the Spirit without the fruit of the Spirit?",
+   "short_answer": "He says love is at the first fruit of the fruit of the Spirit, that “God is love,” and that love is at the top of being a partaker of the divine nature. He says, “you can’t have the manifestations of the Spirit without the fruit and the divine character of God,” and that this is the way to get it.",
+   "text": "And remember, love is at the first fruit of the gifts of the fruit of the Spirit: love, joy, peace. It’s the first fruit. 1 John 4:8 says, “God is love.” See, that is exactly what God is. He just gave us the description of God. And 2 Peter 1:4: love is at the top of being a partaker of the divine nature. We add to our faith virtue; virtue, knowledge; knowledge, temperance, or self-control; patience, godliness, brotherly kindness; and the last one we add to is what? Love. So love is at the peak of divine character, and it’s at the beginning of the fruits of the Spirit. And believe me, Paul is telling us, you can’t have the manifestations of the Spirit without the fruit and the divine character of God. That’s what he’s telling us. This is the way to get it.",
+   "start_seconds": 502,
+   "end_seconds": 569,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=502s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-can-you-have-the-gifts-of-the-spirit-without-the-fruit-of-the-spirit",
+   "paragraphs": [
+    {
+     "start_seconds": 502,
+     "text": "And remember, love is at the first fruit of the gifts of the fruit of the Spirit: love, joy, peace. It’s the first fruit. 1 John 4:8 says, “God is love.” See, that is exactly what God is. He just gave us the description of God. And 2 Peter 1:4: love is at the top of being a partaker of the divine nature. We add to our faith virtue; virtue, knowledge; knowledge, temperance, or self-control; patience, godliness, brotherly kindness; and the last one we add to is what? Love. So love is at the peak of divine character, and it’s at the beginning of the fruits of the Spirit. And believe me, Paul is telling us, you can’t have the manifestations of the Spirit without the fruit and the divine character of God. That’s what he’s telling us. This is the way to get it.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=502s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Galatians 5:22-23",
+     "translation": "NKJV",
+     "text_nkjv": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, self-control. Against such there is no law.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Galatians+5%3A22-23&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=507s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "1 John 4:8",
+     "translation": "NKJV",
+     "text_nkjv": "He who does not love does not know God, for God is love.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+John+4%3A8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=514s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "2 Peter 1:4-7",
+     "translation": "NKJV",
+     "text_nkjv": "by which have been given to us exceedingly great and precious promises, that through these you may be partakers of the divine nature, having escaped the corruption that is in the world through lust. But also for this very reason, giving all diligence, add to your faith virtue, to virtue knowledge, to knowledge self-control, to self-control perseverance, to perseverance godliness, to godliness brotherly kindness, and to brotherly kindness love.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Peter+1%3A4-7&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=520s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": [
+    {
+     "slug": "fruit-before-fireworks",
+     "title": "Fruit Before Fireworks",
+     "url": "https://growonthevine.com/clips/fruit-before-fireworks/"
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:have-tongues-and-prophecy-ceased",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "Have tongues and prophecy ceased?",
+   "short_answer": "He reads that love never fails but prophecies fail, tongues cease and knowledge vanishes away, and says those are the same Greek word. He tells of Baptist leaders who said tongues and prophecies ceased when the last disciple died, and says he answered that the same verse says knowledge ceases, so if one goes you cannot take out two without the third. He also says that if prophecy ceased, Jesus would not be coming back, since that was prophesied.",
+   "text": "Now he goes on to say, “Love never fails.” It never gets inactive. But in verse eight, he says if prophecies, they will fail; they will get inactive. If tongues, they will cease; they will get inactive. If knowledge, it will vanish away; it will be inactive. All of those three red statements up there is the same word in the Greek, just translated a little differently, but the same word.\n\nSo, I have been in Pentecost ever since I was saved. Spirit-filled church, Spirit-filled person. I got Spirit-filled a couple of weeks after I got saved. I’ve worked with the Baptists and other churches. God taught me at the beginning not to be segregated. I’ve always worked with other churches and did things with other churches. I was working with some Baptist people for several years here in California, and they invited me one day into the room with the top leader of California. The Southern California leader was there, the local leaders were there, and then the new preachers coming up through the ranks were there. They brought me in, and they said, “We have never met a Spirit-filled person like you.” My reply was, “How many have you met?” I said, “You are judging us because of what you see on TV, these guys whoosh, and everybody falling over and knocking over in the Spirit and all this. You’re judging the whole group of us by what you see on TV or hear on radio or something like that. If you got to know more of us, you’d know we’re not like that.”\n\nAnd so then they quoted this scripture: “We believe that tongues and prophecies ceased when the last disciple died.” And they’re just quoting the verse. I said, “Sir, you didn’t finish the verse. Knowledge is there. And it says knowledge ceased. Now, if knowledge has ceased, not just tongues and prophecy, then that means people can’t come to the knowledge of salvation. People can’t have the knowledge of God, the knowledge of Christ, the knowledge of sin.” Are you with me? And they said, “Well, no, no, not knowledge.” I said, “You can’t take two out and do something with them without taking a third out.”\n\n“And number two, if prophecies really cease, then Jesus isn’t coming back again, because it was prophesied in the New Testament that he would return.” I said, “It’s also prophesied that we come back for a glorious church without spot or wrinkle or any such thing. So that can’t happen. It’s also prophesied in Revelation that every kindred, tribe, tongue and nation, a multitude that no man can number, will be brought in. That can’t happen.” Are you there? And they looked at me like, “Where’s this guy coming from?” See, it pays to know your Bible.",
+   "start_seconds": 569,
+   "end_seconds": 746,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=569s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-have-tongues-and-prophecy-ceased",
+   "paragraphs": [
+    {
+     "start_seconds": 569,
+     "text": "Now he goes on to say, “Love never fails.” It never gets inactive. But in verse eight, he says if prophecies, they will fail; they will get inactive. If tongues, they will cease; they will get inactive. If knowledge, it will vanish away; it will be inactive. All of those three red statements up there is the same word in the Greek, just translated a little differently, but the same word.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=569s"
+    },
+    {
+     "start_seconds": 599,
+     "text": "So, I have been in Pentecost ever since I was saved. Spirit-filled church, Spirit-filled person. I got Spirit-filled a couple of weeks after I got saved. I’ve worked with the Baptists and other churches. God taught me at the beginning not to be segregated. I’ve always worked with other churches and did things with other churches. I was working with some Baptist people for several years here in California, and they invited me one day into the room with the top leader of California. The Southern California leader was there, the local leaders were there, and then the new preachers coming up through the ranks were there. They brought me in, and they said, “We have never met a Spirit-filled person like you.” My reply was, “How many have you met?” I said, “You are judging us because of what you see on TV, these guys whoosh, and everybody falling over and knocking over in the Spirit and all this. You’re judging the whole group of us by what you see on TV or hear on radio or something like that. If you got to know more of us, you’d know we’re not like that.”",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=599s"
+    },
+    {
+     "start_seconds": 670,
+     "text": "And so then they quoted this scripture: “We believe that tongues and prophecies ceased when the last disciple died.” And they’re just quoting the verse. I said, “Sir, you didn’t finish the verse. Knowledge is there. And it says knowledge ceased. Now, if knowledge has ceased, not just tongues and prophecy, then that means people can’t come to the knowledge of salvation. People can’t have the knowledge of God, the knowledge of Christ, the knowledge of sin.” Are you with me? And they said, “Well, no, no, not knowledge.” I said, “You can’t take two out and do something with them without taking a third out.”",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=670s"
+    },
+    {
+     "start_seconds": 706,
+     "text": "“And number two, if prophecies really cease, then Jesus isn’t coming back again, because it was prophesied in the New Testament that he would return.” I said, “It’s also prophesied that we come back for a glorious church without spot or wrinkle or any such thing. So that can’t happen. It’s also prophesied in Revelation that every kindred, tribe, tongue and nation, a multitude that no man can number, will be brought in. That can’t happen.” Are you there? And they looked at me like, “Where’s this guy coming from?” See, it pays to know your Bible.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=706s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 13:8-10",
+     "translation": "NKJV",
+     "text_nkjv": "Love never fails. But whether there are prophecies, they will fail; whether there are tongues, they will cease; whether there is knowledge, it will vanish away. For we know in part and we prophesy in part. But when that which is perfect has come, then that which is in part will be done away.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A8-10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=571s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Ephesians 5:27",
+     "translation": "NKJV",
+     "text_nkjv": "that He might present her to Himself a glorious church, not having spot or wrinkle or any such thing, but that she should be holy and without blemish.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+5%3A27&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=717s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Revelation 7:9",
+     "translation": "NKJV",
+     "text_nkjv": "After these things I looked, and behold, a great multitude which no one could number, of all nations, tribes, peoples, and tongues, standing before the throne and before the Lamb, clothed with white robes, with palm branches in their hands,",
+     "source_url": "https://www.biblegateway.com/passage/?search=Revelation+7%3A9&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=728s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "a-more-excellent-way:should-we-stop-using-spiritual-gifts-because-people-misuse-them",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "Should we stop using spiritual gifts because people misuse them?",
+   "short_answer": "He says that when the Baptist leaders said Pentecostals have made a mess of tongues and prophecy, he answered, “Just because a plane crashes does not mean we stop using planes.” He says Paul is talking about edifying the body of Christ, such as a prophecy, a tongue and an interpretation one Sunday, and not about the office of a prophet or the unchangeable words of God.",
+   "text": "I said, “You’ve gotten rid of tongues and you’ve gotten rid of prophecy because you’ve seen the mess that us Pentecostals have done with it.” And I said this famous statement: “Just because a plane crashes does not mean we stop using planes. Just because someone messes up a salvation verse or some other verse, we don’t stop using the verses, do we?” Amen.\n\nTruly, he’s talking about edifying the body of Christ. You see, we can have a prophecy one Sunday, or a word, a tongue, an interpretation, and we forget it the next day. Isn’t that true? He’s talking about edifying the body of Christ. He’s not talking about the office of a prophet, these substantial, unchangeable words of God. Hallelujah.",
+   "start_seconds": 746,
+   "end_seconds": 793,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=746s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-should-we-stop-using-spiritual-gifts-because-people-misuse-them",
+   "paragraphs": [
+    {
+     "start_seconds": 746,
+     "text": "I said, “You’ve gotten rid of tongues and you’ve gotten rid of prophecy because you’ve seen the mess that us Pentecostals have done with it.” And I said this famous statement: “Just because a plane crashes does not mean we stop using planes. Just because someone messes up a salvation verse or some other verse, we don’t stop using the verses, do we?” Amen.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=746s"
+    },
+    {
+     "start_seconds": 770,
+     "text": "Truly, he’s talking about edifying the body of Christ. You see, we can have a prophecy one Sunday, or a word, a tongue, an interpretation, and we forget it the next day. Isn’t that true? He’s talking about edifying the body of Christ. He’s not talking about the office of a prophet, these substantial, unchangeable words of God. Hallelujah.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=770s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "a-more-excellent-way:does-everyone-in-the-church-have-a-part",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "Does everyone in the church have a part, or only the pastor?",
+   "short_answer": "He says all of us have a part: “This minister only has a part.” He says we have been taught for decades that the man of God or the woman of God will do everything and the rest are “little nobodies,” but we can all have a part. He says we do not have to wait for Jesus’s return, since 2 Corinthians 3:18 says we are changed now, and that is why we need everyone being a part.",
+   "text": "And he goes on to prove it. We know in part and prophesy in part. And remember, in 1 Corinthians 12 he said, “To one is given the word of knowledge, to another the word of wisdom, to another faith, to another working of miracles, to another gifts of healing, to another tongues, to another discerning of spirits, to another interpretation.” So all of us have a part, and this is the thing that God wants this church to understand. This minister only has a part. We have been taught for decades that the man of God or the woman of God is going to do everything and we’re just little nobodies running around behind them. But we can all have a part.\n\nAll right? “But when that which is perfect is come, that which is in part will be done away.” Okay? Now, he’s saying that yes, there are parts, but perfection is coming, maturity is coming, completeness is coming. Verse 12, same chapter: “Now we see in a mirror obscurely, but then we will see face to face. Now I know in part, but then I will know just as I am known.” He’s obviously talking about the second return, isn’t he? I mean, when Jesus comes, we’re not blind anymore. I mean, everything is going to be understandable to us and fulfilled.\n\nBut in 2 Corinthians 3:18, we don’t have to wait for his return. Look at this: “We all” — how many of us? All — “with an open face, seeing in a mirror the word of God” — both of those are the word of God, the mirror — “the glory of the Lord, are changed into the” what? “Same image from glory to glory by the Spirit of God.” That’s why we need the Spirit of God active in our services. And that’s why we need everyone being a part.\n\nEphesians 4:13: “Till we all” — how many of us? All — “come into the unity of the faith, to the knowledge of the Son of God, to a” what? Perfect, complete spiritual man, “to the measure” — the standard — “of the stature of the fullness of Christ.” That’s the goal. Now, and when every part supplies, we can attain that. He says we are “no more children, tossed to and fro by every wind of doctrine.” And that’s the problem in the church. We got too many children, and they don’t even know that they can be complete and full in God. And that’s sad. It is very sad.",
+   "start_seconds": 793,
+   "end_seconds": 952,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=793s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-does-everyone-in-the-church-have-a-part",
+   "paragraphs": [
+    {
+     "start_seconds": 793,
+     "text": "And he goes on to prove it. We know in part and prophesy in part. And remember, in 1 Corinthians 12 he said, “To one is given the word of knowledge, to another the word of wisdom, to another faith, to another working of miracles, to another gifts of healing, to another tongues, to another discerning of spirits, to another interpretation.” So all of us have a part, and this is the thing that God wants this church to understand. This minister only has a part. We have been taught for decades that the man of God or the woman of God is going to do everything and we’re just little nobodies running around behind them. But we can all have a part.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=793s"
+    },
+    {
+     "start_seconds": 839,
+     "text": "All right? “But when that which is perfect is come, that which is in part will be done away.” Okay? Now, he’s saying that yes, there are parts, but perfection is coming, maturity is coming, completeness is coming. Verse 12, same chapter: “Now we see in a mirror obscurely, but then we will see face to face. Now I know in part, but then I will know just as I am known.” He’s obviously talking about the second return, isn’t he? I mean, when Jesus comes, we’re not blind anymore. I mean, everything is going to be understandable to us and fulfilled.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=839s"
+    },
+    {
+     "start_seconds": 882,
+     "text": "But in 2 Corinthians 3:18, we don’t have to wait for his return. Look at this: “We all” — how many of us? All — “with an open face, seeing in a mirror the word of God” — both of those are the word of God, the mirror — “the glory of the Lord, are changed into the” what? “Same image from glory to glory by the Spirit of God.” That’s why we need the Spirit of God active in our services. And that’s why we need everyone being a part.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=882s"
+    },
+    {
+     "start_seconds": 911,
+     "text": "Ephesians 4:13: “Till we all” — how many of us? All — “come into the unity of the faith, to the knowledge of the Son of God, to a” what? Perfect, complete spiritual man, “to the measure” — the standard — “of the stature of the fullness of Christ.” That’s the goal. Now, and when every part supplies, we can attain that. He says we are “no more children, tossed to and fro by every wind of doctrine.” And that’s the problem in the church. We got too many children, and they don’t even know that they can be complete and full in God. And that’s sad. It is very sad.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=911s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 12:8-10",
+     "translation": "NKJV",
+     "text_nkjv": "for to one is given the word of wisdom through the Spirit, to another the word of knowledge through the same Spirit, to another faith by the same Spirit, to another gifts of healings by the same Spirit, to another the working of miracles, to another prophecy, to another discerning of spirits, to another different kinds of tongues, to another the interpretation of tongues.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+12%3A8-10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=800s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "1 Corinthians 13:12",
+     "translation": "NKJV",
+     "text_nkjv": "For now we see in a mirror, dimly, but then face to face. Now I know in part, but then I shall know just as I also am known.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A12&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=856s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "2 Corinthians 3:18",
+     "translation": "NKJV",
+     "text_nkjv": "But we all, with unveiled face, beholding as in a mirror the glory of the Lord, are being transformed into the same image from glory to glory, just as by the Spirit of the Lord.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+3%3A18&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=882s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Ephesians 4:13-14",
+     "translation": "NKJV",
+     "text_nkjv": "till we all come to the unity of the faith and of the knowledge of the Son of God, to a perfect man, to the measure of the stature of the fullness of Christ; that we should no longer be children, tossed to and fro and carried about with every wind of doctrine, by the trickery of men, in the cunning craftiness of deceitful plotting,",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+4%3A13-14&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=911s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "a-more-excellent-way:what-does-be-perfect-mean-in-matthew-5-48",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "What does “be perfect” mean in Matthew 5:48?",
+   "short_answer": "He says that when he challenged the church with Matthew 5:48 as a young Christian, they told him no one can be perfect. He says perfect is not living a life with no flaws: “it’s coming to what? Spiritual maturity, spiritual completeness.” He points to Hebrews 5:14 and James 1:4 and says God is taking his church somewhere and chooses for all of us to be a part.",
+   "text": "They don’t even know they can be a contributor. They just go to church to let the man of God do his thing. Could that be true? Yeah. And he goes on to say in Matthew 5:48, “Be you therefore perfect, even as your Father which is in heaven is perfect.” This is Jesus talking. And when I challenged the church with that as a young Christian, they go, “Well, you can’t be perfect. All of us are sin.” Well, I said, “You told me when I was a sinner I was going to hell. Now you’re telling me I got to sin because I’m not perfect.” And they thought “perfect” was just living a life that had no flaws in it. No, it’s coming to what? Spiritual maturity, spiritual completeness. Hebrews 5:14: strong meat belongs to those that are mature. You see? And then in James 1:4, it says, “Let patience have her perfect work, that you may be” what? “Perfect and entire, lacking” what? “Nothing.”",
+   "start_seconds": 952,
+   "end_seconds": 1016,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=952s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-what-does-be-perfect-mean-in-matthew-5-48",
+   "paragraphs": [
+    {
+     "start_seconds": 952,
+     "text": "They don’t even know they can be a contributor. They just go to church to let the man of God do his thing. Could that be true? Yeah. And he goes on to say in Matthew 5:48, “Be you therefore perfect, even as your Father which is in heaven is perfect.” This is Jesus talking. And when I challenged the church with that as a young Christian, they go, “Well, you can’t be perfect. All of us are sin.” Well, I said, “You told me when I was a sinner I was going to hell. Now you’re telling me I got to sin because I’m not perfect.” And they thought “perfect” was just living a life that had no flaws in it. No, it’s coming to what? Spiritual maturity, spiritual completeness. Hebrews 5:14: strong meat belongs to those that are mature. You see? And then in James 1:4, it says, “Let patience have her perfect work, that you may be” what? “Perfect and entire, lacking” what? “Nothing.”",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=952s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Matthew 5:48",
+     "translation": "NKJV",
+     "text_nkjv": "Therefore you shall be perfect, just as your Father in heaven is perfect.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+5%3A48&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=962s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Hebrews 5:14",
+     "translation": "NKJV",
+     "text_nkjv": "But solid food belongs to those who are of full age, that is, those who by reason of use have their senses exercised to discern both good and evil.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Hebrews+5%3A14&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=985s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "James 1:4",
+     "translation": "NKJV",
+     "text_nkjv": "But let patience have its perfect work, that you may be perfect and complete, lacking nothing.",
+     "source_url": "https://www.biblegateway.com/passage/?search=James+1%3A4&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1008s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": [
+    {
+     "slug": "perfect-means-mature",
+     "title": "Perfect Means Mature",
+     "url": "https://growonthevine.com/clips/perfect-means-mature/"
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:what-does-it-mean-to-put-away-childish-things",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "What does it mean to put away childish things?",
+   "short_answer": "He reads 1 Corinthians 13:11 and says the childish things are being tossed about by every wind of doctrine and not coming into the unity of the faith or the stature of Jesus Christ. He says, “too many American Christians are talking like baby Christians, thinking like baby Christians, and acting like baby Christians.” He says we contribute, and that God did not intend for church people to come and just sit and watch the preacher or the song leader.",
+   "text": "See, God is taking his church somewhere, and he chooses for all of us to be a part. 1 Corinthians 13:11: “When I was a child, I spoke as a child, I understood as a child. But when I became a man” — a mature, complete believer — “I put away childish things.” Now, what was one of the childish things we heard back there? “Tossed about by every wind of doctrine,” not coming into the unity of the faith, not coming into the stature of Jesus Christ. But here he says in the positive that I can become a man and put away childish things. I can become a man and put away childish things.\n\nI submit to you, too many American Christians are talking like baby Christians, thinking like baby Christians, and acting like baby Christians. And Paul has been dealing with this for eleven chapters: this baby Christianity, division, sexual immorality, challenging ministers. They challenged Paul, “You’re really an apostle?” You know, idolatry, doing things that didn’t please the Lord. See, not pressing toward the prize of the high mark of the calling of God by bringing their body into subjection. By what? Bringing their body into subjection. You know, we want to pray and we expect some lightning bolt to transform us, but it says we bring what? Our body into submission, and we press toward the high mark. Why? Because we contribute.\n\nWe are participators in this thing God is doing. We’re not looking for a man of God or a woman of God or some J.B. Farball [unclear] to come and do everything for us. We contribute, and when all of us put our part in, then we get the full picture. Hallelujah. And this is a great program that God has. He didn’t intend for the church people to come and just sit and watch the preacher or watch the song leader. And this is why it’s important that we get 1 Corinthians 12, 13 and 14 in us, because now Paul’s talking about the real stuff, the spiritual stuff, the things that will transform people’s lives.",
+   "start_seconds": 1016,
+   "end_seconds": 1189,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1016s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-what-does-it-mean-to-put-away-childish-things",
+   "paragraphs": [
+    {
+     "start_seconds": 1016,
+     "text": "See, God is taking his church somewhere, and he chooses for all of us to be a part. 1 Corinthians 13:11: “When I was a child, I spoke as a child, I understood as a child. But when I became a man” — a mature, complete believer — “I put away childish things.” Now, what was one of the childish things we heard back there? “Tossed about by every wind of doctrine,” not coming into the unity of the faith, not coming into the stature of Jesus Christ. But here he says in the positive that I can become a man and put away childish things. I can become a man and put away childish things.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1016s"
+    },
+    {
+     "start_seconds": 1080,
+     "text": "I submit to you, too many American Christians are talking like baby Christians, thinking like baby Christians, and acting like baby Christians. And Paul has been dealing with this for eleven chapters: this baby Christianity, division, sexual immorality, challenging ministers. They challenged Paul, “You’re really an apostle?” You know, idolatry, doing things that didn’t please the Lord. See, not pressing toward the prize of the high mark of the calling of God by bringing their body into subjection. By what? Bringing their body into subjection. You know, we want to pray and we expect some lightning bolt to transform us, but it says we bring what? Our body into submission, and we press toward the high mark. Why? Because we contribute.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1080s"
+    },
+    {
+     "start_seconds": 1142,
+     "text": "We are participators in this thing God is doing. We’re not looking for a man of God or a woman of God or some J.B. Farball [unclear] to come and do everything for us. We contribute, and when all of us put our part in, then we get the full picture. Hallelujah. And this is a great program that God has. He didn’t intend for the church people to come and just sit and watch the preacher or watch the song leader. And this is why it’s important that we get 1 Corinthians 12, 13 and 14 in us, because now Paul’s talking about the real stuff, the spiritual stuff, the things that will transform people’s lives.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1142s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 13:11",
+     "translation": "NKJV",
+     "text_nkjv": "When I was a child, I spoke as a child, I understood as a child, I thought as a child; but when I became a man, I put away childish things.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1019s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "a-more-excellent-way:is-faith-the-greatest-or-is-love",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "Is faith the greatest, or is love?",
+   "short_answer": "He reads “the greatest of these is” and says “faith” is how American preachers and believers see it: “All I hear is faith. My faith.” He says our faith must be in the power of God to perform what he promised, and that in America the church puts faith in first place and “love isn’t even on the scale.” Later he says, “The greatest of these is love.”",
+   "text": "“Now abides faith, hope, and love. But the greatest of these is” faith. That’s the way American preachers see it. That’s the way believers see it. All I hear is faith. My faith. Even our politicians: my faith. Who cares about your faith? Our faith must be in the power of God to perform what he promised.\n\nFaith is preached all the time. And people say, “Well, I believe.” So you believe. Is it what God said to believe? Is it what God said to have faith in? And is your faith in your faith? Have you got faith above everything else? And I submit to you, in America the church puts faith in first place, and love isn’t even on the scale. How do I know that? Because they’re impatient. They don’t cover things with silence. They come to church not expecting anything. They come to church not even thinking about contributing at all. If you can get them to church. Is Paul right?",
+   "start_seconds": 1189,
+   "end_seconds": 1275,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1189s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-is-faith-the-greatest-or-is-love",
+   "paragraphs": [
+    {
+     "start_seconds": 1189,
+     "text": "“Now abides faith, hope, and love. But the greatest of these is” faith. That’s the way American preachers see it. That’s the way believers see it. All I hear is faith. My faith. Even our politicians: my faith. Who cares about your faith? Our faith must be in the power of God to perform what he promised.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1189s"
+    },
+    {
+     "start_seconds": 1219,
+     "text": "Faith is preached all the time. And people say, “Well, I believe.” So you believe. Is it what God said to believe? Is it what God said to have faith in? And is your faith in your faith? Have you got faith above everything else? And I submit to you, in America the church puts faith in first place, and love isn’t even on the scale. How do I know that? Because they’re impatient. They don’t cover things with silence. They come to church not expecting anything. They come to church not even thinking about contributing at all. If you can get them to church. Is Paul right?",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1219s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 13:13",
+     "translation": "NKJV",
+     "text_nkjv": "And now abide faith, hope, love, these three; but the greatest of these is love.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A13&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1189s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "a-more-excellent-way:is-there-a-free-ride-in-church",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "Is there a free ride in church?",
+   "short_answer": "He says people want a ticket on the heavenbound train to sit and enjoy the scenery, but that is not the train God has: “You’ve got to shovel the coal. You’ve got to blow the whistle.” He says “There ain’t no free ride,” and that to see the manifestations of the Spirit of God we have to take on responsibility to be a participator. He says that when people take responsibility in a church service, “you will be shocked at what God can do.”",
+   "text": "See, they want a free ride. They want a ticket to get on the heavenbound train and just sit there, enjoy the scenery. And that isn’t the train God has. You’ve got to shovel the coal. You’ve got to blow the whistle. You’ve got to be active in this thing. There ain’t no free ride. If we really want to attain to great things here on this earth and see the manifestations of the Spirit of God, then we’ve got to humble ourselves, take on responsibility to be a participator.\n\nI mean, Paul is saying it plainly. See, we all know in part, and we prophesy, or speak by the inspiration of God, in part. See, I don’t have it all. Mr. Barnes doesn’t have it all. But together, we got a lot more. And then you add Edie and Christina. Hey, now we’re broadening.\n\nSee, when people start taking responsibility to be involved in a church service, you will be shocked at what God can do. And church, I have been in Spirit-filled churches all my life, and I have seen some powerful manifestations of God. And I have seen things that are just embarrassing. But you know, I can’t let the embarrassing things keep me from what? Pursuing God. Hallelujah. The greatest of these is love. It’s great to have faith. It’s great to have hope. And Paul sums it up here.",
+   "start_seconds": 1275,
+   "end_seconds": 1387,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1275s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-is-there-a-free-ride-in-church",
+   "paragraphs": [
+    {
+     "start_seconds": 1275,
+     "text": "See, they want a free ride. They want a ticket to get on the heavenbound train and just sit there, enjoy the scenery. And that isn’t the train God has. You’ve got to shovel the coal. You’ve got to blow the whistle. You’ve got to be active in this thing. There ain’t no free ride. If we really want to attain to great things here on this earth and see the manifestations of the Spirit of God, then we’ve got to humble ourselves, take on responsibility to be a participator.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1275s"
+    },
+    {
+     "start_seconds": 1319,
+     "text": "I mean, Paul is saying it plainly. See, we all know in part, and we prophesy, or speak by the inspiration of God, in part. See, I don’t have it all. Mr. Barnes doesn’t have it all. But together, we got a lot more. And then you add Edie and Christina. Hey, now we’re broadening.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1319s"
+    },
+    {
+     "start_seconds": 1340,
+     "text": "See, when people start taking responsibility to be involved in a church service, you will be shocked at what God can do. And church, I have been in Spirit-filled churches all my life, and I have seen some powerful manifestations of God. And I have seen things that are just embarrassing. But you know, I can’t let the embarrassing things keep me from what? Pursuing God. Hallelujah. The greatest of these is love. It’s great to have faith. It’s great to have hope. And Paul sums it up here.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1340s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "a-more-excellent-way:what-is-the-goal-of-the-commandment",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "What is the goal of the commandment?",
+   "short_answer": "He reads 1 Timothy 1:5 and says the word “end” means the goal: the goal of the word of God is love out of a pure heart, a good conscience and sincere faith. He says people think the goal is eternal life or the gifts of the Spirit, “And it’s not. It’s love.” He says that is why there is such phoniness in the Spirit-filled world as people try to push something God isn’t doing.",
+   "text": "This scripture, 1 Timothy 1:5: “Now the end of the commandment is love out of a pure heart.” The word “end” means the goal. You see, the goal of the word of God is love out of a pure heart. The purpose of the word of God is love out of a pure heart, a good conscience, and sincere faith. See, genuine faith, not disguised faith.\n\nSee, we think it’s eternal life. No, you’re going to live eternally no matter what. You realize that, whether you believe in God or you don’t believe in God, do you realize you’re an eternal being? Yeah. Only one’s going to spend their place in a punishment and one’s going to be rewarded. We think that it’s the gifts of the Spirit in our circles. The gifts of the Spirit. Hallelujah. Shakamula [unclear] in the name of Jesus. And it’s not. It’s love. And that’s why we have such phoniness in the Spirit-filled world, as we try to push something that God isn’t doing.",
+   "start_seconds": 1387,
+   "end_seconds": 1464,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1387s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-what-is-the-goal-of-the-commandment",
+   "paragraphs": [
+    {
+     "start_seconds": 1387,
+     "text": "This scripture, 1 Timothy 1:5: “Now the end of the commandment is love out of a pure heart.” The word “end” means the goal. You see, the goal of the word of God is love out of a pure heart. The purpose of the word of God is love out of a pure heart, a good conscience, and sincere faith. See, genuine faith, not disguised faith.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1387s"
+    },
+    {
+     "start_seconds": 1421,
+     "text": "See, we think it’s eternal life. No, you’re going to live eternally no matter what. You realize that, whether you believe in God or you don’t believe in God, do you realize you’re an eternal being? Yeah. Only one’s going to spend their place in a punishment and one’s going to be rewarded. We think that it’s the gifts of the Spirit in our circles. The gifts of the Spirit. Hallelujah. Shakamula [unclear] in the name of Jesus. And it’s not. It’s love. And that’s why we have such phoniness in the Spirit-filled world, as we try to push something that God isn’t doing.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1421s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Timothy 1:5",
+     "translation": "NKJV",
+     "text_nkjv": "Now the purpose of the commandment is love from a pure heart, from a good conscience, and from sincere faith,",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Timothy+1%3A5&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1387s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": [
+    {
+     "slug": "goal-is-love",
+     "title": "The Goal Is Love",
+     "url": "https://growonthevine.com/clips/goal-is-love/"
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:are-tongues-worship-prayer-or-soulwinning-the-goal",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "Are tongues, worship, prayer, soulwinning or rituals the goal?",
+   "short_answer": "He says God is the one who distributes these things as he wills. The baptism of the Holy Ghost with speaking in tongues is not the goal; he says it is “one of the attributes that gives you power to live for God.” Worship and prayer are each “a means to the goal,” soulwinning is not the goal, and neither are church rituals such as holy water, incense, Lent or a Christmas tree: “Rituals are not the goal of the word of God. It’s love.”",
+   "text": "Remember in 1 Corinthians 12, it says God is the one that distributes these things as he wills. If God’s not healing, guess what? There ain’t going to be no healing. If God’s not speaking, there ain’t going to be no speaking. He’s the one that initiates these things and backs them up. Some of them believe it’s grace and faith. As I said, I mean, most people, they grace and faith it all through their life. They believe the goal of the commandment is the baptism of the Holy Ghost with speaking in tongues. That’s not the goal of the commandment. That’s one of the attributes that gives you power to live for God. One of the peripheral important things.\n\nWorship, in our generation since about 1990. Oh, worship. Hallelujah. New song, worship. Oh man, we got the band, we got the music, we got worship. Oh, we’ve arrived. And they go home and they can’t love their family. They can’t love their husband. They can’t love their wife. Why? Because worship is not the goal. It is a means to the goal. Prayer: some people are just hyped up on a prayer meeting. Prayer is not the goal. It’s a means to the goal.\n\nSoulwinning. Oh man, you know, we led somebody to Christ, a 63-year-old man to Christ, me and Mr. Barnes did this week. That is one of the things we do, but that’s not the goal of the commandment. And people, they’re soulwinning every Thursday night. You know, “Hallelujah, I’m a [unclear] man. I’ve arrived.” Are you with me? And church rituals. “Got my holy water. Got my incense. Got the season of Lent. I’m keeping the feast of Pentecost. Christmas — oh yeah, I’m really into Christmas. Got my Christmas tree.” Rituals are not the goal of the word of God.",
+   "start_seconds": 1464,
+   "end_seconds": 1596,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1464s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-are-tongues-worship-prayer-or-soulwinning-the-goal",
+   "paragraphs": [
+    {
+     "start_seconds": 1464,
+     "text": "Remember in 1 Corinthians 12, it says God is the one that distributes these things as he wills. If God’s not healing, guess what? There ain’t going to be no healing. If God’s not speaking, there ain’t going to be no speaking. He’s the one that initiates these things and backs them up. Some of them believe it’s grace and faith. As I said, I mean, most people, they grace and faith it all through their life. They believe the goal of the commandment is the baptism of the Holy Ghost with speaking in tongues. That’s not the goal of the commandment. That’s one of the attributes that gives you power to live for God. One of the peripheral important things.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1464s"
+    },
+    {
+     "start_seconds": 1512,
+     "text": "Worship, in our generation since about 1990. Oh, worship. Hallelujah. New song, worship. Oh man, we got the band, we got the music, we got worship. Oh, we’ve arrived. And they go home and they can’t love their family. They can’t love their husband. They can’t love their wife. Why? Because worship is not the goal. It is a means to the goal. Prayer: some people are just hyped up on a prayer meeting. Prayer is not the goal. It’s a means to the goal.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1512s"
+    },
+    {
+     "start_seconds": 1549,
+     "text": "Soulwinning. Oh man, you know, we led somebody to Christ, a 63-year-old man to Christ, me and Mr. Barnes did this week. That is one of the things we do, but that’s not the goal of the commandment. And people, they’re soulwinning every Thursday night. You know, “Hallelujah, I’m a [unclear] man. I’ve arrived.” Are you with me? And church rituals. “Got my holy water. Got my incense. Got the season of Lent. I’m keeping the feast of Pentecost. Christmas — oh yeah, I’m really into Christmas. Got my Christmas tree.” Rituals are not the goal of the word of God.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1549s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 12:11",
+     "translation": "NKJV",
+     "text_nkjv": "But one and the same Spirit works all these things, distributing to each one individually as He wills.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+12%3A11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1464s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "a-more-excellent-way:why-are-american-christians-divorcing-and-what-strengthens-a-home-and-church",
+   "type": "section",
+   "sermon_slug": "a-more-excellent-way",
+   "section_question": "Why are American Christians divorcing, and what strengthens a home and a church?",
+   "short_answer": "He answers the divorce question with “Lack of love. Somebody’s not loving. Somebody’s not patient. Somebody is demanding their own way,” and tells of a Quaker husband who chose the principle over the organ. He says that during a transition in a church you do the same thing you always do: minister to Christ, come to give and contribute. To strengthen your life, home and children, he says, “we’ve got to get this love. It’s above spiritual gifts. It’s above social programs.”",
+   "text": "It’s love. And why are American Christians divorcing? Lack of love. Somebody’s not loving. Somebody’s not patient. Somebody is demanding their own way. I saw a movie yesterday that was really cool. I’ve seen it before. I forgot his name, but anyway. And they were Quakers, and the woman was a preacher woman, and the guy bought an organ, and Quakers didn’t believe in music. He bought an organ for the house. And she says, “It’s either that organ or me. If that organ comes into the house, I’m leaving.” He says, “When thou ask me to do something, I am like butter in your hands. When thou commands me, I’m like, you know, a hard rock. Pick up the organ and put it in the house.” She goes, “You’re kidding me. You’re choosing the organ?” No, he wasn’t choosing an organ over his wife. He was choosing the principle. Amen. It was the principle of the thing.\n\nNow, church, Paul has given us tremendous advice. Someone asked me a few weeks ago, “What do we do during a transition of a church?” The same thing you always do. You minister to Christ. You come to give. You come to contribute. Nothing changes. Just because leadership changes, the real leader is who? Jesus Christ. Are we getting it, church? Do you want to strengthen your life? You want to strengthen your home, your children? We’ve got to get this love. It’s above spiritual gifts. It’s above social programs. Social programs is not enough. If we want the fullness of Christ, we’ve got to get this love.",
+   "start_seconds": 1596,
+   "end_seconds": 1759,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1596s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-why-are-american-christians-divorcing-and-what-strengthens-a-home-and-church",
+   "paragraphs": [
+    {
+     "start_seconds": 1596,
+     "text": "It’s love. And why are American Christians divorcing? Lack of love. Somebody’s not loving. Somebody’s not patient. Somebody is demanding their own way. I saw a movie yesterday that was really cool. I’ve seen it before. I forgot his name, but anyway. And they were Quakers, and the woman was a preacher woman, and the guy bought an organ, and Quakers didn’t believe in music. He bought an organ for the house. And she says, “It’s either that organ or me. If that organ comes into the house, I’m leaving.” He says, “When thou ask me to do something, I am like butter in your hands. When thou commands me, I’m like, you know, a hard rock. Pick up the organ and put it in the house.” She goes, “You’re kidding me. You’re choosing the organ?” No, he wasn’t choosing an organ over his wife. He was choosing the principle. Amen. It was the principle of the thing.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1596s"
+    },
+    {
+     "start_seconds": 1683,
+     "text": "Now, church, Paul has given us tremendous advice. Someone asked me a few weeks ago, “What do we do during a transition of a church?” The same thing you always do. You minister to Christ. You come to give. You come to contribute. Nothing changes. Just because leadership changes, the real leader is who? Jesus Christ. Are we getting it, church? Do you want to strengthen your life? You want to strengthen your home, your children? We’ve got to get this love. It’s above spiritual gifts. It’s above social programs. Social programs is not enough. If we want the fullness of Christ, we’ve got to get this love.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1683s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  }
+ ],
+ "faqs": [
+  {
+   "id": "a-more-excellent-way:what-are-the-two-kinds-of-tongues-in-1-corinthians-13",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "What are the two kinds of tongues Paul describes in 1 Corinthians 13?",
+   "answer": "He says tongues is nothing but languages. There are languages of men, like they spoke on the day of Pentecost, and there are languages of angels. He says the key is that love is more important than both of those.",
+   "start_seconds": 55,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=55s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-what-are-the-two-kinds-of-tongues-in-1-corinthians-13",
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 13:1",
+     "translation": "NKJV",
+     "text_nkjv": "Though I speak with the tongues of men and of angels, but have not love, I have become sounding brass or a clanging cymbal.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A1&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=21s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:what-happened-to-the-man-of-god-in-1-kings-13",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "What happened to the man of God in 1 Kings 13?",
+   "answer": "He says the man of God was chosen to take a message to King Jeroboam and told to give it and come back without staying. He gave the message, but he did not listen and let one of the “lion prophets” talk him into staying, and a lion killed him when he left. He says, “love is to obey God.”",
+   "start_seconds": 87,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=87s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-what-happened-to-the-man-of-god-in-1-kings-13",
+   "scriptures": [
+    {
+     "ref": "1 Kings 13:1-2",
+     "translation": "NKJV",
+     "text_nkjv": "And behold, a man of God went from Judah to Bethel by the word of the LORD, and Jeroboam stood by the altar to burn incense. Then he cried out against the altar by the word of the LORD, and said, “O altar, altar! Thus says the LORD: ‘Behold, a child, Josiah by name, shall be born to the house of David; and on you he shall sacrifice the priests of the high places who burn incense on you, and men’s bones shall be burned on you.’ ”",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Kings+13%3A1-2&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=87s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:what-went-wrong-with-solomon",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "What does he say went wrong with Solomon?",
+   "answer": "He says Solomon had the wisdom and mysteries and knowledge of everything, but in his last years he let his many wives lead him away from God, and his heart wasn’t right before God.",
+   "start_seconds": 138,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=138s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-what-went-wrong-with-solomon",
+   "scriptures": []
+  },
+  {
+   "id": "a-more-excellent-way:did-judas-really-care-about-the-poor",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "Did Judas really care about the poor?",
+   "answer": "He says that when Mary anointed Jesus’s feet, Judas said the perfume could be sold and given to the poor, but the Bible says he didn’t care about the poor. He says Judas wanted a humanitarian program, social programs rather than a Jesus program.",
+   "start_seconds": 250,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=250s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-did-judas-really-care-about-the-poor",
+   "scriptures": [
+    {
+     "ref": "John 12:4-6",
+     "translation": "NKJV",
+     "text_nkjv": "But one of His disciples, Judas Iscariot, Simon’s son, who would betray Him, said, “Why was this fragrant oil not sold for three hundred denarii and given to the poor?” This he said, not that he cared for the poor, but because he was a thief, and had the money box; and he used to take what was put in it.",
+     "source_url": "https://www.biblegateway.com/passage/?search=John+12%3A4-6&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=250s",
+     "quoted_without_naming_reference": true
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:was-the-woman-pouring-ointment-on-jesus-a-waste",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "Was the woman pouring ointment on Jesus a waste?",
+   "answer": "He says the disciples were indignant and asked, “What purpose is this waste?” and that Jesus told them the woman was anointing him for his burial and that her act would be remembered all around the world. He says God put it in the Scriptures because ministering to Jesus is above alms and helping the poor.",
+   "start_seconds": 298,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=298s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-was-the-woman-pouring-ointment-on-jesus-a-waste",
+   "scriptures": [
+    {
+     "ref": "Matthew 26:8-13",
+     "translation": "NKJV",
+     "text_nkjv": "But when His disciples saw it, they were indignant, saying, “Why this waste? For this fragrant oil might have been sold for much and given to the poor.” But when Jesus was aware of it, He said to them, “Why do you trouble the woman? For she has done a good work for Me. For you have the poor with you always, but Me you do not have always. For in pouring this fragrant oil on My body, she did it for My burial. Assuredly, I say to you, wherever this gospel is preached in the whole world, what this woman has done will also be told as a memorial to her.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+26%3A8-13&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=298s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:what-does-love-does-not-seek-its-own-way-mean",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "What does “love does not seek its own way” mean?",
+   "answer": "He says love doesn’t demand its own way in the family, in the church, or in the community, but demands the right way, the truth. He puts the opposite as “it’s going to be my way, I’m going to hit the highway.”",
+   "start_seconds": 397,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=397s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-what-does-love-does-not-seek-its-own-way-mean",
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 13:4-7",
+     "translation": "NKJV",
+     "text_nkjv": "Love suffers long and is kind; love does not envy; love does not parade itself, is not puffed up; does not behave rudely, does not seek its own, is not provoked, thinks no evil; does not rejoice in iniquity, but rejoices in the truth; bears all things, believes all things, hopes all things, endures all things.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A4-7&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=388s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:what-does-it-mean-that-love-bears-all-things",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "What does it mean that love “bears all things”?",
+   "answer": "He says it means covers with silence all things said to it. He says love also remains in all things: no matter how it’s treated, it stays in the home and stays steadfast in the church. It sticks right there; it doesn’t move.",
+   "start_seconds": 453,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=453s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-what-does-it-mean-that-love-bears-all-things",
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 13:4-7",
+     "translation": "NKJV",
+     "text_nkjv": "Love suffers long and is kind; love does not envy; love does not parade itself, is not puffed up; does not behave rudely, does not seek its own, is not provoked, thinks no evil; does not rejoice in iniquity, but rejoices in the truth; bears all things, believes all things, hopes all things, endures all things.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A4-7&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=457s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:where-does-love-fit-in-the-fruit-of-the-spirit-and-the-divine-nature",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "Where does love fit in the fruit of the Spirit and the divine nature?",
+   "answer": "He says love is the first fruit of the Spirit, and in 2 Peter 1:4 it is the last thing we add to our faith, so love is at the peak of divine character and at the beginning of the fruits of the Spirit.",
+   "start_seconds": 502,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=502s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-where-does-love-fit-in-the-fruit-of-the-spirit-and-the-divine-nature",
+   "scriptures": [
+    {
+     "ref": "2 Peter 1:4-7",
+     "translation": "NKJV",
+     "text_nkjv": "by which have been given to us exceedingly great and precious promises, that through these you may be partakers of the divine nature, having escaped the corruption that is in the world through lust. But also for this very reason, giving all diligence, add to your faith virtue, to virtue knowledge, to knowledge self-control, to self-control perseverance, to perseverance godliness, to godliness brotherly kindness, and to brotherly kindness love.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Peter+1%3A4-7&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=520s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:do-fail-cease-and-vanish-mean-the-same-thing",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "Is the Greek word the same for prophecies failing, tongues ceasing and knowledge vanishing?",
+   "answer": "He says all of those three red statements in the verse are the same word in the Greek, just translated a little differently, but the same word.",
+   "start_seconds": 585,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=585s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-do-fail-cease-and-vanish-mean-the-same-thing",
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 13:8-10",
+     "translation": "NKJV",
+     "text_nkjv": "Love never fails. But whether there are prophecies, they will fail; whether there are tongues, they will cease; whether there is knowledge, it will vanish away. For we know in part and we prophesy in part. But when that which is perfect has come, then that which is in part will be done away.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A8-10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=571s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:should-spirit-filled-churches-work-with-other-churches",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "Should Spirit-filled churches work with other churches?",
+   "answer": "He says he has been in Pentecost ever since he was saved but that God taught him at the beginning not to be segregated, and that he has always worked with other churches and done things with them. He tells of working with Baptist people for several years in California.",
+   "start_seconds": 599,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=599s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-should-spirit-filled-churches-work-with-other-churches",
+   "scriptures": []
+  },
+  {
+   "id": "a-more-excellent-way:why-does-he-say-people-want-a-free-ride",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "Why does he say people want a free ride at church?",
+   "answer": "He says they come to church not expecting anything and not even thinking about contributing at all. They want a ticket on the heavenbound train to sit and enjoy the scenery, but he says you’ve got to be active in this thing.",
+   "start_seconds": 1275,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1275s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-why-does-he-say-people-want-a-free-ride",
+   "scriptures": []
+  },
+  {
+   "id": "a-more-excellent-way:are-we-eternal-beings-whether-or-not-we-believe",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "Does he say everyone lives eternally?",
+   "answer": "He says, “you’re going to live eternally no matter what,” and asks whether the listener realizes that whether you believe in God or not, you are an eternal being. He says only one is going to spend their place in a punishment and one is going to be rewarded.",
+   "start_seconds": 1425,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1425s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-are-we-eternal-beings-whether-or-not-we-believe",
+   "scriptures": []
+  },
+  {
+   "id": "a-more-excellent-way:who-decides-when-healing-or-tongues-happen",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "According to this message, who decides when healing or tongues happen?",
+   "answer": "He says that in 1 Corinthians 12 God is the one who distributes these things as he wills. He says, “If God’s not healing, guess what? There ain’t going to be no healing. If God’s not speaking, there ain’t going to be no speaking,” because he is the one who initiates these things and backs them up.",
+   "start_seconds": 1464,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1464s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-who-decides-when-healing-or-tongues-happen",
+   "scriptures": [
+    {
+     "ref": "1 Corinthians 12:11",
+     "translation": "NKJV",
+     "text_nkjv": "But one and the same Spirit works all these things, distributing to each one individually as He wills.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+12%3A11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1464s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:is-speaking-in-tongues-the-goal",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "Does he say speaking in tongues is the goal?",
+   "answer": "No. He says that people believe the goal of the commandment is the baptism of the Holy Ghost with speaking in tongues, but that is not the goal of the commandment. He says it is one of the attributes that gives you power to live for God, one of the peripheral important things.",
+   "start_seconds": 1470,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1470s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-is-speaking-in-tongues-the-goal",
+   "scriptures": [
+    {
+     "ref": "1 Timothy 1:5",
+     "translation": "NKJV",
+     "text_nkjv": "Now the purpose of the commandment is love from a pure heart, from a good conscience, and from sincere faith,",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Timothy+1%3A5&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1387s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "a-more-excellent-way:what-should-a-church-do-during-a-leadership-transition",
+   "type": "faq",
+   "sermon_slug": "a-more-excellent-way",
+   "question": "What should a church do during a leadership transition?",
+   "answer": "He says someone asked him this a few weeks ago, and his answer was the same thing you always do: you minister to Christ, you come to give, you come to contribute. He says nothing changes, because even when leadership changes, the real leader is Jesus Christ.",
+   "start_seconds": 1683,
+   "video_url_at_time": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1683s",
+   "page_anchor_url": "https://growonthevine.com/messages/a-more-excellent-way/#faq-what-should-a-church-do-during-a-leadership-transition",
+   "scriptures": []
+  }
+ ]
+}
