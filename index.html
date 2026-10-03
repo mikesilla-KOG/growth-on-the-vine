@@ -27,6 +27,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="stylesheet" href="assets/css/ask.css">
 
   <script type="application/ld+json">
   {
@@ -60,6 +61,7 @@
         <a href="clips/noise-without-love/">Clips</a>
         <a href="messages/">Full messages</a>
         <a href="search/">Search the vines</a>
+        <a href="ask/">Ask</a>
       </nav>
     </div>
   </header>
@@ -74,6 +76,29 @@
       <p>“I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing.”</p>
     </blockquote>
     <p class="hero-join">Join us as we believe, know and grow in Christ.</p>
+  </section>
+
+  <section class="ask-home" id="ask" aria-labelledby="ask-home-h">
+    <div class="ask-home-inner">
+      <p class="section-label">Ask a question</p>
+      <h2 class="ask-home-h" id="ask-home-h">Have a Bible question? Ask it here.</h2>
+      <p class="ask-home-sub">Get one plain answer that brings together Scripture (Berean Standard Bible) and Pastor Kincer’s messages, with a link to the exact moment in the video.</p>
+      <p class="ai-disclaimer" role="note">Answers are written by AI from the Bible (BSB) and Pastor Kincer’s messages on this site. Please read the verses and listen to the messages yourself.</p>
+      <form class="askbox" id="askform" data-askpage="ask/">
+        <label for="q">Your question</label>
+        <div class="askrow"><input id="q" type="text" maxlength="300" autocomplete="off" placeholder="For example: What does the Bible say about forgiveness?" aria-describedby="qhint"><button class="go" id="go" type="submit">Ask</button></div>
+        <p class="hint" id="qhint">Up to 300 characters. Questions may be reviewed to improve answers. Please do not include personal details.</p>
+      </form>
+      <div class="samples"><p class="lbl">Try one:</p><div id="btns">
+        <button type="button" class="qbtn" data-q="Is Jesus the only way to God?">Is Jesus the only way to God?</button>
+        <button type="button" class="qbtn" data-q="What does the Bible say about love?">What does the Bible say about love?</button>
+        <button type="button" class="qbtn" data-q="Can God really change a person’s life?">Can God really change a person’s life?</button>
+        <button type="button" class="qbtn" data-q="Is church boring?">Is church boring?</button>
+      </div></div>
+      <div id="live" aria-live="polite" aria-busy="false"></div>
+      <p class="ask-more"><a href="ask/">More on the Ask page →</a></p>
+      <p class="credit">Scripture quotations are from the Berean Standard Bible (BSB), public domain (<a href="https://berean.bible/" target="_blank" rel="noopener noreferrer">berean.bible</a>). Bible topic lists courtesy of <a href="https://www.openbible.info/topics/" target="_blank" rel="noopener noreferrer">OpenBible.info</a> (CC BY).</p>
+    </div>
   </section>
 
   <main class="wrap-wide">
@@ -243,5 +268,6 @@
       videos.forEach(function (v) { io.observe(v); });
     })();
   </script>
+  <script src="assets/js/ask.js" defer></script>
 </body>
 </html>
