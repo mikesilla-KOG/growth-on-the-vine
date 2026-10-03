@@ -25,7 +25,7 @@ function render(d){
    else if(g.t==='s'&&sm[g.sid]){var s=sm[g.sid];p.appendChild(document.createTextNode(' '));var a2=link(safeUrl(s.watch_url),'sc','\u25B6 '+s.title+' '+s.time);a2.title='Watch this part on YouTube';p.appendChild(a2);p.appendChild(document.createTextNode(' '))}
    else if(g.t==='v'){var a3=el('a','rc',vref[g.vid]||'');a3.href='#v-live-'+(vnum[g.vid]||1);p.appendChild(a3)}
   });card.appendChild(p)});
- var lg=el('p','legend');lg.appendChild(el('q','b','Green'));lg.appendChild(document.createTextNode(' = Scripture (BSB) \u00B7 '));lg.appendChild(el('q','k','Gold'));lg.appendChild(document.createTextNode(' = Pastor Kincer\u2019s own words from the sermon transcripts'));card.appendChild(lg);art.appendChild(card);
+ var lg=el('p','legend');lg.appendChild(el('q','b','Green'));lg.appendChild(document.createTextNode(' = Scripture (BSB) \u00B7 '));lg.appendChild(el('q','k','Gold'));lg.appendChild(document.createTextNode(' = words from the sermon from the sermon transcripts'));card.appendChild(lg);art.appendChild(card);
  if(d.not_covered){var gn=el('div','gapnote');gn.appendChild(el('strong',null,'Not covered in the sermons yet. '));gn.appendChild(document.createTextNode(d.not_covered));art.appendChild(gn)}
  var sc=el('section','blk');var h3=el('h3',null,'Scripture ');sc.appendChild(h3);h3.appendChild(el('span','chip chip-bible','BSB'));
  (d.verses||[]).forEach(function(v,i){var bq=el('blockquote','verse');bq.id='v-live-'+(i+1);bq.appendChild(el('p',null,v.text));var c=el('cite');c.appendChild(el('strong',null,v.ref+' (BSB)'));bq.appendChild(c);sc.appendChild(bq)});art.appendChild(sc);
@@ -37,7 +37,7 @@ function render(d){
    var cl={},cs=[];d.sermons.forEach(function(s){(s.clips||[]).forEach(function(c){if(!cl[c.url]){cl[c.url]=1;cs.push(c)}})});
    if(cs.length){var rc=el('p','mini','Related Shorts: ');cs.forEach(function(c,i){if(i)rc.appendChild(document.createTextNode(' \u00B7 '));rc.appendChild(link(safeUrl(c.url),null,c.title))});ss.appendChild(rc)}
  }else{ss.appendChild(el('p',null,'None of the six messages on our site speaks to this question yet.'))}
- art.appendChild(ss);art.appendChild(el('p','aiword','Answers are written by AI from the Bible (BSB) and Pastor Kincer\u2019s messages on this site. Please read the verses and listen to the messages yourself. A computer checked each quote against the source text, but mistakes are still possible.'));
+ art.appendChild(ss);art.appendChild(el('p','aiword','AI-written from the Bible and our sermons. Please read the verses and listen yourself.'));
  return art}
 function busy(on){go.disabled=on;live.setAttribute('aria-busy',on?'true':'false')}
 var seq=0;
