@@ -155,14 +155,21 @@
     if (head) html += '<span class="lib-snip-h">' + highlight(head, rxAll) + "</span>";
     html += pre + highlight(body.slice(s, e), rxAll) + post;
     if (it.k === "m" && ps[2]) html += ' <a href="' + ROOT + it.u + ps[2] + '">Go to this part \u2192</a>';
-    return html;
+    return { h: html, k: ps[3] || "" };
   }
 
   function setCard(li, it, rxAll, snipHtml) {
     var a = li.querySelector(".lib-title a"), d = li.querySelector(".lib-desc"), sn = li.querySelector(".lib-snip");
     a.innerHTML = rxAll ? highlight(it.t, rxAll) : esc(it.t);
     d.innerHTML = rxAll ? highlight(it.d, rxAll) : esc(it.d);
-    if (snipHtml) { sn.innerHTML = snipHtml; sn.hidden = false; } else { sn.hidden = true; sn.innerHTML = ""; }
+    if (snipHtml && snipHtml.h) {
+      /* kind: s = the preacher's words (amber), b = Bible text (blue), anything else = our own words (gray) */
+      var k = snipHtml.k, tag = "";
+      if (k === "s") tag = '<span class="vs-tag vs-tag--srm"><span class="vs-ico" aria-hidden="true">\uD83C\uDF99</span>From the sermon</span>';
+      else if (k === "b") tag = '<span class="vs-tag vs-tag--scr"><span class="vs-ico" aria-hidden="true">\uD83D\uDCD6</span>Scripture (NKJV)</span>';
+      sn.className = "lib-snip" + (k === "s" ? " vs-snip" : k === "b" ? " vs-snip vs-snip--scr" : " vs-own-snip");
+      sn.innerHTML = tag + snipHtml.h; sn.hidden = false;
+    } else { sn.hidden = true; sn.innerHTML = ""; }
   }
 
   var FNAME = { all: "messages and clips", m: "full messages", c: "clips" };

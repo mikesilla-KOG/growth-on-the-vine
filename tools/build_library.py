@@ -54,17 +54,19 @@ def load_messages(repo):
         if not (p.parent / 'index.html').exists(): continue
         c = json.load(open(p, encoding='utf-8')); s = c['sermon']
         if s.get('status') != 'live': continue
-        ps = [['Summary', s.get('summary', ''), '']]
+        ps = [['Summary', s.get('summary', ''), '', 'o']]
         for ch in c.get('chunks', []):
             body = ' '.join(x['text'] for x in ch.get('paragraphs', [])) or ch.get('text', '')
             sc = ' '.join(f"{x['ref']}: {x.get('text_nkjv', '')}" for x in ch.get('scriptures', []))
             anchor = '#' + ch['page_anchor_url'].split('#', 1)[1] if '#' in ch.get('page_anchor_url', '') else ''
             head = ch.get('section_question', '')
-            if ch.get('short_answer'): head += ' — ' + ch['short_answer']
-            ps.append([head, (body + ' ' + sc).strip(), anchor])
+            # kind (4th element): o = the site's own words (gray), s = the preacher's words (amber, "From the sermon"), b = Bible text (blue, NKJV)
+            if ch.get('short_answer'): ps.append([head, ch['short_answer'], anchor, 'o'])
+            ps.append([head, body.strip(), anchor, 's'])
+            if sc: ps.append([head, sc, anchor, 'b'])
         for f in c.get('faqs', []):
             anchor = '#' + f['page_anchor_url'].split('#', 1)[1] if '#' in f.get('page_anchor_url', '') else ''
-            ps.append([f.get('question', ''), f.get('answer', ''), anchor])
+            ps.append([f.get('question', ''), f.get('answer', ''), anchor, 'o'])
         series = ' · '.join(x for x in [s.get('series'), s.get('series_part')] if x)
         out.append({'k': 'm', 's': slug, 'u': f'messages/{slug}/', 't': s['title'], 'd': trim(s.get('summary', ''), 210), 'dt': s['upload_date'],
                     'du': int(s.get('duration_seconds', 0)), 'ser': series, 'tg': ['full message', 'sermon', 'transcript', s.get('series', ''), s.get('series_part', '')],
@@ -86,13 +88,18 @@ def load_clips(repo):
         for pat in (r'<h1\b.*?</h1>', r'<h2\b.*?</h2>', r'<p class="full-message">.*?</p>', r'<section class="crossword-section".*?</section>',
                     r'<section[^>]*aria-labelledby="about-clip-heading".*?</section>', r'<div class="video-stage">.*?</div>', r'<p[^>]*>\s*<a class="btn"[^>]*>.*?</a>\s*</p>', r'<ul class="tags">.*?</ul>'):
             main = re.sub(pat, ' ', main, flags=re.S)
+        def sect(pat):
+            mm = re.search(pat, main, re.S); return tag_text(mm.group(0)) if mm else ''
+        a_short = sect(r'<section class="af-short.*?</section>'); a_quotes = sect(r'<section class="af-quotes.*?</section>'); a_scr = sect(r'<section class="af-scripture.*?</section>')
+        a_trans = sect(r'<section aria-labelledby="transcript-heading">.*?</section>')
         text = tag_text(main)
-        desc = tag_text(hook.group(1)) if hook else c.get('keyTakeaway', '')
+        desc = tag_text(hook.group(1)) if hook else (c.get('answer') or c.get('keyTakeaway', ''))
         thumb = f'assets/img/thumbs/{slug}.jpg'
         out.append({'k': 'c', 's': slug, 'u': f'clips/{slug}/', 't': c['title'], 'd': trim(desc, 210), 'dt': c['published'], 'du': iso_dur(c.get('duration')),
                     'sm': c.get('sermon', ''), 'tg': ['clip', 'short video', c.get('keyScripture', '')] + list(c.get('tags', [])),
                     'img': thumb if (repo / thumb).exists() else '',
-                    'p': [[c.get('keyTakeaway', ''), (text + ' ' + c.get('scriptureText', '')).strip(), '']]})
+                    'p': ([[c.get('answer', ''), (c.get('why', '') or a_short), '', 'o'], [c['title'], (a_quotes + ' ' + a_trans).strip(), '', 's'], [c['title'], a_scr, '', 'b']]
+                          if a_short and a_scr else [[c.get('keyTakeaway', ''), (text + ' ' + c.get('scriptureText', '')).strip(), '']])})
     out.sort(key=lambda x: (x['dt'], x['s']), reverse=True)
     return out
 
@@ -129,7 +136,7 @@ def page(items):
           'mainEntity': {'@type': 'ItemList', 'itemListElement': [{'@type': 'ListItem', 'position': i + 1, 'url': f'{SITE}/{x["u"]}', 'name': x['t']} for i, x in enumerate(items)]}}
     cards = ''.join(card(x, rel) for x in items)
     return f'''<!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{SITE}/messages/"><meta name="theme-color" content="#0f2a20"><link rel="icon" type="image/png" sizes="32x32" href="{rel}assets/img/favicon-32.png"><link rel="apple-touch-icon" href="{rel}assets/img/favicon.png"><meta property="og:type" content="website"><meta property="og:site_name" content="Grow on the Vine"><meta property="og:title" content="Messages &amp; Clips | Grow on the Vine"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{SITE}/messages/"><meta property="og:image" content="{SITE}/assets/img/gotv-official-og.jpg"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Messages &amp; Clips | Grow on the Vine"><meta name="twitter:description" content="{E(desc)}"><meta name="twitter:image" content="{SITE}/assets/img/gotv-official-og.jpg"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="{rel}assets/css/styles.css"><link rel="stylesheet" href="{rel}assets/css/library.css"><script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script></head>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{SITE}/messages/"><meta name="theme-color" content="#0f2a20"><link rel="icon" type="image/png" sizes="32x32" href="{rel}assets/img/favicon-32.png"><link rel="apple-touch-icon" href="{rel}assets/img/favicon.png"><meta property="og:type" content="website"><meta property="og:site_name" content="Grow on the Vine"><meta property="og:title" content="Messages &amp; Clips | Grow on the Vine"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{SITE}/messages/"><meta property="og:image" content="{SITE}/assets/img/gotv-official-og.jpg"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Messages &amp; Clips | Grow on the Vine"><meta name="twitter:description" content="{E(desc)}"><meta name="twitter:image" content="{SITE}/assets/img/gotv-official-og.jpg"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="{rel}assets/css/styles.css"><link rel="stylesheet" href="{rel}assets/css/library.css"><link rel="stylesheet" href="{rel}assets/css/verse-vs-sermon.css"><script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script></head>
 <body><header class="site-header"><div class="header-inner"><a class="brand" href="{rel}"><img src="{rel}assets/img/gotv-official.png" alt="" width="112" height="112"><span class="brand-text-stack"><span class="brand-text">Grow on the Vine</span><span class="brand-tagline">Believe, Know, &amp; Grow</span></span></a>{nav(rel)}</div></header>
 <main class="wrap-wide lib-page">
 <p class="section-label">Library</p>
