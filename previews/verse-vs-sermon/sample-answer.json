@@ -1,0 +1,208 @@
+{
+ "kind": "answer",
+ "ok": true,
+ "question": "Can a Christian have a demon?",
+ "coverage": "partial",
+ "paragraphs": [
+  {
+   "segs": [
+    {
+     "t": "text",
+     "v": "Thoughtful Christians have understood this question in more than one way, and no single verse answers it in so many words. What Scripture makes clear is that the struggle is real and that Christ is greater. It speaks of "
+    },
+    {
+     "t": "b",
+     "v": "the spiritual forces of evil in the heavenly realms",
+     "vid": "v-demon-1"
+    },
+    {
+     "t": "text",
+     "v": ", and it also says "
+    },
+    {
+     "t": "b",
+     "v": "Resist the devil, and he will flee from you",
+     "vid": "v-demon-2"
+    },
+    {
+     "t": "text",
+     "v": " and "
+    },
+    {
+     "t": "b",
+     "v": "greater is He who is in you than he who is in the world",
+     "vid": "v-demon-3"
+    },
+    {
+     "t": "text",
+     "v": "."
+    }
+   ]
+  },
+  {
+   "segs": [
+    {
+     "t": "text",
+     "v": "Some Christians point to passages about who a believer belongs to. God "
+    },
+    {
+     "t": "b",
+     "v": "has rescued us from the dominion of darkness",
+     "vid": "v-demon-4"
+    },
+    {
+     "t": "text",
+     "v": ", a believer's body is "
+    },
+    {
+     "t": "b",
+     "v": "a temple of the Holy Spirit",
+     "vid": "v-demon-5"
+    },
+    {
+     "t": "text",
+     "v": ", and "
+    },
+    {
+     "t": "b",
+     "v": "the evil one cannot touch him",
+     "vid": "v-demon-6"
+    },
+    {
+     "t": "text",
+     "v": ". The preacher takes this view in one short remark, right after speaking of the power of the cross, in “Division Concluded Part 2”: "
+    },
+    {
+     "t": "k",
+     "v": "Nobody has more power than Jesus Christ."
+    },
+    {
+     "t": "text",
+     "v": " He goes on, "
+    },
+    {
+     "t": "k",
+     "v": "That’s why a Christian can’t have a demon and a Christian, you know, is not under the influence of Satan because Jesus is in us."
+    },
+    {
+     "t": "text",
+     "v": " "
+    },
+    {
+     "t": "s",
+     "sid": "S1"
+    }
+   ],
+   "label": "One view: a believer belongs to Christ"
+  },
+  {
+   "segs": [
+    {
+     "t": "text",
+     "v": "Others point to warnings that believers can still be attacked or led astray: "
+    },
+    {
+     "t": "b",
+     "v": "Your adversary the devil prowls around like a roaring lion, seeking someone to devour",
+     "vid": "v-demon-7"
+    },
+    {
+     "t": "text",
+     "v": "; "
+    },
+    {
+     "t": "b",
+     "v": "do not give the devil a foothold",
+     "vid": "v-demon-8"
+    },
+    {
+     "t": "text",
+     "v": "; "
+    },
+    {
+     "t": "b",
+     "v": "your minds may be led astray from your simple and pure devotion to Christ",
+     "vid": "v-demon-9"
+    },
+    {
+     "t": "text",
+     "v": ". Peter's question to Ananias is also cited: "
+    },
+    {
+     "t": "b",
+     "v": "how is it that Satan has filled your heart",
+     "vid": "v-demon-10"
+    },
+    {
+     "t": "text",
+     "v": ". Christians read that verse in different ways. We did not find the preacher teaching this second view in the six messages on our site, so we are not putting it in his mouth."
+    }
+   ],
+   "label": "Another view: a believer can still be attacked or misled"
+  }
+ ],
+ "verses": [
+  {
+   "id": "v-demon-1",
+   "text": "Put on the full armor of God, so that you can make your stand against the devil’s schemes. For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers of this world’s darkness, and against the spiritual forces of evil in the heavenly realms.",
+   "ref": "Ephesians 6:11-12"
+  },
+  {
+   "id": "v-demon-2",
+   "text": "Submit yourselves, then, to God. Resist the devil, and he will flee from you.",
+   "ref": "James 4:7"
+  },
+  {
+   "id": "v-demon-3",
+   "text": "You, little children, are from God and have overcome them, because greater is He who is in you than he who is in the world.",
+   "ref": "1 John 4:4"
+  },
+  {
+   "id": "v-demon-4",
+   "text": "He has rescued us from the dominion of darkness and brought us into the kingdom of His beloved Son,",
+   "ref": "Colossians 1:13"
+  },
+  {
+   "id": "v-demon-5",
+   "text": "Do you not know that your body is a temple of the Holy Spirit who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore glorify God with your body.",
+   "ref": "1 Corinthians 6:19-20"
+  },
+  {
+   "id": "v-demon-6",
+   "text": "We know that anyone born of God does not keep on sinning; the One who was born of God protects him, and the evil one cannot touch him.",
+   "ref": "1 John 5:18"
+  },
+  {
+   "id": "v-demon-7",
+   "text": "Be sober-minded and alert. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.",
+   "ref": "1 Peter 5:8"
+  },
+  {
+   "id": "v-demon-8",
+   "text": "“Be angry, yet do not sin.” Do not let the sun set upon your anger, and do not give the devil a foothold.",
+   "ref": "Ephesians 4:26-27"
+  },
+  {
+   "id": "v-demon-9",
+   "text": "I am afraid, however, that just as Eve was deceived by the serpent’s cunning, your minds may be led astray from your simple and pure devotion to Christ.",
+   "ref": "2 Corinthians 11:3"
+  },
+  {
+   "id": "v-demon-10",
+   "text": "Then Peter said, “Ananias, how is it that Satan has filled your heart to lie to the Holy Spirit and withhold some of the proceeds from the land?",
+   "ref": "Acts 5:3"
+  }
+ ],
+ "sermons": [
+  {
+   "id": "S1",
+   "title": "Division Concluded Part 2",
+   "section_question": "Is Jesus really the only way?",
+   "time": "9:04",
+   "watch_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=544s",
+   "page_url": "https://growonthevine.com/messages/division-concluded-part-2/#q-is-jesus-really-the-only-way",
+   "message_url": "https://growonthevine.com/messages/division-concluded-part-2/",
+   "clips": []
+  }
+ ]
+}
