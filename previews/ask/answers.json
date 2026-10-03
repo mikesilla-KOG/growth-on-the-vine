@@ -1,0 +1,1660 @@
+{
+ "status": "preview-demo",
+ "note": "Pre-computed sample answers. Only verses cited in these answers are included (no full NKJV corpus).",
+ "bible_translation": "NKJV",
+ "notice": "Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved.",
+ "answers": [
+  {
+   "id": "demon",
+   "question": "Can a Christian have a demon?",
+   "coverage": "partial",
+   "summary": "Thoughtful Christians have understood this question in more than one way, and no single verse answers it in so many words. Below: the Scripture that applies to everyone, then the one place on our site where Pastor Kincer speaks to it, then the passages people point to on each side.",
+   "how_built": {
+    "openbible_topics_used": [
+     "demonic possession",
+     "demon possession",
+     "demonic oppression",
+     "demons",
+     "spiritual warfare",
+     "spiritual attack",
+     "demon possessed"
+    ],
+    "bible_candidate_passages_considered": 41,
+    "bm25_top_sermon_passages": [
+     {
+      "section": "division-concluded-part-2:is-jesus-really-the-only-way",
+      "t": 544,
+      "score": 7.47
+     },
+     {
+      "section": "a-more-excellent-way:what-does-it-mean-to-put-away-childish-things",
+      "t": 1080,
+      "score": 3.62
+     },
+     {
+      "section": "division-part-1:why-do-christians-lose-excitement-for-church",
+      "t": 222,
+      "score": 3.49
+     },
+     {
+      "section": "division-concluded-part-1:how-did-galatians-4-19-help-him-as-a-young-christian",
+      "t": 1296,
+      "score": 3.47
+     },
+     {
+      "section": "a-more-excellent-way:what-does-it-mean-to-put-away-childish-things",
+      "t": 1016,
+      "score": 3.43
+     },
+     {
+      "section": "a-more-excellent-way:what-does-it-mean-to-put-away-childish-things",
+      "t": 1142,
+      "score": 3.42
+     }
+    ]
+   },
+   "bible": [
+    {
+     "heading": "Where all Christians agree: the struggle is real, and Christ is greater",
+     "passages": [
+      {
+       "ref": "Ephesians 6:11-12",
+       "translation": "NKJV",
+       "text": "Put on the whole armor of God, that you may be able to stand against the wiles of the devil. For we do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age, against spiritual hosts of wickedness in the heavenly places.",
+       "note": null,
+       "verses": 2,
+       "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+6%3A11-12&version=NKJV"
+      },
+      {
+       "ref": "James 4:7",
+       "translation": "NKJV",
+       "text": "Therefore submit to God. Resist the devil and he will flee from you.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=James+4%3A7&version=NKJV"
+      },
+      {
+       "ref": "1 John 4:4",
+       "translation": "NKJV",
+       "text": "You are of God, little children, and have overcome them, because He who is in you is greater than he who is in the world.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+John+4%3A4&version=NKJV"
+      }
+     ]
+    }
+   ],
+   "pastor": {
+    "intro": "This is the only place in the six messages on our site where he speaks to it, and it is a short remark inside a message about Jesus being the only way:",
+    "items": [
+     {
+      "lead": "In “Division Concluded Part 2,” right after speaking of the power of the cross, he says:",
+      "quote_fragments": [
+       "Nobody has more power than Jesus Christ.",
+       "That’s why a Christian can’t have a demon and a Christian, you know, is not under the influence of Satan because Jesus is in us. He’s the big boss. He’s the power."
+      ],
+      "sermon_slug": "division-concluded-part-2",
+      "sermon_title": "Division Concluded Part 2",
+      "section_question": "Is Jesus really the only way?",
+      "t": 544,
+      "time": "9:04",
+      "watch_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=544s",
+      "page_url": "https://growonthevine.com/messages/division-concluded-part-2/#q-is-jesus-really-the-only-way",
+      "message_url": "https://growonthevine.com/messages/division-concluded-part-2/"
+     }
+    ]
+   },
+   "both_sides": {
+    "intro": "Christians have read the Bible on this in two ways. These are the passages each view points to. We are showing them side by side, not deciding for you.",
+    "sides": [
+     {
+      "title": "View 1: a believer belongs to Christ and is protected from being possessed",
+      "pastor": [],
+      "pastor_gap": null,
+      "pastor_note": "Pastor Kincer takes this view in the remark quoted above (“a Christian can’t have a demon”).",
+      "scripture": [
+       {
+        "ref": "Colossians 1:13",
+        "translation": "NKJV",
+        "text": "He has delivered us from the power of darkness and conveyed us into the kingdom of the Son of His love,",
+        "note": null,
+        "verses": 1,
+        "source_url": "https://www.biblegateway.com/passage/?search=Colossians+1%3A13&version=NKJV"
+       },
+       {
+        "ref": "1 Corinthians 6:19-20",
+        "translation": "NKJV",
+        "text": "Or do you not know that your body is the temple of the Holy Spirit who is in you, whom you have from God, and you are not your own? For you were bought at a price; therefore glorify God in your body and in your spirit, which are God’s.",
+        "note": null,
+        "verses": 2,
+        "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+6%3A19-20&version=NKJV"
+       },
+       {
+        "ref": "1 John 5:18",
+        "translation": "NKJV",
+        "text": "We know that whoever is born of God does not sin; but he who has been born of God keeps himself, and the wicked one does not touch him.",
+        "note": null,
+        "verses": 1,
+        "source_url": "https://www.biblegateway.com/passage/?search=1+John+5%3A18&version=NKJV"
+       }
+      ]
+     },
+     {
+      "title": "View 2: a believer can still be attacked, deceived or influenced",
+      "pastor": [],
+      "pastor_gap": "Our six messages do not include Pastor Kincer teaching this side, so we cannot say how he would describe it. We are not guessing.",
+      "pastor_note": null,
+      "scripture": [
+       {
+        "ref": "1 Peter 5:8",
+        "translation": "NKJV",
+        "text": "Be sober, be vigilant; because your adversary the devil walks about like a roaring lion, seeking whom he may devour.",
+        "note": null,
+        "verses": 1,
+        "source_url": "https://www.biblegateway.com/passage/?search=1+Peter+5%3A8&version=NKJV"
+       },
+       {
+        "ref": "Ephesians 4:26-27",
+        "translation": "NKJV",
+        "text": "“Be angry, and do not sin”: do not let the sun go down on your wrath, nor give place to the devil.",
+        "note": null,
+        "verses": 2,
+        "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+4%3A26-27&version=NKJV"
+       },
+       {
+        "ref": "2 Corinthians 11:3",
+        "translation": "NKJV",
+        "text": "But I fear, lest somehow, as the serpent deceived Eve by his craftiness, so your minds may be corrupted from the simplicity that is in Christ.",
+        "note": null,
+        "verses": 1,
+        "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+11%3A3&version=NKJV"
+       },
+       {
+        "ref": "Acts 5:3",
+        "translation": "NKJV",
+        "text": "But Peter said, “Ananias, why has Satan filled your heart to lie to the Holy Spirit and keep back part of the price of the land for yourself?",
+        "note": "Christians read this verse in different ways.",
+        "verses": 1,
+        "source_url": "https://www.biblegateway.com/passage/?search=Acts+5%3A3&version=NKJV"
+       }
+      ]
+     }
+    ]
+   },
+   "not_covered": [
+    "How Pastor Kincer explains the difference, if any, between a believer being attacked or “oppressed” and being possessed. If he teaches that in another message, it is not on this site yet."
+   ],
+   "related": {
+    "clips": [],
+    "messages": [
+     "division-concluded-part-2"
+    ]
+   }
+  },
+  {
+   "id": "bored",
+   "question": "Is church boring?",
+   "coverage": "full",
+   "summary": "Lots of people feel this way, and it is fair to ask. Pastor Kincer says he felt the same as a teenager. Here is what Scripture says about gathering with God’s people, and what he learned.",
+   "how_built": {
+    "openbible_topics_used": [
+     "boredom",
+     "assembling yourselves together",
+     "going to church",
+     "gathering at church",
+     "worship in church",
+     "fellowship"
+    ],
+    "bible_candidate_passages_considered": 50,
+    "bm25_top_sermon_passages": [
+     {
+      "section": "division-part-1:is-church-boring",
+      "t": 222,
+      "score": 10.63
+     },
+     {
+      "section": "division-part-1:is-church-boring",
+      "t": 280,
+      "score": 10.27
+     },
+     {
+      "section": "division-part-1:blame-the-church-or-take-responsibility",
+      "t": 148,
+      "score": 1.39
+     },
+     {
+      "section": "a-more-excellent-way:should-spirit-filled-churches-work-with-other-churches",
+      "t": 599,
+      "score": 1.36
+     },
+     {
+      "section": "division-part-2:should-we-look-to-ministers-or-to-jesus",
+      "t": 132,
+      "score": 1.35
+     },
+     {
+      "section": "division-part-1:what-does-speak-the-same-thing-mean",
+      "t": 525,
+      "score": 1.34
+     }
+    ]
+   },
+   "bible": [
+    {
+     "heading": "What the Bible says about gathering with God’s people",
+     "passages": [
+      {
+       "ref": "Psalm 122:1",
+       "translation": "NKJV",
+       "text": "I was glad when they said to me, “Let us go into the house of the LORD.”",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=Psalm+122%3A1&version=NKJV"
+      },
+      {
+       "ref": "Psalm 84:10",
+       "translation": "NKJV",
+       "text": "For a day in Your courts is better than a thousand. I would rather be a doorkeeper in the house of my God Than dwell in the tents of wickedness.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=Psalm+84%3A10&version=NKJV"
+      },
+      {
+       "ref": "Acts 2:46-47",
+       "translation": "NKJV",
+       "text": "So continuing daily with one accord in the temple, and breaking bread from house to house, they ate their food with gladness and simplicity of heart, praising God and having favor with all the people. And the Lord added to the church daily those who were being saved.",
+       "note": null,
+       "verses": 2,
+       "source_url": "https://www.biblegateway.com/passage/?search=Acts+2%3A46-47&version=NKJV"
+      },
+      {
+       "ref": "Hebrews 10:24-25",
+       "translation": "NKJV",
+       "text": "And let us consider one another in order to stir up love and good works, not forsaking the assembling of ourselves together, as is the manner of some, but exhorting one another, and so much the more as you see the Day approaching.",
+       "note": null,
+       "verses": 2,
+       "source_url": "https://www.biblegateway.com/passage/?search=Hebrews+10%3A24-25&version=NKJV"
+      },
+      {
+       "ref": "1 Corinthians 14:26",
+       "translation": "NKJV",
+       "text": "How is it then, brethren? Whenever you come together, each of you has a psalm, has a teaching, has a tongue, has a revelation, has an interpretation. Let all things be done for edification.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+14%3A26&version=NKJV"
+      }
+     ]
+    }
+   ],
+   "pastor": {
+    "intro": null,
+    "items": [
+     {
+      "lead": "In “Division Part 1” he says he thought church was boring at 16 to 18:",
+      "quote_fragments": [
+       "church is boring — because I didn’t get involved",
+       "I just couldn’t wait for the thing to get over. I was the clock watcher."
+      ],
+      "sermon_slug": "division-part-1",
+      "sermon_title": "Division Part 1",
+      "section_question": "Is church boring?",
+      "t": 222,
+      "time": "3:42",
+      "watch_url": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=222s",
+      "page_url": "https://growonthevine.com/messages/division-part-1/#q-is-church-boring",
+      "message_url": "https://growonthevine.com/messages/division-part-1/"
+     },
+     {
+      "lead": "He goes on:",
+      "quote_fragments": [
+       "Anybody that doesn’t want to get involved in the church, involved in God, are going to be bored."
+      ],
+      "sermon_slug": "division-part-1",
+      "sermon_title": "Division Part 1",
+      "section_question": "Is church boring?",
+      "t": 280,
+      "time": "4:40",
+      "watch_url": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=280s",
+      "page_url": "https://growonthevine.com/messages/division-part-1/#q-is-church-boring",
+      "message_url": "https://growonthevine.com/messages/division-part-1/"
+     },
+     {
+      "lead": "In “A More Excellent Way”:",
+      "quote_fragments": [
+       "when people start taking responsibility to be involved in a church service, you will be shocked at what God can do."
+      ],
+      "sermon_slug": "a-more-excellent-way",
+      "sermon_title": "A More Excellent Way",
+      "section_question": "Is there a free ride in church?",
+      "t": 1340,
+      "time": "22:20",
+      "watch_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1340s",
+      "page_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-is-there-a-free-ride-in-church",
+      "message_url": "https://growonthevine.com/messages/a-more-excellent-way/"
+     },
+     {
+      "lead": "And in “Division Concluded Part 2”:",
+      "quote_fragments": [
+       "the power of one member just being present, God uses to touch people’s lives."
+      ],
+      "sermon_slug": "division-concluded-part-2",
+      "sermon_title": "Division Concluded Part 2",
+      "section_question": "Does it matter if you show up to church?",
+      "t": 1061,
+      "time": "17:41",
+      "watch_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=1061s",
+      "page_url": "https://growonthevine.com/messages/division-concluded-part-2/#q-does-it-matter-if-you-show-up-to-church",
+      "message_url": "https://growonthevine.com/messages/division-concluded-part-2/"
+     }
+    ]
+   },
+   "related": {
+    "clips": [
+     "is-church-boring"
+    ],
+    "messages": [
+     "division-part-1"
+    ]
+   }
+  },
+  {
+   "id": "love",
+   "question": "What does the Bible say about love?",
+   "coverage": "full",
+   "summary": "Love sits at the center of the Bible. Scripture shows God’s love first, then asks us to love, and then describes what love looks like. Pastor Kincer has a whole message on it.",
+   "how_built": {
+    "openbible_topics_used": [
+     "love",
+     "love one another",
+     "love of god",
+     "love in corinthians",
+     "love is"
+    ],
+    "bible_candidate_passages_considered": 36,
+    "bm25_top_sermon_passages": [
+     {
+      "section": "a-more-excellent-way:what-does-love-look-like-in-1-corinthians-13",
+      "t": 453,
+      "score": 6.27
+     },
+     {
+      "section": "a-more-excellent-way:what-does-love-look-like-in-1-corinthians-13",
+      "t": 384,
+      "score": 5.96
+     },
+     {
+      "section": "a-more-excellent-way:what-does-love-look-like-in-1-corinthians-13",
+      "t": 423,
+      "score": 5.79
+     },
+     {
+      "section": "a-more-excellent-way:do-good-works-and-sacrifice-count-without-love",
+      "t": 334,
+      "score": 5.38
+     },
+     {
+      "section": "division-part-2:how-do-you-spell-love",
+      "t": 1278,
+      "score": 5.24
+     },
+     {
+      "section": "division-concluded-part-2:what-does-living-your-faith-look-like",
+      "t": 577,
+      "score": 4.54
+     }
+    ]
+   },
+   "bible": [
+    {
+     "heading": "God’s love for us",
+     "passages": [
+      {
+       "ref": "John 3:16",
+       "translation": "NKJV",
+       "text": "For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=John+3%3A16&version=NKJV"
+      },
+      {
+       "ref": "Romans 5:8",
+       "translation": "NKJV",
+       "text": "But God demonstrates His own love toward us, in that while we were still sinners, Christ died for us.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=Romans+5%3A8&version=NKJV"
+      },
+      {
+       "ref": "1 John 4:19",
+       "translation": "NKJV",
+       "text": "We love Him because He first loved us.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+John+4%3A19&version=NKJV"
+      }
+     ]
+    },
+    {
+     "heading": "Our call to love",
+     "passages": [
+      {
+       "ref": "Mark 12:30-31",
+       "translation": "NKJV",
+       "text": "And you shall love the LORD your God with all your heart, with all your soul, with all your mind, and with all your strength.’ This is the first commandment. And the second, like it, is this: ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these.”",
+       "note": null,
+       "verses": 2,
+       "source_url": "https://www.biblegateway.com/passage/?search=Mark+12%3A30-31&version=NKJV"
+      },
+      {
+       "ref": "John 13:34-35",
+       "translation": "NKJV",
+       "text": "A new commandment I give to you, that you love one another; as I have loved you, that you also love one another. By this all will know that you are My disciples, if you have love for one another.”",
+       "note": null,
+       "verses": 2,
+       "source_url": "https://www.biblegateway.com/passage/?search=John+13%3A34-35&version=NKJV"
+      },
+      {
+       "ref": "1 John 4:7-8",
+       "translation": "NKJV",
+       "text": "Beloved, let us love one another, for love is of God; and everyone who loves is born of God and knows God. He who does not love does not know God, for God is love.",
+       "note": null,
+       "verses": 2,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+John+4%3A7-8&version=NKJV"
+      }
+     ]
+    },
+    {
+     "heading": "What love is like, and why it matters most",
+     "passages": [
+      {
+       "ref": "1 Corinthians 13:1-3",
+       "translation": "NKJV",
+       "text": "Though I speak with the tongues of men and of angels, but have not love, I have become sounding brass or a clanging cymbal. And though I have the gift of prophecy, and understand all mysteries and all knowledge, and though I have all faith, so that I could remove mountains, but have not love, I am nothing. And though I bestow all my goods to feed the poor, and though I give my body to be burned, but have not love, it profits me nothing.",
+       "note": null,
+       "verses": 3,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A1-3&version=NKJV"
+      },
+      {
+       "ref": "1 Corinthians 13:4-7",
+       "translation": "NKJV",
+       "text": "Love suffers long and is kind; love does not envy; love does not parade itself, is not puffed up; does not behave rudely, does not seek its own, is not provoked, thinks no evil; does not rejoice in iniquity, but rejoices in the truth; bears all things, believes all things, hopes all things, endures all things.",
+       "note": null,
+       "verses": 4,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A4-7&version=NKJV"
+      },
+      {
+       "ref": "1 Corinthians 13:13",
+       "translation": "NKJV",
+       "text": "And now abide faith, hope, love, these three; but the greatest of these is love.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A13&version=NKJV"
+      }
+     ]
+    }
+   ],
+   "pastor": {
+    "intro": null,
+    "items": [
+     {
+      "lead": "In “A More Excellent Way” he walks through Paul’s description of love:",
+      "quote_fragments": [
+       "Love does not seek its own way.",
+       "love doesn’t demand its own way, in the family, in the church, or in the community. It demands the right way, the truth."
+      ],
+      "sermon_slug": "a-more-excellent-way",
+      "sermon_title": "A More Excellent Way",
+      "section_question": "What does love look like in 1 Corinthians 13:4–7?",
+      "t": 384,
+      "time": "6:24",
+      "watch_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=384s",
+      "page_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-what-does-love-look-like-in-1-corinthians-13",
+      "message_url": "https://growonthevine.com/messages/a-more-excellent-way/"
+     },
+     {
+      "lead": "He reads 1 Timothy 1:5 and says:",
+      "quote_fragments": [
+       "the goal of the word of God is love out of a pure heart."
+      ],
+      "sermon_slug": "a-more-excellent-way",
+      "sermon_title": "A More Excellent Way",
+      "section_question": "What is the goal of the commandment?",
+      "t": 1387,
+      "time": "23:07",
+      "watch_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1387s",
+      "page_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-what-is-the-goal-of-the-commandment",
+      "message_url": "https://growonthevine.com/messages/a-more-excellent-way/"
+     },
+     {
+      "lead": "On where love fits:",
+      "quote_fragments": [
+       "So love is at the peak of divine character, and it’s at the beginning of the fruits of the Spirit."
+      ],
+      "sermon_slug": "a-more-excellent-way",
+      "sermon_title": "A More Excellent Way",
+      "section_question": "Can you have the gifts of the Spirit without the fruit of the Spirit?",
+      "t": 502,
+      "time": "8:22",
+      "watch_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=502s",
+      "page_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-can-you-have-the-gifts-of-the-spirit-without-the-fruit-of-the-spirit",
+      "message_url": "https://growonthevine.com/messages/a-more-excellent-way/"
+     },
+     {
+      "lead": "In “Division Part 2”:",
+      "quote_fragments": [
+       "love is not only spelled L-O-V-E, it’s spelled T-I-M-E."
+      ],
+      "sermon_slug": "division-part-2",
+      "sermon_title": "Division Part 2",
+      "section_question": "How do you spell love?",
+      "t": 1278,
+      "time": "21:18",
+      "watch_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=1278s",
+      "page_url": "https://growonthevine.com/messages/division-part-2/#q-how-do-you-spell-love",
+      "message_url": "https://growonthevine.com/messages/division-part-2/"
+     }
+    ]
+   },
+   "related": {
+    "clips": [
+     "goal-is-love",
+     "love-doesnt-demand-its-own-way",
+     "noise-without-love"
+    ],
+    "messages": [
+     "a-more-excellent-way"
+    ]
+   }
+  },
+  {
+   "id": "tongues",
+   "question": "Do I have to speak in tongues?",
+   "coverage": "full",
+   "summary": "This is a gentle question with a long history. We did not find a place in these six messages where Pastor Kincer says tongues are required to be saved. He does recommend being filled with the Holy Spirit, and he also says tongues are not the goal. Both are shown below.",
+   "how_built": {
+    "openbible_topics_used": [
+     "speaking in tongues",
+     "baptism of the holy spirit",
+     "gifts of the spirit",
+     "gifts of the holy spirit",
+     "tongues"
+    ],
+    "bible_candidate_passages_considered": 33,
+    "bm25_top_sermon_passages": [
+     {
+      "section": "a-more-excellent-way:is-speaking-in-tongues-the-goal",
+      "t": 1470,
+      "score": 8.14
+     },
+     {
+      "section": "a-more-excellent-way:who-decides-when-healing-or-tongues-happen",
+      "t": 1464,
+      "score": 7.26
+     },
+     {
+      "section": "a-more-excellent-way:are-tongues-worship-prayer-or-soulwinning-the-goal",
+      "t": 1464,
+      "score": 7.19
+     },
+     {
+      "section": "a-more-excellent-way:are-tongues-worship-prayer-or-soulwinning-the-goal",
+      "t": 1512,
+      "score": 6.07
+     },
+     {
+      "section": "a-more-excellent-way:are-tongues-worship-prayer-or-soulwinning-the-goal",
+      "t": 1549,
+      "score": 5.94
+     },
+     {
+      "section": "a-more-excellent-way:what-does-a-more-excellent-way-mean-in-1-corinthians-12-13",
+      "t": 0,
+      "score": 5.84
+     }
+    ]
+   },
+   "bible": [
+    {
+     "heading": "What the Bible says brings salvation",
+     "passages": [
+      {
+       "ref": "Romans 10:9-10",
+       "translation": "NKJV",
+       "text": "that if you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved. For with the heart one believes unto righteousness, and with the mouth confession is made unto salvation.",
+       "note": null,
+       "verses": 2,
+       "source_url": "https://www.biblegateway.com/passage/?search=Romans+10%3A9-10&version=NKJV"
+      },
+      {
+       "ref": "Ephesians 2:8-9",
+       "translation": "NKJV",
+       "text": "For by grace you have been saved through faith, and that not of yourselves; it is the gift of God, not of works, lest anyone should boast.",
+       "note": null,
+       "verses": 2,
+       "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=NKJV"
+      }
+     ]
+    },
+    {
+     "heading": "What the Bible says about gifts and tongues",
+     "passages": [
+      {
+       "ref": "1 Corinthians 12:7-11",
+       "translation": "NKJV",
+       "text": "But the manifestation of the Spirit is given to each one for the profit of all: for to one is given the word of wisdom through the Spirit, to another the word of knowledge through the same Spirit, to another faith by the same Spirit, to another gifts of healings by the same Spirit, to another the working of miracles, to another prophecy, to another discerning of spirits, to another different kinds of tongues, to another the interpretation of tongues. But one and the same Spirit works all these things, distributing to each one individually as He wills.",
+       "note": null,
+       "verses": 5,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+12%3A7-11&version=NKJV"
+      },
+      {
+       "ref": "1 Corinthians 12:29-30",
+       "translation": "NKJV",
+       "text": "Are all apostles? Are all prophets? Are all teachers? Are all workers of miracles? Do all have gifts of healings? Do all speak with tongues? Do all interpret?",
+       "note": null,
+       "verses": 2,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+12%3A29-30&version=NKJV"
+      },
+      {
+       "ref": "1 Corinthians 14:1-5",
+       "translation": "NKJV",
+       "text": "Pursue love, and desire spiritual gifts, but especially that you may prophesy. For he who speaks in a tongue does not speak to men but to God, for no one understands him; however, in the spirit he speaks mysteries. But he who prophesies speaks edification and exhortation and comfort to men. He who speaks in a tongue edifies himself, but he who prophesies edifies the church. I wish you all spoke with tongues, but even more that you prophesied; for he who prophesies is greater than he who speaks with tongues, unless indeed he interprets, that the church may receive edification.",
+       "note": null,
+       "verses": 5,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+14%3A1-5&version=NKJV"
+      }
+     ]
+    }
+   ],
+   "pastor": {
+    "intro": null,
+    "items": [
+     {
+      "lead": "In “A More Excellent Way”:",
+      "quote_fragments": [
+       "God is the one that distributes these things as he wills.",
+       "That’s not the goal of the commandment. That’s one of the attributes that gives you power to live for God."
+      ],
+      "sermon_slug": "a-more-excellent-way",
+      "sermon_title": "A More Excellent Way",
+      "section_question": "Are tongues, worship, prayer, soulwinning or rituals the goal?",
+      "t": 1464,
+      "time": "24:24",
+      "watch_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=1464s",
+      "page_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-are-tongues-worship-prayer-or-soulwinning-the-goal",
+      "message_url": "https://growonthevine.com/messages/a-more-excellent-way/"
+     },
+     {
+      "lead": "On 1 Corinthians 13:1:",
+      "quote_fragments": [
+       "Tongues is nothing but languages.",
+       "But the key is, love is more important than both of those."
+      ],
+      "sermon_slug": "a-more-excellent-way",
+      "sermon_title": "A More Excellent Way",
+      "section_question": "What does “a more excellent way” mean in 1 Corinthians 12–13?",
+      "t": 0,
+      "time": "0:00",
+      "watch_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=0s",
+      "page_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-what-does-a-more-excellent-way-mean-in-1-corinthians-12-13",
+      "message_url": "https://growonthevine.com/messages/a-more-excellent-way/"
+     }
+    ]
+   },
+   "both_sides": {
+    "intro": "He holds two things together, and speaks of a third view he disagrees with. They are not opposites, but they balance one another.",
+    "sides": [
+     {
+      "title": "He recommends being filled with the Holy Spirit, and speaks in tongues himself",
+      "pastor": [
+       {
+        "lead": "In “Division Part 2”:",
+        "quote_fragments": [
+         "I highly recommend the baptism of the Holy Ghost."
+        ],
+        "sermon_slug": "division-part-2",
+        "sermon_title": "Division Part 2",
+        "section_question": "Why does he recommend the baptism of the Holy Ghost?",
+        "t": 396,
+        "time": "6:36",
+        "watch_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=396s",
+        "page_url": "https://growonthevine.com/messages/division-part-2/#q-why-does-he-recommend-the-baptism-of-the-holy-ghost",
+        "message_url": "https://growonthevine.com/messages/division-part-2/"
+       },
+       {
+        "lead": "Of his own experience:",
+        "quote_fragments": [
+         "I was filled with the Holy Ghost with speaking in tongues"
+        ],
+        "sermon_slug": "division-part-2",
+        "sermon_title": "Division Part 2",
+        "section_question": "Can God really change a person?",
+        "t": 350,
+        "time": "5:50",
+        "watch_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=350s",
+        "page_url": "https://growonthevine.com/messages/division-part-2/#q-can-god-really-change-a-person",
+        "message_url": "https://growonthevine.com/messages/division-part-2/"
+       }
+      ],
+      "pastor_gap": null,
+      "pastor_note": null,
+      "scripture": [
+       {
+        "ref": "Acts 2:4",
+        "translation": "NKJV",
+        "text": "And they were all filled with the Holy Spirit and began to speak with other tongues, as the Spirit gave them utterance.",
+        "note": null,
+        "verses": 1,
+        "source_url": "https://www.biblegateway.com/passage/?search=Acts+2%3A4&version=NKJV"
+       },
+       {
+        "ref": "Acts 19:6",
+        "translation": "NKJV",
+        "text": "And when Paul had laid hands on them, the Holy Spirit came upon them, and they spoke with tongues and prophesied.",
+        "note": null,
+        "verses": 1,
+        "source_url": "https://www.biblegateway.com/passage/?search=Acts+19%3A6&version=NKJV"
+       },
+       {
+        "ref": "Luke 11:13",
+        "translation": "NKJV",
+        "text": "If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask Him!”",
+        "note": null,
+        "verses": 1,
+        "source_url": "https://www.biblegateway.com/passage/?search=Luke+11%3A13&version=NKJV"
+       }
+      ]
+     },
+     {
+      "title": "He says tongues are not the goal, and not a reason to divide",
+      "pastor": [
+       {
+        "lead": "Of a Baptist pastor who does not agree with him on tongues (“Saving a Nation”):",
+        "quote_fragments": [
+         "I’m a tongue talker.",
+         "So we disagree. In fact, he thinks tongue talkers are evil people, a cult. But I would unite with this guy any day on Bible morals"
+        ],
+        "sermon_slug": "saving-a-nation",
+        "sermon_title": "Saving a Nation",
+        "section_question": "Can Christians work together when they disagree on some things?",
+        "t": 1616,
+        "time": "26:56",
+        "watch_url": "https://www.youtube.com/watch?v=1FewcFhtiz8&t=1616s",
+        "page_url": "https://growonthevine.com/messages/saving-a-nation/#q-can-christians-work-together-when-they-disagree-on-some-things",
+        "message_url": "https://growonthevine.com/messages/saving-a-nation/"
+       }
+      ],
+      "pastor_gap": null,
+      "pastor_note": "He also says God “distributes these things as he wills” (quoted above).",
+      "scripture": [
+       {
+        "ref": "1 Corinthians 12:11",
+        "translation": "NKJV",
+        "text": "But one and the same Spirit works all these things, distributing to each one individually as He wills.",
+        "note": null,
+        "verses": 1,
+        "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+12%3A11&version=NKJV"
+       },
+       {
+        "ref": "1 Corinthians 12:31",
+        "translation": "NKJV",
+        "text": "But earnestly desire the best gifts. And yet I show you a more excellent way.",
+        "note": null,
+        "verses": 1,
+        "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+12%3A31&version=NKJV"
+       }
+      ]
+     },
+     {
+      "title": "Some Christians teach that tongues have ceased. He disagrees.",
+      "pastor": [
+       {
+        "lead": "He tells of Baptist leaders who quoted 1 Corinthians 13:8, and says his answer was:",
+        "quote_fragments": [
+         "“We believe that tongues and prophecies ceased when the last disciple died.”",
+         "Knowledge is there. And it says knowledge ceased."
+        ],
+        "sermon_slug": "a-more-excellent-way",
+        "sermon_title": "A More Excellent Way",
+        "section_question": "Have tongues and prophecy ceased?",
+        "t": 670,
+        "time": "11:10",
+        "watch_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=670s",
+        "page_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-have-tongues-and-prophecy-ceased",
+        "message_url": "https://growonthevine.com/messages/a-more-excellent-way/"
+       }
+      ],
+      "pastor_gap": null,
+      "pastor_note": null,
+      "scripture": [
+       {
+        "ref": "1 Corinthians 13:8-10",
+        "translation": "NKJV",
+        "text": "Love never fails. But whether there are prophecies, they will fail; whether there are tongues, they will cease; whether there is knowledge, it will vanish away. For we know in part and we prophesy in part. But when that which is perfect has come, then that which is in part will be done away.",
+        "note": "This is the passage the “ceased” view points to.",
+        "verses": 3,
+        "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+13%3A8-10&version=NKJV"
+       }
+      ]
+     }
+    ]
+   },
+   "related": {
+    "clips": [],
+    "messages": [
+     "a-more-excellent-way",
+     "division-part-2"
+    ]
+   }
+  },
+  {
+   "id": "division",
+   "question": "Why does the church have divisions?",
+   "coverage": "full",
+   "summary": "Divisions are not new. Paul dealt with them in the very first church letter he wrote to Corinth, and Pastor Kincer has a series on it. Below is what Scripture says, why he says it happens, and the two sides of how he says we should respond.",
+   "how_built": {
+    "openbible_topics_used": [
+     "division",
+     "divisions",
+     "unity",
+     "unity in the church",
+     "unity among beleivers",
+     "church conflict",
+     "church conflicts"
+    ],
+    "bible_candidate_passages_considered": 35,
+    "bm25_top_sermon_passages": [
+     {
+      "section": "division-part-1:why-did-paul-confront-division-first",
+      "t": 691,
+      "score": 6.21
+     },
+     {
+      "section": "division-concluded-part-2:why-does-he-say-division-is-important",
+      "t": 884,
+      "score": 6.09
+     },
+     {
+      "section": "division-part-2:is-division-a-big-problem-in-america",
+      "t": 946,
+      "score": 5.8
+     },
+     {
+      "section": "division-part-1:what-does-speak-the-same-thing-mean",
+      "t": 525,
+      "score": 5.55
+     },
+     {
+      "section": "division-concluded-part-2:what-causes-division-and-what-cures-it",
+      "t": 1293,
+      "score": 5.53
+     },
+     {
+      "section": "division-part-1:what-does-speak-the-same-thing-mean",
+      "t": 638,
+      "score": 5.48
+     }
+    ]
+   },
+   "bible": [
+    {
+     "heading": "What the Bible says about division",
+     "passages": [
+      {
+       "ref": "1 Corinthians 1:10",
+       "translation": "NKJV",
+       "text": "Now I plead with you, brethren, by the name of our Lord Jesus Christ, that you all speak the same thing, and that there be no divisions among you, but that you be perfectly joined together in the same mind and in the same judgment.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A10&version=NKJV"
+      },
+      {
+       "ref": "1 Corinthians 1:11-13",
+       "translation": "NKJV",
+       "text": "For it has been declared to me concerning you, my brethren, by those of Chloe’s household, that there are contentions among you. Now I say this, that each of you says, “I am of Paul,” or “I am of Apollos,” or “I am of Cephas,” or “I am of Christ.” Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?",
+       "note": null,
+       "verses": 3,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A11-13&version=NKJV"
+      },
+      {
+       "ref": "1 Corinthians 3:3-4",
+       "translation": "NKJV",
+       "text": "for you are still carnal. For where there are envy, strife, and divisions among you, are you not carnal and behaving like mere men? For when one says, “I am of Paul,” and another, “I am of Apollos,” are you not carnal?",
+       "note": null,
+       "verses": 2,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+3%3A3-4&version=NKJV"
+      },
+      {
+       "ref": "James 3:16",
+       "translation": "NKJV",
+       "text": "For where envy and self-seeking exist, confusion and every evil thing are there.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=James+3%3A16&version=NKJV"
+      },
+      {
+       "ref": "John 17:20-21",
+       "translation": "NKJV",
+       "text": "“I do not pray for these alone, but also for those who will believe in Me through their word; that they all may be one, as You, Father, are in Me, and I in You; that they also may be one in Us, that the world may believe that You sent Me.",
+       "note": null,
+       "verses": 2,
+       "source_url": "https://www.biblegateway.com/passage/?search=John+17%3A20-21&version=NKJV"
+      }
+     ]
+    }
+   ],
+   "pastor": {
+    "intro": "He points to people, pride, and losing our focus on Jesus:",
+    "items": [
+     {
+      "lead": "In “Division Concluded Part 1,” on the Corinthians:",
+      "quote_fragments": [
+       "“I’m of Paul, I’m of Apollos, I’m of Peter,”"
+      ],
+      "sermon_slug": "division-concluded-part-1",
+      "sermon_title": "Division Concluded Part 1",
+      "section_question": "What was wrong in the Corinthian church?",
+      "t": 46,
+      "time": "0:46",
+      "watch_url": "https://www.youtube.com/watch?v=w1apdlEqqmE&t=46s",
+      "page_url": "https://growonthevine.com/messages/division-concluded-part-1/#q-what-was-wrong-in-the-corinthian-church",
+      "message_url": "https://growonthevine.com/messages/division-concluded-part-1/"
+     },
+     {
+      "lead": null,
+      "quote_fragments": [
+       "you’re distracting from Jesus Christ and the power of the gospel that gives you growth.",
+       "It’s not the church group. It’s not the minister. It’s Jesus, his gospel and the cross."
+      ],
+      "sermon_slug": "division-concluded-part-1",
+      "sermon_title": "Division Concluded Part 1",
+      "section_question": "Why do Christians stop growing?",
+      "t": 98,
+      "time": "1:38",
+      "watch_url": "https://www.youtube.com/watch?v=w1apdlEqqmE&t=98s",
+      "page_url": "https://growonthevine.com/messages/division-concluded-part-1/#q-why-do-christians-stop-growing",
+      "message_url": "https://growonthevine.com/messages/division-concluded-part-1/"
+     },
+     {
+      "lead": "In “Division Part 1”:",
+      "quote_fragments": [
+       "So where do I find my source of unity? In Christ, and me being like him, in unity with God and in unity with the Spirit."
+      ],
+      "sermon_slug": "division-part-1",
+      "sermon_title": "Division Part 1",
+      "section_question": "Who should we follow — a pastor, a denomination, or Christ?",
+      "t": 939,
+      "time": "15:39",
+      "watch_url": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=939s",
+      "page_url": "https://growonthevine.com/messages/division-part-1/#q-who-should-we-follow",
+      "message_url": "https://growonthevine.com/messages/division-part-1/"
+     },
+     {
+      "lead": "In “Division Concluded Part 2”:",
+      "quote_fragments": [
+       "It’s your own prideful thinking that makes you want to pick and choose."
+      ],
+      "sermon_slug": "division-concluded-part-2",
+      "sermon_title": "Division Concluded Part 2",
+      "section_question": "Can you pick and choose in church?",
+      "t": 293,
+      "time": "4:53",
+      "watch_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=293s",
+      "page_url": "https://growonthevine.com/messages/division-concluded-part-2/#q-can-you-pick-and-choose-in-church",
+      "message_url": "https://growonthevine.com/messages/division-concluded-part-2/"
+     },
+     {
+      "lead": null,
+      "quote_fragments": [
+       "He has showed us what causes it. He has showed us what cures it. And it starts with us."
+      ],
+      "sermon_slug": "division-concluded-part-2",
+      "sermon_title": "Division Concluded Part 2",
+      "section_question": "What causes division, and what cures it?",
+      "t": 1293,
+      "time": "21:33",
+      "watch_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=1293s",
+      "page_url": "https://growonthevine.com/messages/division-concluded-part-2/#q-what-causes-division-and-what-cures-it",
+      "message_url": "https://growonthevine.com/messages/division-concluded-part-2/"
+     }
+    ]
+   },
+   "both_sides": {
+    "intro": "On how to respond to people we disagree with, Pastor Kincer says two things in different messages. Both come from Scripture.",
+    "sides": [
+     {
+      "title": "Stay united around Jesus, and don’t split over details",
+      "pastor": [
+       {
+        "lead": "In “Division Concluded Part 2”:",
+        "quote_fragments": [
+         "shouldn’t we be unified around that?",
+         "Let’s keep the focus on Jesus, the gospel and the cross so people can grow."
+        ],
+        "sermon_slug": "division-concluded-part-2",
+        "sermon_title": "Division Concluded Part 2",
+        "section_question": "What should Christians unite around?",
+        "t": 677,
+        "time": "11:17",
+        "watch_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=677s",
+        "page_url": "https://growonthevine.com/messages/division-concluded-part-2/#q-what-should-christians-unite-around",
+        "message_url": "https://growonthevine.com/messages/division-concluded-part-2/"
+       },
+       {
+        "lead": "In “Saving a Nation,” of a pastor he disagrees with on several things:",
+        "quote_fragments": [
+         "But I would unite with this guy any day on Bible morals"
+        ],
+        "sermon_slug": "saving-a-nation",
+        "sermon_title": "Saving a Nation",
+        "section_question": "Can Christians work together when they disagree on some things?",
+        "t": 1616,
+        "time": "26:56",
+        "watch_url": "https://www.youtube.com/watch?v=1FewcFhtiz8&t=1616s",
+        "page_url": "https://growonthevine.com/messages/saving-a-nation/#q-can-christians-work-together-when-they-disagree-on-some-things",
+        "message_url": "https://growonthevine.com/messages/saving-a-nation/"
+       }
+      ],
+      "pastor_gap": null,
+      "pastor_note": null,
+      "scripture": [
+       {
+        "ref": "Ephesians 4:1-6",
+        "translation": "NKJV",
+        "text": "I, therefore, the prisoner of the Lord, beseech you to walk worthy of the calling with which you were called, with all lowliness and gentleness, with longsuffering, bearing with one another in love, endeavoring to keep the unity of the Spirit in the bond of peace. There is one body and one Spirit, just as you were called in one hope of your calling; one Lord, one faith, one baptism; one God and Father of all, who is above all, and through all, and in you all.",
+        "note": null,
+        "verses": 6,
+        "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+4%3A1-6&version=NKJV"
+       },
+       {
+        "ref": "Romans 14:1",
+        "translation": "NKJV",
+        "text": "Receive one who is weak in the faith, but not to disputes over doubtful things.",
+        "note": null,
+        "verses": 1,
+        "source_url": "https://www.biblegateway.com/passage/?search=Romans+14%3A1&version=NKJV"
+       },
+       {
+        "ref": "Psalm 133:1",
+        "translation": "NKJV",
+        "text": "Behold, how good and how pleasant it is For brethren to dwell together in unity!",
+        "note": null,
+        "verses": 1,
+        "source_url": "https://www.biblegateway.com/passage/?search=Psalm+133%3A1&version=NKJV"
+       }
+      ]
+     },
+     {
+      "title": "There are limits: some things are worth drawing a line over",
+      "pastor": [
+       {
+        "lead": "In “Saving a Nation,” on what we do not unite over:",
+        "quote_fragments": [
+         "A believer who wants to say it’s okay — we are not to fellowship with them.",
+         "Nothing to do with the second coming, nothing to do with a lot of these things that we divide over, how you’re baptized and all that stuff."
+        ],
+        "sermon_slug": "saving-a-nation",
+        "sermon_title": "Saving a Nation",
+        "section_question": "What should Christians not unite over, and who should they not fellowship with?",
+        "t": 1654,
+        "time": "27:34",
+        "watch_url": "https://www.youtube.com/watch?v=1FewcFhtiz8&t=1654s",
+        "page_url": "https://growonthevine.com/messages/saving-a-nation/#q-what-should-christians-not-unite-over-and-who-should-they-not-fellowship-with",
+        "message_url": "https://growonthevine.com/messages/saving-a-nation/"
+       }
+      ],
+      "pastor_gap": null,
+      "pastor_note": null,
+      "scripture": [
+       {
+        "ref": "Romans 16:17-18",
+        "translation": "NKJV",
+        "text": "Now I urge you, brethren, note those who cause divisions and offenses, contrary to the doctrine which you learned, and avoid them. For those who are such do not serve our Lord Jesus Christ, but their own belly, and by smooth words and flattering speech deceive the hearts of the simple.",
+        "note": null,
+        "verses": 2,
+        "source_url": "https://www.biblegateway.com/passage/?search=Romans+16%3A17-18&version=NKJV"
+       },
+       {
+        "ref": "1 Corinthians 5:11",
+        "translation": "NKJV",
+        "text": "But now I have written to you not to keep company with anyone named a brother, who is sexually immoral, or covetous, or an idolater, or a reviler, or a drunkard, or an extortioner—not even to eat with such a person.",
+        "note": null,
+        "verses": 1,
+        "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+5%3A11&version=NKJV"
+       },
+       {
+        "ref": "Titus 3:10-11",
+        "translation": "NKJV",
+        "text": "Reject a divisive man after the first and second admonition, knowing that such a person is warped and sinning, being self-condemned.",
+        "note": null,
+        "verses": 2,
+        "source_url": "https://www.biblegateway.com/passage/?search=Titus+3%3A10-11&version=NKJV"
+       }
+      ]
+     }
+    ]
+   },
+   "related": {
+    "clips": [
+     "is-christ-divided",
+     "can-a-divided-home-stand"
+    ],
+    "messages": [
+     "division-part-1",
+     "division-concluded-part-1"
+    ]
+   }
+  },
+  {
+   "id": "onlyway",
+   "question": "Is Jesus the only way to God?",
+   "coverage": "full",
+   "summary": "Jesus Himself said this plainly, and the apostles repeated it. The same Scripture says God loved the world and gave His Son. Here are those passages, then how Pastor Kincer teaches it.",
+   "how_built": {
+    "openbible_topics_used": [
+     "salvation",
+     "born again",
+     "jesus"
+    ],
+    "bible_candidate_passages_considered": 18,
+    "bm25_top_sermon_passages": [
+     {
+      "section": "division-concluded-part-2:is-jesus-really-the-only-way",
+      "t": 491,
+      "score": 11.18
+     },
+     {
+      "section": "division-concluded-part-2:is-jesus-really-the-only-way",
+      "t": 544,
+      "score": 11.02
+     },
+     {
+      "section": "division-part-1:is-jesus-the-only-way-to-god",
+      "t": 1157,
+      "score": 8.86
+     },
+     {
+      "section": "division-part-1:is-jesus-the-only-way-to-god",
+      "t": 1069,
+      "score": 7.89
+     },
+     {
+      "section": "division-part-2:is-god-only-for-emergencies",
+      "t": 962,
+      "score": 6.84
+     },
+     {
+      "section": "a-more-excellent-way:does-everyone-in-the-church-have-a-part",
+      "t": 882,
+      "score": 6.55
+     }
+    ]
+   },
+   "bible": [
+    {
+     "heading": "Jesus’ own words",
+     "passages": [
+      {
+       "ref": "John 14:6",
+       "translation": "NKJV",
+       "text": "Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through Me.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=John+14%3A6&version=NKJV"
+      },
+      {
+       "ref": "John 10:9",
+       "translation": "NKJV",
+       "text": "I am the door. If anyone enters by Me, he will be saved, and will go in and out and find pasture.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=John+10%3A9&version=NKJV"
+      }
+     ]
+    },
+    {
+     "heading": "What the apostles taught",
+     "passages": [
+      {
+       "ref": "Acts 4:12",
+       "translation": "NKJV",
+       "text": "Nor is there salvation in any other, for there is no other name under heaven given among men by which we must be saved.”",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=Acts+4%3A12&version=NKJV"
+      },
+      {
+       "ref": "1 Timothy 2:5",
+       "translation": "NKJV",
+       "text": "For there is one God and one Mediator between God and men, the Man Christ Jesus,",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+Timothy+2%3A5&version=NKJV"
+      },
+      {
+       "ref": "1 John 5:11-12",
+       "translation": "NKJV",
+       "text": "And this is the testimony: that God has given us eternal life, and this life is in His Son. He who has the Son has life; he who does not have the Son of God does not have life.",
+       "note": null,
+       "verses": 2,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+John+5%3A11-12&version=NKJV"
+      }
+     ]
+    },
+    {
+     "heading": "Why Jesus came",
+     "passages": [
+      {
+       "ref": "John 3:16",
+       "translation": "NKJV",
+       "text": "For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=John+3%3A16&version=NKJV"
+      }
+     ]
+    }
+   ],
+   "pastor": {
+    "intro": null,
+    "items": [
+     {
+      "lead": "In “Division Concluded Part 2”:",
+      "quote_fragments": [
+       "Jesus is the only way.",
+       "Doesn’t the Bible say he is the only way, the only truth and the only life? Does it say that no man comes unto the Father but by Jesus Christ?",
+       "The unity is around Jesus, his gospel, his word and the cross"
+      ],
+      "sermon_slug": "division-concluded-part-2",
+      "sermon_title": "Division Concluded Part 2",
+      "section_question": "Is Jesus really the only way?",
+      "t": 491,
+      "time": "8:11",
+      "watch_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=491s",
+      "page_url": "https://growonthevine.com/messages/division-concluded-part-2/#q-is-jesus-really-the-only-way",
+      "message_url": "https://growonthevine.com/messages/division-concluded-part-2/"
+     },
+     {
+      "lead": "In “Division Part 1” (where he also speaks about other religions; read the full message for that):",
+      "quote_fragments": [
+       "Jesus is God. If you know Jesus, you know God."
+      ],
+      "sermon_slug": "division-part-1",
+      "sermon_title": "Division Part 1",
+      "section_question": "Is Jesus the only way to God, or do all religions lead to the same God?",
+      "t": 1157,
+      "time": "19:17",
+      "watch_url": "https://www.youtube.com/watch?v=34dKzwX6zgQ&t=1157s",
+      "page_url": "https://growonthevine.com/messages/division-part-1/#q-is-jesus-the-only-way-to-god",
+      "message_url": "https://growonthevine.com/messages/division-part-1/"
+     },
+     {
+      "lead": "In “Division Concluded Part 2”:",
+      "quote_fragments": [
+       "He’s supernatural. He is God."
+      ],
+      "sermon_slug": "division-concluded-part-2",
+      "sermon_title": "Division Concluded Part 2",
+      "section_question": "Was Jesus just a good man, or is he God?",
+      "t": 769,
+      "time": "12:49",
+      "watch_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=769s",
+      "page_url": "https://growonthevine.com/messages/division-concluded-part-2/#q-was-jesus-just-a-good-man",
+      "message_url": "https://growonthevine.com/messages/division-concluded-part-2/"
+     }
+    ]
+   },
+   "related": {
+    "clips": [],
+    "messages": [
+     "division-concluded-part-2",
+     "division-part-1"
+    ]
+   }
+  },
+  {
+   "id": "change",
+   "question": "Can God really change a person’s life?",
+   "coverage": "full",
+   "summary": "Yes, Scripture says so again and again, and Pastor Kincer tells his own story of it. Here is what the Bible says, then what he says.",
+   "how_built": {
+    "openbible_topics_used": [
+     "new birth",
+     "new creation",
+     "new creation in christ",
+     "changed heart",
+     "transformation",
+     "born again",
+     "change"
+    ],
+    "bible_candidate_passages_considered": 67,
+    "bm25_top_sermon_passages": [
+     {
+      "section": "division-part-2:can-god-really-change-a-person",
+      "t": 350,
+      "score": 12.59
+     },
+     {
+      "section": "division-part-2:can-god-really-change-a-person",
+      "t": 325,
+      "score": 12.39
+     },
+     {
+      "section": "division-concluded-part-2:is-jesus-really-the-only-way",
+      "t": 491,
+      "score": 9.03
+     },
+     {
+      "section": "division-concluded-part-1:what-makes-a-real-father",
+      "t": 945,
+      "score": 8.86
+     },
+     {
+      "section": "division-part-2:why-does-he-recommend-the-baptism-of-the-holy-ghost",
+      "t": 396,
+      "score": 7.85
+     },
+     {
+      "section": "division-part-2:should-you-read-the-bible-with-your-mind-or-the-holy-spirit",
+      "t": 639,
+      "score": 7.74
+     }
+    ]
+   },
+   "bible": [
+    {
+     "heading": "What the Bible says about being made new",
+     "passages": [
+      {
+       "ref": "2 Corinthians 5:17",
+       "translation": "NKJV",
+       "text": "Therefore, if anyone is in Christ, he is a new creation; old things have passed away; behold, all things have become new.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+5%3A17&version=NKJV"
+      },
+      {
+       "ref": "Ezekiel 36:26",
+       "translation": "NKJV",
+       "text": "I will give you a new heart and put a new spirit within you; I will take the heart of stone out of your flesh and give you a heart of flesh.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=Ezekiel+36%3A26&version=NKJV"
+      },
+      {
+       "ref": "John 3:3",
+       "translation": "NKJV",
+       "text": "Jesus answered and said to him, “Most assuredly, I say to you, unless one is born again, he cannot see the kingdom of God.”",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=John+3%3A3&version=NKJV"
+      },
+      {
+       "ref": "Romans 12:2",
+       "translation": "NKJV",
+       "text": "And do not be conformed to this world, but be transformed by the renewing of your mind, that you may prove what is that good and acceptable and perfect will of God.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=Romans+12%3A2&version=NKJV"
+      },
+      {
+       "ref": "2 Corinthians 3:18",
+       "translation": "NKJV",
+       "text": "But we all, with unveiled face, beholding as in a mirror the glory of the Lord, are being transformed into the same image from glory to glory, just as by the Spirit of the Lord.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+3%3A18&version=NKJV"
+      },
+      {
+       "ref": "Philippians 1:6",
+       "translation": "NKJV",
+       "text": "being confident of this very thing, that He who has begun a good work in you will complete it until the day of Jesus Christ;",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=Philippians+1%3A6&version=NKJV"
+      }
+     ]
+    }
+   ],
+   "pastor": {
+    "intro": null,
+    "items": [
+     {
+      "lead": "In “Division Part 2” he tells of the night he was changed:",
+      "quote_fragments": [
+       "I went to that altar and I really experienced salvation. It was real."
+      ],
+      "sermon_slug": "division-part-2",
+      "sermon_title": "Division Part 2",
+      "section_question": "Can God really change a person?",
+      "t": 325,
+      "time": "5:25",
+      "watch_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=325s",
+      "page_url": "https://growonthevine.com/messages/division-part-2/#q-can-god-really-change-a-person",
+      "message_url": "https://growonthevine.com/messages/division-part-2/"
+     },
+     {
+      "lead": null,
+      "quote_fragments": [
+       "I remember leaving the church that night in love with everybody.",
+       "A changed person. And we keep changing."
+      ],
+      "sermon_slug": "division-part-2",
+      "sermon_title": "Division Part 2",
+      "section_question": "Can God really change a person?",
+      "t": 350,
+      "time": "5:50",
+      "watch_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=350s",
+      "page_url": "https://growonthevine.com/messages/division-part-2/#q-can-god-really-change-a-person",
+      "message_url": "https://growonthevine.com/messages/division-part-2/"
+     },
+     {
+      "lead": "On the Corinthians, whose lives Paul saw changed:",
+      "quote_fragments": [
+       "The power he’s talking about is the changed life."
+      ],
+      "sermon_slug": "division-part-2",
+      "sermon_title": "Division Part 2",
+      "section_question": "Does it take great speaking to change lives?",
+      "t": 233,
+      "time": "3:53",
+      "watch_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=233s",
+      "page_url": "https://growonthevine.com/messages/division-part-2/#q-does-it-take-great-speaking-to-change-lives",
+      "message_url": "https://growonthevine.com/messages/division-part-2/"
+     },
+     {
+      "lead": "In “Division Concluded Part 1”:",
+      "quote_fragments": [
+       "the gospel births you. If you will receive it and embrace it, it will give you life that keeps growing."
+      ],
+      "sermon_slug": "division-concluded-part-1",
+      "sermon_title": "Division Concluded Part 1",
+      "section_question": "Can the gospel really give you new life?",
+      "t": 1060,
+      "time": "17:40",
+      "watch_url": "https://www.youtube.com/watch?v=w1apdlEqqmE&t=1060s",
+      "page_url": "https://growonthevine.com/messages/division-concluded-part-1/#q-can-the-gospel-really-give-you-new-life",
+      "message_url": "https://growonthevine.com/messages/division-concluded-part-1/"
+     },
+     {
+      "lead": "On 2 Corinthians 3:18 in “A More Excellent Way”:",
+      "quote_fragments": [
+       "we don’t have to wait for his return."
+      ],
+      "sermon_slug": "a-more-excellent-way",
+      "sermon_title": "A More Excellent Way",
+      "section_question": "Does everyone in the church have a part, or only the pastor?",
+      "t": 882,
+      "time": "14:42",
+      "watch_url": "https://www.youtube.com/watch?v=nD9oDfikXQ0&t=882s",
+      "page_url": "https://growonthevine.com/messages/a-more-excellent-way/#q-does-everyone-in-the-church-have-a-part",
+      "message_url": "https://growonthevine.com/messages/a-more-excellent-way/"
+     }
+    ]
+   },
+   "related": {
+    "clips": [],
+    "messages": [
+     "division-part-2"
+    ]
+   }
+  },
+  {
+   "id": "suffering",
+   "question": "Why does God allow suffering?",
+   "coverage": "none",
+   "summary": "This is one of the hardest questions there is, and we want to be honest: none of the six messages on our site is about it. So we are answering from Scripture only. These passages do not explain every hardship, but they show how God meets people in it.",
+   "how_built": {
+    "openbible_topics_used": [
+     "suffering",
+     "sufferings"
+    ],
+    "bible_candidate_passages_considered": 17,
+    "bm25_top_sermon_passages": [
+     {
+      "section": "division-concluded-part-1:how-should-you-answer-an-insult",
+      "t": 706,
+      "score": 9.28
+     },
+     {
+      "section": "division-concluded-part-1:how-much-did-paul-suffer-for-the-gospel",
+      "t": 441,
+      "score": 5.47
+     },
+     {
+      "section": "division-concluded-part-1:how-much-did-paul-suffer-for-the-gospel",
+      "t": 389,
+      "score": 5.19
+     },
+     {
+      "section": "division-concluded-part-2:can-you-pick-and-choose-in-church",
+      "t": 252,
+      "score": 5.12
+     },
+     {
+      "section": "division-concluded-part-1:how-do-ministers-today-compare-with-the-new-testament",
+      "t": 481,
+      "score": 4.42
+     },
+     {
+      "section": "a-more-excellent-way:what-does-love-look-like-in-1-corinthians-13",
+      "t": 384,
+      "score": 3.94
+     }
+    ]
+   },
+   "bible": [
+    {
+     "heading": "God is near to those who hurt",
+     "passages": [
+      {
+       "ref": "Psalm 34:18-19",
+       "translation": "NKJV",
+       "text": "The LORD is near to those who have a broken heart, And saves such as have a contrite spirit. Many are the afflictions of the righteous, But the LORD delivers him out of them all.",
+       "note": null,
+       "verses": 2,
+       "source_url": "https://www.biblegateway.com/passage/?search=Psalm+34%3A18-19&version=NKJV"
+      },
+      {
+       "ref": "Psalm 23:4",
+       "translation": "NKJV",
+       "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil; For You are with me; Your rod and Your staff, they comfort me.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=Psalm+23%3A4&version=NKJV"
+      },
+      {
+       "ref": "2 Corinthians 1:3-5",
+       "translation": "NKJV",
+       "text": "Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our tribulation, that we may be able to comfort those who are in any trouble, with the comfort with which we ourselves are comforted by God. For as the sufferings of Christ abound in us, so our consolation also abounds through Christ.",
+       "note": null,
+       "verses": 3,
+       "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+1%3A3-5&version=NKJV"
+      },
+      {
+       "ref": "Hebrews 4:15",
+       "translation": "NKJV",
+       "text": "For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=Hebrews+4%3A15&version=NKJV"
+      }
+     ]
+    },
+    {
+     "heading": "It is not the end of the story",
+     "passages": [
+      {
+       "ref": "John 16:33",
+       "translation": "NKJV",
+       "text": "These things I have spoken to you, that in Me you may have peace. In the world you will have tribulation; but be of good cheer, I have overcome the world.”",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=John+16%3A33&version=NKJV"
+      },
+      {
+       "ref": "Romans 8:18",
+       "translation": "NKJV",
+       "text": "For I consider that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=Romans+8%3A18&version=NKJV"
+      },
+      {
+       "ref": "2 Corinthians 4:17",
+       "translation": "NKJV",
+       "text": "For our light affliction, which is but for a moment, is working for us a far more exceeding and eternal weight of glory,",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+4%3A17&version=NKJV"
+      },
+      {
+       "ref": "1 Peter 5:10",
+       "translation": "NKJV",
+       "text": "But may the God of all grace, who called us to His eternal glory by Christ Jesus, after you have suffered a while, perfect, establish, strengthen, and settle you.",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=1+Peter+5%3A10&version=NKJV"
+      },
+      {
+       "ref": "Revelation 21:4",
+       "translation": "NKJV",
+       "text": "And God will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying. There shall be no more pain, for the former things have passed away.”",
+       "note": null,
+       "verses": 1,
+       "source_url": "https://www.biblegateway.com/passage/?search=Revelation+21%3A4&version=NKJV"
+      }
+     ]
+    },
+    {
+     "heading": "What God can work in us through it",
+     "passages": [
+      {
+       "ref": "Romans 5:3-5",
+       "translation": "NKJV",
+       "text": "And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance; and perseverance, character; and character, hope. Now hope does not disappoint, because the love of God has been poured out in our hearts by the Holy Spirit who was given to us.",
+       "note": null,
+       "verses": 3,
+       "source_url": "https://www.biblegateway.com/passage/?search=Romans+5%3A3-5&version=NKJV"
+      },
+      {
+       "ref": "James 1:2-4",
+       "translation": "NKJV",
+       "text": "My brethren, count it all joy when you fall into various trials, knowing that the testing of your faith produces patience. But let patience have its perfect work, that you may be perfect and complete, lacking nothing.",
+       "note": null,
+       "verses": 3,
+       "source_url": "https://www.biblegateway.com/passage/?search=James+1%3A2-4&version=NKJV"
+      }
+     ]
+    }
+   ],
+   "not_covered": [
+    "Why God allows suffering. Pastor Kincer may teach on this elsewhere, but it is not in these six messages, so we have nothing of his to show you. We would rather say so than guess.",
+    "The closest thing is where he lists the hardships Paul himself endured for the gospel. That is about what Paul went through, not an explanation of why God allows suffering."
+   ],
+   "related": {
+    "clips": [],
+    "messages": []
+   }
+  }
+ ]
+}
