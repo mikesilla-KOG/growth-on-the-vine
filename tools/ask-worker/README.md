@@ -11,7 +11,7 @@ Deployed at https://gotv-ask.growonthevine.workers.dev (workers.dev; no custom r
 5. Retrieval: whole-BSB BM25 (precomputed weights in 64 static shards) + OpenBible topic passages + planner refs (validated against the BSB) ; sermons = BM25 + text-embedding-3-small cosine (RRF), top 8 paragraphs.
 6. Relevance judge (gpt-5.2): each sermon paragraph direct / partial / none; "none" ones are dropped (this is what yields "not covered in the sermons yet").
 7. Compose (gpt-5.4-mini, strict JSON schema; prompt in src/prompts.js). Citation markers `[[b:V3|exact words]]`, `[[k:S2|exact words]]`, `[[s:S2]]`, `[[v:V3]]`.
-8. Server-side validation (src/validate.js): every BSB quote must be an exact stretch of the supplied verse; every Kincer quote an exact stretch of the transcript paragraph; no ellipsis; length caps; text copied from sources outside markers is flagged; style lint (no named speakers, no "agrees with"); one retry with feedback; then repair (whole best-matching sentence) or drop. The client receives structured JSON (no HTML).
+8. Server-side validation (src/validate.js): every BSB quote must be an exact stretch of the supplied verse; every sermon quote an exact stretch of the transcript paragraph; no ellipsis; length caps; text copied from sources outside markers is flagged; style lint (no named speakers, no "agrees with"); one retry with feedback; then repair (whole best-matching sentence) or drop. The client receives structured JSON (no HTML).
 9. Logs: only anonymised question text (emails/phones/links stripped) + coverage, KV, 30-day TTL, successful answers only. No IP stored except the hashed rate-limit key.
 
 ## Build / deploy (needs Node 22 for wrangler; secrets come from env, never from files)

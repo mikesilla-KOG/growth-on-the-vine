@@ -20,17 +20,19 @@ const W = s => (fold(s).toLowerCase().match(/[a-z0-9']+/g) || []);
 function grams(texts, n = 7) { const g = new Set(); for (const t of texts) { const w = W(t); for (let i = 0; i + n <= w.length; i++) g.add(w.slice(i, i + n).join(' ')); } return g; }
 // sentences of plain text that copy 7+ consecutive words from supplied text without a verified quote marker
 function smuggled(text, GV, GS) { const bad = []; for (const sent of text.split(/(?<=[.!?])\s+/)) { const w = W(sent); let hit = false; for (let i = 0; i + 7 <= w.length && !hit; i++) if (GS.has(w.slice(i, i + 7).join(' '))) hit = true; for (let i = 0; i + 9 <= w.length && !hit; i++) if (GV.has(w.slice(i, i + 9).join(' '))) hit = true; if (hit) bad.push(sent); } return bad; }
-const LINT = [[/\bPastor Kincer (?:also |then |further )?(?:speaks|teaches|emphasizes|stresses|explains|points|reminds|warns|encourages|believes|holds|affirms|sees)\b/, 'do not characterize his teaching in your own words; write "Pastor Kincer says" and let the exact quote speak'],
+const LINT = [[/\b[Tt]he preacher (?:also |then |further )?(?:speaks|teaches|emphasizes|stresses|explains|points|reminds|warns|encourages|believes|holds|affirms|sees)\b/, 'do not characterize his teaching in your own words; write "The preacher says" and let the exact quote speak'],
   [/\b(?:much the same|the same thing|says the same|say the same|agrees? with|in agreement|matches|fits with|echoes?|lines up|consistent with|confirms?)\b/i, 'do not say a sermon agrees with / matches / echoes / confirms a verse'],
   [/\b(?:He|She) (?:also |then |further )?(?:says|said)\b(?=[\s\S]*)/, '__HE__'],
   [/\b(?:Jesus|Paul|Matthew|Mark|Luke|John|Peter|James|Jude|Moses|David|Isaiah|Solomon|Jeremiah|Daniel)\s+(?:also |then |further )?(?:says|said|writes|wrote|tells|told|asks|asked|reminds|declares|adds|warns)\b/, 'do not name the speaker of a Bible quote (write "Scripture says")']];
+// Safety net: visitor-facing text never names the preacher.
+export function scrubName(t) { return String(t || '').replace(/\b(?:Pastor\s+)?(?:David\s+G\.\s+)?Kincer(’s|'s)?/g, (m, poss, off, str) => { const before = str.slice(0, off).trimEnd(); const cap = !before || /[.!?:]$/.test(before); return (cap ? 'The' : 'the') + ' preacher' + (poss || ''); }); }
 // returns { paragraphs:[{label, segs}], problems:[...], usedV:[], usedS:[] }
 export function check(out, V, S, final = false) {
   const GV = grams(Object.values(V).map(v => v.text), 9), GS = grams(Object.values(S).map(x => x.text), 7);
   const problems = [], usedV = [], usedS = [], paras = []; const none = out.coverage === 'none';
   for (const pg of out.paragraphs || []) {
     const segs = []; let last = 0, text = pg.text || ''; const kSeen = new Set(), sSeen = new Set(); let m; TOKEN.lastIndex = 0;
-    const pushText = t => { t = t.replace(/[“”"]/g, '').replace(/\[\[[^\]]*\]\]?/g, ''); for (const b of smuggled(t, GV, GS)) { problems.push(`text copied from the sources outside a quote marker: ${b.slice(0, 100)}`); if (final) t = t.replace(b, ''); } if (t) segs.push({ t: 'text', v: t }); };
+    const pushText = t => { t = scrubName(t).replace(/[“”"]/g, '').replace(/\[\[[^\]]*\]\]?/g, ''); for (const b of smuggled(t, GV, GS)) { problems.push(`text copied from the sources outside a quote marker: ${b.slice(0, 100)}`); if (final) t = t.replace(b, ''); } if (t) segs.push({ t: 'text', v: t }); };
     while ((m = TOKEN.exec(text))) {
       pushText(text.slice(last, m.index)); last = m.index + m[0].length; const kind = m[1].toLowerCase(), id = m[2].toUpperCase(); let words = m[3];
       if (kind === 'b' || kind === 'v') {
@@ -41,25 +43,25 @@ export function check(out, V, S, final = false) {
       } else {
         const s = S[id]; if (!s || none) { problems.push(none ? `sermon marker ${id} used with coverage none` : `unknown ${id}`); continue; }
         if (kind === 'k') { const nw = (words || '').trim().split(/\s+/).length; 
-          words = clip(words || '', 50); let q = locate(s.text, words); if (!q && final) q = bestSentence(s.text, words, 55); if (!q) { problems.push(`Kincer quote not found in ${id}: ${String(words).slice(0, 90)}`); trimDangling(segs); continue; }
+          words = clip(words || '', 50); let q = locate(s.text, words); if (!q && final) q = bestSentence(s.text, words, 55); if (!q) { problems.push(`Sermon quote not found in ${id}: ${String(words).slice(0, 90)}`); trimDangling(segs); continue; }
           segs.push({ t: 'k', v: disp(q), sid: id }); kSeen.add(id); if (!usedS.includes(id)) usedS.push(id); }
         else { segs.push({ t: 's', sid: id }); sSeen.add(id); if (!usedS.includes(id)) usedS.push(id); }
       }
     }
     pushText(text.slice(last));
-    for (const [rx, msg] of LINT) { const mm = text.match(rx); if (!mm) continue; if (msg === '__HE__') { if (/\[\[b:/i.test(text)) problems.push(`style: "${mm[0]}": after a Bible quote, write "Pastor Kincer says" or "Scripture says" so it is clear who is speaking`); } else problems.push(`style: "${mm[0]}": ${msg}`); }
+    for (const [rx, msg] of LINT) { const mm = text.match(rx); if (!mm) continue; if (msg === '__HE__') { if (/\[\[b:/i.test(text)) problems.push(`style: "${mm[0]}": after a Bible quote, write "The preacher says" or "Scripture says" so it is clear who is speaking`); } else problems.push(`style: "${mm[0]}": ${msg}`); }
     // every sermon quote gets a chip in its paragraph
     for (const id of kSeen) if (!sSeen.has(id)) { const idx = segs.map((x, i) => x.t === 'k' && x.sid === id ? i : -1).filter(i => i >= 0).pop(); segs.splice(idx + 1, 0, { t: 's', sid: id }); }
     for (let i = segs.length - 1; i > 0; i--) if (segs[i].t === 'v' && segs[i - 1].t === 'v' && segs[i].vid === segs[i - 1].vid) segs.splice(i, 1);
     for (let i = 0; i < segs.length; i++) { const g = segs[i]; if (g.t !== 'k' && g.t !== 'b') continue; const prev = segs[i - 1];
       const need = !prev || (prev.t === 'text' && /[.!?]\s*$/.test(prev.v)); if (!need) continue;
-      const first = !segs.slice(0, i).some(x => x.t === g.t); segs.splice(i, 0, { t: 'text', v: g.t === 'k' ? (first ? 'Pastor Kincer says: ' : 'He also says: ') : (first ? 'Scripture says: ' : 'It also says: ') }); i++; }
+      const first = !segs.slice(0, i).some(x => x.t === g.t); segs.splice(i, 0, { t: 'text', v: g.t === 'k' ? (first ? 'The preacher says: ' : 'The preacher also says: ') : (first ? 'Scripture says: ' : 'It also says: ') }); i++; }
     const joined = segs.map(s => s.t === 'text' ? s.v : '·').join('').trim();
     while (segs.length && segs[0].t === 'v') { segs.shift(); if (segs[0] && segs[0].t === 'text') segs[0].v = segs[0].v.replace(/^[\s.,;:]+/, ''); }
     { const seenV = new Set(); for (let i = 0; i < segs.length; i++) if (segs[i].t === 'v') { if (seenV.has(segs[i].vid)) { segs.splice(i, 1); i--; } else seenV.add(segs[i].vid); } }
     const hasQuote = segs.some(x => x.t === 'b' || x.t === 'k'); const plainLen = segs.filter(x => x.t === 'text').map(x => x.v).join('').trim().length;
     if (!hasQuote && plainLen < 25) { problems.push('paragraph with almost no text'); continue; }
-    if (joined || segs.length) paras.push({ label: (pg.label || '').replace(/[“”"]/g, '').slice(0, 80), segs });
+    if (joined || segs.length) paras.push({ label: scrubName(pg.label || '').replace(/[“”"]/g, '').slice(0, 80), segs });
   }
   return { paragraphs: paras, problems, usedV, usedS };
 }
