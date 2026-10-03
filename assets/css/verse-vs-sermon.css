@@ -1,0 +1,143 @@
+/* Grow on the Vine — "Scripture vs. the preacher's words" visual system (v1, live)
+   Goal: a reader can tell at a glance which words are the Bible and which are the preacher's.
+   Never color alone. Every Scripture element has: blue left rule + serif italic + 📖 + "Scripture (…)" label.
+   Every sermon element has:                        amber left rule + upright sans + 🎙 + "From the sermon" label + ▶ time link.
+   Words written by the site (summaries, takeaways) are NEUTRAL (slate) so they are not mistaken for either.
+   Shared by: Ask answers (assets/js/ask.js, home + /ask/), /messages/<slug>/, /clips/<slug>/, Messages library snippets.
+   Contrast ratios (WCAG): see the table on previews/verse-vs-sermon/index.html (noindex style guide). */
+:root{
+  --vs-scr:#1f4e8c;        /* Scripture accent (rule, tag fill)        white-on-it 8.3:1 */
+  --vs-scr-ink:#14305a;    /* Scripture text / label on tint            on --vs-scr-bg 11.8:1 */
+  --vs-scr-bg:#eef3fb;     /* Scripture tint */
+  --vs-scr-line:#b9cbe6;
+  --vs-srm:#a06a00;        /* Sermon accent (rule) 4.3:1 on tint */
+  --vs-srm-tag:#7a4a00;    /* Sermon tag fill      white-on-it 7.5:1 */
+  --vs-srm-ink:#2e2000;    /* Sermon label text on tint */
+  --vs-srm-bg:#fff7e0;     /* Sermon tint */
+  --vs-srm-line:#ecd28f;
+  --vs-own:#5b6670;        /* Site's own words (summaries) — neutral */
+  --vs-own-bg:#f4f5f6;
+}
+
+/* ---------- Legend (always visible, top of Ask answers + message pages) ---------- */
+.vs-legend{display:flex;flex-wrap:wrap;gap:.45rem .9rem;align-items:center;margin:0 0 1.1rem;padding:.5rem .75rem;
+  background:var(--card,#fffdf8);border:1.5px solid var(--border,#c9c0ad);border-radius:12px;font-family:var(--font-sans);font-size:.92rem;line-height:1.3;color:var(--ink,#121a16)}
+.vs-legend-title{font-weight:700;color:var(--muted,#3d4a42);margin-right:.1rem}
+.vs-key{display:inline-flex;align-items:center;gap:.4rem;flex-wrap:wrap}
+.vs-key .vs-key-d{color:var(--muted,#3d4a42)}
+.vs-legend-note{flex:1 1 100%;margin:0;font-size:.85rem;color:var(--muted,#3d4a42)}
+
+/* ---------- The label chip: icon + words (never color alone) ---------- */
+.vs-tag{display:inline-flex;align-items:center;gap:.35rem;font-family:var(--font-sans);font-style:normal;font-weight:700;font-size:.78rem;letter-spacing:.02em;line-height:1.2;
+  padding:.18rem .6rem .18rem .5rem;border-radius:999px;color:#fff;white-space:nowrap}
+.vs-tag .vs-ico{font-size:.95em;line-height:1}
+.vs-tag--scr{background:var(--vs-scr)}
+.vs-tag--srm{background:var(--vs-srm-tag)}
+
+/* ---------- BLOCK: Scripture ---------- */
+.vs-block{margin:0 0 .9rem;padding:.7rem 1rem .8rem;border-radius:0 var(--radius,14px) var(--radius,14px) 0;scroll-margin-top:4.5rem}
+.vs-scr{background:var(--vs-scr-bg);border:1.5px solid var(--vs-scr-line);border-left:7px solid var(--vs-scr);color:var(--vs-scr-ink);
+  font-family:var(--font-serif);font-style:italic}
+.vs-scr .vs-head,.vs-srm .vs-head{display:flex;flex-wrap:wrap;align-items:center;gap:.3rem .7rem;margin:0 0 .45rem;font-style:normal}
+.vs-ref{font-family:var(--font-serif);font-style:normal;font-weight:700;font-size:.95rem;color:var(--vs-scr-ink);margin:0}
+.vs-scr .vs-text,.vs-scr p{font-size:1.02rem;line-height:1.65;margin:0 0 .35rem;color:var(--vs-scr-ink)}
+.vs-scr cite{display:block;font-style:normal;font-family:var(--font-sans);font-weight:700;font-size:.9rem;color:var(--vs-scr-ink);margin:.2rem 0 0}
+.vs-scr cite strong{font-weight:700}
+
+/* ---------- BLOCK: Sermon excerpt / transcript ---------- */
+.vs-srm{background:var(--vs-srm-bg);border:1.5px solid var(--vs-srm-line);border-left:7px solid var(--vs-srm);color:var(--ink,#121a16);
+  font-family:var(--font-sans);font-style:normal}
+.vs-srm p{font-size:1.02rem;line-height:1.6;margin:0 0 .7rem;color:var(--ink,#121a16)}
+.vs-srm p:last-child{margin-bottom:0}
+.vs-srm .vs-src{font-weight:600;color:var(--vs-srm-ink);font-size:.95rem}
+
+/* ---------- Timestamp link to the video moment ---------- */
+a.vs-ts{display:inline-block;font-family:var(--font-sans);font-style:normal;font-weight:700;font-size:.84rem;line-height:1.2;white-space:nowrap;
+  color:var(--vs-srm-ink)!important;background:#fff;border:1.5px solid var(--vs-srm-tag);border-radius:999px;padding:.12rem .6rem;text-decoration:none;margin-right:.35rem}
+a.vs-ts:hover{background:var(--vs-srm-tag);color:#fff!important}
+a.vs-ts:focus-visible{outline:3px solid var(--focus,#b8922a);outline-offset:2px}
+/* "hear it" link that sits inside a Scripture block (the preacher reading it aloud) keeps the sermon-colored pill so a video link always reads "sermon" */
+.vs-scr a.vs-ts{margin:.15rem 0 0}
+
+/* ---------- INLINE quotes (Ask summary paragraphs, message transcript) ---------- */
+q{quotes:none}
+q.vs-q{display:inline;border-radius:4px;padding:.02em .3em;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+q.vs-q::before{font-style:normal;font-size:.78em;margin-right:.25em}
+q.vs-q--scr{background:var(--vs-scr-bg);color:var(--vs-scr-ink);font-family:var(--font-serif);font-style:italic;font-size:.97em;
+  border-bottom:2px solid var(--vs-scr)}
+q.vs-q--scr::before{content:"\1F4D6" / "Scripture: "}
+q.vs-q--srm{background:var(--vs-srm-bg);color:var(--ink,#121a16);font-family:var(--font-sans);font-style:normal;font-weight:600;
+  border-bottom:2px dotted var(--vs-srm-tag)}
+q.vs-q--srm::before{content:"\1F399" / "From the sermon: "}
+/* Bible verse the preacher reads aloud, inside his transcript */
+q.vs-q--spoken{font-size:.97em}
+
+/* Reference + source links that follow an inline quote */
+.vs-cite{font-family:var(--font-sans);font-size:.85rem;color:var(--muted,#3d4a42)}
+a.vs-rc{font-weight:700;font-size:.85rem;color:var(--vs-scr);text-decoration:underline}
+/* the little "▶ Title 9:04" pill after a sermon quote */
+a.vs-watch{display:inline-block;font-family:var(--font-sans);font-style:normal;font-size:.8rem;font-weight:700;background:var(--vs-srm-tag);color:#fff!important;text-decoration:none;border-radius:999px;padding:.08rem .65rem;white-space:nowrap}
+a.vs-watch:hover{background:#4d2f00}
+
+/* ---------- Site's own words (summary / short answer / takeaway): neutral so they are not mistaken for Scripture or sermon ---------- */
+.vs-own{background:var(--vs-own-bg)!important;border-left:5px solid var(--vs-own)!important;color:var(--ink,#121a16)}
+.vs-own-tag{display:inline-block;font-family:var(--font-sans);font-weight:700;font-size:.75rem;letter-spacing:.03em;text-transform:uppercase;color:#2f3740;margin:0 0 .25rem}
+
+/* ---------- Ask: sermon list items & section heads ---------- */
+.vs-list{list-style:none;padding:0;margin:0}
+.vs-list>li{margin:0 0 .7rem}
+.vs-sectionhead{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;margin:1.4rem 0 .6rem}
+.vs-sectionhead h3{margin:0}
+
+/* ---------- Clip / message: video framed as the preacher's words ---------- */
+.vs-frame{border:1.5px solid var(--vs-srm-line);border-left:7px solid var(--vs-srm);border-radius:0 var(--radius,14px) var(--radius,14px) 0;background:var(--vs-srm-bg);padding:.6rem .8rem .8rem;margin:0 0 1.2rem}
+.vs-frame .vs-head{display:flex;flex-wrap:wrap;align-items:center;gap:.3rem .7rem;margin:0 0 .5rem}
+.vs-frame .vs-src{font-family:var(--font-sans);font-weight:600;font-size:.95rem;color:var(--vs-srm-ink)}
+.vs-frame .video-stage,.vs-frame .embed{margin-bottom:0}
+
+/* ---------- Library search snippets (sermon text) ---------- */
+.lib-snip.vs-snip{background:var(--vs-srm-bg);border-left:6px solid var(--vs-srm);font-family:var(--font-sans)}
+.lib-snip.vs-snip .vs-tag{margin:0 0 .3rem;font-size:.72rem}
+.lib-snip.vs-snip.vs-snip--scr{background:var(--vs-scr-bg);border-left-color:var(--vs-scr);font-family:var(--font-serif);font-style:italic;color:var(--vs-scr-ink)}
+
+/* ---------- Mobile + a11y ---------- */
+@media (max-width:480px){
+  .vs-legend{padding:.45rem .6rem;gap:.35rem .7rem;font-size:.88rem}
+  .vs-block{padding:.6rem .8rem .7rem}
+  .vs-scr,.vs-srm,.vs-frame{border-left-width:6px}
+}
+@media (forced-colors:active){
+  .vs-scr,.vs-srm,.vs-frame{border:2px solid CanvasText;border-left-width:8px}
+  .vs-scr{border-left-style:double}.vs-srm{border-left-style:solid}
+}
+
+/* ---------- Scripture block that also holds plain-language notes (clip "Scripture" box) ---------- */
+.vs-scr .note{font-style:normal;font-family:var(--font-sans);color:var(--ink,#121a16);border-top:1px dashed var(--vs-scr-line);padding-top:.5rem;margin-top:.6rem}
+.vs-scr .vs-text strong,.vs-scr p strong{font-family:var(--font-serif);font-style:normal}
+.vs-scr h2,.vs-scr h4{font-style:normal}
+.vs-scr h4.vs-ref{margin:0;font-size:1rem}
+.vs-scr h2.vs-ref{font-size:1.1rem;margin:0}
+section.scripture-box.vs-scr{padding:.8rem 1.1rem}
+
+/* ---------- live-site additions ---------- */
+/* Ask answers are laid out in two columns on wide screens (ask.css): keep each styled block whole */
+.answer .vs-legend,.answer .vs-block,.answer .vs-list>li{break-inside:avoid}
+.answer .vs-sectionhead{break-after:avoid}
+/* sermon-list rows inside Ask answers */
+.vs-list>li.vs-block .actions{display:flex;flex-wrap:wrap;gap:.4rem .6rem;align-items:center;margin:.4rem 0 0}
+.vs-list>li.vs-block .smt{display:block}
+.vs-list>li.vs-block a.pg{font-size:.9rem}
+/* the site's own summary box (Ask answer, message short answers, clip takeaway) is gray, never the sermon amber or the Scripture blue */
+.summarycard.vs-own,.short-answer.vs-own,.takeaway-card.vs-own{background:var(--vs-own-bg)!important;border:1.5px solid #d3d7da!important;border-left:5px solid var(--vs-own)!important;border-top-width:1.5px!important;border-radius:0 var(--radius,14px) var(--radius,14px) 0;box-shadow:none}
+.short-answer.vs-own strong{color:var(--ink,#121a16)}
+/* message pages: transcript framed as the preacher's words, Scripture items as Scripture */
+.vs-transcript{margin:0 0 1.2rem}
+.vs-transcript .vs-head{margin-bottom:.6rem}
+.vs-transcript p{margin:0 0 .8rem}
+.vs-block.vs-scr .vs-ref{margin:0}
+/* Library search snippets that are our own words (short answers, summaries, FAQ answers): gray */
+.lib-snip.vs-own-snip{background:var(--vs-own-bg);border-left:5px solid var(--vs-own)}
+/* full-message pages on very wide screens: the framed video takes the sticky right-hand column (the bare .embed rule in styles.css no longer matches once it sits inside .vs-frame) */
+@media (min-width:1800px){
+  main.wrap:has(> .toc) > .vs-frame{grid-column:3;grid-row:1 / span 100;position:sticky;top:10rem;margin:.4rem 0 0;align-self:start}
+}
