@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Home redesign (preview) | Grow on the Vine</title>
+  <meta name="description" content="Preview only: a simpler Grow on the Vine home page.">
+  <meta name="theme-color" content="#0f2a20">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../assets/img/favicon-32.png">
+  <link rel="apple-touch-icon" href="../../assets/img/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../assets/css/styles.css">
+  <link rel="stylesheet" href="../../assets/css/ask.css">
+  <link rel="stylesheet" href="home-redesign.css">
+</head>
+<body class="gv-home">
+  <p class="gv-preview-banner">Preview only: not the live home page</p>
+  <header class="gv-brandbar">
+    <a class="gv-brand" href="../../">
+      <img src="../../assets/img/gotv-official.png" alt="" width="112" height="112">
+      <span class="gv-brand-text">Grow on the Vine<small>Believe, Know, &amp; Grow</small></span>
+    </a>
+  </header>
+  <nav class="gv-menu" aria-label="Primary">
+    <a class="gv-m-home" href="./" aria-current="page"><span class="gv-mi" aria-hidden="true">🏠</span><span class="gv-ml">Home</span></a>
+    <a class="gv-m-clips" href="../../messages/"><span class="gv-mi" aria-hidden="true">🎬</span><span class="gv-ml">Messages</span></a>
+    <a class="gv-m-ask" href="../../ask/"><span class="gv-mi" aria-hidden="true">💬</span><span class="gv-ml">Ask</span></a>
+    <a class="gv-m-search" href="../../messages/#search"><span class="gv-mi" aria-hidden="true">🔍</span><span class="gv-ml">Search</span></a>
+  </nav>
+
+  <main class="gv-main">
+    <section class="gv-hero" aria-labelledby="gv-h1">
+      <h1 id="gv-h1">Come feed your spirit with heavenly Words.</h1>
+      <p class="gv-start-wrap"><a class="gv-start" href="../../clips/does-god-have-grandchildren/"><span aria-hidden="true">▶</span> Start here</a></p>
+      <p class="gv-start-note">First clip: “Does God have grandchildren?” · ~1 min</p>
+    </section>
+
+    <section class="gv-ask" id="ask" aria-labelledby="gv-ask-h">
+      <h2 id="gv-ask-h"><span aria-hidden="true">💬</span> Ask a Bible question</h2>
+      <form class="askbox" id="askform" data-askpage="../../ask/">
+        <label for="q">Your question</label>
+        <div class="askrow"><input id="q" type="text" maxlength="300" autocomplete="off" placeholder="For example: What does the Bible say about forgiveness?" aria-describedby="qhint"><button class="go" id="go" type="submit">Ask</button></div>
+        <p class="hint" id="qhint">Questions may be reviewed to improve answers. In a crisis, call or text 988.</p>
+      </form>
+      <p class="gv-chips-label" id="gv-chips-label">Or tap a question:</p>
+      <div class="gv-chips" role="group" aria-labelledby="gv-chips-label">
+<a class="qbtn gv-chip" href="../../ask/" data-q="Does God have grandchildren?">Does God have grandchildren?</a>
+<a class="qbtn gv-chip" href="../../ask/" data-q="Is church boring?">Is church boring?</a>
+<a class="qbtn gv-chip" href="../../ask/" data-q="Can a divided home still stand?">Can a divided home still stand?</a>
+<a class="qbtn gv-chip" href="../../ask/" data-q="Should church be as consistent as a Big Mac?">Should church be as consistent as a Big Mac?</a>
+<a class="qbtn gv-chip" href="../../ask/" data-q="Is Jesus the only way to God?">Is Jesus the only way to God?</a>
+      </div>
+      <div id="live" aria-live="polite" aria-busy="false"></div>
+      <p class="ai-disclaimer" role="note">AI-written from the Bible and our sermons. Please read the verses and listen yourself.</p>
+      <p class="gv-ask-more"><a href="../../ask/">More on the Ask page →</a></p>
+    </section>
+
+    <section class="gv-section" aria-labelledby="gv-tiles-h">
+      <h2 class="gv-h2" id="gv-tiles-h">What would you like to do?</h2>
+      <ul class="gv-tiles">
+        <li><a class="gv-tile gv-tile-clips" href="../../messages/">
+          <span class="gv-tile-ico" aria-hidden="true">🎬</span>
+          <span class="gv-tile-text"><span class="gv-tag gv-tag-clip"><span aria-hidden="true">🎬</span> Clip</span>
+          <span class="gv-tile-title">Watch Clips</span><span class="gv-tile-line">1-minute clips</span></span>
+          <span class="gv-tile-go" aria-hidden="true">→</span></a></li>
+        <li><a class="gv-tile gv-tile-full" href="../../messages/">
+          <span class="gv-tile-ico" aria-hidden="true">📖</span>
+          <span class="gv-tile-text"><span class="gv-tag gv-tag-full"><span aria-hidden="true">📖</span> Full Message</span>
+          <span class="gv-tile-title">Full Messages</span><span class="gv-tile-line">Whole sermons, searchable</span></span>
+          <span class="gv-tile-go" aria-hidden="true">→</span></a></li>
+        <li><a class="gv-tile gv-tile-ask" href="#ask">
+          <span class="gv-tile-ico" aria-hidden="true">💬</span>
+          <span class="gv-tile-text"><span class="gv-tag gv-tag-ask"><span aria-hidden="true">💬</span> Ask</span>
+          <span class="gv-tile-title">Ask Questions</span><span class="gv-tile-line">Ask a Bible question</span></span>
+          <span class="gv-tile-go" aria-hidden="true">→</span></a></li>
+      </ul>
+    </section>
+
+    <section class="gv-section" aria-labelledby="gv-topics-h">
+      <h2 class="gv-h2" id="gv-topics-h">Browse by topic</h2>
+      <ul class="gv-topics">
+<li><a class="gv-topic" href="../../messages/?q=Faith"><span class="gv-ico" aria-hidden="true">✝️</span><span>Faith</span></a></li>
+<li><a class="gv-topic" href="../../messages/?q=Family"><span class="gv-ico" aria-hidden="true">🏠</span><span>Family</span></a></li>
+<li><a class="gv-topic" href="../../messages/?q=Church"><span class="gv-ico" aria-hidden="true">⛪</span><span>Church</span></a></li>
+<li><a class="gv-topic" href="../../messages/?q=Prayer"><span class="gv-ico" aria-hidden="true">🙏</span><span>Prayer</span></a></li>
+<li><a class="gv-topic" href="../../messages/?q=Love"><span class="gv-ico" aria-hidden="true">❤️</span><span>Love</span></a></li>
+<li><a class="gv-topic" href="../../messages/?q=End%20Times"><span class="gv-ico" aria-hidden="true">📜</span><span>End Times</span></a></li>
+      </ul>
+    </section>
+
+    <section class="gv-section" aria-labelledby="gv-new-h">
+      <h2 class="gv-h2" id="gv-new-h">New this week</h2>
+      <ul class="gv-strip" id="gv-strip">
+<li class="gv-card"><a href="../../clips/does-god-have-grandchildren/"><span class="gv-thumb"><img src="../../assets/img/thumbs/does-god-have-grandchildren.jpg" alt="" width="1280" height="720" loading="lazy" decoding="async"><span class="gv-dur">~1 min</span></span><span class="gv-card-body"><span class="gv-tag gv-tag-clip"><span aria-hidden="true">🎬</span> Clip</span><span class="gv-card-title">Does God have grandchildren?</span></span></a></li>
+<li class="gv-card"><a href="../../clips/is-church-boring/"><span class="gv-thumb"><img src="../../assets/img/thumbs/is-church-boring.jpg" alt="" width="1280" height="720" loading="lazy" decoding="async"><span class="gv-dur">~1 min</span></span><span class="gv-card-body"><span class="gv-tag gv-tag-clip"><span aria-hidden="true">🎬</span> Clip</span><span class="gv-card-title">Is church really boring?</span></span></a></li>
+<li class="gv-card"><a href="../../clips/same-as-a-big-mac/"><span class="gv-thumb"><img src="../../assets/img/thumbs/same-as-a-big-mac.jpg" alt="" width="1280" height="720" loading="lazy" decoding="async"><span class="gv-dur">~1 min</span></span><span class="gv-card-body"><span class="gv-tag gv-tag-clip"><span aria-hidden="true">🎬</span> Clip</span><span class="gv-card-title">Should church be as consistent as a Big Mac?</span></span></a></li>
+      </ul>
+      <p class="gv-all"><a class="gv-btn-all" href="../../messages/">See all messages <span aria-hidden="true">→</span></a></p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>
+        <p class="footer-brand">Grow on the Vine</p>
+        <p>Pilot site · <em>growonthevine.com</em></p>
+      </div>
+      <div>
+        <p><a href="../../">Home</a> · <a href="../../messages/">Messages</a> · <a href="../../ask/">Ask</a> · <a href="../../messages/#search">Search</a></p>
+      </div>
+    </div>
+    <p class="footer-scripture-notice">Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved.</p>
+    <p class="footer-scripture-notice">Ask answers quote the Berean Standard Bible (BSB), public domain (<a href="https://berean.bible/" target="_blank" rel="noopener noreferrer">berean.bible</a>).</p>
+  </footer>
+
+  <script src="home-redesign.js" defer></script>
+  <script src="../../assets/js/ask.js" defer></script>
+</body>
+</html>
