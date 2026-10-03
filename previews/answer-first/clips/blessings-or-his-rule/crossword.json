@@ -1,0 +1,63 @@
+{
+  "title": "Blessings or His Rule",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "rule",
+      "answer": "RULE",
+      "clue": "What God wants in our lives",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "god",
+      "answer": "GOD",
+      "clue": "They rejected ___ (1 Sam 8:7)",
+      "row": 0,
+      "col": 6,
+      "dir": "down"
+    },
+    {
+      "id": "king",
+      "answer": "KING",
+      "clue": "A ruler rejected by citizens",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "word",
+      "answer": "WORD",
+      "clue": "The Scriptures should ___ in our life",
+      "row": 2,
+      "col": 6,
+      "dir": "down"
+    },
+    {
+      "id": "heaven",
+      "answer": "HEAVEN",
+      "clue": "People want to go to ___",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "blessings",
+      "answer": "BLESSINGS",
+      "clue": "What people want from God",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "reign",
+      "answer": "REIGN",
+      "clue": "“That I should not ___ over them”",
+      "row": 1,
+      "col": 10,
+      "dir": "down"
+    }
+  ]
+}

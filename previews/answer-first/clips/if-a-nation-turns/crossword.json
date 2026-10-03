@@ -1,0 +1,39 @@
+{
+  "title": "What if a nation turns back to God?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "nation",
+      "answer": "NATION",
+      "clue": "A people Jeremiah says may turn",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "evil",
+      "answer": "EVIL",
+      "clue": "What the nation must turn from",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "turn",
+      "answer": "TURN",
+      "clue": "What a nation must do from its evil",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "mercy",
+      "answer": "MERCY",
+      "clue": "What God may show after repentance",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}

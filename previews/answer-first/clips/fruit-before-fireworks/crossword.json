@@ -1,0 +1,63 @@
+{
+  "title": "Fruit Before Fireworks",
+  "rows": 8,
+  "cols": 10,
+  "words": [
+    {
+      "id": "spirit",
+      "answer": "SPIRIT",
+      "clue": "Fruit of the ___",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "fruit",
+      "answer": "FRUIT",
+      "clue": "Of the Spirit (Gal 5:22)",
+      "row": 1,
+      "col": 3,
+      "dir": "down"
+    },
+    {
+      "id": "love",
+      "answer": "LOVE",
+      "clue": "First fruit of the Spirit",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "god",
+      "answer": "GOD",
+      "clue": "___ is love (1 John 4:8)",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "fails",
+      "answer": "FAILS",
+      "clue": "Love never ___",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "peak",
+      "answer": "PEAK",
+      "clue": "Love is at the ___ of divine character",
+      "row": 5,
+      "col": 4,
+      "dir": "across"
+    },
+    {
+      "id": "joy",
+      "answer": "JOY",
+      "clue": "Listed after love in Gal 5:22",
+      "row": 0,
+      "col": 6,
+      "dir": "down"
+    }
+  ]
+}

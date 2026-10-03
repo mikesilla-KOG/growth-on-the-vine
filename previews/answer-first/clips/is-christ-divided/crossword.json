@@ -1,0 +1,39 @@
+{
+  "title": "Who was really crucified for you?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "christ",
+      "answer": "CHRIST",
+      "clue": "The only group that was right",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "paul",
+      "answer": "PAUL",
+      "clue": "Was he crucified for you?",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "apollos",
+      "answer": "APOLLOS",
+      "clue": "“I am of ___”",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "cephas",
+      "answer": "CEPHAS",
+      "clue": "Another name for Peter in 1 Corinthians 1:12",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Is church really boring?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "boring",
+      "answer": "BORING",
+      "clue": "What young people called church",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "glad",
+      "answer": "GLAD",
+      "clue": "How David felt going to the house of the Lord",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "people",
+      "answer": "PEOPLE",
+      "clue": "What the church is made up of",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "clock",
+      "answer": "CLOCK",
+      "clue": "What a bored teen keeps watching",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}

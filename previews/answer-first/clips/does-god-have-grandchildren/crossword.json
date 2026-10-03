@@ -1,0 +1,39 @@
+{
+  "title": "Does God have grandchildren?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "bornagain",
+      "answer": "BORNAGAIN",
+      "clue": "What you must be to see the kingdom of God",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "children",
+      "answer": "CHILDREN",
+      "clue": "God has no grandchildren, only ___",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "parents",
+      "answer": "PARENTS",
+      "clue": "You can’t use them as an excuse on judgment day",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "follow",
+      "answer": "FOLLOW",
+      "clue": "Accountable to find Him, serve Him and ___ Him",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Can the Word still turn a nation?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "word",
+      "answer": "WORD",
+      "clue": "What goes forth from God’s mouth",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "void",
+      "answer": "VOID",
+      "clue": "God’s Word will not return ___",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "church",
+      "answer": "CHURCH",
+      "clue": "Where the turning of a nation starts",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "truth",
+      "answer": "TRUTH",
+      "clue": "What the Word speaks",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "I Never Knew You",
+  "rows": 8,
+  "cols": 9,
+  "words": [
+    {
+      "id": "never",
+      "answer": "NEVER",
+      "clue": "\u201cI ___ knew you\u201d",
+      "row": 3,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "love",
+      "answer": "LOVE",
+      "clue": "What was missing",
+      "row": 0,
+      "col": 1,
+      "dir": "down"
+    },
+    {
+      "id": "gifts",
+      "answer": "GIFTS",
+      "clue": "Spiritual ___ without relationship",
+      "row": 0,
+      "col": 3,
+      "dir": "across"
+    },
+    {
+      "id": "used",
+      "answer": "USED",
+      "clue": "Being ___ by God \u2260 being known",
+      "row": 1,
+      "col": 3,
+      "dir": "down"
+    },
+    {
+      "id": "faith",
+      "answer": "FAITH",
+      "clue": "Mountain-moving ___ without love = zero",
+      "row": 5,
+      "col": 1,
+      "dir": "across"
+    },
+    {
+      "id": "jesus",
+      "answer": "JESUS",
+      "clue": "Who says \u201cI never knew you\u201d",
+      "row": 6,
+      "col": 3,
+      "dir": "across"
+    },
+    {
+      "id": "paul",
+      "answer": "PAUL",
+      "clue": "Wrote 1 Corinthians 13",
+      "row": 4,
+      "col": 6,
+      "dir": "down"
+    }
+  ]
+}

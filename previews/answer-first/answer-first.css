@@ -1,0 +1,24 @@
+/* Grow on the Vine — answer-first clip page (PREVIEW). Builds on verse-vs-sermon.css.
+   Order: question -> gray Short answer (our summary) -> blue Scripture (NKJV) -> amber video frame -> full-message link -> rest. */
+.af-short{margin:0 0 1rem;padding:.8rem 1rem .7rem;border:1.5px solid #d3d7da;border-radius:0 var(--radius,14px) var(--radius,14px) 0}
+.af-short .af-row{display:flex;gap:.3rem .8rem;align-items:baseline;margin:0 0 .6rem;font-family:var(--font-sans);font-size:1.02rem;line-height:1.5}
+.af-short .af-tag{flex:0 0 auto;min-width:8.2rem;margin:0;white-space:nowrap}
+.af-short .af-answer{font-weight:700;font-size:1.18rem;line-height:1.4;color:var(--ink,#121a16)}
+.af-short .af-why{font-size:1rem;color:var(--ink,#121a16)}
+.af-short .af-note{margin:.1rem 0 0;font-family:var(--font-sans);font-size:.8rem;color:#4a535b}
+.af-scripture{margin:0 0 1.1rem}
+.af-scripture .vs-text{margin:0 0 .55rem}
+.af-scripture .vs-text:last-child{margin-bottom:0}
+.af-sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.af-more{margin:1.2rem 0;padding:.7rem 1rem;border-radius:0 var(--radius,14px) var(--radius,14px) 0}
+.af-more h2{font-size:1.05rem;margin:0 0 .4rem}
+.af-more p{margin:0 0 .5rem}
+.af-more p:last-child{margin-bottom:0}
+.vs-frame{margin-bottom:.8rem}
+.full-message{margin-top:.2rem}
+.preview-banner{background:#fff3cd;border:1.5px solid #e0b800;border-radius:10px;padding:.5rem .8rem;font-family:var(--font-sans);font-size:.9rem;margin:0 0 1rem}
+@media (max-width:560px){
+  .af-short .af-row{flex-direction:column;gap:.2rem}
+  .af-short .af-tag{min-width:0}
+  .af-short .af-answer{font-size:1.12rem}
+}
