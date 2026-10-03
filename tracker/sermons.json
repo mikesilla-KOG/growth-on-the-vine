@@ -569,9 +569,9 @@
             "Can you inherit your faith?",
             "Is your parents' faith enough?"
           ],
-          "youtube_id": null,
+          "youtube_id": "JAef8y6jyVY",
           "style": "illustrated",
-          "status": "preview",
+          "status": "published",
           "scripture": "John 3:3",
           "sermon_timestamps": "13:19–13:35 + 15:02–15:41",
           "body_duration_seconds": 41.1,
@@ -580,7 +580,9 @@
           "summary": "“My granddad was a Baptist, my dad was a Baptist, I’m a Baptist — don’t bug me.” Pastor Kincer says God has no grandchildren and no stepchildren, only children. Each of us has to be born again and meet Him for ourselves.",
           "preview": "https://growonthevine.com/previews/division-series/#does-god-have-grandchildren",
           "source_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=799s",
-          "source_start_seconds": 799
+          "source_start_seconds": 799,
+          "clip_page": "https://growonthevine.com/clips/does-god-have-grandchildren/",
+          "clip_page_published": "2026-10-04"
         },
         {
           "slug": "is-god-only-for-emergencies",
