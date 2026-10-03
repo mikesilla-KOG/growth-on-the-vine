@@ -66,5 +66,10 @@ function ask(q,fallbackId){
 }
 form.addEventListener('submit',function(e){e.preventDefault();ask(inp.value,null)});
 bs.forEach(function(b){b.addEventListener('click',function(){inp.value=b.dataset.q;ask(b.dataset.q,b.dataset.target)})});
+/* ?q=<question> (from the question chips on the home page and shared links): pre-fill the box and run the Ask */
+var pq='';try{pq=(new URLSearchParams(location.search).get('q')||'').replace(/\s+/g,' ').trim()}catch(_){}
+if(pq&&form&&inp){inp.value=pq;var tgt=null;bs.forEach(function(b){if(b.dataset.q===pq)tgt=b.dataset.target});ask(pq,tgt)}
+else{
 var h=(location.hash||'').slice(1);if(h){var m=h.match(/^(?:a|v)-([a-z]+)/);if(m&&document.getElementById('a-'+m[1]))showSample('a-'+m[1],false)}
+}
 })();
