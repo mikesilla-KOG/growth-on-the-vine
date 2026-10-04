@@ -4,7 +4,6 @@
 .gv-home {
   --gv-gold: #e8c547;      --gv-gold-bg: #fbf1c9;  --gv-gold-line: #b8922a; --gv-gold-ink: #4d3900;
   --gv-green: #1a3d2e;     --gv-green-bg: #e3efe7; --gv-green-line: #2d5c42; --gv-green-ink: #1a3d2e;
-  --gv-ask: #2d5c42;       --gv-ask-bg: #f5f6e4;   --gv-ask-line: #b3c28a; --gv-ask-ink: #1a3d2e; --gv-ask-field: #7b9667;
   --gv-pad: 1.1rem;
   --gv-w: min(var(--wide), 100%);
 }
@@ -51,23 +50,7 @@
 .gv-start-note { margin:0; font-size:.95rem; color:var(--muted); }
 @media (max-width:480px) { .gv-start { width:100%; } }
 
-/* ---------- ask box (blue) ---------- */
-.gv-ask { background:linear-gradient(180deg,#fbf6dc 0%,var(--gv-ask-bg) 38%,#eff4e2 100%); border:2px solid var(--gv-ask-line); box-shadow:inset 0 0 0 3px #fffdf5; border-radius:calc(var(--radius) + 4px); padding:1rem var(--gv-pad) 1rem; margin:.5rem 0 0; }
-.gv-ask h2 { margin:0 0 .6rem; font-size:clamp(1.3rem,3.4vw,1.7rem); color:var(--gv-ask-ink); }
-.gv-ask .askbox { background:#fff; border-color:var(--gv-ask-field); margin:0 0 .8rem; }
-.gv-ask .askrow button.go { background:var(--gv-ask); min-width:6rem; }
-.gv-ask .askrow button.go:hover { background:var(--gv-ask-ink); }
-.gv-ask .askrow button.go:disabled { background:#8a9a8c; }
-.gv-chips-label { margin:0 0 .45rem; font-weight:700; color:var(--gv-ask-ink); font-size:.95rem; }
-.gv-chips { display:flex; flex-wrap:wrap; gap:.5rem; }
-.gv-chip.qbtn { display:inline-flex; align-items:center; margin:0; min-height:2.75rem; text-decoration:none; background:#fff; border:2px solid var(--gv-ask); color:var(--gv-ask-ink); font-size:1rem; line-height:1.25; }
-.gv-chip.qbtn:hover, .gv-chip.qbtn[aria-pressed=true] { background:var(--gv-ask); color:#fff; }
-.gv-ask .ai-disclaimer { margin:.9rem 0 .4rem; font-size:.9rem; padding:.45rem .8rem; }
-.gv-ask-more { margin:0; font-size:.95rem; }
-.gv-ask-more a { color:var(--gv-ask-ink); font-weight:700; }
-.gv-ask #live:empty { display:none; }
-.gv-ask #live { margin-top:1rem; }
-.gv-ask .answer { margin:.2rem 0 0; }
+/* ---------- ask box: shared with the Ask page, see "Ask section" in assets/css/ask.css ---------- */
 
 /* ---------- tags ---------- */
 .gv-tag { display:inline-flex; align-items:center; gap:.3rem; align-self:flex-start; font-size:.78rem; font-weight:700; line-height:1.2; padding:.18rem .6rem; border-radius:999px; border:1.5px solid transparent; white-space:nowrap; }

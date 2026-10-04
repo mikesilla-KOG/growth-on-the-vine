@@ -72,12 +72,40 @@ blockquote.verse cite{font-style:normal;font-size:.9rem;color:var(--muted)}
 .ask-home .answer{margin-top:1.2rem}
 @media(max-width:480px){.askrow button.go{flex:1 1 100%}.qbtn{font-size:.95rem}}
 
+
+/* ---- Ask section: ONE design shared by the home page (.gv-ask) and the Ask page (/ask/, same markup).
+   Light cream + sage-gold framed box, heading, one-line hint, input + green Ask button, tappable question chips. ---- */
+.gv-home, .ask-page { --gv-ask: #2d5c42; --gv-ask-bg: #f5f6e4; --gv-ask-line: #b3c28a; --gv-ask-ink: #1a3d2e; --gv-ask-field: #7b9667; --gv-pad: 1.1rem; }
+.gv-ask { background:linear-gradient(180deg,#fbf6dc 0%,var(--gv-ask-bg) 38%,#eff4e2 100%); border:2px solid var(--gv-ask-line); box-shadow:inset 0 0 0 3px #fffdf5; border-radius:calc(var(--radius) + 4px); padding:1rem var(--gv-pad) 1rem; margin:.5rem 0 0; }
+.gv-ask h1, .gv-ask h2 { margin:0 0 .6rem; font-size:clamp(1.3rem,3.4vw,1.7rem); color:var(--gv-ask-ink); }
+.gv-ask h1 { display:block; border:none; padding:0; max-width:none; line-height:1.25; }
+.gv-ask .askbox { background:#fff; border-color:var(--gv-ask-field); margin:0 0 .8rem; }
+.gv-ask .askrow button.go { background:var(--gv-ask); min-width:6rem; }
+.gv-ask .askrow button.go:hover { background:var(--gv-ask-ink); }
+.gv-ask .askrow button.go:disabled { background:#8a9a8c; }
+.gv-chips-label { margin:0 0 .45rem; font-weight:700; color:var(--gv-ask-ink); font-size:.95rem; }
+.gv-chips { display:flex; flex-wrap:wrap; gap:.5rem; }
+.gv-chip.qbtn { display:inline-flex; align-items:center; margin:0; min-height:2.75rem; text-decoration:none; background:#fff; border:2px solid var(--gv-ask); color:var(--gv-ask-ink); font-size:1rem; line-height:1.25; }
+.gv-chip.qbtn:hover, .gv-chip.qbtn[aria-pressed=true] { background:var(--gv-ask); color:#fff; }
+.gv-ask .ai-disclaimer { margin:.9rem 0 .4rem; font-size:.9rem; padding:.45rem .8rem; }
+.gv-ask-more { margin:0; font-size:.95rem; }
+.gv-ask-more a { color:var(--gv-ask-ink); font-weight:700; }
+.gv-ask #live:empty { display:none; }
+.gv-ask #live { margin-top:1rem; }
+.gv-ask .answer { margin:.2rem 0 0; }
+
+.gv-ask .ask-intro { margin:0 0 .8rem; font-size:.98rem; }
+/* Ask page: same width as the home page's Ask box; the answers below stay at a readable width */
+.ask-page { max-width:calc(var(--wide) + 2*var(--gv-pad)); padding:0 var(--gv-pad) 3rem; }
+.ask-page .gv-ask { margin-top:1.25rem; margin-bottom:1.5rem; }
+.ask-page #live:empty { display:none; }
+.ask-page #live, .ask-page #answers { max-width:var(--max); margin-left:auto; margin-right:auto; }
+
 /* ---- large screens: Ask box and answers use the width sensibly (phones/tablets unchanged) ---- */
 @media(min-width:1200px){
   .ask-home-inner{max-width:min(var(--wide),68rem)}
-  .ask-page{max-width:calc(min(var(--wide),1400px) + 2*var(--pad-x));padding-left:var(--pad-x);padding-right:var(--pad-x)}
-  .ask-page>p,.ask-page .ai-disclaimer{max-width:75ch}
-  .ask-page .askbox,.ask-page .samples{max-width:60rem}
+  .ask-page{max-width:calc(var(--wide) + 2*var(--pad-x));padding-left:var(--pad-x);padding-right:var(--pad-x)}
+  .ask-page #live,.ask-page #answers{max-width:none}
   /* answers flow into two columns: the written answer, then the verses and sermon moments; headings span both */
   .answer{column-count:2;column-gap:2.5rem}
   .answer>h2,.answer>.badge{column-span:all}

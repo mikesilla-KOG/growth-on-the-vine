@@ -1,6 +1,6 @@
 (function(){
 var API='https://gotv-ask.growonthevine.workers.dev/ask';
-var as=[].slice.call(document.querySelectorAll('#answers .answer')),bs=[].slice.call(document.querySelectorAll('button.qbtn'));
+var as=[].slice.call(document.querySelectorAll('#answers .answer')),bs=[].slice.call(document.querySelectorAll('.qbtn'));
 var live=document.getElementById('live'),form=document.getElementById('askform'),inp=document.getElementById('q'),go=document.getElementById('go');
 function el(t,c,x){var n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n}
 function link(href,cls,txt){var a=el('a',cls,txt);a.href=href;a.target='_blank';a.rel='noopener noreferrer';return a}
@@ -65,7 +65,7 @@ function ask(q,fallbackId){
  }).catch(function(){clearTimeout(to);busy(false);fail(['We could not reach the answer service just now. Please check your connection and try again in a moment.'])});
 }
 form.addEventListener('submit',function(e){e.preventDefault();ask(inp.value,null)});
-bs.forEach(function(b){b.addEventListener('click',function(){inp.value=b.dataset.q;ask(b.dataset.q,b.dataset.target)})});
+bs.forEach(function(b){b.addEventListener('click',function(e){if(b.tagName==='A'&&form.hasAttribute('data-askpage'))return;e.preventDefault();inp.value=b.dataset.q;try{history.replaceState(null,'','?q='+encodeURIComponent(b.dataset.q))}catch(_){}ask(b.dataset.q,b.dataset.target)})});
 /* ?q=<question> (from the question chips on the home page and shared links): pre-fill the box and run the Ask */
 var pq='';try{pq=(new URLSearchParams(location.search).get('q')||'').replace(/\s+/g,' ').trim()}catch(_){}
 if(pq&&form&&inp){inp.value=pq;var tgt=null;bs.forEach(function(b){if(b.dataset.q===pq)tgt=b.dataset.target});ask(pq,tgt)}
