@@ -40,7 +40,9 @@ tshards.forEach((s, i) => fs.writeFileSync(path.join(PUB, `topics/${String(i).pa
 fs.writeFileSync(path.join(PUB, 'topics/names.json'), JSON.stringify(names));
 // ---- sermons
 const clips = Object.fromEntries(JSON.parse(fs.readFileSync(path.join(REPO, 'assets/data/clips.json'))).map(c => [c.slug, c]));
-const sdocs = []; const order = ['saving-a-nation', 'division-part-1', 'division-part-2', 'division-concluded-part-1', 'division-concluded-part-2', 'a-more-excellent-way'];
+const sdocs = []; const first = ['saving-a-nation', 'division-part-1', 'division-part-2', 'division-concluded-part-1', 'division-concluded-part-2', 'a-more-excellent-way'];
+// all live messages: the original six first (stable ids), then every other messages/*/content.json alphabetically
+const order = [...first, ...fs.readdirSync(path.join(REPO, 'messages')).filter(n => !first.includes(n) && fs.existsSync(path.join(REPO, 'messages', n, 'content.json'))).sort()];
 for (const slug of order) {
   const d = JSON.parse(fs.readFileSync(path.join(REPO, 'messages', slug, 'content.json'))); const sm = d.sermon;
   for (const c of d.chunks) for (const p of c.paragraphs) sdocs.push({ id: sdocs.length, slug, title: sm.title, sq: c.section_question, sa: c.short_answer, t: p.start_seconds, text: p.text,
