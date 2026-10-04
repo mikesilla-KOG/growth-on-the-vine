@@ -105,14 +105,25 @@ def load_clips(repo):
 
 
 # ---------------------------------------------------------------- page
+def brandbar(rel):
+    return (f'<header class="gv-brandbar"><a class="gv-brand" href="{rel}"><img src="{rel}assets/img/gotv-official.png" alt="" width="112" height="112">'
+            f'<span class="gv-brand-text">Grow on the Vine<small>Believe, Know, &amp; Grow</small></span></a></header>')
+
+
 def nav(rel):
-    return (f'<nav class="nav" aria-label="Primary"><a href="{rel}">Home</a><a href="./" aria-current="page">Messages</a>'
-            f'<a href="{rel}ask/">Ask</a><a href="{rel}messages/#search">Search</a></nav>')
+    # same icon menu as the home page (home.css .gv-menu); Messages is the current page here
+    def a(cls, href, ico, label, cur=False):
+        c = ' aria-current="page"' if cur else ''
+        return f'<a class="{cls}" href="{href}"{c}><span class="gv-mi" aria-hidden="true">{ico}</span><span class="gv-ml">{label}</span></a>'
+    return ('<nav class="gv-menu" aria-label="Primary">' + a('gv-m-home', rel, '🏠', 'Home') + a('gv-m-clips', './', '🎬', 'Messages', True)
+            + a('gv-m-ask', f'{rel}ask/', '💬', 'Ask') + a('gv-m-search', f'{rel}messages/#search', '🔍', 'Search') + '</nav>')
 
 
 def card(it, rel):
     typ = 'Full Message' if it['k'] == 'm' else 'Clip'
     cls = 'm' if it['k'] == 'm' else 'c'
+    ico = '📖' if it['k'] == 'm' else '🎬'
+    gv = 'gv-tag-full' if it['k'] == 'm' else 'gv-tag-clip'
     when = fmt_date(it['dt']) + (f' · {fmt_dur(it["du"])}' if it['du'] else '')
     if it['img']:
         media = f'<div class="lib-media"><img src="{rel}{it["img"]}" alt="" width="1280" height="720" loading="lazy" decoding="async"><span class="lib-badge">{fmt_dur(it["du"])}</span></div>'
@@ -121,7 +132,7 @@ def card(it, rel):
                  f'<span class="lib-msg-label">Full message</span><span class="lib-msg-series">{E(it.get("ser", ""))}</span></div>')
     from_ = f'<p class="lib-from">From “{E(it["sm"])}”</p>' if it['k'] == 'c' and it.get('sm') else ''
     return (f'<li class="lib-card lib-{cls}" data-k="{it["k"]}" data-s="{E(it["s"])}">{media}<div class="lib-body">'
-            f'<div class="lib-meta"><span class="lib-tag lib-tag-{cls}">{typ}</span><span class="lib-when">{E(when)}</span></div>'
+            f'<div class="lib-meta"><span class="lib-tag lib-tag-{cls} gv-tag {gv}"><span aria-hidden="true">{ico}</span> {typ}</span><span class="lib-when">{E(when)}</span></div>'
             f'<h2 class="lib-title"><a href="{rel}{it["u"]}">{E(it["t"])}</a></h2>{from_}<p class="lib-desc">{E(it["d"])}</p>'
             f'<p class="lib-snip" hidden></p></div></li>')
 
@@ -136,18 +147,19 @@ def page(items):
           'mainEntity': {'@type': 'ItemList', 'itemListElement': [{'@type': 'ListItem', 'position': i + 1, 'url': f'{SITE}/{x["u"]}', 'name': x['t']} for i, x in enumerate(items)]}}
     cards = ''.join(card(x, rel) for x in items)
     return f'''<!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{SITE}/messages/"><meta name="theme-color" content="#0f2a20"><link rel="icon" type="image/png" sizes="32x32" href="{rel}assets/img/favicon-32.png"><link rel="apple-touch-icon" href="{rel}assets/img/favicon.png"><meta property="og:type" content="website"><meta property="og:site_name" content="Grow on the Vine"><meta property="og:title" content="Messages &amp; Clips | Grow on the Vine"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{SITE}/messages/"><meta property="og:image" content="{SITE}/assets/img/gotv-official-og.jpg"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Messages &amp; Clips | Grow on the Vine"><meta name="twitter:description" content="{E(desc)}"><meta name="twitter:image" content="{SITE}/assets/img/gotv-official-og.jpg"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="{rel}assets/css/styles.css"><link rel="stylesheet" href="{rel}assets/css/library.css"><link rel="stylesheet" href="{rel}assets/css/verse-vs-sermon.css"><script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script></head>
-<body><header class="site-header"><div class="header-inner"><a class="brand" href="{rel}"><img src="{rel}assets/img/gotv-official.png" alt="" width="112" height="112"><span class="brand-text-stack"><span class="brand-text">Grow on the Vine</span><span class="brand-tagline">Believe, Know, &amp; Grow</span></span></a>{nav(rel)}</div></header>
-<main class="wrap-wide lib-page">
-<p class="section-label">Library</p>
-<h1>Messages &amp; Clips</h1>
-<p class="lib-lede">Every full message and short clip in one place. Search by topic, verse, or any word that was said.</p>
-<form id="search" class="lib-search" role="search" action="./" method="get">
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{SITE}/messages/"><meta name="theme-color" content="#0f2a20"><link rel="icon" type="image/png" sizes="32x32" href="{rel}assets/img/favicon-32.png"><link rel="apple-touch-icon" href="{rel}assets/img/favicon.png"><meta property="og:type" content="website"><meta property="og:site_name" content="Grow on the Vine"><meta property="og:title" content="Messages &amp; Clips | Grow on the Vine"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{SITE}/messages/"><meta property="og:image" content="{SITE}/assets/img/gotv-official-og.jpg"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Messages &amp; Clips | Grow on the Vine"><meta name="twitter:description" content="{E(desc)}"><meta name="twitter:image" content="{SITE}/assets/img/gotv-official-og.jpg"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="{rel}assets/css/styles.css"><link rel="stylesheet" href="{rel}assets/css/library.css"><link rel="stylesheet" href="{rel}assets/css/verse-vs-sermon.css"><link rel="stylesheet" href="{rel}assets/css/home.css"><script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script></head>
+<body class="gv-home gv-lib">{brandbar(rel)}{nav(rel)}
+<main class="gv-main lib-page">
+<section id="search" class="lib-find" aria-labelledby="lib-h1">
+<h1 id="lib-h1" class="lib-h1"><span class="lib-h1-ico" aria-hidden="true">🔍</span> Keyword Search - Quick</h1>
+<p class="lib-hint">Type a word to find clips and full messages.</p>
+<form class="lib-search" role="search" action="./" method="get">
 <label class="visually-hidden" for="lib-q">Search messages and clips</label>
-<div class="search-box"><input id="lib-q" name="q" type="search" enterkeyhint="search" autocomplete="off" autocorrect="off" spellcheck="false" placeholder="Search: try fruit, tongues, baptism, love, Division…" aria-describedby="lib-status"><button type="button" class="btn lib-clear" id="lib-clear" hidden>Clear</button></div>
-<p class="lib-ask">Have a question? <a href="{rel}ask/">Ask it here</a></p>
+<div class="search-box"><input id="lib-q" name="q" type="search" enterkeyhint="search" autocomplete="off" autocorrect="off" spellcheck="false" placeholder="Try fruit, tongues, baptism, love, Division…" aria-describedby="lib-status"><button type="button" class="btn lib-clear" id="lib-clear" hidden>Clear</button></div>
 </form>
-<div class="lib-chips" role="group" aria-label="Filter by type"><button type="button" class="lib-chip" data-f="all" aria-pressed="true">All <span>{len(items)}</span></button><button type="button" class="lib-chip" data-f="m" aria-pressed="false">Full Messages <span>{n_m}</span></button><button type="button" class="lib-chip" data-f="c" aria-pressed="false">Clips <span>{n_c}</span></button></div>
+<p class="lib-ask">Want an answer to a question? <a href="{rel}ask/">Ask</a></p>
+</section>
+<div class="lib-chips" role="group" aria-label="Filter by type"><button type="button" class="lib-chip" data-f="all" aria-pressed="true">All <span>{len(items)}</span></button><button type="button" class="lib-chip lib-chip-m" data-f="m" aria-pressed="false"><span aria-hidden="true">📖</span> Full Messages <span>{n_m}</span></button><button type="button" class="lib-chip lib-chip-c" data-f="c" aria-pressed="false"><span aria-hidden="true">🎬</span> Clips <span>{n_c}</span></button></div>
 <p id="lib-status" class="lib-status" aria-live="polite">Showing all {len(items)} messages and clips.</p>
 <ul id="lib-list" class="lib-grid">{cards}</ul>
 <div id="lib-empty" class="lib-empty" hidden><p><strong>No messages or clips match <span id="lib-empty-q"></span>.</strong></p><p>Try a shorter or different word, or <a href="{rel}ask/">have a question? Ask it here</a>.</p></div>

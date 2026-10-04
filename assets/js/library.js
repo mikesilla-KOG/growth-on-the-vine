@@ -12,7 +12,7 @@
   var list = document.getElementById("lib-list"), status = document.getElementById("lib-status");
   var empty = document.getElementById("lib-empty"), emptyQ = document.getElementById("lib-empty-q");
   var chips = Array.prototype.slice.call(document.querySelectorAll(".lib-chip"));
-  var form = document.getElementById("search");
+  var form = document.querySelector("#search form") || document.getElementById("search");
   if (!input || !list) return;
 
   var cards = Array.prototype.slice.call(list.children);       // default order
@@ -227,7 +227,7 @@
   }
   function focusBox(scroll) {
     input.focus({ preventScroll: !scroll });
-    if (scroll) { var top = form.getBoundingClientRect().top + window.pageYOffset - 130; window.scrollTo({ top: Math.max(0, top), behavior: "smooth" }); }
+    if (scroll) { var box = document.getElementById("search") || form, top = box.getBoundingClientRect().top + window.pageYOffset - 80; window.scrollTo({ top: Math.max(0, top), behavior: "smooth" }); }
     try { var n = input.value.length; input.setSelectionRange(n, n); } catch (e) {}
   }
 
