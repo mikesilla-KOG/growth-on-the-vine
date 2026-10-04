@@ -592,9 +592,9 @@
             "Do we only call on God in a crisis?",
             "What if we need God every day?"
           ],
-          "youtube_id": null,
+          "youtube_id": "XLsF2dKA_2s",
           "style": "illustrated",
-          "status": "preview",
+          "status": "published",
           "scripture": "Matthew 6:11",
           "sermon_timestamps": "16:04–16:40 + 17:15–17:40",
           "body_duration_seconds": 44.2,
@@ -603,7 +603,9 @@
           "summary": "After 9/11 the churches filled up, and within 60 days they were empty again. Pastor Kincer remembers lying near death in hospital: he didn’t need a healer, he needed the Healer. We need God every day, not only in a crisis.",
           "preview": "https://growonthevine.com/previews/division-series/#is-god-only-for-emergencies",
           "source_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=964s",
-          "source_start_seconds": 964
+          "source_start_seconds": 964,
+          "clip_page": "https://growonthevine.com/clips/is-god-only-for-emergencies/",
+          "clip_page_published": "2026-10-05"
         },
         {
           "slug": "can-god-change-a-person",

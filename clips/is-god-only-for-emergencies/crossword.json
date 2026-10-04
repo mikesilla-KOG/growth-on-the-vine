@@ -1,0 +1,39 @@
+{
+  "title": "Is God only for emergencies?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "healer",
+      "answer": "HEALER",
+      "clue": "Jesus, not just a healing",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "everyday",
+      "answer": "EVERYDAY",
+      "clue": "How often we need God",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "crisis",
+      "answer": "CRISIS",
+      "clue": "When many people only call on God",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "bread",
+      "answer": "BREAD",
+      "clue": "Give us this day our daily ___",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}
