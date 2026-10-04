@@ -4,7 +4,7 @@
 .askbox{background:linear-gradient(180deg,#fbf6dc,#f5f6e4);border:2px solid #b3c28a;box-shadow:inset 0 0 0 3px #fffdf5;border-radius:var(--radius);padding:1rem 1.1rem;margin:0 0 1.2rem}
 .askbox label{font-weight:700;display:block;margin:0 0 .4rem}
 .askrow{display:flex;gap:.5rem;flex-wrap:wrap}
-.askrow input{flex:1 1 220px;font:inherit;padding:.6rem .9rem;border:1.5px solid #86a06f;border-radius:999px;background:#fff;color:var(--ink,#1e2a22)}
+.askrow input{flex:1 1 220px;font:inherit;padding:.6rem .9rem;border:1.5px solid #7b9667;border-radius:999px;background:#fff;color:var(--ink,#1e2a22)}
 .askrow input:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
 .askrow button.go{font:inherit;font-weight:700;padding:.6rem 1.4rem;border-radius:999px;border:0;background:var(--forest-mid);color:#fff;cursor:pointer}
 .askrow button.go:hover{background:var(--leaf)}.askrow button.go:disabled{background:#b9b4a4;cursor:wait}

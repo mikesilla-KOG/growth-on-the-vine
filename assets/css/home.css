@@ -4,7 +4,7 @@
 .gv-home {
   --gv-gold: #e8c547;      --gv-gold-bg: #fbf1c9;  --gv-gold-line: #b8922a; --gv-gold-ink: #4d3900;
   --gv-green: #1a3d2e;     --gv-green-bg: #e3efe7; --gv-green-line: #2d5c42; --gv-green-ink: #1a3d2e;
-  --gv-ask: #2d5c42;       --gv-ask-bg: #f5f6e4;   --gv-ask-line: #b3c28a; --gv-ask-ink: #1a3d2e; --gv-ask-field: #86a06f;
+  --gv-ask: #2d5c42;       --gv-ask-bg: #f5f6e4;   --gv-ask-line: #b3c28a; --gv-ask-ink: #1a3d2e; --gv-ask-field: #7b9667;
   --gv-pad: 1.1rem;
   --gv-w: min(var(--wide), 100%);
 }
