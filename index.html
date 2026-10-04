@@ -66,8 +66,7 @@
   <main class="gv-main">
     <section class="gv-hero" aria-labelledby="gv-h1">
       <h1 id="gv-h1">Come feed your spirit with heavenly Words.</h1>
-      <p class="gv-start-wrap"><a class="gv-start" href="clips/does-god-have-grandchildren/"><span aria-hidden="true">▶</span> Start here</a></p>
-      <p class="gv-start-note">First clip: “Does God have grandchildren?” · ~1 min</p>
+      <p class="gv-start-wrap"><a class="gv-start" id="gv-latest" href="clips/is-god-only-for-emergencies/"><span aria-hidden="true">▶</span> See Latest Clip</a></p>
     </section>
 
     <section class="gv-section" aria-labelledby="gv-tiles-h">
@@ -128,5 +127,12 @@
     <p class="footer-scripture-notice">Ask answers quote the Berean Standard Bible (BSB), public domain (<a href="https://berean.bible/" target="_blank" rel="noopener noreferrer">berean.bible</a>).</p>
   </footer>
 
+<script>
+(function(){var a=document.getElementById("gv-latest");if(!a)return;
+fetch("assets/data/clips.json").then(function(r){return r.json()}).then(function(c){
+var t=new Date().toLocaleDateString("en-CA",{timeZone:"America/Los_Angeles"});
+var l=c.filter(function(x){return x.published&&x.published<=t}).sort(function(x,y){return x.published<y.published?1:-1})[0];
+if(l&&l.url)a.setAttribute("href",l.url);}).catch(function(){});})();
+</script>
 </body>
 </html>
