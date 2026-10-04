@@ -1,0 +1,81 @@
+/* About Us (preview). Loaded after assets/css/styles.css + home.css; reuses their fonts, colours and header/menu/footer.
+   Nothing here changes any shared stylesheet. */
+.gv-about { --gv-ask: #2d5c42; --gv-ask-bg: #f5f6e4; --gv-ask-line: #b3c28a; --gv-ask-ink: #1a3d2e; --gv-ask-field: #7b9667; }
+.gv-about .gv-preview-banner { background:#fff4cf; border-bottom:1.5px solid var(--gold); color:var(--forest); font-size:.82rem; font-weight:700; text-align:center; margin:0; padding:.25rem .75rem; }
+
+/* five-item menu (proposed: adds About) */
+.gv-menu-5 { grid-template-columns:repeat(5,minmax(0,1fr)); gap:.15rem; padding-left:.25rem; padding-right:.25rem; }
+.gv-menu-5 a { font-size:.8rem; padding-left:.1rem; padding-right:.1rem; }
+.gv-m-about { --mc: var(--grape); }
+@media (min-width:640px) { .gv-menu-5 { display:flex; } .gv-menu-5 a { font-size:1.02rem; } }
+
+/* hero */
+.ab-hero { padding-top:2rem; padding-bottom:1.6rem; }
+.ab-eyebrow { margin:0 0 .4rem; text-transform:uppercase; letter-spacing:.12em; font-size:.8rem; font-weight:700; color:#8a6b1f; }
+.ab-hero h1 { margin-bottom:.8rem; }
+.ab-lead { max-width:36rem; margin:0 auto 1.3rem; font-size:1.12rem; color:var(--muted); }
+.ab-cta { display:flex; flex-wrap:wrap; gap:.8rem; justify-content:center; margin:0; }
+.ab-btn-ghost { display:inline-flex; align-items:center; justify-content:center; gap:.5rem; min-height:3.4rem; padding:.6rem 1.6rem; border-radius:999px; border:2px solid var(--forest); color:var(--forest) !important; font-weight:700; font-size:1.1rem; text-decoration:none; background:#fff; }
+.ab-btn-ghost:hover { background:var(--cream-deep); }
+.ab-btn-ghost:focus-visible, .ab-btn:focus-visible, .ab-link:focus-visible, .ab-card a:focus-visible { outline:3px solid var(--focus); outline-offset:3px; }
+@media (max-width:480px) { .ab-btn-ghost { width:100%; } }
+
+/* scripture */
+.ab-verse { margin:.4rem 0 0; }
+.ab-verse blockquote, .ab-verse-inline { margin:0 auto; max-width:40rem; padding:1.1rem 1.3rem; background:var(--card); border-left:5px solid var(--gold); border-radius:var(--radius); box-shadow:var(--shadow); }
+.ab-verse blockquote p, .ab-verse-inline p { margin:0 0 .4rem; font-family:var(--font-serif); font-size:1.12rem; line-height:1.6; color:var(--forest); font-style:italic; }
+.ab-verse footer, .ab-verse-inline footer { font-size:.9rem; font-weight:700; color:var(--leaf); }
+.ab-sc { font-variant:small-caps; letter-spacing:.03em; }
+
+/* cards */
+.ab-cards { list-style:none; margin:0; padding:0; display:grid; grid-template-columns:minmax(0,1fr); gap:1rem; }
+.ab-card { min-width:0; background:var(--card); border:2px solid var(--border); border-radius:calc(var(--radius) + 4px); box-shadow:var(--shadow); padding:1.15rem 1.2rem 1.2rem; overflow-wrap:anywhere; }
+.ab-card h3 { margin:0 0 .6rem; font-size:1.3rem; display:flex; align-items:center; gap:.55rem; }
+.ab-ico { display:inline-flex; align-items:center; justify-content:center; width:2.4rem; height:2.4rem; flex:none; border-radius:50%; background:var(--gv-gold-bg); border:2px solid var(--gv-gold-line); font-size:1.2rem; }
+.ab-card p { margin:.35rem 0; }
+.ab-card address { font-style:normal; line-height:1.55; }
+.ab-small { font-size:.9rem; color:var(--muted); }
+.ab-big { font-family:var(--font-serif); font-weight:700; font-size:1.2rem; color:var(--forest); margin:.2rem 0 0 !important; }
+.ab-big2 { margin-top:.9rem !important; }
+.ab-link, .ab-card a { color:var(--forest); font-weight:700; }
+.ab-btn { display:inline-flex; align-items:center; justify-content:center; min-height:3rem; padding:.55rem 1.5rem; border-radius:999px; background:var(--gv-gold); border:2px solid var(--gv-gold-line); color:var(--forest) !important; font-weight:700; text-decoration:none !important; box-shadow:0 3px 10px rgba(15,42,32,.18); }
+.ab-btn:hover { background:var(--gold-soft); }
+.ab-list { list-style:none; margin:.4rem 0 0; padding:0; }
+.ab-list li { padding:.55rem 0; border-top:1px solid var(--cream-deep); }
+.ab-list li:first-child { border-top:0; }
+.ab-k { display:block; font-size:.75rem; text-transform:uppercase; letter-spacing:.08em; color:#8a6b1f; font-weight:700; }
+.ab-handle { display:block; font-size:.9rem; color:var(--muted); }
+.ab-follow { border-color:var(--gv-green-line); background:var(--gv-green-bg); }
+.ab-live { border-color:var(--gv-gold-line); background:var(--gv-gold-bg); }
+.ab-times { border-color:var(--gv-green-line); }
+@media (min-width:768px) {
+  .ab-cards { grid-template-columns:repeat(2,minmax(0,1fr)); gap:1.2rem; }
+  .ab-follow { grid-column:1 / -1; }
+  .ab-social { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); column-gap:2rem; }
+  .ab-social li:nth-child(2) { border-top:0; }
+}
+@media (min-width:1100px) {
+  .ab-cards { grid-template-columns:repeat(3,minmax(0,1fr)); }
+  .ab-follow { grid-column:span 2; }
+  .ab-social { grid-template-columns:repeat(2,minmax(0,1fr)); }
+}
+
+/* long-form sections */
+.ab-pastor { background:var(--cream-deep); border-radius:calc(var(--radius) + 4px); padding:1.4rem 1.3rem; border:2px solid var(--border); }
+.ab-pastor .gv-h2 { margin-bottom:.6rem; }
+.ab-pastor-body, .ab-story, .ab-invite { max-width:46rem; }
+.ab-story, .ab-invite { margin-left:auto; margin-right:auto; }
+.ab-pastor p { margin:0 0 .8rem; }
+.ab-links { display:flex; flex-wrap:wrap; gap:.4rem 1.4rem; margin:.4rem 0 0 !important; font-weight:700; }
+.ab-links a, .ab-story a, .ab-invite p a:not(.gv-start):not(.ab-btn-ghost) { color:var(--forest); }
+.ab-invite { text-align:left; }
+.ab-invite .ab-verse-inline { margin:0 0 1rem; max-width:none; }
+.ab-actions { display:flex; flex-wrap:wrap; gap:.8rem; margin-top:1.2rem; }
+@media (min-width:1100px) { .ab-pastor { padding:1.8rem 2.2rem; } }
+@media (min-width:768px) { .ab-pastor-body { max-width:none; } .ab-pastor p { max-width:62ch; } }
+.gv-about .gv-main { padding-bottom:3rem; }
+
+/* comfortable tap targets for text links inside cards / bio */
+.ab-card .ab-list a, .ab-card .ab-link, .ab-links a { display:inline-flex; align-items:center; min-height:44px; padding:.1rem 0; }
+.ab-list li { padding:.25rem 0; }
+.ab-list .ab-handle { margin-top:-.25rem; padding-bottom:.35rem; }
