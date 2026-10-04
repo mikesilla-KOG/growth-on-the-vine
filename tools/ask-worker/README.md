@@ -14,11 +14,17 @@ Deployed at https://gotv-ask.growonthevine.workers.dev (workers.dev; no custom r
 8. Server-side validation (src/validate.js): every BSB quote must be an exact stretch of the supplied verse; every sermon quote an exact stretch of the transcript paragraph; no ellipsis; length caps; text copied from sources outside markers is flagged; style lint (no named speakers, no "agrees with"); one retry with feedback; then repair (whole best-matching sentence) or drop. The client receives structured JSON (no HTML).
 9. Logs: only anonymised question text (emails/phones/links stripped) + coverage, KV, 30-day TTL, successful answers only. No IP stored except the hashed rate-limit key.
 
+## Unanswered-question log (src/unanswered.js)
+Only questions the sermons did NOT cover are stored, in KV namespace `UNANSWERED` (`gotv-ask-unanswered`), key `u:<ISO ts>:<rand>`, TTL 1 year, value `{ts, q (anonymised, ≤300 chars), reason, top:{title, score:{cos,bm25,judged}}}`. No IP/headers.
+Reasons: `off_topic` (planner intent off_topic or medical_legal), `not_covered` (no sermon passage judged relevant / coverage "none"), `weak_match` (coverage "partial" and no passage judged "direct"). Never stored: crisis messages, manipulation / prompt-injection (planner intent + regex), errors, cache hits. Written with `ctx.waitUntil`, errors swallowed.
+Read-only endpoint: `GET /admin/unanswered?since=<iso>&after=<key>&limit=<=40>` with `Authorization: Bearer <ADMIN_TOKEN>` (Worker secret; token kept on the box only). KV listings can lag up to ~60 s.
+
 ## Build / deploy (needs Node 22 for wrangler; secrets come from env, never from files)
     npm install
     node build/build_data.mjs          # regenerates public/ (BSB chapters, BM25 shards, topics, sermons + embeddings). Inputs: /workspace/gotv-work/ask/bsb/bsb.txt, data/topic-scores.txt, /workspace/gotv-repo/messages/*/content.json
     export CLOUDFLARE_API_TOKEN=... CLOUDFLARE_ACCOUNT_ID=...
     printf %s "$OPENAI_API_KEY" | npx wrangler secret put OPENAI_API_KEY
+    npx wrangler secret put ADMIN_TOKEN   # bearer token for /admin/unanswered
     npx wrangler secret put DEBUG_KEY  # optional: lets the owner bypass the per-IP limit / cache for testing
     npx wrangler deploy
 `public/` is generated (about 11 MB) and is not committed to the website repo. Re-run build_data whenever sermons are added.

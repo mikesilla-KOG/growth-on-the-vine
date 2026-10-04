@@ -12,6 +12,10 @@ run_worker_first = true
 binding = "KV"
 id = "ffc3cb6222c74cc196fca3773b8ee07d"
 
+[[kv_namespaces]]
+binding = "UNANSWERED"
+id = "ab8039f103d3494ba1038258eafa8c96"
+
 [vars]
 PLAN_MODEL = "gpt-4.1-mini"
 JUDGE_MODEL = "gpt-5.2"

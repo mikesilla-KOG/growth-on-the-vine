@@ -3,6 +3,7 @@ import { meta, parseRef, passageFromRef, render, bibleSearch, hitsToPassages, to
 import { respond, embed } from './llm.js';
 import { JUDGE_SYSTEM, JUDGE_SCHEMA, PLANNER_SYSTEM, COMPOSE_SYSTEM, PLANNER_SCHEMA, COMPOSE_SCHEMA } from './prompts.js';
 import { check, scrubName } from './validate.js';
+import { logUnanswered, adminUnanswered } from './unanswered.js';
 
 const ALLOWED = ['https://growonthevine.com', 'https://www.growonthevine.com'];
 const MAX_Q = 300;
@@ -33,6 +34,7 @@ export default {
     const url = new URL(req.url);
     if (req.method === 'OPTIONS') return new Response(null, { status: okOrigin ? 204 : 403, headers: cors });
     if (url.pathname === '/' || url.pathname === '/health') return j({ ok: true, service: 'gotv-ask' }, 200, cors);
+    if (url.pathname === '/admin/unanswered') return adminUnanswered(req, env, url);
     if (url.pathname !== '/ask' || req.method !== 'POST') return j({ ok: false, error: 'not_found' }, 404, cors);
     if (!okOrigin) return j({ ok: false, error: 'forbidden' }, 403, cors);
     const t0 = Date.now();
@@ -66,6 +68,7 @@ async function handleAsk(req, env, ctx, cors, t0) {
   const P = plan.json;
   if (P.intent !== 'bible_question') {
     if (P.intent === 'crisis') return j(await simple('crisis', env), 200, cors);
+    if (P.intent === 'off_topic' || P.intent === 'medical_legal') logUnanswered(env, ctx, q, 'off_topic', null);
     return j({ ok: true, kind: 'declined', reason: P.intent, message: MSG[P.intent] || MSG.off_topic, meta: { calls, cost: cost(calls), ms: Date.now() - t0 } }, 200, cors);
   }
   // 5. retrieval
@@ -104,6 +107,13 @@ async function handleAsk(req, env, ctx, cors, t0) {
     not_covered: covered && out.coverage === 'full' ? '' : scrubName(String(out.not_covered || '').replace(/[“”"]/g, '')).slice(0, 400), meta: { model, calls, cost: cost(calls), ms: Date.now() - t0, retried, dropped: chk.problems.length } };
   if (!chk.paragraphs.length || !verses.length) return j({ ok: false, kind: 'error', message: MSG.busy }, 502, cors);
   if (debug) res.debug = { plan: P, problems: chk.problems, cands: vlist.map(v => `${v.id} ${v.ref} [${v.why}]`), sermons: all.map(s => `${s.id} [${s.rel}] ${s.slug}@${s.time} ${s.sq} · ${s.gist} bm=${s.score.bm25.toFixed(1)} cos=${s.score.cos && s.score.cos.toFixed(2)}`), topics: topics.picked, raw: out };
+  // log only questions the sermons did not cover (never blocks or breaks the answer)
+  try {
+    const sermonKept = Object.values(keep); const hasDirect = sermonKept.some(s => s.rel === 'direct');
+    const reason = !covered ? 'not_covered' : (res.coverage === 'partial' && !hasDirect ? 'weak_match' : null);
+    if (reason) { const t = sermonKept[0] || all[0]; const sc = (t && t.score) || {};
+      logUnanswered(env, ctx, q, reason, t ? { title: t.title, score: { cos: sc.cos != null ? +(+sc.cos).toFixed(3) : null, bm25: sc.bm25 != null ? +(+sc.bm25).toFixed(1) : null, judged: t.rel || 'none' } } : null); }
+  } catch (e) { console.log('unanswered hook error:', String(e && e.message || e).slice(0, 100)); }
   const body2 = JSON.stringify({ ...res, debug: undefined });
   ctx.waitUntil((async () => {
     await caches.default.put(cacheKey, new Response(body2, { headers: { 'Content-Type': 'application/json', 'Cache-Control': 'public, max-age=86400' } }));
