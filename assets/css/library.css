@@ -2,21 +2,26 @@
    rounded framed cards and colour code as the home page. Gold = Clip, deep green = Full Message (always paired with an icon + text label). */
 .visually-hidden{position:absolute!important;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 
-/* ---------- search card (heading at the very top of the content) ---------- */
+/* ---------- page header (restored: Library label, Messages & Clips h1, lede) ---------- */
 .lib-page{padding-top:1.1rem}
-.lib-find{background:linear-gradient(180deg,#f7faf3 0%,var(--gv-green-bg) 100%);border:2px solid var(--gv-green-line);box-shadow:inset 0 0 0 3px #fffdf5;border-radius:calc(var(--radius) + 4px);padding:1rem var(--gv-pad) 1rem;margin:0 0 1.2rem}
-.lib-find{scroll-margin-top:80px}
-.lib-h1{display:flex;align-items:center;gap:.55rem;border:none;padding:0;margin:0 0 .25rem;font-size:clamp(1.55rem,5.2vw,2.2rem);line-height:1.25;color:var(--gv-green-ink)}
-.lib-h1-ico{flex:none;font-size:.85em;line-height:1}
-.lib-hint{margin:0 0 .8rem;font-size:1.05rem;color:var(--muted)}
-.lib-search{margin:0}
-.lib-search .search-box{flex-wrap:nowrap}
-.lib-search input[type="search"]{flex:1 1 auto;background:#fff;border:2px solid #7b9667;box-shadow:none;min-height:3rem}
-.lib-clear{flex:0 0 auto;padding:.6rem 1.1rem;border-radius:999px;background:var(--gv-green);color:#fff;border:2px solid var(--gv-green);font-weight:700}
-.lib-clear:hover{background:var(--leaf);border-color:var(--leaf)}
-.lib-ask{margin:.7rem .2rem 0;font-size:1rem;color:var(--muted)}
-.lib-ask a{font-weight:700;color:var(--gv-green-ink)}
+.lib-page h1{margin-bottom:.6rem}
+.lib-lede{color:var(--muted);margin:0 0 1.2rem;max-width:40rem}
+@media (min-width:1200px){.lib-lede{max-width:48rem}}
+
+/* ---------- search card: the home page's "Ask a Bible question" box (shared .gv-ask / .askbox / .askrow in ask.css) ---------- */
+.lib-find{margin:0 0 1.2rem;scroll-margin-top:80px}
+.lib-find h2{display:flex;align-items:center;gap:.5rem}
+.lib-search{margin:0 0 .8rem}
+.lib-search .askrow{flex-wrap:nowrap;align-items:center}
+.lib-search .askrow input{flex:1 1 auto;min-width:0;min-height:3rem;-webkit-appearance:none;appearance:none}
+.lib-search .askrow button.go{flex:0 0 auto}
 .lib-search input[type="search"]::-webkit-search-cancel-button{-webkit-appearance:none;appearance:none;display:none}
+.lib-clear{flex:0 0 auto;font:inherit;font-weight:700;padding:.6rem 1.1rem;border-radius:999px;background:#fff;color:var(--gv-ask-ink);border:2px solid var(--gv-ask);cursor:pointer}
+.lib-clear:hover{background:var(--gv-ask);color:#fff}
+.lib-clear[hidden]{display:none}
+.lib-clear:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+.lib-find .gv-ask-more{margin:0}
+.lib-find .gv-ask-more a{color:var(--gv-ask-ink);font-weight:700}
 
 /* ---------- filter chips + status ---------- */
 .lib-chips{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 .6rem}
@@ -68,6 +73,7 @@ mark{background:#f6df8b;color:var(--forest);padding:0 .08em;border-radius:3px}
 .lib-empty p{margin:0 0 .5rem}
 .lib-empty a{font-weight:700}
 
-@media (min-width:1200px){.lib-find{max-width:none}.lib-search{max-width:48rem}}
+@media (min-width:1200px){.lib-search{max-width:48rem}}
+@media (max-width:480px){.lib-search .askrow button.go{flex:0 0 auto;min-width:5.2rem;padding-left:1rem;padding-right:1rem}}
 @media (max-width:420px){.lib-chip{font-size:.92rem;padding:.4rem .75rem}.lib-clear{padding:.6rem .85rem}}
 @media (prefers-reduced-motion:reduce){.lib-card{transition:none}.lib-card:hover{transform:none}}

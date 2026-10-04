@@ -233,7 +233,7 @@
 
   input.addEventListener("input", function () { render(); syncUrl(); });
   input.addEventListener("keydown", function (e) { if (e.key === "Escape" && input.value) { input.value = ""; render(); syncUrl(); } });
-  form.addEventListener("submit", function (e) { e.preventDefault(); });
+  form.addEventListener("submit", function (e) { e.preventDefault(); render(); syncUrl(); try { status.scrollIntoView({ behavior: "smooth", block: "center" }); } catch (x) {} });
   clearBtn.addEventListener("click", function () { input.value = ""; render(); syncUrl(); input.focus(); });
   chips.forEach(function (c) {
     c.addEventListener("click", function () {
