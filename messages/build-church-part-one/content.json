@@ -1,0 +1,712 @@
+{
+ "schema_version": 1,
+ "sermon": {
+  "slug": "build-church-part-one",
+  "title": "Build Church Part 1",
+  "series": "Build Church",
+  "series_part": "Part 1",
+  "speaker": "Pastor David G. Kincer",
+  "church": "Vine Cluster Church",
+  "video_id": "UauBANwkBHs",
+  "video_url": "https://www.youtube.com/watch?v=UauBANwkBHs",
+  "upload_date": "2014-06-18",
+  "duration_seconds": 1795,
+  "language": "en",
+  "page_url": "https://growonthevine.com/messages/build-church-part-one/",
+  "status": "live",
+  "summary": "In this message Pastor David G. Kincer uses Acts 18 to show how the church in Corinth was built, going from no Christians to thousands in under three years without a building, seminars or recorded miracles. He lists what Paul did: worked to support himself, reasoned from the Scriptures, used a team, preached a compelling message, faced rejection, and relied on God’s word and presence.",
+  "transcript_source": "This transcript comes from YouTube’s automatic English captions, which supply the timing and the words. Punctuation, capitalization and paragraphing were added by hand, and obvious caption errors were corrected; his wording was not rewritten. “[unclear]” marks a word or name that was not clear. Editor note: the slides he describes (maps and a drawing of Corinth) are not shown in this transcript. The captions garble one name among the Greek and Roman gods at about 1:55, shown as [unclear]. He gives “Sosthenes,” “Crispus” and “Justus” for names the captions spelled “Sanes,” “Cyprus” and “Justice,” and says “Luke 9:5 and Matthew 10:14”; the NKJV text for each is shown. He makes remarks about women in leadership, other religions, minorities, and the United States that are his own. “[Unclear]” marks one spot.",
+  "brand": "Grow on the Vine"
+ },
+ "bible_translation": {
+  "code": "NKJV",
+  "notice": "Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved."
+ },
+ "chunks": [
+  {
+   "id": "build-church-part-one:how-does-the-bible-show-a-church-being-built-acts-18",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "How does the Bible show a church being built? (Acts 18:1)",
+   "short_answer": "He says people buy books and seminars on church growth, but “there is an illustration in the Bible of a church being built, how it was built,” in Acts 18. He begins with Paul leaving Athens and coming to Corinth, and shows maps and a drawing of the city.",
+   "text": "You’ve heard a lot about church growth. Seminars and, uh, people go to these things and they tell people how to build a mega church and so forth. They write books about it, but there is an illustration in the Bible of a church being built, how it was built. We find this in Acts 18:1, and it always amazes me how people will buy books and not go to the Book. So let’s take a look in the Bible how a church gets started and what happens after that. Okay, it says in Acts 18, verse 1: “Paul left Athens and came to Corinth.” You can see Corinth up here, uh, that little narrow space between Athens and the lower part of the, uh, peninsula. There, here’s another view of it, uh, showing also the same area, but the Roman provinces or Roman states, and the seven churches of Asia, of course, are over here. There is a satellite view of that little narrow area where Corinth is, and here is a drawing of the archaeologist that uncovered Corinth, of, uh, the layout downtown. Up at the top there are markets, then you got all these temples right here. You got the temple of, uh, Apollo, Hermes, [unclear], and, uh, all these Greek and Roman gods. You got the bath houses and so forth, shops all over the place, just a typical city.",
+   "start_seconds": 0,
+   "end_seconds": 140,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=0s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-how-does-the-bible-show-a-church-being-built-acts-18",
+   "paragraphs": [
+    {
+     "start_seconds": 0,
+     "text": "You’ve heard a lot about church growth. Seminars and, uh, people go to these things and they tell people how to build a mega church and so forth. They write books about it, but there is an illustration in the Bible of a church being built, how it was built. We find this in Acts 18:1, and it always amazes me how people will buy books and not go to the Book. So let’s take a look in the Bible how a church gets started and what happens after that. Okay, it says in Acts 18, verse 1: “Paul left Athens and came to Corinth.” You can see Corinth up here, uh, that little narrow space between Athens and the lower part of the, uh, peninsula. There, here’s another view of it, uh, showing also the same area, but the Roman provinces or Roman states, and the seven churches of Asia, of course, are over here. There is a satellite view of that little narrow area where Corinth is, and here is a drawing of the archaeologist that uncovered Corinth, of, uh, the layout downtown. Up at the top there are markets, then you got all these temples right here. You got the temple of, uh, Apollo, Hermes, [unclear], and, uh, all these Greek and Roman gods. You got the bath houses and so forth, shops all over the place, just a typical city.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=0s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 18:1",
+     "translation": "NKJV",
+     "text_nkjv": "After these things Paul departed from Athens and went to Corinth.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A1&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=47s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "build-church-part-one:what-was-the-city-of-corinth-like-when-paul-arrived",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "What was the city of Corinth like when Paul arrived?",
+   "short_answer": "He says history describes Corinth as filled with gamblers, legalized temple prostitution, slaves, amusements and idol temples, with “a lack of standards” but “a freedom of thought.” He asks whether it sounds like America today and says it did, with about 500,000 people.",
+   "text": "Uh, when you look up the civilization at that time of Corinth, history tells us it was filled with gamblers, legalized temple prostitutions including males, uh, business ventures, agriculture, manufacturing, trade, especially bronze. They had paved roads where they charged for cargo going between the narrow place from sea to sea, because they didn’t want to sail around it. They had athletes there, they had, uh, the games were there. They had homeless slaves, they had regular slaves, they had slave masters, uh, a lot of amusements. They had prostitutes, both male and female, that weren’t in the temple; they were abundant. They had a lack of standards, but they had a freedom of thought in that city. Everybody had their own opinion, their own thought, and everything was okay. Does it sound like America today? Yeah, sounds like a normal city in America today. Uh, there was about 500,000 people according to history in this city at this time when Paul comes to Corinth. And, uh, they had in their marketplaces, the Greeks would always, uh, sacrifice their meats to their idols and then they would sell the meat in the markets, and this created a problem for Christians, if you remember.",
+   "start_seconds": 140,
+   "end_seconds": 250,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=140s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-what-was-the-city-of-corinth-like-when-paul-arrived",
+   "paragraphs": [
+    {
+     "start_seconds": 140,
+     "text": "Uh, when you look up the civilization at that time of Corinth, history tells us it was filled with gamblers, legalized temple prostitutions including males, uh, business ventures, agriculture, manufacturing, trade, especially bronze. They had paved roads where they charged for cargo going between the narrow place from sea to sea, because they didn’t want to sail around it. They had athletes there, they had, uh, the games were there. They had homeless slaves, they had regular slaves, they had slave masters, uh, a lot of amusements. They had prostitutes, both male and female, that weren’t in the temple; they were abundant. They had a lack of standards, but they had a freedom of thought in that city. Everybody had their own opinion, their own thought, and everything was okay. Does it sound like America today? Yeah, sounds like a normal city in America today. Uh, there was about 500,000 people according to history in this city at this time when Paul comes to Corinth. And, uh, they had in their marketplaces, the Greeks would always, uh, sacrifice their meats to their idols and then they would sell the meat in the markets, and this created a problem for Christians, if you remember.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=140s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "build-church-part-one:how-did-paul-build-a-church-of-15000-in-three-years",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "How could Paul build a church of 15,000 in under three years?",
+   "short_answer": "He asks how Paul went “from no Christianity to 15,000 people in the church in no more than three years,” without a building. He says the usual advice is miracles, seeker-friendly programs and entertainment, and he sets out to see what Paul actually did.",
+   "text": "Um, now let’s say, according to today’s marketing principles, you try to reach 500,000 people, 1% respond, and so that would be what? 5,000 believers. Right. So how did Paul do this? How did he build a church here with these kind of people? Multicultural, people, different races, uh, different religions. The Jewish religion was there and other religions. How did he do this in no more than three years, going from no Christianity to 15,000 people in the church in no more than three years? Isn’t that a good question? Question, because I used to hear all the time when I was a young preacher and a young believer, that, “Boy, if you get the miracles, people will believe.” And so, uh, according to that theory, you know, he must have been doing a lot of miracles. These church seminars and all that, they say you got to have a seeker-friendly, you got to do things to entertain them and get their attention and so forth. Okay, let’s see what Paul did to create a mega church in less than three years, and didn’t even have a building. Sounds good.",
+   "start_seconds": 250,
+   "end_seconds": 347,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=250s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-how-did-paul-build-a-church-of-15000-in-three-years",
+   "paragraphs": [
+    {
+     "start_seconds": 250,
+     "text": "Um, now let’s say, according to today’s marketing principles, you try to reach 500,000 people, 1% respond, and so that would be what? 5,000 believers. Right. So how did Paul do this? How did he build a church here with these kind of people? Multicultural, people, different races, uh, different religions. The Jewish religion was there and other religions. How did he do this in no more than three years, going from no Christianity to 15,000 people in the church in no more than three years? Isn’t that a good question? Question, because I used to hear all the time when I was a young preacher and a young believer, that, “Boy, if you get the miracles, people will believe.” And so, uh, according to that theory, you know, he must have been doing a lot of miracles. These church seminars and all that, they say you got to have a seeker-friendly, you got to do things to entertain them and get their attention and so forth. Okay, let’s see what Paul did to create a mega church in less than three years, and didn’t even have a building. Sounds good.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=250s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "build-church-part-one:why-did-paul-work-as-a-tentmaker-acts-18-2-3",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "Why did Paul work to support himself? (Acts 18:2-3)",
+   "short_answer": "He says the first thing, “against all of these church building seminars,” is that Paul worked to support himself and his co-workers, making tents with Aquila and Priscilla. He says persecution and lack of money, with no missionary support from Antioch or Jerusalem, did not stop him.",
+   "text": "So this next slide says the starting of a church. All right, starting of a church, number one, which is against all of these church building seminars: Paul worked to support himself and his co-workers. Now that’s a switch. Are you there? Paul made tents with two Christian Jews forced from Rome, Aquila and Priscilla. So in the midst of tribulation, in the midst of persecution, all Jews were removed from Rome, including Christians. Okay, Jews are Jews by nationality, and Jews are also Jews by their religion. Today’s present Israel, most of the Jews there are secular, they’re just Jews by bloodline, and then you got the Jews that observe their religion. Did you know that? Yeah, there’s a difference. See, you can be an American or you can be a Christian American. We are a Christian nation, but that doesn’t mean you’re a Christian, but you’re still an American. All right, so here we got persecution, and you know, persecution didn’t stop Paul from building a church, and the lack of money didn’t stop Paul. He didn’t have any missionary support coming from Antioch, he didn’t have any missionary support coming from the church in Jerusalem. He was out there working on his own, providing for himself and his staff members.",
+   "start_seconds": 347,
+   "end_seconds": 452,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=347s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-why-did-paul-work-as-a-tentmaker-acts-18-2-3",
+   "paragraphs": [
+    {
+     "start_seconds": 347,
+     "text": "So this next slide says the starting of a church. All right, starting of a church, number one, which is against all of these church building seminars: Paul worked to support himself and his co-workers. Now that’s a switch. Are you there? Paul made tents with two Christian Jews forced from Rome, Aquila and Priscilla. So in the midst of tribulation, in the midst of persecution, all Jews were removed from Rome, including Christians. Okay, Jews are Jews by nationality, and Jews are also Jews by their religion. Today’s present Israel, most of the Jews there are secular, they’re just Jews by bloodline, and then you got the Jews that observe their religion. Did you know that? Yeah, there’s a difference. See, you can be an American or you can be a Christian American. We are a Christian nation, but that doesn’t mean you’re a Christian, but you’re still an American. All right, so here we got persecution, and you know, persecution didn’t stop Paul from building a church, and the lack of money didn’t stop Paul. He didn’t have any missionary support coming from Antioch, he didn’t have any missionary support coming from the church in Jerusalem. He was out there working on his own, providing for himself and his staff members.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=347s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 18:2-3",
+     "translation": "NKJV",
+     "text_nkjv": "And he found a certain Jew named Aquila, born in Pontus, who had recently come from Italy with his wife Priscilla (because Claudius had commanded all the Jews to depart from Rome); and he came to them. So, because he was of the same trade, he stayed with them and worked; for by occupation they were tentmakers.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A2-3&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=375s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "build-church-part-one:how-did-paul-persuade-people-in-the-synagogue-acts-18-4",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "How did Paul reach people in the synagogue? (Acts 18:4)",
+   "short_answer": "He says Paul reasoned in the synagogue every Saturday, persuading Jews and Greeks, speaking the Word of God. He says there was “no dance company, no drama, no orchestra, no music, no nursery, no children’s church, no youth group,” just “convincing people from the Scriptures.”",
+   "text": "The second thing we see here is in verse 4 of Acts 18: “He reasoned in the synagogue every Saturday, persuading Jews and Greeks.” Greeks are non-Jews. You got to remember that in the temple in Jerusalem the Gentiles were not allowed in the inner circle. They were only allowed on the porch of the Gentiles, the area of the Gentiles. But in the synagogues, everybody was welcomed to come in and observe and see what was going on. And so Paul went to the synagogue, and sure enough there were non-Jews there checking out what the Jewish religion was, and he was persuading, convincing, pleading his case. In other words, he was speaking the Word of God. No dance company, no drama, no orchestra, no music, no nursery, no children’s church, no youth group, he was just simply convincing people from the Scriptures something that they needed to hear. Do you have that? Do you understand that so far? He’s using nothing that the churches in America use trying to build a congregation.",
+   "start_seconds": 452,
+   "end_seconds": 552,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=452s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-how-did-paul-persuade-people-in-the-synagogue-acts-18-4",
+   "paragraphs": [
+    {
+     "start_seconds": 452,
+     "text": "The second thing we see here is in verse 4 of Acts 18: “He reasoned in the synagogue every Saturday, persuading Jews and Greeks.” Greeks are non-Jews. You got to remember that in the temple in Jerusalem the Gentiles were not allowed in the inner circle. They were only allowed on the porch of the Gentiles, the area of the Gentiles. But in the synagogues, everybody was welcomed to come in and observe and see what was going on. And so Paul went to the synagogue, and sure enough there were non-Jews there checking out what the Jewish religion was, and he was persuading, convincing, pleading his case. In other words, he was speaking the Word of God. No dance company, no drama, no orchestra, no music, no nursery, no children’s church, no youth group, he was just simply convincing people from the Scriptures something that they needed to hear. Do you have that? Do you understand that so far? He’s using nothing that the churches in America use trying to build a congregation.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=452s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 18:4",
+     "translation": "NKJV",
+     "text_nkjv": "And he reasoned in the synagogue every Sabbath, and persuaded both Jews and Greeks.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A4&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=455s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "build-church-part-one:what-is-the-terror-of-the-lord-that-moved-paul-to-persuade-2-corinthians-5-10-11",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "What moved Paul to persuade people? (2 Corinthians 5:10-11)",
+   "short_answer": "He reads 2 Corinthians 5:10 and says Paul understood “everybody’s going to be judged by the things they do,” and did not want people to experience “the terror, the fear of the Lord, the eternal lake of fire.” He says “people aren’t going to avoid hell if you don’t tell them and convince them about Jesus Christ and the Word.”",
+   "text": "In 2 Corinthians 5:10 he says, “We must all appear before the judgment seat of Christ, that everyone may receive the things done in his body according to what he has done, whether it be good or bad. Knowing, therefore, the terror of the Lord, we” what? “Persuade men.” See, what moved him to do this, to persuade men? He understood everybody’s going to be judged by the things they do, whether they’re good or whether they’re bad, and so he didn’t want people to be experiencing the terror, the fear of the Lord, the eternal lake of fire, so he tried to persuade them how to escape it. So in other words, church, we got to open our mouth. People aren’t going to avoid hell if you don’t tell them and convince them about Jesus Christ and the Word. Could that be an amen?",
+   "start_seconds": 552,
+   "end_seconds": 618,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=552s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-what-is-the-terror-of-the-lord-that-moved-paul-to-persuade-2-corinthians-5-10-11",
+   "paragraphs": [
+    {
+     "start_seconds": 552,
+     "text": "In 2 Corinthians 5:10 he says, “We must all appear before the judgment seat of Christ, that everyone may receive the things done in his body according to what he has done, whether it be good or bad. Knowing, therefore, the terror of the Lord, we” what? “Persuade men.” See, what moved him to do this, to persuade men? He understood everybody’s going to be judged by the things they do, whether they’re good or whether they’re bad, and so he didn’t want people to be experiencing the terror, the fear of the Lord, the eternal lake of fire, so he tried to persuade them how to escape it. So in other words, church, we got to open our mouth. People aren’t going to avoid hell if you don’t tell them and convince them about Jesus Christ and the Word. Could that be an amen?",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=552s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "2 Corinthians 5:10-11",
+     "translation": "NKJV",
+     "text_nkjv": "For we must all appear before the judgment seat of Christ, that each one may receive the things done in the body, according to what he has done, whether good or bad. Knowing, therefore, the terror of the Lord, we persuade men; but we are well known to God, and I also trust are well known in your consciences.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+5%3A10-11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=552s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "build-church-part-one:why-did-paul-use-a-team-acts-18-5-ecclesiastes-4",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "Why did Paul use a team? (Acts 18:5, Ecclesiastes 4:9-12)",
+   "short_answer": "He says Jesus sent the disciples out two by two, and cites Ecclesiastes 4:9, “two are better than one,” and that “a threefold cord is not” easily broken. He counts five on Paul’s team, including Priscilla, and says that a woman involved in leadership answers those who say you can’t have a woman pastor.",
+   "text": "Thirdly, he used a team. In verse 5: “Silas and Timothy arrived from Macedonia.” They were up there in Philippi and Thessalonica and so forth, and they had been with Paul, and now they come down to join him again at Corinth. And team is important. Jesus sent out the disciples two by two, didn’t He? As a team. Why? Because in Ecclesiastes 4:9, “Two are better than one. If they fall, one will lift up his companion. Two can keep warm, but one alone can’t keep warm. Two can overcome opponents,” robbers, those that are opposing, those that are attacking, “but one is at their mercy, and a threefold cord is not” what? “Easily broken.” So three are better than two, four are better than three. Duh. He had five on the team here now: him, Paul, Silas, Priscilla, and Aquila. A woman. Wow. And if you read your church building today, they’ll tell you you can’t have a woman pastor. Well, here’s a woman involved in leadership. Are you there?",
+   "start_seconds": 618,
+   "end_seconds": 715,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=618s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-why-did-paul-use-a-team-acts-18-5-ecclesiastes-4",
+   "paragraphs": [
+    {
+     "start_seconds": 618,
+     "text": "Thirdly, he used a team. In verse 5: “Silas and Timothy arrived from Macedonia.” They were up there in Philippi and Thessalonica and so forth, and they had been with Paul, and now they come down to join him again at Corinth. And team is important. Jesus sent out the disciples two by two, didn’t He? As a team. Why? Because in Ecclesiastes 4:9, “Two are better than one. If they fall, one will lift up his companion. Two can keep warm, but one alone can’t keep warm. Two can overcome opponents,” robbers, those that are opposing, those that are attacking, “but one is at their mercy, and a threefold cord is not” what? “Easily broken.” So three are better than two, four are better than three. Duh. He had five on the team here now: him, Paul, Silas, Priscilla, and Aquila. A woman. Wow. And if you read your church building today, they’ll tell you you can’t have a woman pastor. Well, here’s a woman involved in leadership. Are you there?",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=618s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 18:5",
+     "translation": "NKJV",
+     "text_nkjv": "When Silas and Timothy had come from Macedonia, Paul was compelled by the Spirit, and testified to the Jews that Jesus is the Christ.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A5&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=623s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Ecclesiastes 4:9-12",
+     "translation": "NKJV",
+     "text_nkjv": "Two are better than one, Because they have a good reward for their labor. For if they fall, one will lift up his companion. But woe to him who is alone when he falls, For he has no one to help him up. Again, if two lie down together, they will keep warm; But how can one be warm alone? Though one may be overpowered by another, two can withstand him. And a threefold cord is not quickly broken.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+4%3A9-12&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=647s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "build-church-part-one:what-was-the-message-paul-preached-in-corinth-acts-18-5",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "What message did Paul preach in Corinth? (Acts 18:5)",
+   "short_answer": "He says Paul’s message was not “positive thinking, possibility thinking, purpose-driven thinking, … prosperity thinking.” He says Paul was “compelled” to show the Jews that Jesus is the Christ, the Messiah, the Prophet and the King they were looking for, all in one Person.",
+   "text": "Now, the fourth thing is the message. What he was preaching to persuade, to convince, to plead his case, the message. The message he had was not positive thinking, possibility thinking, purpose-driven thinking, uh, prosperity thinking. His message was that he was compelled. There was a force in him, a drive within him. Have you ever felt that drive in you, that push of God in you? See, that’s what he had. And what was it about? He was pressed, he was compelled, he was moved, forced in the Spirit to testify, confirm, and show to the Jews that Jesus was Christ, He was the Messiah. Now, all of you know this, old-timers here, that the Jews were looking for three things in the New Testament. What was the first one? The Messiah, the Christ. They were looking for Him to come. What was the second one? The Prophet. They were looking for the Prophet that was promised in Deuteronomy. What was the third one? The King. See, God promised a king out of David’s seed. And so they were looking for these three, and they thought there were going to be three different people, and it was all in one Person, Jesus Christ. And so he’s convincing these Jews, he’s telling them, “This is the Messiah, the Prophet, the King that you guys are looking for. Jesus is Him.” Hallelujah.",
+   "start_seconds": 715,
+   "end_seconds": 827,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=715s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-what-was-the-message-paul-preached-in-corinth-acts-18-5",
+   "paragraphs": [
+    {
+     "start_seconds": 715,
+     "text": "Now, the fourth thing is the message. What he was preaching to persuade, to convince, to plead his case, the message. The message he had was not positive thinking, possibility thinking, purpose-driven thinking, uh, prosperity thinking. His message was that he was compelled. There was a force in him, a drive within him. Have you ever felt that drive in you, that push of God in you? See, that’s what he had. And what was it about? He was pressed, he was compelled, he was moved, forced in the Spirit to testify, confirm, and show to the Jews that Jesus was Christ, He was the Messiah. Now, all of you know this, old-timers here, that the Jews were looking for three things in the New Testament. What was the first one? The Messiah, the Christ. They were looking for Him to come. What was the second one? The Prophet. They were looking for the Prophet that was promised in Deuteronomy. What was the third one? The King. See, God promised a king out of David’s seed. And so they were looking for these three, and they thought there were going to be three different people, and it was all in one Person, Jesus Christ. And so he’s convincing these Jews, he’s telling them, “This is the Messiah, the Prophet, the King that you guys are looking for. Jesus is Him.” Hallelujah.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=715s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 18:5",
+     "translation": "NKJV",
+     "text_nkjv": "When Silas and Timothy had come from Macedonia, Paul was compelled by the Spirit, and testified to the Jews that Jesus is the Christ.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A5&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=746s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "build-church-part-one:why-does-the-love-of-christ-compel-us-2-corinthians-5-14-15",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "Why does the love of Christ compel us to persuade others? (2 Corinthians 5:14-15)",
+   "short_answer": "He says “the love of Christ compels us,” and that love shows in a move to persuade people. He explains that if One died for all, then all died, “that those who live should live no longer for themselves, but for Him who died for them and rose again.”",
+   "text": "And see, he was pressed in his spirit, moved by his spirit to preach this Word. In 2 Corinthians 5:14, “the love of Christ compels us.” “For God so loved the world, He gave His only begotten Son” is more than just a little football scripture, John 3:16, at the stadium. It explains for us, out of love God did this stuff. So does God love the world? Yes. If we know God, are we going to love the world? Yes. And that love is going to show forth in what? A compelling, a move to what? Persuade them. “Because we judge this: that if One died for all, then all” what? “Died.” Did you get that? See, He died for us. Therefore, as a simile, we all died with Him, “that those who live should live no longer for themselves, but for Him who died for them and rose again.” See, this is what he’s compelling to say to these people, that not only do we accept the salvation, we accept Christ, but it should move us to live for Him. This love, that we say we love God, there should be a force compelling to live for Him. Now. Amen.",
+   "start_seconds": 827,
+   "end_seconds": 941,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=827s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-why-does-the-love-of-christ-compel-us-2-corinthians-5-14-15",
+   "paragraphs": [
+    {
+     "start_seconds": 827,
+     "text": "And see, he was pressed in his spirit, moved by his spirit to preach this Word. In 2 Corinthians 5:14, “the love of Christ compels us.” “For God so loved the world, He gave His only begotten Son” is more than just a little football scripture, John 3:16, at the stadium. It explains for us, out of love God did this stuff. So does God love the world? Yes. If we know God, are we going to love the world? Yes. And that love is going to show forth in what? A compelling, a move to what? Persuade them. “Because we judge this: that if One died for all, then all” what? “Died.” Did you get that? See, He died for us. Therefore, as a simile, we all died with Him, “that those who live should live no longer for themselves, but for Him who died for them and rose again.” See, this is what he’s compelling to say to these people, that not only do we accept the salvation, we accept Christ, but it should move us to live for Him. This love, that we say we love God, there should be a force compelling to live for Him. Now. Amen.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=827s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "2 Corinthians 5:14-15",
+     "translation": "NKJV",
+     "text_nkjv": "For the love of Christ compels us, because we judge thus: that if One died for all, then all died; and He died for all, that those who live should live no longer for themselves, but for Him who died for them and rose again.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+5%3A14-15&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=838s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "John 3:16",
+     "translation": "NKJV",
+     "text_nkjv": "For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.",
+     "source_url": "https://www.biblegateway.com/passage/?search=John+3%3A16&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=852s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "build-church-part-one:what-should-you-do-when-people-reject-the-message-acts-18-6",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "What should you do when people reject the message? (Acts 18:6)",
+   "short_answer": "He says if Paul had 15,000 believers, “485,000 people rejected him,” and that those who reject are actually “opposing themselves” because the gospel pricks their hearts, so you do not have to take it personally. He says Paul shook his raiment and went to the Gentiles, as Jesus told His disciples to do, and that family members who compromise lose their power to win someone to Christ.",
+   "text": "Now, number five: rejection of the message. Oh, we hate rejection. That’s why we like to keep our mouth shut, because we get rejected more. If Paul had 15,000 believers, that means that 485,000 people rejected him. Think about it. And this is what turns a lot of Christians off: they get rejected, so they just start shutting up. “When they opposed themselves.” I like the way they said it: these people that reject are rejecting God and what they can have, so they’re actually opposing themselves. You see, because the gospel is so powerful, it pricks the hearts. They have to fight that in themselves to say, “No, I don’t want it.” So they’re not rejecting you, they’re rejecting what? That pricking in their heart of the Scriptures, and said, “No, I don’t want it.” So they’re actually opposing themselves. Do you understand that? See, that can help you not to take it personally. “And they blaspheme.” Blaspheme means what? Speak evil of, harmful of. And so Paul shook his raiment, saying, “Your blood be upon your own heads. I am clean. From now on I will go to the Gentiles,” the non-Jews.\n\nNow, this is what Jesus told them to do in Luke 9:5 and Matthew 10:14: “Whosoever will not receive you nor your words, when you go out of that city, shake off the very dust from your feet for a testimony against them.” And that’s what Paul did. He said, you know, don’t get down in the dumps over it. You know, your family can reject the message, your sons, your daughters can reject the message, believers can reject the message. These Jews were believers in God, but they were rejecting the message. Can that be happening in America, that there’s a lot of people that, you know, say they love Christ, but they reject living for Him? And so he did what Jesus told him to do. I know a lot of families, and when their family member doesn’t want to serve God, they just kind of negotiate and compromise and, uh, trying to keep a connection or something, and then they have no power to help win him to Christ, because they’re giving in to what that person wants to do. Are you there?",
+   "start_seconds": 941,
+   "end_seconds": 1125,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=941s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-what-should-you-do-when-people-reject-the-message-acts-18-6",
+   "paragraphs": [
+    {
+     "start_seconds": 941,
+     "text": "Now, number five: rejection of the message. Oh, we hate rejection. That’s why we like to keep our mouth shut, because we get rejected more. If Paul had 15,000 believers, that means that 485,000 people rejected him. Think about it. And this is what turns a lot of Christians off: they get rejected, so they just start shutting up. “When they opposed themselves.” I like the way they said it: these people that reject are rejecting God and what they can have, so they’re actually opposing themselves. You see, because the gospel is so powerful, it pricks the hearts. They have to fight that in themselves to say, “No, I don’t want it.” So they’re not rejecting you, they’re rejecting what? That pricking in their heart of the Scriptures, and said, “No, I don’t want it.” So they’re actually opposing themselves. Do you understand that? See, that can help you not to take it personally. “And they blaspheme.” Blaspheme means what? Speak evil of, harmful of. And so Paul shook his raiment, saying, “Your blood be upon your own heads. I am clean. From now on I will go to the Gentiles,” the non-Jews.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=941s"
+    },
+    {
+     "start_seconds": 1036,
+     "text": "Now, this is what Jesus told them to do in Luke 9:5 and Matthew 10:14: “Whosoever will not receive you nor your words, when you go out of that city, shake off the very dust from your feet for a testimony against them.” And that’s what Paul did. He said, you know, don’t get down in the dumps over it. You know, your family can reject the message, your sons, your daughters can reject the message, believers can reject the message. These Jews were believers in God, but they were rejecting the message. Can that be happening in America, that there’s a lot of people that, you know, say they love Christ, but they reject living for Him? And so he did what Jesus told him to do. I know a lot of families, and when their family member doesn’t want to serve God, they just kind of negotiate and compromise and, uh, trying to keep a connection or something, and then they have no power to help win him to Christ, because they’re giving in to what that person wants to do. Are you there?",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1036s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 18:6",
+     "translation": "NKJV",
+     "text_nkjv": "But when they opposed him and blasphemed, he shook his garments and said to them, “Your blood be upon your own heads; I am clean. From now on I will go to the Gentiles.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A6&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1024s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Luke 9:5",
+     "translation": "NKJV",
+     "text_nkjv": "And whoever will not receive you, when you go out of that city, shake off the very dust from your feet as a testimony against them.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Luke+9%3A5&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1047s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Matthew 10:14",
+     "translation": "NKJV",
+     "text_nkjv": "And whoever will not receive you nor hear your words, when you depart from that house or city, shake off the dust from your feet.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+10%3A14&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1050s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "build-church-part-one:were-there-miracles-in-corinth-and-what-is-the-real-miracle-acts-18-8",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "Were there miracles in Corinth, and what is the real miracle? (Acts 18:8)",
+   "short_answer": "He says “there’s no recorded miracles being done here in Corinth at all,” only “the preaching of the Word.” He says the real miracle is salvation, changed lives, and that healing the sick is part of God’s package but “no more important than the Word.”",
+   "text": "A rejection is going to come. Well, that’s not positive thinking. That’s, you can’t say that. Well, it’s true, it’s truth. They’re going to reject you. They may reject you 10 times, they may reject you for the rest of their life, they may never decide to believe and live for Christ. But “many believed and were baptized,” and none of this shows any recording of any miracles. All was done by what? Preaching Jesus Christ. There’s no recorded miracles being done here in Corinth at all. No demons cast out, no sick being healed, people weren’t coming and burning their magic books like it happened in other places, no aprons, prayer cloths used, nothing. Just the preaching of the Word, and that’s how powerful the Word is. See, God decides when He does things. God decided to do miracles in certain places and to use aprons and prayer cloths. He didn’t decide to do anything like that here, just the Word. Got it, church? The Word is that powerful.\n\nAnd what is the real miracle here, by the way? Salvation, changed lives. That’s the real miracle, being healed from your sin, being changed from a prostitute, a homosexual, a thief, a gambler, to one that doesn’t do it anymore is a miracle. Hallelujah. See, we got to think right. And if God does heal the sick, that’s fine, that’s part of His package, but we shouldn’t make it any higher than it’s supposed to be. You know, when you’re sick, yeah, you want to be healed, I mean, come on, geez. If you got a demon and, no, your child’s got a demon, yeah, you want it to be cast out, but it’s no more important than the Word. And the Word is the most important, because you can’t even cast out a demon but by the Word.\n\n“Now many believed”: Justus, one that worshiped God and lived right by the synagogue; Crispus was the chief ruler of the synagogue, and all of his family accepted the message. And “many,” say that word “many.” Now, “many” is used when Christ, uh, multiplied the loaves and the fishes. He said there were many, and then it says how many? 5,000 men plus women and children. That gets us back up to 15,000, and there’s always more women than men. I don’t know what it is with us knuckleheaded men, we’re a little slow. And so it was over 15,000 people. He’s got a mega church here and no building to meet in. Are you there? I mean, this is something.",
+   "start_seconds": 1125,
+   "end_seconds": 1365,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1125s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-were-there-miracles-in-corinth-and-what-is-the-real-miracle-acts-18-8",
+   "paragraphs": [
+    {
+     "start_seconds": 1125,
+     "text": "A rejection is going to come. Well, that’s not positive thinking. That’s, you can’t say that. Well, it’s true, it’s truth. They’re going to reject you. They may reject you 10 times, they may reject you for the rest of their life, they may never decide to believe and live for Christ. But “many believed and were baptized,” and none of this shows any recording of any miracles. All was done by what? Preaching Jesus Christ. There’s no recorded miracles being done here in Corinth at all. No demons cast out, no sick being healed, people weren’t coming and burning their magic books like it happened in other places, no aprons, prayer cloths used, nothing. Just the preaching of the Word, and that’s how powerful the Word is. See, God decides when He does things. God decided to do miracles in certain places and to use aprons and prayer cloths. He didn’t decide to do anything like that here, just the Word. Got it, church? The Word is that powerful.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1125s"
+    },
+    {
+     "start_seconds": 1223,
+     "text": "And what is the real miracle here, by the way? Salvation, changed lives. That’s the real miracle, being healed from your sin, being changed from a prostitute, a homosexual, a thief, a gambler, to one that doesn’t do it anymore is a miracle. Hallelujah. See, we got to think right. And if God does heal the sick, that’s fine, that’s part of His package, but we shouldn’t make it any higher than it’s supposed to be. You know, when you’re sick, yeah, you want to be healed, I mean, come on, geez. If you got a demon and, no, your child’s got a demon, yeah, you want it to be cast out, but it’s no more important than the Word. And the Word is the most important, because you can’t even cast out a demon but by the Word.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1223s"
+    },
+    {
+     "start_seconds": 1287,
+     "text": "“Now many believed”: Justus, one that worshiped God and lived right by the synagogue; Crispus was the chief ruler of the synagogue, and all of his family accepted the message. And “many,” say that word “many.” Now, “many” is used when Christ, uh, multiplied the loaves and the fishes. He said there were many, and then it says how many? 5,000 men plus women and children. That gets us back up to 15,000, and there’s always more women than men. I don’t know what it is with us knuckleheaded men, we’re a little slow. And so it was over 15,000 people. He’s got a mega church here and no building to meet in. Are you there? I mean, this is something.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1287s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 18:8",
+     "translation": "NKJV",
+     "text_nkjv": "Then Crispus, the ruler of the synagogue, believed on the Lord with all his household. And many of the Corinthians, hearing, believed and were baptized.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1156s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "build-church-part-one:how-did-god-get-involved-in-the-message-acts-18-9-11",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "How did God get involved in the message? (Acts 18:9-11)",
+   "short_answer": "He says the Lord told Paul in a night vision, “be not afraid, speak, hold not your peace,” and that visions and dreams are always about the message, not about seeing things. He says Paul stayed a year and six months teaching “the Word of God,” not psychology or positive thinking.",
+   "text": "Now the next one is God got involved in the message. Verse 9: “The Lord said to Paul by night vision, ‘Be not afraid, speak, hold not your peace.’” And I always told you, when angels come, when visions come, and dreams come, it’s always a message. Not for you to go and say, “I saw Jesus, I saw Jesus, oh, I had a vision.” No, the message is what’s going to change your life. It’s not seeing things, it’s the message. And He says, “You keep speaking.” So He was giving Paul a responsibility to open his mouth. And He told Paul, don’t be afraid. He said, “I am with you. No man shall hurt you. I have much people.” How many? Much people in this city. “Paul continued there a year and six months, teaching” what? The Word of God. Not psychology, not possibility thinking, not positive thinking, not purpose-driven thinking, not prosperity thinking, but he preached the Word of God.",
+   "start_seconds": 1365,
+   "end_seconds": 1440,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1365s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-how-did-god-get-involved-in-the-message-acts-18-9-11",
+   "paragraphs": [
+    {
+     "start_seconds": 1365,
+     "text": "Now the next one is God got involved in the message. Verse 9: “The Lord said to Paul by night vision, ‘Be not afraid, speak, hold not your peace.’” And I always told you, when angels come, when visions come, and dreams come, it’s always a message. Not for you to go and say, “I saw Jesus, I saw Jesus, oh, I had a vision.” No, the message is what’s going to change your life. It’s not seeing things, it’s the message. And He says, “You keep speaking.” So He was giving Paul a responsibility to open his mouth. And He told Paul, don’t be afraid. He said, “I am with you. No man shall hurt you. I have much people.” How many? Much people in this city. “Paul continued there a year and six months, teaching” what? The Word of God. Not psychology, not possibility thinking, not positive thinking, not purpose-driven thinking, not prosperity thinking, but he preached the Word of God.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1365s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 18:9-11",
+     "translation": "NKJV",
+     "text_nkjv": "Now the Lord spoke to Paul in the night by a vision, “Do not be afraid, but speak, and do not keep silent; for I am with you, and no one will attack you to hurt you; for I have many people in this city.” And he continued there a year and six months, teaching the word of God among them.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A9-11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1369s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "build-church-part-one:why-should-older-believers-stay-driven-and-what-about-mark-16-20",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "Why should older believers stay driven, and what does Mark 16:20 say about “working with them”?",
+   "short_answer": "He says Paul was an old man and “he ain’t retiring,” and that younger believers need to see older ones “still compelled, still driven.” On Mark 16:20 he says the words “with them” are in italics and not in the original, and that “the Word worked” even through Judas, because the power is in speaking the Word.",
+   "text": "Now, most of us here are senior saints. Do you get this? Paul is an old man. He ain’t retiring. Yeah, teaching the Word. He’s moved, he’s compelled. And do our younger believers need to see us old ones stable, still compelled, still driven? Yes. It’s infectious. It will catch on with them. Mark 16:20: “They went out and preached everywhere, the Lord working with them.” “With them” is in italics. Why is it in italics? Because it’s not in the original Scripture. It’s put there by the writers to help you understand. When you see it’s in italics, it means it’s not in the original Scripture, they put it there to help you understand. Here they messed up the understanding. All right, have I got your attention? Watch this: “working with” the Word. I put that in. When you see parentheses in my things, it’s usually me putting in a description. Okay, I’m telling you this is what it should be, but let’s just read it: “They went out and preached everywhere, the Lord working with them and confirming the word through the accompanying signs,” or “signs following.” Now I’m going to take out the italics. Now let’s read it: “They went out and preached everywhere, the Lord working with and confirming the word.” Is what it should say. But He needs a vessel. Yeah, Judas was a vessel. He was a thief, he was a betrayer, but the Word worked through Judas. The Word worked. The power is in speaking what? The Word. That’s why you don’t have to wait to be perfect, to grow up to maturity, because the Word is mature, the Word is perfect, and the Word will work regardless of your level in God.",
+   "start_seconds": 1440,
+   "end_seconds": 1597,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1440s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-why-should-older-believers-stay-driven-and-what-about-mark-16-20",
+   "paragraphs": [
+    {
+     "start_seconds": 1440,
+     "text": "Now, most of us here are senior saints. Do you get this? Paul is an old man. He ain’t retiring. Yeah, teaching the Word. He’s moved, he’s compelled. And do our younger believers need to see us old ones stable, still compelled, still driven? Yes. It’s infectious. It will catch on with them. Mark 16:20: “They went out and preached everywhere, the Lord working with them.” “With them” is in italics. Why is it in italics? Because it’s not in the original Scripture. It’s put there by the writers to help you understand. When you see it’s in italics, it means it’s not in the original Scripture, they put it there to help you understand. Here they messed up the understanding. All right, have I got your attention? Watch this: “working with” the Word. I put that in. When you see parentheses in my things, it’s usually me putting in a description. Okay, I’m telling you this is what it should be, but let’s just read it: “They went out and preached everywhere, the Lord working with them and confirming the word through the accompanying signs,” or “signs following.” Now I’m going to take out the italics. Now let’s read it: “They went out and preached everywhere, the Lord working with and confirming the word.” Is what it should say. But He needs a vessel. Yeah, Judas was a vessel. He was a thief, he was a betrayer, but the Word worked through Judas. The Word worked. The power is in speaking what? The Word. That’s why you don’t have to wait to be perfect, to grow up to maturity, because the Word is mature, the Word is perfect, and the Word will work regardless of your level in God.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1440s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Mark 16:20",
+     "translation": "NKJV",
+     "text_nkjv": "And they went out and preached everywhere, the Lord working with them and confirming the word through the accompanying signs. Amen.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Mark+16%3A20&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1481s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "build-church-part-one:what-were-the-signs-in-corinth",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "What were the signs in Corinth?",
+   "short_answer": "He says the signs were souls saved and lives transformed: “homosexuals aren’t homosexuals anymore, adulterers aren’t adulterers anymore,” and the same for prostitutes, gamblers and drunkards. He says “that’s the power of the Word” and calls this “a great illustration in the Bible how a church is to be built.”",
+   "text": "Hallelujah. Now, what are the signs here in Corinth? Souls are saved, lives are transformed from all of these walks of life: homosexuals aren’t homosexuals anymore, adulterers aren’t adulterers anymore, prostitutes aren’t prostitutes anymore, gamblers aren’t gamblers anymore, drunkards aren’t drunkards anymore. See, that’s the power of the Word. And we have a great illustration in the Bible how a church is to be built. There is no Christian in this city when Paul came. He started on virgin territory. We don’t have that here. We got so many religions out there to deal with, it’s not even funny. But Paul had to deal with Jews that didn’t want to accept the message, also didn’t. Now these Jews take Paul to court to silence the message. He go before the judgment seat. These guys are preaching contrary to the law. They go to the Roman judge. The Roman judge threw it out of court: “I’m not going to hear you guys, this is your own problems.” So the Jews beat Sosthenes, a ruler of the synagogue, in the courtroom, and the court did nothing.",
+   "start_seconds": 1597,
+   "end_seconds": 1703,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1597s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-what-were-the-signs-in-corinth",
+   "paragraphs": [
+    {
+     "start_seconds": 1597,
+     "text": "Hallelujah. Now, what are the signs here in Corinth? Souls are saved, lives are transformed from all of these walks of life: homosexuals aren’t homosexuals anymore, adulterers aren’t adulterers anymore, prostitutes aren’t prostitutes anymore, gamblers aren’t gamblers anymore, drunkards aren’t drunkards anymore. See, that’s the power of the Word. And we have a great illustration in the Bible how a church is to be built. There is no Christian in this city when Paul came. He started on virgin territory. We don’t have that here. We got so many religions out there to deal with, it’s not even funny. But Paul had to deal with Jews that didn’t want to accept the message, also didn’t. Now these Jews take Paul to court to silence the message. He go before the judgment seat. These guys are preaching contrary to the law. They go to the Roman judge. The Roman judge threw it out of court: “I’m not going to hear you guys, this is your own problems.” So the Jews beat Sosthenes, a ruler of the synagogue, in the courtroom, and the court did nothing.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1597s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "build-church-part-one:are-christians-pushed-around-in-america-and-when-should-you-move-on",
+   "type": "section",
+   "sermon_slug": "build-church-part-one",
+   "section_question": "What should Christians do when opposition and rejection come? (Acts 18:12-17)",
+   "short_answer": "He says the Jews took Paul to court to silence the message, and the Roman judge threw it out. He says life is normal in America like in Corinth, God has many people to reach, and “when people reject it, move on and find somebody that’s worth putting time into.”",
+   "text": "Are Christians getting pushed around in America today? Yeah, and America is doing what? Nothing. You say anything about the Muslims, you’re in trouble. You say anything about blacks or Mexicans or some minority, right, you’re in trouble. But you say anything about Christianity, no problem. What I’m trying to tell you is life is normal in America, just like it was at Athens, and yet God had many people, or I’m sorry, Corinth, God had many people in Corinth that He wanted to reach and change their lives. And we got to get over, “Oh, this is a rough harvest field. Oh, things are so bad. Oh, the homosexuals are taking over, and the atheists are taking over.” We got to let God arise, and He will draw people to Himself, and those that reject, we got to learn that when people reject it, move on and find somebody that’s worth putting time into. I had to learn that as a young Christian, to quit fooling around with these sap suckers and move on to people that really wanted to touch God and move on in God. And that’s what Paul did.",
+   "start_seconds": 1703,
+   "end_seconds": 1795,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1703s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#q-are-christians-pushed-around-in-america-and-when-should-you-move-on",
+   "paragraphs": [
+    {
+     "start_seconds": 1703,
+     "text": "Are Christians getting pushed around in America today? Yeah, and America is doing what? Nothing. You say anything about the Muslims, you’re in trouble. You say anything about blacks or Mexicans or some minority, right, you’re in trouble. But you say anything about Christianity, no problem. What I’m trying to tell you is life is normal in America, just like it was at Athens, and yet God had many people, or I’m sorry, Corinth, God had many people in Corinth that He wanted to reach and change their lives. And we got to get over, “Oh, this is a rough harvest field. Oh, things are so bad. Oh, the homosexuals are taking over, and the atheists are taking over.” We got to let God arise, and He will draw people to Himself, and those that reject, we got to learn that when people reject it, move on and find somebody that’s worth putting time into. I had to learn that as a young Christian, to quit fooling around with these sap suckers and move on to people that really wanted to touch God and move on in God. And that’s what Paul did.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1703s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 18:12-17",
+     "translation": "NKJV",
+     "text_nkjv": "When Gallio was proconsul of Achaia, the Jews with one accord rose up against Paul and brought him to the judgment seat, saying, “This fellow persuades men to worship God contrary to the law.” And when Paul was about to open his mouth, Gallio said to the Jews, “If it were a matter of wrongdoing or wicked crimes, O Jews, there would be reason why I should bear with you. But if it is a question of words and names and your own law, look to it yourselves; for I do not want to be a judge of such matters.” And he drove them from the judgment seat. Then all the Greeks took Sosthenes, the ruler of the synagogue, and beat him before the judgment seat. But Gallio took no notice of these things.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A12-17&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1703s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  }
+ ],
+ "faqs": [
+  {
+   "id": "build-church-part-one:how-big-did-the-church-in-corinth-get",
+   "type": "faq",
+   "sermon_slug": "build-church-part-one",
+   "question": "How big does he say the church in Corinth became?",
+   "answer": "He says it went “from no Christianity to 15,000 people in the church in no more than three years.” He bases this on 500,000 people in the city and the “many” who believed, comparing it to the 5,000 men plus women and children Jesus fed.",
+   "start_seconds": 250,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=250s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#faq-how-big-did-the-church-in-corinth-get",
+   "scriptures": [
+    {
+     "ref": "Acts 18:8",
+     "translation": "NKJV",
+     "text_nkjv": "Then Crispus, the ruler of the synagogue, believed on the Lord with all his household. And many of the Corinthians, hearing, believed and were baptized.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1156s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "build-church-part-one:what-does-he-say-the-seminars-teach",
+   "type": "faq",
+   "sermon_slug": "build-church-part-one",
+   "question": "What does he say church-building seminars teach?",
+   "answer": "He says they say you have to be “seeker-friendly” and “do things to entertain them and get their attention,” and that earlier he heard that if you get the miracles, people will believe.",
+   "start_seconds": 250,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=250s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#faq-what-does-he-say-the-seminars-teach",
+   "scriptures": []
+  },
+  {
+   "id": "build-church-part-one:did-paul-have-missionary-support",
+   "type": "faq",
+   "sermon_slug": "build-church-part-one",
+   "question": "Did Paul have missionary support in Corinth?",
+   "answer": "No. He says Paul “didn’t have any missionary support coming from Antioch” or from the church in Jerusalem, and was “out there working on his own, providing for himself and his staff members.”",
+   "start_seconds": 347,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=347s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#faq-did-paul-have-missionary-support",
+   "scriptures": [
+    {
+     "ref": "Acts 18:2-3",
+     "translation": "NKJV",
+     "text_nkjv": "And he found a certain Jew named Aquila, born in Pontus, who had recently come from Italy with his wife Priscilla (because Claudius had commanded all the Jews to depart from Rome); and he came to them. So, because he was of the same trade, he stayed with them and worked; for by occupation they were tentmakers.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A2-3&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=375s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "build-church-part-one:what-did-paul-not-use-to-build-the-church",
+   "type": "faq",
+   "sermon_slug": "build-church-part-one",
+   "question": "What did Paul not use to build the church?",
+   "answer": "He says there was no dance company, drama, orchestra, music, nursery, children’s church or youth group. He says Paul was “just simply convincing people from the Scriptures something that they needed to hear.”",
+   "start_seconds": 452,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=452s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#faq-what-did-paul-not-use-to-build-the-church",
+   "scriptures": [
+    {
+     "ref": "Acts 18:4",
+     "translation": "NKJV",
+     "text_nkjv": "And he reasoned in the synagogue every Sabbath, and persuaded both Jews and Greeks.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A4&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=455s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "build-church-part-one:what-is-the-terror-of-the-lord",
+   "type": "faq",
+   "sermon_slug": "build-church-part-one",
+   "question": "What does he say “the terror of the Lord” moved Paul to do?",
+   "answer": "He says it moved Paul to persuade people, because everyone will be judged and Paul did not want anyone experiencing “the eternal lake of fire.”",
+   "start_seconds": 552,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=552s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#faq-what-is-the-terror-of-the-lord",
+   "scriptures": [
+    {
+     "ref": "2 Corinthians 5:10-11",
+     "translation": "NKJV",
+     "text_nkjv": "For we must all appear before the judgment seat of Christ, that each one may receive the things done in the body, according to what he has done, whether good or bad. Knowing, therefore, the terror of the Lord, we persuade men; but we are well known to God, and I also trust are well known in your consciences.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+5%3A10-11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=552s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "build-church-part-one:what-three-things-were-the-jews-looking-for",
+   "type": "faq",
+   "sermon_slug": "build-church-part-one",
+   "question": "What three things does he say the Jews were looking for?",
+   "answer": "He says they looked for the Messiah, the Prophet promised in Deuteronomy, and the King out of David’s seed, and “it was all in one person, Jesus Christ.”",
+   "start_seconds": 715,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=715s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#faq-what-three-things-were-the-jews-looking-for",
+   "scriptures": []
+  },
+  {
+   "id": "build-church-part-one:why-do-people-reject-the-gospel",
+   "type": "faq",
+   "sermon_slug": "build-church-part-one",
+   "question": "Why does he say people reject the message?",
+   "answer": "He says the gospel “pricks the hearts,” and people have to fight that in themselves to say “no, I don’t want it,” so “they’re not rejecting you, they’re rejecting” that pricking of the Scriptures.",
+   "start_seconds": 941,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=941s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#faq-why-do-people-reject-the-gospel",
+   "scriptures": [
+    {
+     "ref": "Acts 18:6",
+     "translation": "NKJV",
+     "text_nkjv": "But when they opposed him and blasphemed, he shook his garments and said to them, “Your blood be upon your own heads; I am clean. From now on I will go to the Gentiles.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A6&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1024s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "build-church-part-one:what-does-he-say-about-compromising-with-family",
+   "type": "faq",
+   "sermon_slug": "build-church-part-one",
+   "question": "What does he say about families that compromise?",
+   "answer": "He says when a family member doesn’t want to serve God, families “negotiate and compromise,” and then “they have no power to help win him to Christ, because they’re giving in to what that person wants to do.”",
+   "start_seconds": 1036,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1036s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#faq-what-does-he-say-about-compromising-with-family",
+   "scriptures": [
+    {
+     "ref": "Matthew 10:14",
+     "translation": "NKJV",
+     "text_nkjv": "And whoever will not receive you nor hear your words, when you depart from that house or city, shake off the dust from your feet.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+10%3A14&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1050s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "build-church-part-one:can-rejection-last-a-lifetime",
+   "type": "faq",
+   "sermon_slug": "build-church-part-one",
+   "question": "Does he say people may reject the message for life?",
+   "answer": "Yes. He says “they may reject you 10 times, they may reject you for the rest of their life, they may never decide to believe and live for Christ,” but many believed and were baptized.",
+   "start_seconds": 1125,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1125s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#faq-can-rejection-last-a-lifetime",
+   "scriptures": [
+    {
+     "ref": "Acts 18:8",
+     "translation": "NKJV",
+     "text_nkjv": "Then Crispus, the ruler of the synagogue, believed on the Lord with all his household. And many of the Corinthians, hearing, believed and were baptized.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1156s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "build-church-part-one:is-healing-less-important-than-the-word",
+   "type": "faq",
+   "sermon_slug": "build-church-part-one",
+   "question": "Does he say healing and casting out demons are unimportant?",
+   "answer": "No. He says “if God does heal the sick, that’s fine, that’s part of His package,” and you want a demon cast out, “but it’s no more important than the Word.”",
+   "start_seconds": 1223,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1223s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#faq-is-healing-less-important-than-the-word",
+   "scriptures": []
+  },
+  {
+   "id": "build-church-part-one:what-does-he-say-about-visions-and-dreams",
+   "type": "faq",
+   "sermon_slug": "build-church-part-one",
+   "question": "What does he say about visions and dreams?",
+   "answer": "He says “when angels come, when visions come, and dreams come, it’s always a message,” and “the message is what’s going to change your life. It’s not seeing things.”",
+   "start_seconds": 1365,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1365s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#faq-what-does-he-say-about-visions-and-dreams",
+   "scriptures": [
+    {
+     "ref": "Acts 18:9-11",
+     "translation": "NKJV",
+     "text_nkjv": "Now the Lord spoke to Paul in the night by a vision, “Do not be afraid, but speak, and do not keep silent; for I am with you, and no one will attack you to hurt you; for I have many people in this city.” And he continued there a year and six months, teaching the word of God among them.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+18%3A9-11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1369s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "build-church-part-one:does-the-word-work-through-imperfect-people",
+   "type": "faq",
+   "sermon_slug": "build-church-part-one",
+   "question": "Does he say the Word works only through perfect people?",
+   "answer": "No. He says “you don’t have to wait to be perfect, to grow up to maturity, because the Word is mature, the Word is perfect, and the Word will work regardless of your level in God.”",
+   "start_seconds": 1440,
+   "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1440s",
+   "page_anchor_url": "https://growonthevine.com/messages/build-church-part-one/#faq-does-the-word-work-through-imperfect-people",
+   "scriptures": [
+    {
+     "ref": "Mark 16:20",
+     "translation": "NKJV",
+     "text_nkjv": "And they went out and preached everywhere, the Lord working with them and confirming the word through the accompanying signs. Amen.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Mark+16%3A20&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=UauBANwkBHs&t=1481s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  }
+ ]
+}

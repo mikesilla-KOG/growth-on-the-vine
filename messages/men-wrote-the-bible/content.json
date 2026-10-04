@@ -1,0 +1,909 @@
+{
+ "schema_version": 1,
+ "sermon": {
+  "slug": "men-wrote-the-bible",
+  "title": "Men Wrote the Bible",
+  "series": "Single message",
+  "series_part": "Full sermon",
+  "speaker": "Pastor David G. Kincer",
+  "church": "Vine Cluster Church",
+  "video_id": "i5PVOMC19PQ",
+  "video_url": "https://www.youtube.com/watch?v=i5PVOMC19PQ",
+  "upload_date": "2014-06-18",
+  "duration_seconds": 2229,
+  "language": "en",
+  "page_url": "https://growonthevine.com/messages/men-wrote-the-bible/",
+  "status": "live",
+  "summary": "In this message Pastor David G. Kincer answers the claim that men wrote the Bible by walking through Ezekiel’s allegory of Jerusalem as a “she” and the death of Ezekiel’s wife, which he says shows the difference between religion and reality. He then connects it to Sarah and Hagar in Galatians 4, the heavenly Jerusalem “coming down,” the church as the bride, grace as divine enablement, and God’s goal of a glorious church.",
+  "transcript_source": "This transcript comes from YouTube’s automatic English captions, which supply the timing and the words. Punctuation, capitalization and paragraphing were added by hand, and obvious caption errors were corrected; his wording was not rewritten. “[unclear]” marks a word or name that was not clear. Editor note: the recording does not name the chapter for the opening passage; the page links Ezekiel 24 (the verses he cites by number, 14 and 16–17, and the content match it). He says “Galatians the New Testament 4:21” and cites Hebrews 12:22 and Revelation 3:12 and 21:2 and 21:10 correctly; for the Lord’s Prayer and “if any man be in Christ,” the passages are Matthew 6:10 and 2 Corinthians 5:17. Caption words that were garbled but clear in context were corrected (for example “siege,” “mourning,” “Sinai,” “chaste”). “[Unclear]” marks four spots where the captions were not clear: a word in the paragraph starting at 11:00 (“that was the …”), a name or word twice in the paragraph starting at 20:31 (“mother of …”), and a word in the paragraph starting at 29:17 (“when we get …”).",
+  "brand": "Grow on the Vine"
+ },
+ "bible_translation": {
+  "code": "NKJV",
+  "notice": "Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved."
+ },
+ "chunks": [
+  {
+   "id": "men-wrote-the-bible:why-does-ezekiel-call-jerusalem-a-she",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "Why does Ezekiel call Jerusalem a “she”?",
+   "short_answer": "He says Ezekiel gives the month, the day and the year that Babylon started its siege, and refers to Jerusalem as “a she, as a female,” which he says is “very important.” He calls it a bloody city killing innocent people that “has wearied herself with lies.”",
+   "text": "And you can see a picture on your screen of the old-time Jerusalem. The wall facing you is east, and the reason I know that is because the temple entry was from the east, so you’re looking at the eastern wall, the eastern gate of Jerusalem. He begins to talk about Jerusalem, and he tells us what month, what day of the month, and what year of the captivity that Babylon came and started their siege against Jerusalem. Now remember, Ezekiel is the prophet on the other side of the captivity. He is in Babylon. Jeremiah was in Jerusalem, in Judah, and, uh, they’ve already been carried away captive once. God already came and corrected them one time, but they didn’t learn their lesson. Okay, so Ezekiel, by the Spirit of God, lifts up his voice, and he brings up the topic of Jerusalem.\n\nHe goes on to keep talking about Jerusalem, and he refers to Jerusalem as a she, as a female, and that’s very important. He goes on to describe it as a bloody city. They are killing innocent people. All right, they’re persecuting and killing and hurting innocent people. Then he says she, the city, she has wearied herself with lies. Her— feminine— she, feminine, likened to Jerusalem as a female, a she. That’s very important.",
+   "start_seconds": 0,
+   "end_seconds": 100,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=0s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-why-does-ezekiel-call-jerusalem-a-she",
+   "paragraphs": [
+    {
+     "start_seconds": 0,
+     "text": "And you can see a picture on your screen of the old-time Jerusalem. The wall facing you is east, and the reason I know that is because the temple entry was from the east, so you’re looking at the eastern wall, the eastern gate of Jerusalem. He begins to talk about Jerusalem, and he tells us what month, what day of the month, and what year of the captivity that Babylon came and started their siege against Jerusalem. Now remember, Ezekiel is the prophet on the other side of the captivity. He is in Babylon. Jeremiah was in Jerusalem, in Judah, and, uh, they’ve already been carried away captive once. God already came and corrected them one time, but they didn’t learn their lesson. Okay, so Ezekiel, by the Spirit of God, lifts up his voice, and he brings up the topic of Jerusalem.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=0s"
+    },
+    {
+     "start_seconds": 59,
+     "text": "He goes on to keep talking about Jerusalem, and he refers to Jerusalem as a she, as a female, and that’s very important. He goes on to describe it as a bloody city. They are killing innocent people. All right, they’re persecuting and killing and hurting innocent people. Then he says she, the city, she has wearied herself with lies. Her— feminine— she, feminine, likened to Jerusalem as a female, a she. That’s very important.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=59s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Ezekiel 24:1-2",
+     "translation": "NKJV",
+     "text_nkjv": "Again, in the ninth year, in the tenth month, on the tenth day of the month, the word of the LORD came to me, saying, “Son of man, write down the name of the day, this very day—the king of Babylon started his siege against Jerusalem this very day.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ezekiel+24%3A1-2&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=21s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Ezekiel 24:12",
+     "translation": "NKJV",
+     "text_nkjv": "She has grown weary with lies, And her great scum has not gone from her. Let her scum be in the fire!",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ezekiel+24%3A12&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=87s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:did-men-write-the-bible-or-did-god",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "Did men write the Bible, or is it from God?",
+   "short_answer": "He tells young believers who hear that “men wrote the Bible” and that it is “just a bunch of myths” that Ezekiel is “another example that man did not write this book.” He says, “Only God could do these amazing things and then fulfill them.”",
+   "text": "And you young people, and you young believers, who hear this nonsense that men wrote the Bible, and, you know, the Bible’s just a bunch of myths and just a bunch of nonsense, and, as a homosexual activist said, just a bunch of BS, I want to show you— here’s another example that man did not write this book. Only God could do these amazing things and then fulfill them, talk about them and then fulfill them, and make it clear to us. Are you with me? He goes on to continue to talk about her condition, which is already bloody and lies. All right, “in your filthiness is lewdness,” or in your loose conduct, your loose plans, is uncleanness, including sexual immorality and immorality of all kinds. He says that’s your condition, and he’s talking to his people. His people, he’s saying, are liars; they’re hurting innocent people.",
+   "start_seconds": 100,
+   "end_seconds": 163,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=100s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-did-men-write-the-bible-or-did-god",
+   "paragraphs": [
+    {
+     "start_seconds": 100,
+     "text": "And you young people, and you young believers, who hear this nonsense that men wrote the Bible, and, you know, the Bible’s just a bunch of myths and just a bunch of nonsense, and, as a homosexual activist said, just a bunch of BS, I want to show you— here’s another example that man did not write this book. Only God could do these amazing things and then fulfill them, talk about them and then fulfill them, and make it clear to us. Are you with me? He goes on to continue to talk about her condition, which is already bloody and lies. All right, “in your filthiness is lewdness,” or in your loose conduct, your loose plans, is uncleanness, including sexual immorality and immorality of all kinds. He says that’s your condition, and he’s talking to his people. His people, he’s saying, are liars; they’re hurting innocent people.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=100s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Ezekiel 24:13",
+     "translation": "NKJV",
+     "text_nkjv": "In your filthiness is lewdness. Because I have cleansed you, and you were not cleansed, You will not be cleansed of your filthiness anymore, Till I have caused My fury to rest upon you.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ezekiel+24%3A13&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=140s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:can-you-be-clean-by-faith-and-still-live-in-sin",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "Can you be “clean by faith” and still live in sin?",
+   "short_answer": "He says God told Ezekiel’s generation, “I have purged you, and you’re not purged,” and compares America’s church saying “I’m clean by the blood” while living in sin. He asks, “what good is it do me if I’m only cleaned by faith,” and says “It’s absolutely no good,” because God judges your ways, not what you believe.",
+   "text": "And they conduct themselves very loose, sexual immorality and all other kinds of immorality going on, “because I have purged you.” I’ve cleansed you, “and you were not purged.” He already came one time and brought correction and brought the prophet’s message. Jeremiah, we gave it to you, it was very powerful, the new covenant and the promises He gave, and these people did not listen to Jeremiah. So God raises up Ezekiel to come and tell them the same thing. And the condition of America’s church is exactly what Ezekiel says.\n\nThey have been purged by faith, but they’re not purged. Everybody in America, “Oh yeah, I’m clean by the blood, I’m clean by the blood.” They’re shacking up with people, they’re taking drugs and getting drunk and doing all kinds of debauchery, but “I’m clean by the blood.” This is exactly what God spoke through Ezekiel: “I have purged you, and you’re not purged.” The blood hasn’t worked in your life. You’re just believing you’re clean by faith, and you’re not clean. Isn’t America like that right now? And who gets the credit for it? These ministers, these mega churches, these people that are out to sell books and just flatter the people and be popular. They are propagating this message that only cleans by faith. Folks, what good is it do me if I’m only cleaned by faith, clean by faith, and I don’t change my life? It’s absolutely no good. I’m just like any other religion. No other religion on earth can give you cleansing of the body, soul and mind. “You shall not be cleansed from your filthiness anymore till I’ve caused My fury to rest upon you.” He says, “I’m coming with another correction. I’m coming with another judgment. I’m coming with another punishment to get your attention to change your ways.” And it’s just two years away. He’s prophesying in the ninth year of Zedekiah, the king of Israel.\n\nAnd Jerusalem was started to be surrounded by Babylon’s army this day, and just less than two years away they’re going to be carried away captive, and the city’s going to be destroyed, and the temple’s going to be destroyed. This time— I mean, last time God left the temple and the city; this time He’s going to destroy it all. Are you there? He said, “I purged you once, I came and I got your attention, and you didn’t listen, so I’m coming again.” And that is where America’s church is right now. The end result, verse 14: “I the Lord have spoken it; it shall come to pass, and I will do it. I will not go back, neither will I spare, neither will I repent. According to your” what? “Ways.” Not your faith.\n\nIt is over and over and over again. It’s not what you believe. “Well, I believe this is okay.” It doesn’t matter if you believe something is okay if your ways are wrong according to God’s ways. He’s going to judge you and your doings. Do we get the message now? This God has promised us, “if any man be in Christ, he is a new creature, old things are passed away.” We’ve been promised change in our life, but when it doesn’t happen real quickly, then we start justifying, because God doesn’t do things real quickly, but He’s always on time. He’s just amazing. He’s always on time. And when things don’t happen the way we want them to happen, and in the time we wanted to happen, we start trying to solve the thing ourself.",
+   "start_seconds": 163,
+   "end_seconds": 424,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=163s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-can-you-be-clean-by-faith-and-still-live-in-sin",
+   "paragraphs": [
+    {
+     "start_seconds": 163,
+     "text": "And they conduct themselves very loose, sexual immorality and all other kinds of immorality going on, “because I have purged you.” I’ve cleansed you, “and you were not purged.” He already came one time and brought correction and brought the prophet’s message. Jeremiah, we gave it to you, it was very powerful, the new covenant and the promises He gave, and these people did not listen to Jeremiah. So God raises up Ezekiel to come and tell them the same thing. And the condition of America’s church is exactly what Ezekiel says.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=163s"
+    },
+    {
+     "start_seconds": 206,
+     "text": "They have been purged by faith, but they’re not purged. Everybody in America, “Oh yeah, I’m clean by the blood, I’m clean by the blood.” They’re shacking up with people, they’re taking drugs and getting drunk and doing all kinds of debauchery, but “I’m clean by the blood.” This is exactly what God spoke through Ezekiel: “I have purged you, and you’re not purged.” The blood hasn’t worked in your life. You’re just believing you’re clean by faith, and you’re not clean. Isn’t America like that right now? And who gets the credit for it? These ministers, these mega churches, these people that are out to sell books and just flatter the people and be popular. They are propagating this message that only cleans by faith. Folks, what good is it do me if I’m only cleaned by faith, clean by faith, and I don’t change my life? It’s absolutely no good. I’m just like any other religion. No other religion on earth can give you cleansing of the body, soul and mind. “You shall not be cleansed from your filthiness anymore till I’ve caused My fury to rest upon you.” He says, “I’m coming with another correction. I’m coming with another judgment. I’m coming with another punishment to get your attention to change your ways.” And it’s just two years away. He’s prophesying in the ninth year of Zedekiah, the king of Israel.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=206s"
+    },
+    {
+     "start_seconds": 300,
+     "text": "And Jerusalem was started to be surrounded by Babylon’s army this day, and just less than two years away they’re going to be carried away captive, and the city’s going to be destroyed, and the temple’s going to be destroyed. This time— I mean, last time God left the temple and the city; this time He’s going to destroy it all. Are you there? He said, “I purged you once, I came and I got your attention, and you didn’t listen, so I’m coming again.” And that is where America’s church is right now. The end result, verse 14: “I the Lord have spoken it; it shall come to pass, and I will do it. I will not go back, neither will I spare, neither will I repent. According to your” what? “Ways.” Not your faith.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=300s"
+    },
+    {
+     "start_seconds": 359,
+     "text": "It is over and over and over again. It’s not what you believe. “Well, I believe this is okay.” It doesn’t matter if you believe something is okay if your ways are wrong according to God’s ways. He’s going to judge you and your doings. Do we get the message now? This God has promised us, “if any man be in Christ, he is a new creature, old things are passed away.” We’ve been promised change in our life, but when it doesn’t happen real quickly, then we start justifying, because God doesn’t do things real quickly, but He’s always on time. He’s just amazing. He’s always on time. And when things don’t happen the way we want them to happen, and in the time we wanted to happen, we start trying to solve the thing ourself.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=359s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Ezekiel 24:13-14",
+     "translation": "NKJV",
+     "text_nkjv": "In your filthiness is lewdness. Because I have cleansed you, and you were not cleansed, You will not be cleansed of your filthiness anymore, Till I have caused My fury to rest upon you. I, the LORD, have spoken it; It shall come to pass, and I will do it; I will not hold back, Nor will I spare, Nor will I relent; According to your ways And according to your deeds They will judge you,” Says the Lord GOD.’ ”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ezekiel+24%3A13-14&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=339s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "2 Corinthians 5:17",
+     "translation": "NKJV",
+     "text_nkjv": "Therefore, if anyone is in Christ, he is a new creation; old things have passed away; behold, all things have become new.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+5%3A17&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=387s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:how-can-the-bible-be-written-by-men-and-by-the-spirit",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "How can the Bible be written by men and still be from the Holy Spirit?",
+   "short_answer": "He says nobody “could dream this stuff up,” and that this Book “was written by men through the Spirit of God.” They “wrote what the Spirit made them write,” and he says they were “a bunch of hardheads like us.”",
+   "text": "So God says, “I’m not going to repent. I’m not going to turn back from judging you. It’s your ways and your doings that I’m after. I came once and I punished you, I corrected you, and I’m coming again.” All right, then here’s this amazing allegory introduced. Amazing. And these people say the Bible’s just written by men. You’ve got to be kidding. Nobody could dream this stuff up that God has hidden in these Scriptures that only the Holy Ghost can expose to you. Are you there? And you young believers need to know that this Book was written by men through the Spirit of God. They didn’t write what they wanted to write; they wrote what the Spirit made them write. They were a bunch of hardheads like us, but the Spirit made them right. How many would like the Holy Ghost to make you live right? Yeah, this is what God has promised us.",
+   "start_seconds": 424,
+   "end_seconds": 485,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=424s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-how-can-the-bible-be-written-by-men-and-by-the-spirit",
+   "paragraphs": [
+    {
+     "start_seconds": 424,
+     "text": "So God says, “I’m not going to repent. I’m not going to turn back from judging you. It’s your ways and your doings that I’m after. I came once and I punished you, I corrected you, and I’m coming again.” All right, then here’s this amazing allegory introduced. Amazing. And these people say the Bible’s just written by men. You’ve got to be kidding. Nobody could dream this stuff up that God has hidden in these Scriptures that only the Holy Ghost can expose to you. Are you there? And you young believers need to know that this Book was written by men through the Spirit of God. They didn’t write what they wanted to write; they wrote what the Spirit made them write. They were a bunch of hardheads like us, but the Spirit made them right. How many would like the Holy Ghost to make you live right? Yeah, this is what God has promised us.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=424s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:why-did-god-tell-ezekiel-not-to-mourn-his-wife",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "Why did God tell Ezekiel not to mourn his wife’s death?",
+   "short_answer": "He says God told Ezekiel He would take away “the desire of your eyes,” his wife, and that he must not mourn, but put on traveling clothes instead of mourning clothes. When the people asked what it meant, he says they knew “it was an allegory,” and God answered that He would profane His sanctuary.",
+   "text": "“Son of man,” verse 16 and 17, “Look, I take away from you the desire of your eyes with a stroke.” He’s talking to Ezekiel personally now. He said, “Ezekiel, I’m going to take away the desire of your eyes with one sweep. Yet neither shall you mourn nor weep for the dead.” Wow. He’s talking personally to Ezekiel and says, “Ezekiel, you desire something with your eyes, and I’m going to take it away, and you’re not going to mourn about it.” So Jerusalem is likened to Ezekiel’s wife, as we will see here. Remember, Jerusalem was a she. Right, hello, church? All right, now he gets down to the nitty-gritty. Your wife, and that was the desire of Ezekiel’s eyes, was his wife.\n\nHe loved his wife. Man, how would you like to be married to him? And God comes to illustrate, “You’re dead, you’re gone. Bye.” She died early because God had an illustration. But see, death in God is not like we see death. “At evening my wife died”— that was the desire of his eyes— “and I did in the morning as I was commanded.” He didn’t mourn, he didn’t put on mourning clothes. He was instructed, “Don’t you put on mourning clothes; you put on traveling clothes.” And so we see here a picture of Ezekiel, and his wife’s dead, and these people are coming to him and go, “What? You know, why ain’t you mourning? Why? You know the custom, the culture. You mourn, you, you know, you’re sorry.” Oh, so these people knew something was up.\n\nSo the people came to Ezekiel and said, “Will you tell us what these things are to us that you do?” They knew Ezekiel had been prophesying for several years now, and they knew he had been given illustrations for several years, so they come and say, “Okay, what are you trying to tell us now? Your wife died, you’re not mourning, you’re dressed in traveling clothes.” They knew that it was an allegory. They knew, they wanted to know what God was telling them. “Thus saith the Lord.” He tells them, this is what the Lord is saying through my wife’s death, through Jerusalem being an allegory of a female: “Behold, I will profane My sanctuary.” Now, where was His sanctuary back then?",
+   "start_seconds": 485,
+   "end_seconds": 660,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=485s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-why-did-god-tell-ezekiel-not-to-mourn-his-wife",
+   "paragraphs": [
+    {
+     "start_seconds": 485,
+     "text": "“Son of man,” verse 16 and 17, “Look, I take away from you the desire of your eyes with a stroke.” He’s talking to Ezekiel personally now. He said, “Ezekiel, I’m going to take away the desire of your eyes with one sweep. Yet neither shall you mourn nor weep for the dead.” Wow. He’s talking personally to Ezekiel and says, “Ezekiel, you desire something with your eyes, and I’m going to take it away, and you’re not going to mourn about it.” So Jerusalem is likened to Ezekiel’s wife, as we will see here. Remember, Jerusalem was a she. Right, hello, church? All right, now he gets down to the nitty-gritty. Your wife, and that was the desire of Ezekiel’s eyes, was his wife.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=485s"
+    },
+    {
+     "start_seconds": 551,
+     "text": "He loved his wife. Man, how would you like to be married to him? And God comes to illustrate, “You’re dead, you’re gone. Bye.” She died early because God had an illustration. But see, death in God is not like we see death. “At evening my wife died”— that was the desire of his eyes— “and I did in the morning as I was commanded.” He didn’t mourn, he didn’t put on mourning clothes. He was instructed, “Don’t you put on mourning clothes; you put on traveling clothes.” And so we see here a picture of Ezekiel, and his wife’s dead, and these people are coming to him and go, “What? You know, why ain’t you mourning? Why? You know the custom, the culture. You mourn, you, you know, you’re sorry.” Oh, so these people knew something was up.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=551s"
+    },
+    {
+     "start_seconds": 607,
+     "text": "So the people came to Ezekiel and said, “Will you tell us what these things are to us that you do?” They knew Ezekiel had been prophesying for several years now, and they knew he had been given illustrations for several years, so they come and say, “Okay, what are you trying to tell us now? Your wife died, you’re not mourning, you’re dressed in traveling clothes.” They knew that it was an allegory. They knew, they wanted to know what God was telling them. “Thus saith the Lord.” He tells them, this is what the Lord is saying through my wife’s death, through Jerusalem being an allegory of a female: “Behold, I will profane My sanctuary.” Now, where was His sanctuary back then?",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=607s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Ezekiel 24:16-21",
+     "translation": "NKJV",
+     "text_nkjv": "“Son of man, behold, I take away from you the desire of your eyes with one stroke; yet you shall neither mourn nor weep, nor shall your tears run down. Sigh in silence, make no mourning for the dead; bind your turban on your head, and put your sandals on your feet; do not cover your lips, and do not eat man’s bread of sorrow.” So I spoke to the people in the morning, and at evening my wife died; and the next morning I did as I was commanded. And the people said to me, “Will you not tell us what these things signify to us, that you behave so?” Then I answered them, “The word of the LORD came to me, saying, ‘Speak to the house of Israel, “Thus says the Lord GOD: ‘Behold, I will profane My sanctuary, your arrogant boast, the desire of your eyes, the delight of your soul; and your sons and daughters whom you left behind shall fall by the sword.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ezekiel+24%3A16-21&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=486s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:what-is-the-difference-between-religion-and-reality",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "What is the difference between religion and reality?",
+   "short_answer": "He says the temple and city were the desire of the Jews’ eyes: “We’ll die for that city, we’ll die for that temple, but we won’t die to live right.” He says Ezekiel’s wife died so God could illustrate “the difference between religion and reality,” and that the majority of Christians in America are living in sin and thinking they’re okay.",
+   "text": "In the temple in Jerusalem. That’s where God dwelt, on the cherubim, between the cherubim on the ark of the covenant. Are you there? See, that was the [unclear]. That’s where God dwelt. And that was the desire of the Jews’ eyes: that temple and that city. They were obsessed with it. They’re committing adultery, they’re lying, they’re killing innocent people, but boy, don’t you talk about that temple, and don’t you talk about that city. Don’t you touch that temple, don’t you touch that city. We’ll die for that city, we’ll die for that temple, but we won’t die to live right. Are you there, church? Very powerful, didn’t it? And Ezekiel’s wife died so God could illustrate in an allegory the difference between religion and reality.\n\nOkay, “My sanctuary,” the temple, Jerusalem, “the excellency of your strength, the desire of your eyes.” That’s what the people’s desires was, “and that which your soul pities.” See, when bad things happened to Jerusalem or the temple, they felt so bad for it. Oh, but it did— they didn’t feel bad at all sinning and breaking God’s Word. And that’s exactly where America’s church is, on the most part. Not everybody, but the majority of Christians in America are living in sin and thinking they’re okay. Am I right? Absolutely. Jerusalem likened to Ezekiel’s wife.\n\nHe said, “Then your sons and your daughters whom you have left shall fall by the sword.” Who’s paying the price for adults in America living loosely? The children. Everybody’s talking about the problems with our kids, but nobody is putting the blame where it belongs, and that is the adults need to buck up and be adults and stand for morality and live right at the cost of their own pain. You stay married, you get married, you raise that kid, you do what’s right. Here is Sarah and Hagar, an amazing allegory made clear in Galatians, the New Testament, 4:21. This amazing allegory, I think it’s just amazing. It’s extraordinary.",
+   "start_seconds": 660,
+   "end_seconds": 825,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=660s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-what-is-the-difference-between-religion-and-reality",
+   "paragraphs": [
+    {
+     "start_seconds": 660,
+     "text": "In the temple in Jerusalem. That’s where God dwelt, on the cherubim, between the cherubim on the ark of the covenant. Are you there? See, that was the [unclear]. That’s where God dwelt. And that was the desire of the Jews’ eyes: that temple and that city. They were obsessed with it. They’re committing adultery, they’re lying, they’re killing innocent people, but boy, don’t you talk about that temple, and don’t you talk about that city. Don’t you touch that temple, don’t you touch that city. We’ll die for that city, we’ll die for that temple, but we won’t die to live right. Are you there, church? Very powerful, didn’t it? And Ezekiel’s wife died so God could illustrate in an allegory the difference between religion and reality.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=660s"
+    },
+    {
+     "start_seconds": 723,
+     "text": "Okay, “My sanctuary,” the temple, Jerusalem, “the excellency of your strength, the desire of your eyes.” That’s what the people’s desires was, “and that which your soul pities.” See, when bad things happened to Jerusalem or the temple, they felt so bad for it. Oh, but it did— they didn’t feel bad at all sinning and breaking God’s Word. And that’s exactly where America’s church is, on the most part. Not everybody, but the majority of Christians in America are living in sin and thinking they’re okay. Am I right? Absolutely. Jerusalem likened to Ezekiel’s wife.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=723s"
+    },
+    {
+     "start_seconds": 773,
+     "text": "He said, “Then your sons and your daughters whom you have left shall fall by the sword.” Who’s paying the price for adults in America living loosely? The children. Everybody’s talking about the problems with our kids, but nobody is putting the blame where it belongs, and that is the adults need to buck up and be adults and stand for morality and live right at the cost of their own pain. You stay married, you get married, you raise that kid, you do what’s right. Here is Sarah and Hagar, an amazing allegory made clear in Galatians, the New Testament, 4:21. This amazing allegory, I think it’s just amazing. It’s extraordinary.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=773s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:what-do-sarah-and-hagar-teach-about-doing-it-your-way",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "What do Sarah and Hagar teach about doing things God’s way?",
+   "short_answer": "He explains the shadow laws as illustrations of what Christ would do, and says Abraham and Sarah doing it their way instead of waiting for the promise is “religion.” He says the American church does the same when it brings in “psychology,” 12-step programs and other secular programs “because they won’t wait for God’s promise.”",
+   "text": "He says in 4:21 of Galatians, “You that desire to be under the law, do you not hear the law?” Now, the law he’s talking about is the shadow laws, the laws that were an illustration of the truth He was going to perform and bring into reality when He came to earth, born of a virgin and dying on the cross. That’s what the shadow laws are. The civil laws are still with us— there’s a difference— the spiritual laws are still with us, but these Jews, they were obsessed with the shadow laws. See, Jerusalem was an illustration of what He was going to do. The temple was an illustration, an allegory of what He’s going to do, and they were obsessed with the illustrations. “For it is written that Abraham had two sons, one by a bond woman,” a slave, a bond slave; she sold herself into servanthood. “The other by a free woman.” Sarah was the free woman.\n\n“He who was of the bond woman was born after the flesh.” And here’s where America is. Abraham and Sarah, after 10 years God promised them a son. It didn’t happen. Sarah came up with the idea, said, “You know, why don’t you go into my handmaiden Hagar, have sex with her and have a son by her, ‘cause God’s moving a little slow here, and I’m not sure He’s going to do anything. We don’t have an heir.” And Abraham, the dumb guy, like dumb men do, listened to his wife. He said, “Oh, Sarah, oh, what a great idea! Oh man!” It probably didn’t hurt that Hagar was pretty good-looking either. So he goes in, has sex. See, that’s of the flesh.\n\nWhen you do it your way, that’s religion. You’re doing it your way. You don’t wait for the promise; you get anxious and you do it your way. “He of the free woman was by promise.” You see, God promised Sarah and Abraham a son. He didn’t say when. Abraham was 90 years old; he’s going to be 100 years old; 10 years have gone by. “Man, we’ve got to help God out.” And that’s what the American church is doing. They’re bringing in psychology, and they’re bringing in the 12-step programs, and the, uh, uh, divorce recovery program and the alcohol recovery program, the secular programs they’re bringing in. Why? Because they won’t wait for God’s promise and seek Him until He comes and does it. Galatians 4:24, he goes on to talk about two Jerusalems. There’s the old Jerusalem, here’s the new Jerusalem, “which things are an” what? Allegory. I told you there was an amazing allegory, and I told you you can only call things an allegory when God calls it an allegory. “These are two covenants.” How many covenants? Two. “One from Mount Sinai,” that law that he spoke about, the shadow laws.",
+   "start_seconds": 825,
+   "end_seconds": 1033,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=825s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-what-do-sarah-and-hagar-teach-about-doing-it-your-way",
+   "paragraphs": [
+    {
+     "start_seconds": 825,
+     "text": "He says in 4:21 of Galatians, “You that desire to be under the law, do you not hear the law?” Now, the law he’s talking about is the shadow laws, the laws that were an illustration of the truth He was going to perform and bring into reality when He came to earth, born of a virgin and dying on the cross. That’s what the shadow laws are. The civil laws are still with us— there’s a difference— the spiritual laws are still with us, but these Jews, they were obsessed with the shadow laws. See, Jerusalem was an illustration of what He was going to do. The temple was an illustration, an allegory of what He’s going to do, and they were obsessed with the illustrations. “For it is written that Abraham had two sons, one by a bond woman,” a slave, a bond slave; she sold herself into servanthood. “The other by a free woman.” Sarah was the free woman.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=825s"
+    },
+    {
+     "start_seconds": 893,
+     "text": "“He who was of the bond woman was born after the flesh.” And here’s where America is. Abraham and Sarah, after 10 years God promised them a son. It didn’t happen. Sarah came up with the idea, said, “You know, why don’t you go into my handmaiden Hagar, have sex with her and have a son by her, ‘cause God’s moving a little slow here, and I’m not sure He’s going to do anything. We don’t have an heir.” And Abraham, the dumb guy, like dumb men do, listened to his wife. He said, “Oh, Sarah, oh, what a great idea! Oh man!” It probably didn’t hurt that Hagar was pretty good-looking either. So he goes in, has sex. See, that’s of the flesh.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=893s"
+    },
+    {
+     "start_seconds": 948,
+     "text": "When you do it your way, that’s religion. You’re doing it your way. You don’t wait for the promise; you get anxious and you do it your way. “He of the free woman was by promise.” You see, God promised Sarah and Abraham a son. He didn’t say when. Abraham was 90 years old; he’s going to be 100 years old; 10 years have gone by. “Man, we’ve got to help God out.” And that’s what the American church is doing. They’re bringing in psychology, and they’re bringing in the 12-step programs, and the, uh, uh, divorce recovery program and the alcohol recovery program, the secular programs they’re bringing in. Why? Because they won’t wait for God’s promise and seek Him until He comes and does it. Galatians 4:24, he goes on to talk about two Jerusalems. There’s the old Jerusalem, here’s the new Jerusalem, “which things are an” what? Allegory. I told you there was an amazing allegory, and I told you you can only call things an allegory when God calls it an allegory. “These are two covenants.” How many covenants? Two. “One from Mount Sinai,” that law that he spoke about, the shadow laws.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=948s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Galatians 4:21-24",
+     "translation": "NKJV",
+     "text_nkjv": "Tell me, you who desire to be under the law, do you not hear the law? For it is written that Abraham had two sons: the one by a bondwoman, the other by a freewoman. But he who was of the bondwoman was born according to the flesh, and he of the freewoman through promise, which things are symbolic. For these are the two covenants: the one from Mount Sinai which gives birth to bondage, which is Hagar—",
+     "source_url": "https://www.biblegateway.com/passage/?search=Galatians+4%3A21-24&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=826s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:who-is-the-mother-of-us-all-the-jerusalem-above",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "Who is the “mother of us all”: the church of religion or the Jerusalem above?",
+   "short_answer": "He says the religious church will “birth them into bondage,” while those born of the Spirit are free from sin, judgment and darkness. He points to “the Jerusalem which is above is free, which is the mother of us all,” and says the earthly city and temple were an allegory of the real thing.",
+   "text": "“Is Hagar, which births to bondage.” And that’s what the religious church does. They birth them into their church and they birth them into bondage. We’re supposed to be birthed into the Spirit and into the living church. Amen. Born again by the Spirit, and over in the epistle, by the Word, born again. “She answers to Jerusalem which is now.” This is this Jerusalem, the Jewish religion, the Jerusalem in Ezekiel, in bondage to sin. They’re not purged, they’re shedding innocent blood, they’re lying, they’re obsessed with their Jewish religion.\n\nThey are obsessed with their city, they’re obsessed with the temple, all the illustrations of what God would do. In truth, they’re obsessed with it. “Jerusalem which is now is in bondage with her children.” See, her children, that’s what he told. They’re her children, the offspring, and the Christians that these false churches are producing, they’re destroying them, as Jesus said, “You make them two times the child of hell than you are.” That’s what religion does. But see, the blind lead the blind. People want religion; they don’t want the truth. Are you there? You’ve got to decide: do you want the real thing, or do you want religion number two? “But the Jerusalem which is above is free, which is the mother of us all.”\n\nPowerful. See, mothers are producers; they’re birthers. The Jerusalem from above is free. See, the people birthed by the real church are free: free from sin, free from the judgment, free from the kingdom of darkness. They’re free, they’re liberated, they’re new creatures. Yes, it takes a process. Yes, God has a little timetable between His promise and His provision, but it will come if you do what He said. “The mother of us all.” What a statement. Did you catch that statement? Jerusalem from above is the mother of us all. The natural city of Jerusalem, the natural temple in the city, was nothing but an allegory, an illustration of the real thing. But the Jerusalem from above is the real thing, and that Jerusalem, that temple, that city births every one of us. That’s why the city was referred to as a female, and that’s why the church is referred to as a female. God keeps the continuity all the way through the Bible. Don’t you tell me that Bible was written by men and just a bunch of myths and all that. This Bible is real.",
+   "start_seconds": 1033,
+   "end_seconds": 1231,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1033s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-who-is-the-mother-of-us-all-the-jerusalem-above",
+   "paragraphs": [
+    {
+     "start_seconds": 1033,
+     "text": "“Is Hagar, which births to bondage.” And that’s what the religious church does. They birth them into their church and they birth them into bondage. We’re supposed to be birthed into the Spirit and into the living church. Amen. Born again by the Spirit, and over in the epistle, by the Word, born again. “She answers to Jerusalem which is now.” This is this Jerusalem, the Jewish religion, the Jerusalem in Ezekiel, in bondage to sin. They’re not purged, they’re shedding innocent blood, they’re lying, they’re obsessed with their Jewish religion.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1033s"
+    },
+    {
+     "start_seconds": 1087,
+     "text": "They are obsessed with their city, they’re obsessed with the temple, all the illustrations of what God would do. In truth, they’re obsessed with it. “Jerusalem which is now is in bondage with her children.” See, her children, that’s what he told. They’re her children, the offspring, and the Christians that these false churches are producing, they’re destroying them, as Jesus said, “You make them two times the child of hell than you are.” That’s what religion does. But see, the blind lead the blind. People want religion; they don’t want the truth. Are you there? You’ve got to decide: do you want the real thing, or do you want religion number two? “But the Jerusalem which is above is free, which is the mother of us all.”",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1087s"
+    },
+    {
+     "start_seconds": 1142,
+     "text": "Powerful. See, mothers are producers; they’re birthers. The Jerusalem from above is free. See, the people birthed by the real church are free: free from sin, free from the judgment, free from the kingdom of darkness. They’re free, they’re liberated, they’re new creatures. Yes, it takes a process. Yes, God has a little timetable between His promise and His provision, but it will come if you do what He said. “The mother of us all.” What a statement. Did you catch that statement? Jerusalem from above is the mother of us all. The natural city of Jerusalem, the natural temple in the city, was nothing but an allegory, an illustration of the real thing. But the Jerusalem from above is the real thing, and that Jerusalem, that temple, that city births every one of us. That’s why the city was referred to as a female, and that’s why the church is referred to as a female. God keeps the continuity all the way through the Bible. Don’t you tell me that Bible was written by men and just a bunch of myths and all that. This Bible is real.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1142s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Galatians 4:25-26",
+     "translation": "NKJV",
+     "text_nkjv": "for this Hagar is Mount Sinai in Arabia, and corresponds to Jerusalem which now is, and is in bondage with her children— but the Jerusalem above is free, which is the mother of us all.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Galatians+4%3A25-26&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1069s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Matthew 23:15",
+     "translation": "NKJV",
+     "text_nkjv": "“Woe to you, scribes and Pharisees, hypocrites! For you travel land and sea to win one proselyte, and when he is won, you make him twice as much a son of hell as yourselves.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+23%3A15&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1114s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:is-the-foursquare-city-literal-or-is-the-new-jerusalem-the-bride",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "Is the “foursquare city” literal, or is the New Jerusalem the bride of Christ?",
+   "short_answer": "He says the New Jerusalem “comes down out of heaven from God,” that the foursquare city is “an illustration,” and that “the city is the bride.” He says, “Give me Jesus, my husband, that I can have a relationship with,” and that he needs the heavenly Jerusalem now rather than waiting for the rapture.",
+   "text": "Amen. “Mother of” [unclear]. What is the mother of [unclear] then? And how, here we got the new Jerusalem, and we got the bride over here. Revelation 3:12: “The name of the city of My God is” what? “New Jerusalem.” The city of God is the new Jerusalem, which is the mother of us all, “which comes down out of heaven from God.” It what? Comes down. Well, that’s talking about the end time when that foursquare city comes out. They’ve been lying to you. That is an illustration, folks. Ain’t no foursquare city. Good grief, grow up, get into college Christianity. Don’t get drooling over symbols; get the reality of the symbols.\n\nAnd he’s talking about this foursquare city with its 12 gates and all that. What you got to understand here is this city, the heavenly Jerusalem, is coming down. It’s not staying up there. See, it comes down today, it’ll come down tomorrow, it came down yesterday. You get it? You know, don’t tell me I got to wait for the rapture and all this stuff. I need the heavenly Jerusalem now. How about you? I need to be birthed now. I can’t wait for some rapture and silly end-time idea you have. I need a God that’s powerful now and can change my life now, and that’s the God we serve.\n\nRevelation 21:2: “I, John, saw the holy city.” John said, “I saw it, New Jerusalem, the holy city, New Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.” He said, “I saw it coming down.” It came down on the day of Pentecost. It came down just a few chapters over, when they come and prayed together and the building shook. See, and God has been coming down “prepared as a bride adorned for a husband.” And you see the bride here, which is the city. Now, which one do you want to be, a city or you want to be the bride of Christ? Yeah, the city is the bride. Don’t give me this foursquare nonsense; that’s the illustration. Give me Jesus, my husband, that I can have a relationship with, and I can produce because I have a relationship with Him. That’s the new Jerusalem I need. Hallelujah.\n\nAnd so you understand it, 2 Corinthians 11:2: “I have engaged you to one husband, that I may present you as a chaste virgin to Christ.” The church is the bride. He says again in Romans 7:4, “You should be married to another, even to Him who is raised from the dead.” Who is that? Jesus. “That we should” what? “Bring forth fruit.” So it’s imperative that I have a relationship with Jesus, that heavenly Jerusalem, so I can bring forth the fruit of love and a joy and a peace and so forth. Amen. It’s out of the relationship that fruit is naturally produced. The church comes to and is the heavenly Jerusalem.",
+   "start_seconds": 1231,
+   "end_seconds": 1483,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1231s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-is-the-foursquare-city-literal-or-is-the-new-jerusalem-the-bride",
+   "paragraphs": [
+    {
+     "start_seconds": 1231,
+     "text": "Amen. “Mother of” [unclear]. What is the mother of [unclear] then? And how, here we got the new Jerusalem, and we got the bride over here. Revelation 3:12: “The name of the city of My God is” what? “New Jerusalem.” The city of God is the new Jerusalem, which is the mother of us all, “which comes down out of heaven from God.” It what? Comes down. Well, that’s talking about the end time when that foursquare city comes out. They’ve been lying to you. That is an illustration, folks. Ain’t no foursquare city. Good grief, grow up, get into college Christianity. Don’t get drooling over symbols; get the reality of the symbols.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1231s"
+    },
+    {
+     "start_seconds": 1292,
+     "text": "And he’s talking about this foursquare city with its 12 gates and all that. What you got to understand here is this city, the heavenly Jerusalem, is coming down. It’s not staying up there. See, it comes down today, it’ll come down tomorrow, it came down yesterday. You get it? You know, don’t tell me I got to wait for the rapture and all this stuff. I need the heavenly Jerusalem now. How about you? I need to be birthed now. I can’t wait for some rapture and silly end-time idea you have. I need a God that’s powerful now and can change my life now, and that’s the God we serve.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1292s"
+    },
+    {
+     "start_seconds": 1349,
+     "text": "Revelation 21:2: “I, John, saw the holy city.” John said, “I saw it, New Jerusalem, the holy city, New Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.” He said, “I saw it coming down.” It came down on the day of Pentecost. It came down just a few chapters over, when they come and prayed together and the building shook. See, and God has been coming down “prepared as a bride adorned for a husband.” And you see the bride here, which is the city. Now, which one do you want to be, a city or you want to be the bride of Christ? Yeah, the city is the bride. Don’t give me this foursquare nonsense; that’s the illustration. Give me Jesus, my husband, that I can have a relationship with, and I can produce because I have a relationship with Him. That’s the new Jerusalem I need. Hallelujah.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1349s"
+    },
+    {
+     "start_seconds": 1427,
+     "text": "And so you understand it, 2 Corinthians 11:2: “I have engaged you to one husband, that I may present you as a chaste virgin to Christ.” The church is the bride. He says again in Romans 7:4, “You should be married to another, even to Him who is raised from the dead.” Who is that? Jesus. “That we should” what? “Bring forth fruit.” So it’s imperative that I have a relationship with Jesus, that heavenly Jerusalem, so I can bring forth the fruit of love and a joy and a peace and so forth. Amen. It’s out of the relationship that fruit is naturally produced. The church comes to and is the heavenly Jerusalem.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1427s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Revelation 3:12",
+     "translation": "NKJV",
+     "text_nkjv": "He who overcomes, I will make him a pillar in the temple of My God, and he shall go out no more. I will write on him the name of My God and the name of the city of My God, the New Jerusalem, which comes down out of heaven from My God. And I will write on him My new name.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Revelation+3%3A12&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1240s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Revelation 21:2",
+     "translation": "NKJV",
+     "text_nkjv": "Then I, John, saw the holy city, New Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Revelation+21%3A2&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1349s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "2 Corinthians 11:2",
+     "translation": "NKJV",
+     "text_nkjv": "For I am jealous for you with godly jealousy. For I have betrothed you to one husband, that I may present you as a chaste virgin to Christ.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+11%3A2&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1430s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Romans 7:4",
+     "translation": "NKJV",
+     "text_nkjv": "Therefore, my brethren, you also have become dead to the law through the body of Christ, that you may be married to another—to Him who was raised from the dead, that we should bear fruit to God.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Romans+7%3A4&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1442s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:have-christians-already-come-to-the-heavenly-jerusalem",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "Have Christians already come to the heavenly Jerusalem?",
+   "short_answer": "He says Hebrews 12:22 is “talking to the saints”: “You are come to Mount Zion, the city of the living God.” He says they didn’t go to heaven; “they came to the church, heard the message and touched God,” and “we are that heavenly city when that heavenly city touches us.”",
+   "text": "See, we come to the heavenly Jerusalem, and we are the heavenly Jerusalem when we connect with heaven. Hallelujah. When we’re not connected with heaven, we are the Jerusalem below, which now is religious. Watch this: Hebrews 12:22, talking to the saints, talking to the believers: “You are come to Mount Zion, the city of the living God.” And what was the name of the city of the living God? New Jerusalem, the heavenly Jerusalem. He explains it: “You’ve come to the heavenly Jerusalem.” Well, you know, they didn’t go to heaven; you know, they came to the church, heard the message and touched God. Am I right? Yeah. Why do we fantasize and put all this stuff off into the future? I need a God now that will come down to me. “To an innumerable company of angels, the general assembly, the church of the firstborn.” Now, who’s the church of the firstborn? We are. We come out from among the nations, we come to Jesus. That’s what church means: the assembled, the ones that gather out, coming out of. That’s what the church is. So see, we come to the heavenly city, and we are that heavenly city when that heavenly city touches us.",
+   "start_seconds": 1483,
+   "end_seconds": 1587,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1483s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-have-christians-already-come-to-the-heavenly-jerusalem",
+   "paragraphs": [
+    {
+     "start_seconds": 1483,
+     "text": "See, we come to the heavenly Jerusalem, and we are the heavenly Jerusalem when we connect with heaven. Hallelujah. When we’re not connected with heaven, we are the Jerusalem below, which now is religious. Watch this: Hebrews 12:22, talking to the saints, talking to the believers: “You are come to Mount Zion, the city of the living God.” And what was the name of the city of the living God? New Jerusalem, the heavenly Jerusalem. He explains it: “You’ve come to the heavenly Jerusalem.” Well, you know, they didn’t go to heaven; you know, they came to the church, heard the message and touched God. Am I right? Yeah. Why do we fantasize and put all this stuff off into the future? I need a God now that will come down to me. “To an innumerable company of angels, the general assembly, the church of the firstborn.” Now, who’s the church of the firstborn? We are. We come out from among the nations, we come to Jesus. That’s what church means: the assembled, the ones that gather out, coming out of. That’s what the church is. So see, we come to the heavenly city, and we are that heavenly city when that heavenly city touches us.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1483s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Hebrews 12:22-24",
+     "translation": "NKJV",
+     "text_nkjv": "But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, to an innumerable company of angels, to the general assembly and church of the firstborn who are registered in heaven, to God the Judge of all, to the spirits of just men made perfect, to Jesus the Mediator of the new covenant, and to the blood of sprinkling that speaks better things than that of Abel.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Hebrews+12%3A22-24&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1508s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:what-does-on-earth-as-it-is-in-heaven-mean",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "What does “on earth as it is in heaven” mean?",
+   "short_answer": "He asks what the Lord’s Prayer means by “Thy will be done on earth as it is in heaven,” and says it is the real city of God, the real church, “coming down and touching His people.” He says on the day of Pentecost and all through Acts heaven “kept coming down,” and warns against getting hung up on one visitation of God.",
+   "text": "We become that heavenly city on earth. What do you think in the Lord’s Prayer, He said, “Thy will be done on earth as it is in heaven”? What do you think that means? Did you ever ask God about that? What in the world are you talking about? He’s talking about the real city of God, the real church, the real temple coming down and touching His people and making it as the real church on earth as it is in heaven, because the real thing come down and changed them, “which are written in heaven, to God the Judge of all, to the spirits of just men made perfect, to Jesus the Mediator of the new covenant.” So where’s God? In Jesus. Where’s God in Jesus? The heavenly Jerusalem that comes down. If the city comes down and the heavenly temple comes down, who comes down with them? Who is living in the heavenly Jerusalem? Jesus. Yeah, God and Jesus.\n\nSo when they come down and we’re gathered together, the church becomes the heavenly Jerusalem on earth, and people can touch the real thing. So we see clearly that the heavenly Jerusalem, the heavenly temple, the heavenly city must be in contact with the earthly one before any results are going to happen. We need the heavenly coming down to us on earth. And that’s what happened on the day of Pentecost. That’s what happened when they prayed and the place was shaken, and all through the book of Acts heaven was coming down. It kept coming down, it kept coming down, it kept coming down, and it expressed Himself differently every time He came down. And that’s one of our problems: we get hung up on one visitation of God, we want to propagate it the rest of our life. There’s all kinds of things to acquiring God. How many want them all? Yeah.",
+   "start_seconds": 1587,
+   "end_seconds": 1716,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1587s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-what-does-on-earth-as-it-is-in-heaven-mean",
+   "paragraphs": [
+    {
+     "start_seconds": 1587,
+     "text": "We become that heavenly city on earth. What do you think in the Lord’s Prayer, He said, “Thy will be done on earth as it is in heaven”? What do you think that means? Did you ever ask God about that? What in the world are you talking about? He’s talking about the real city of God, the real church, the real temple coming down and touching His people and making it as the real church on earth as it is in heaven, because the real thing come down and changed them, “which are written in heaven, to God the Judge of all, to the spirits of just men made perfect, to Jesus the Mediator of the new covenant.” So where’s God? In Jesus. Where’s God in Jesus? The heavenly Jerusalem that comes down. If the city comes down and the heavenly temple comes down, who comes down with them? Who is living in the heavenly Jerusalem? Jesus. Yeah, God and Jesus.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1587s"
+    },
+    {
+     "start_seconds": 1654,
+     "text": "So when they come down and we’re gathered together, the church becomes the heavenly Jerusalem on earth, and people can touch the real thing. So we see clearly that the heavenly Jerusalem, the heavenly temple, the heavenly city must be in contact with the earthly one before any results are going to happen. We need the heavenly coming down to us on earth. And that’s what happened on the day of Pentecost. That’s what happened when they prayed and the place was shaken, and all through the book of Acts heaven was coming down. It kept coming down, it kept coming down, it kept coming down, and it expressed Himself differently every time He came down. And that’s one of our problems: we get hung up on one visitation of God, we want to propagate it the rest of our life. There’s all kinds of things to acquiring God. How many want them all? Yeah.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1654s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Matthew 6:10",
+     "translation": "NKJV",
+     "text_nkjv": "Your kingdom come. Your will be done On earth as it is in heaven.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+6%3A10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1591s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:what-is-the-new-jerusalem-like-crystal-and-light",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "What is the New Jerusalem like: crystal, light and the nations?",
+   "short_answer": "He says “the condition of the new Jerusalem is not like the old Jerusalem,” quoting Revelation 21:10 about a light “clear as crystal,” a stone with all impurities out. He says when we connect with it “we get transformation in our life,” so people can be saved from sin, judgment and darkness.",
+   "text": "The condition of the new Jerusalem is not like the old Jerusalem. Revelation 21:10: “He showed me that great city, the holy Jerusalem, descending out of heaven from God, having the glory of God.” The what? Glory. The honor of God. “And her light was like a stone most precious, clear as crystal.” How many of you know crystal has all the impurities out of it? When you look through it, there’s no impurities. Everything’s been, it’s been heated up to such a level there’s not one little speck of impurity, and when you thump it, it has that ring.\n\nSee, He says, “I put a new song in your heart, even praise unto our God, and many shall see it and turn and put their trust in the Lord.” When we get like the crystal, and we get [unclear], we don’t hate back. There’s a song that comes out of us that people want to have what we have. “And the glory of God did lighten it, and the Lamb is the light thereof.” And who’s the Lamb? Jesus. You see, Jesus and His Word is the light, and when the heavenly thing comes down and we connect with it, then we have the real light, we have the real Jesus, and we get transformation in our life. The results: “The nations of them which are saved shall walk in the light of it.” See, what’s the whole purpose of Him doing this? So people can get saved from their sin, saved from the judgment, saved from the power of darkness, saved from alcohol habits and drug habits and cigarette habits and whatever. They can be delivered, they can be set free. What? By the power of Jesus Christ and His Father, God and our Father.",
+   "start_seconds": 1716,
+   "end_seconds": 1829,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1716s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-what-is-the-new-jerusalem-like-crystal-and-light",
+   "paragraphs": [
+    {
+     "start_seconds": 1716,
+     "text": "The condition of the new Jerusalem is not like the old Jerusalem. Revelation 21:10: “He showed me that great city, the holy Jerusalem, descending out of heaven from God, having the glory of God.” The what? Glory. The honor of God. “And her light was like a stone most precious, clear as crystal.” How many of you know crystal has all the impurities out of it? When you look through it, there’s no impurities. Everything’s been, it’s been heated up to such a level there’s not one little speck of impurity, and when you thump it, it has that ring.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1716s"
+    },
+    {
+     "start_seconds": 1757,
+     "text": "See, He says, “I put a new song in your heart, even praise unto our God, and many shall see it and turn and put their trust in the Lord.” When we get like the crystal, and we get [unclear], we don’t hate back. There’s a song that comes out of us that people want to have what we have. “And the glory of God did lighten it, and the Lamb is the light thereof.” And who’s the Lamb? Jesus. You see, Jesus and His Word is the light, and when the heavenly thing comes down and we connect with it, then we have the real light, we have the real Jesus, and we get transformation in our life. The results: “The nations of them which are saved shall walk in the light of it.” See, what’s the whole purpose of Him doing this? So people can get saved from their sin, saved from the judgment, saved from the power of darkness, saved from alcohol habits and drug habits and cigarette habits and whatever. They can be delivered, they can be set free. What? By the power of Jesus Christ and His Father, God and our Father.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1757s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Revelation 21:10-11",
+     "translation": "NKJV",
+     "text_nkjv": "And he carried me away in the Spirit to a great and high mountain, and showed me the great city, the holy Jerusalem, descending out of heaven from God, having the glory of God. Her light was like a most precious stone, like a jasper stone, clear as crystal.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Revelation+21%3A10-11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1722s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Psalm 40:3",
+     "translation": "NKJV",
+     "text_nkjv": "He has put a new song in my mouth— Praise to our God; Many will see it and fear, And will trust in the LORD.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Psalm+40%3A3&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1758s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Revelation 21:23-24",
+     "translation": "NKJV",
+     "text_nkjv": "The city had no need of the sun or of the moon to shine in it, for the glory of God illuminated it. The Lamb is its light. And the nations of those who are saved shall walk in its light, and the kings of the earth bring their glory and honor into it.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Revelation+21%3A23-24&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1776s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:who-gets-written-in-the-lambs-book-of-life",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "Who gets written in the Lamb’s Book of Life?",
+   "short_answer": "He says “there is a move of God coming before Christ comes that’s going to revolutionize this whole earth,” because God is “after the nations.” He says believing in Jesus is “one requirement,” and that you also turn from lying and the works God hates for your name to be written in the Book of Life.",
+   "text": "“They will bring the glory and the honor of the nations into it.” You see, I’m telling you, there is a move of God coming before Christ comes that’s going to revolutionize this whole earth, ‘cause God is after the nations. His death on the cross wasn’t for a puny few million. His death on the cross was a big thing. It’s powerful, and He’s after the nations, and He has to change you to reach them. “There shall not enter anything that defiles, lies, or works in abomination, but they which are written in the Lamb’s Book of Life.” And I submit to you, if that statement is true, then what do you got to do to get written in the Lamb’s Book of Life? “But I believe in Jesus. I believe in Jesus. I’m in the Lamb’s Book of Life.” That’s one requirement.",
+   "start_seconds": 1829,
+   "end_seconds": 1891,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1829s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-who-gets-written-in-the-lambs-book-of-life",
+   "paragraphs": [
+    {
+     "start_seconds": 1829,
+     "text": "“They will bring the glory and the honor of the nations into it.” You see, I’m telling you, there is a move of God coming before Christ comes that’s going to revolutionize this whole earth, ‘cause God is after the nations. His death on the cross wasn’t for a puny few million. His death on the cross was a big thing. It’s powerful, and He’s after the nations, and He has to change you to reach them. “There shall not enter anything that defiles, lies, or works in abomination, but they which are written in the Lamb’s Book of Life.” And I submit to you, if that statement is true, then what do you got to do to get written in the Lamb’s Book of Life? “But I believe in Jesus. I believe in Jesus. I’m in the Lamb’s Book of Life.” That’s one requirement.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1829s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Revelation 21:26-27",
+     "translation": "NKJV",
+     "text_nkjv": "And they shall bring the glory and the honor of the nations into it. But there shall by no means enter it anything that defiles, or causes an abomination or a lie, but only those who are written in the Lamb’s Book of Life.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Revelation+21%3A26-27&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1829s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:is-grace-just-unmerited-favor-ephesians-3-7",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "Is grace just unmerited favor? (Ephesians 3:7)",
+   "short_answer": "He reads Ephesians 3:7 and asks whether it sounds like “grace is just the unmerited favor of God.” He says no: “There’s a power working in grace,” and this “shows that grace is divine enablement, not just a little favor.”",
+   "text": "What’s the requirement here? That I turn from lying, I turn from those things that God hates. Abominations, I stop doing the works of them. Then my name is written in the Book of Life. The church, the heavenly Jerusalem, was a mystery from the beginning of time. Ephesians 3:7: “I was made a minister according to the gift of the grace of God given unto me by the effectual working of His power.” Now, does that sound like grace is just the unmerited favor of God, free gift, and pop, that’s it? No. There’s a power working in grace, and that grace made him a minister. And all Americans have is grace that somehow is going to get me to heaven no matter what I do.",
+   "start_seconds": 1891,
+   "end_seconds": 1947,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1891s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-is-grace-just-unmerited-favor-ephesians-3-7",
+   "paragraphs": [
+    {
+     "start_seconds": 1891,
+     "text": "What’s the requirement here? That I turn from lying, I turn from those things that God hates. Abominations, I stop doing the works of them. Then my name is written in the Book of Life. The church, the heavenly Jerusalem, was a mystery from the beginning of time. Ephesians 3:7: “I was made a minister according to the gift of the grace of God given unto me by the effectual working of His power.” Now, does that sound like grace is just the unmerited favor of God, free gift, and pop, that’s it? No. There’s a power working in grace, and that grace made him a minister. And all Americans have is grace that somehow is going to get me to heaven no matter what I do.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1891s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Ephesians 3:7-8",
+     "translation": "NKJV",
+     "text_nkjv": "of which I became a minister according to the gift of the grace of God given to me by the effective working of His power. To me, who am less than the least of all the saints, this grace was given, that I should preach among the Gentiles the unsearchable riches of Christ,",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+3%3A7-8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1918s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:what-is-the-mystery-hidden-from-the-beginning-of-the-world",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "What is the mystery hidden from the beginning of the world?",
+   "short_answer": "He says the mystery, “a secret, something hidden,” is the church, hidden since God created all things by Jesus Christ. He says the purpose was that “spiritual powers in heavenly places” might know the many different kinds of the wisdom of God, and that the plan started before He said let there be light.",
+   "text": "This is just one place that shows that grace is divine enablement, not just a little favor: the working of His what? Power. “Unto me, who am less than the least of the saints, is this grace given” into me, “that I should preach” this grace. I preach the gospel to all people so all men may see “what is the fellowship of the” what? Say that word: mystery. That’s a secret, something hidden. Well, what’s hidden? “This mystery from the beginning of the world.” When did this mystery start? Yeah, when God said, “Let there be light.” This mystery started. It has been hidden, “God who created all things by” who? Jesus Christ.\n\nNow, why did He do that? “To the intent”— to the purpose— “that now unto the principalities and powers in heavenly places,” spiritual powers. The purpose is that spiritual powers in heavenly places “might be known by the church the many different kinds of the wisdom of God.” So what’s the mystery? The church. See, “I’ve come to the heavenly Jerusalem, the city of God, to the church of the firstborn.” His purpose was to build a church from the time He said, “Let there be light.” In fact, it was before that. Jesus died before the foundation of the world. His whole plan started before He said, “Let there be light.”",
+   "start_seconds": 1947,
+   "end_seconds": 2068,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1947s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-what-is-the-mystery-hidden-from-the-beginning-of-the-world",
+   "paragraphs": [
+    {
+     "start_seconds": 1947,
+     "text": "This is just one place that shows that grace is divine enablement, not just a little favor: the working of His what? Power. “Unto me, who am less than the least of the saints, is this grace given” into me, “that I should preach” this grace. I preach the gospel to all people so all men may see “what is the fellowship of the” what? Say that word: mystery. That’s a secret, something hidden. Well, what’s hidden? “This mystery from the beginning of the world.” When did this mystery start? Yeah, when God said, “Let there be light.” This mystery started. It has been hidden, “God who created all things by” who? Jesus Christ.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1947s"
+    },
+    {
+     "start_seconds": 2003,
+     "text": "Now, why did He do that? “To the intent”— to the purpose— “that now unto the principalities and powers in heavenly places,” spiritual powers. The purpose is that spiritual powers in heavenly places “might be known by the church the many different kinds of the wisdom of God.” So what’s the mystery? The church. See, “I’ve come to the heavenly Jerusalem, the city of God, to the church of the firstborn.” His purpose was to build a church from the time He said, “Let there be light.” In fact, it was before that. Jesus died before the foundation of the world. His whole plan started before He said, “Let there be light.”",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=2003s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Ephesians 3:9-11",
+     "translation": "NKJV",
+     "text_nkjv": "and to make all see what is the fellowship of the mystery, which from the beginning of the ages has been hidden in God who created all things through Jesus Christ; to the intent that now the manifold wisdom of God might be made known by the church to the principalities and powers in the heavenly places, according to the eternal purpose which He accomplished in Christ Jesus our Lord,",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+3%3A9-11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1972s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "men-wrote-the-bible:what-is-gods-goal-for-the-church-a-glorious-church",
+   "type": "section",
+   "sermon_slug": "men-wrote-the-bible",
+   "section_question": "What is God’s goal for the church?",
+   "short_answer": "He says the promise is “I will build My church,” and the goal is a glorious church “not having spot or wrinkle.” He says the Second Coming is not just around the corner (“no way”), because God must still fulfill these promises and bring the nations in, and that Jesus is able to keep you from falling by divine enablement.",
+   "text": "Hallelujah. And it was the church, and the many different kinds of wisdom. How many want the full wisdom of God, not just one little corner? Yeah, I mean, come on, church, we got to go for it. We got to go for this stuff. God’s goal for His church in the heavenly Jerusalem: the promise, Matthew 16:18, “I will build My church.” That’s the promise. Okay, the goal: “The gates of hell shall not prevail against it.” You know why Satan is running Christians’ lives in America? Because they don’t understand this revelation of what the new Jerusalem really is, the city of God really is, and the people, that the Jesus and God in that city that comes down and touches us and transforms us. The goal, Ephesians 5, “that He might present it to Himself a” what? “Glorious church.” You think the American church, on the most part, is glorious right now? No way. So you think the Second Coming is just around the corner? No way. He’s got to fulfill these promises, He’s got to bring these nations in, He’s going to do everything He said He would do.\n\n“Not having spot or wrinkle or any such thing, but that it should be holy and without” what? “Blemish.” That’s the goal. That’s the promise. Now unto Him, Jude 24, and who’s Him? Jesus. “Unto Him that is able to” what? “Keep you from falling.” Does that sound like grace is just a, a flattering thing, a favor? He can keep you from that. That’s divine enablement. He comes by His divine power and encourages you and strengthens you and builds you up by might in the inner man, as the Bible says, and you little by little, line upon line, you become a person that walks in truth. We have great hope, folks. We have a great promise. And this is one of the most powerful messages you can hear. It’s been hidden for decades, but God revealed it when Christ came: the church. You are the apple of His eye. You, He wants to make into a crystal with a sound that gets people’s attention. A—",
+   "start_seconds": 2068,
+   "end_seconds": 2229,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=2068s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#q-what-is-gods-goal-for-the-church-a-glorious-church",
+   "paragraphs": [
+    {
+     "start_seconds": 2068,
+     "text": "Hallelujah. And it was the church, and the many different kinds of wisdom. How many want the full wisdom of God, not just one little corner? Yeah, I mean, come on, church, we got to go for it. We got to go for this stuff. God’s goal for His church in the heavenly Jerusalem: the promise, Matthew 16:18, “I will build My church.” That’s the promise. Okay, the goal: “The gates of hell shall not prevail against it.” You know why Satan is running Christians’ lives in America? Because they don’t understand this revelation of what the new Jerusalem really is, the city of God really is, and the people, that the Jesus and God in that city that comes down and touches us and transforms us. The goal, Ephesians 5, “that He might present it to Himself a” what? “Glorious church.” You think the American church, on the most part, is glorious right now? No way. So you think the Second Coming is just around the corner? No way. He’s got to fulfill these promises, He’s got to bring these nations in, He’s going to do everything He said He would do.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=2068s"
+    },
+    {
+     "start_seconds": 2147,
+     "text": "“Not having spot or wrinkle or any such thing, but that it should be holy and without” what? “Blemish.” That’s the goal. That’s the promise. Now unto Him, Jude 24, and who’s Him? Jesus. “Unto Him that is able to” what? “Keep you from falling.” Does that sound like grace is just a, a flattering thing, a favor? He can keep you from that. That’s divine enablement. He comes by His divine power and encourages you and strengthens you and builds you up by might in the inner man, as the Bible says, and you little by little, line upon line, you become a person that walks in truth. We have great hope, folks. We have a great promise. And this is one of the most powerful messages you can hear. It’s been hidden for decades, but God revealed it when Christ came: the church. You are the apple of His eye. You, He wants to make into a crystal with a sound that gets people’s attention. A—",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=2147s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Matthew 16:18",
+     "translation": "NKJV",
+     "text_nkjv": "And I also say to you that you are Peter, and on this rock I will build My church, and the gates of Hades shall not prevail against it.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+16%3A18&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=2092s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Ephesians 5:27",
+     "translation": "NKJV",
+     "text_nkjv": "that He might present her to Himself a glorious church, not having spot or wrinkle or any such thing, but that she should be holy and without blemish.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+5%3A27&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=2122s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Jude 24",
+     "translation": "NKJV",
+     "text_nkjv": "Now to Him who is able to keep you from stumbling, And to present you faultless Before the presence of His glory with exceeding joy,",
+     "source_url": "https://www.biblegateway.com/passage/?search=Jude+24&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=2158s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  }
+ ],
+ "faqs": [
+  {
+   "id": "men-wrote-the-bible:where-were-ezekiel-and-jeremiah-during-the-captivity",
+   "type": "faq",
+   "sermon_slug": "men-wrote-the-bible",
+   "question": "Where were Ezekiel and Jeremiah when Jerusalem was under judgment?",
+   "answer": "He says Ezekiel was the prophet “on the other side of the captivity,” in Babylon, while Jeremiah was in Jerusalem, in Judah. He says they had already been carried away captive once and God had corrected them, “but they didn’t learn their lesson.”",
+   "start_seconds": 0,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=0s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#faq-where-were-ezekiel-and-jeremiah-during-the-captivity",
+   "scriptures": []
+  },
+  {
+   "id": "men-wrote-the-bible:why-does-he-say-americas-church-matches-ezekiels-message",
+   "type": "faq",
+   "sermon_slug": "men-wrote-the-bible",
+   "question": "Why does he say the condition of America’s church matches what Ezekiel says?",
+   "answer": "He says people say “I’m clean by the blood” while living in sin, which he says is exactly what God spoke through Ezekiel: “I have purged you, and you’re not purged.” He says ministers who flatter people and are “out to sell books” spread this message that only cleans by faith.",
+   "start_seconds": 163,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=163s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#faq-why-does-he-say-americas-church-matches-ezekiels-message",
+   "scriptures": []
+  },
+  {
+   "id": "men-wrote-the-bible:what-judgment-was-coming-to-jerusalem-in-two-years",
+   "type": "faq",
+   "sermon_slug": "men-wrote-the-bible",
+   "question": "What was coming to Jerusalem in less than two years?",
+   "answer": "He says Jerusalem was being surrounded by Babylon’s army, and in less than two years the people would be carried away captive and the city and temple destroyed. He says, “this time He’s going to destroy it all.”",
+   "start_seconds": 300,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=300s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#faq-what-judgment-was-coming-to-jerusalem-in-two-years",
+   "scriptures": [
+    {
+     "ref": "Ezekiel 24:14",
+     "translation": "NKJV",
+     "text_nkjv": "I, the LORD, have spoken it; It shall come to pass, and I will do it; I will not hold back, Nor will I spare, Nor will I relent; According to your ways And according to your deeds They will judge you,” Says the Lord GOD.’ ”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ezekiel+24%3A14&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=339s",
+     "quoted_without_naming_reference": true
+    }
+   ]
+  },
+  {
+   "id": "men-wrote-the-bible:does-it-matter-what-you-believe-if-your-ways-are-wrong",
+   "type": "faq",
+   "sermon_slug": "men-wrote-the-bible",
+   "question": "Does it matter what you believe if your ways are wrong?",
+   "answer": "He says, “It doesn’t matter if you believe something is okay if your ways are wrong according to God’s ways.” He says we are promised change in our life, but when it doesn’t happen quickly we start justifying and trying to solve it ourselves.",
+   "start_seconds": 359,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=359s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#faq-does-it-matter-what-you-believe-if-your-ways-are-wrong",
+   "scriptures": [
+    {
+     "ref": "2 Corinthians 5:17",
+     "translation": "NKJV",
+     "text_nkjv": "Therefore, if anyone is in Christ, he is a new creation; old things have passed away; behold, all things have become new.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+5%3A17&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=387s",
+     "quoted_without_naming_reference": true
+    }
+   ]
+  },
+  {
+   "id": "men-wrote-the-bible:were-the-writers-of-the-bible-perfect-people",
+   "type": "faq",
+   "sermon_slug": "men-wrote-the-bible",
+   "question": "Were the people who wrote the Bible perfect?",
+   "answer": "He says they were “a bunch of hardheads like us, but the Spirit made them right.” He asks how many would like the Holy Ghost to make them live right and says this is what God has promised.",
+   "start_seconds": 424,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=424s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#faq-were-the-writers-of-the-bible-perfect-people",
+   "scriptures": []
+  },
+  {
+   "id": "men-wrote-the-bible:where-did-god-dwell-in-ezekiels-day",
+   "type": "faq",
+   "sermon_slug": "men-wrote-the-bible",
+   "question": "Where did God dwell in Ezekiel’s day?",
+   "answer": "He says it was in the temple in Jerusalem, “on the cherubim, between the cherubim on the ark of the covenant.” He says that temple and city were what the people were obsessed with while committing adultery, lying and killing innocent people.",
+   "start_seconds": 660,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=660s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#faq-where-did-god-dwell-in-ezekiels-day",
+   "scriptures": []
+  },
+  {
+   "id": "men-wrote-the-bible:who-pays-the-price-when-adults-live-loosely",
+   "type": "faq",
+   "sermon_slug": "men-wrote-the-bible",
+   "question": "Who does he say pays the price when adults live loosely?",
+   "answer": "He says “the children” do, and that the adults need to “buck up and be adults and stand for morality and live right at the cost of their own pain.” He says nobody is putting the blame where it belongs.",
+   "start_seconds": 773,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=773s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#faq-who-pays-the-price-when-adults-live-loosely",
+   "scriptures": [
+    {
+     "ref": "Ezekiel 24:21",
+     "translation": "NKJV",
+     "text_nkjv": "‘Speak to the house of Israel, “Thus says the Lord GOD: ‘Behold, I will profane My sanctuary, your arrogant boast, the desire of your eyes, the delight of your soul; and your sons and daughters whom you left behind shall fall by the sword.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ezekiel+24%3A21&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=774s",
+     "quoted_without_naming_reference": true
+    }
+   ]
+  },
+  {
+   "id": "men-wrote-the-bible:what-does-he-mean-by-shadow-laws",
+   "type": "faq",
+   "sermon_slug": "men-wrote-the-bible",
+   "question": "What does he mean by the “shadow laws”?",
+   "answer": "He says they are “the laws that were an illustration of the truth He was going to perform and bring into reality when He came to earth, born of a virgin and dying on the cross.” He says the civil laws and the spiritual laws are still with us, but the Jews were obsessed with the shadow laws.",
+   "start_seconds": 825,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=825s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#faq-what-does-he-mean-by-shadow-laws",
+   "scriptures": [
+    {
+     "ref": "Galatians 4:21-24",
+     "translation": "NKJV",
+     "text_nkjv": "Tell me, you who desire to be under the law, do you not hear the law? For it is written that Abraham had two sons: the one by a bondwoman, the other by a freewoman. But he who was of the bondwoman was born according to the flesh, and he of the freewoman through promise, which things are symbolic. For these are the two covenants: the one from Mount Sinai which gives birth to bondage, which is Hagar—",
+     "source_url": "https://www.biblegateway.com/passage/?search=Galatians+4%3A21-24&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=826s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "men-wrote-the-bible:how-many-covenants-does-galatians-4-describe",
+   "type": "faq",
+   "sermon_slug": "men-wrote-the-bible",
+   "question": "How many covenants does Galatians 4 describe, and what are they?",
+   "answer": "He says there are two: one from Mount Sinai, “that law,” the shadow laws, which is Hagar and bears children into bondage; and the Jerusalem which is above, which is free. He says you can only call things an allegory when God calls them an allegory.",
+   "start_seconds": 948,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=948s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#faq-how-many-covenants-does-galatians-4-describe",
+   "scriptures": [
+    {
+     "ref": "Galatians 4:24",
+     "translation": "NKJV",
+     "text_nkjv": "which things are symbolic. For these are the two covenants: the one from Mount Sinai which gives birth to bondage, which is Hagar—",
+     "source_url": "https://www.biblegateway.com/passage/?search=Galatians+4%3A24&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1003s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "men-wrote-the-bible:why-is-the-church-referred-to-as-a-female",
+   "type": "faq",
+   "sermon_slug": "men-wrote-the-bible",
+   "question": "Why does he say the city and the church are referred to as a female?",
+   "answer": "He says the Jerusalem from above is “the mother of us all,” and the natural city and temple were an allegory of the real thing. He says, “God keeps the continuity all the way through the Bible.”",
+   "start_seconds": 1142,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1142s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#faq-why-is-the-church-referred-to-as-a-female",
+   "scriptures": [
+    {
+     "ref": "Galatians 4:26",
+     "translation": "NKJV",
+     "text_nkjv": "but the Jerusalem above is free, which is the mother of us all.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Galatians+4%3A26&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1178s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "men-wrote-the-bible:does-he-say-we-have-to-wait-for-the-rapture",
+   "type": "faq",
+   "sermon_slug": "men-wrote-the-bible",
+   "question": "Does he say we have to wait for the rapture to experience the heavenly Jerusalem?",
+   "answer": "He says the heavenly Jerusalem “comes down today, it’ll come down tomorrow, it came down yesterday,” and “I need a God that’s powerful now and can change my life now.” He says he can’t wait for some rapture and end-time idea.",
+   "start_seconds": 1292,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1292s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#faq-does-he-say-we-have-to-wait-for-the-rapture",
+   "scriptures": []
+  },
+  {
+   "id": "men-wrote-the-bible:what-does-it-mean-that-the-church-is-the-bride",
+   "type": "faq",
+   "sermon_slug": "men-wrote-the-bible",
+   "question": "What does it mean that the church is the bride of Christ?",
+   "answer": "He cites 2 Corinthians 11:2 and Romans 7:4 and says “the church is the bride,” married to Christ so that we “bring forth fruit.” He says it is imperative to have a relationship with Jesus, and that “it’s out of the relationship that fruit is naturally produced.”",
+   "start_seconds": 1427,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1427s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#faq-what-does-it-mean-that-the-church-is-the-bride",
+   "scriptures": [
+    {
+     "ref": "2 Corinthians 11:2",
+     "translation": "NKJV",
+     "text_nkjv": "For I am jealous for you with godly jealousy. For I have betrothed you to one husband, that I may present you as a chaste virgin to Christ.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+11%3A2&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1430s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Romans 7:4",
+     "translation": "NKJV",
+     "text_nkjv": "Therefore, my brethren, you also have become dead to the law through the body of Christ, that you may be married to another—to Him who was raised from the dead, that we should bear fruit to God.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Romans+7%3A4&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1442s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "men-wrote-the-bible:what-does-he-say-the-church-of-the-firstborn-is",
+   "type": "faq",
+   "sermon_slug": "men-wrote-the-bible",
+   "question": "What does he say “the church of the firstborn” means?",
+   "answer": "He says it is us: “we come out from among the nations, we come to Jesus.” He says that is what church means, “the assembled,” and that we come to the heavenly city and become it when it touches us.",
+   "start_seconds": 1483,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1483s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#faq-what-does-he-say-the-church-of-the-firstborn-is",
+   "scriptures": [
+    {
+     "ref": "Hebrews 12:22-24",
+     "translation": "NKJV",
+     "text_nkjv": "But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, to an innumerable company of angels, to the general assembly and church of the firstborn who are registered in heaven, to God the Judge of all, to the spirits of just men made perfect, to Jesus the Mediator of the new covenant, and to the blood of sprinkling that speaks better things than that of Abel.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Hebrews+12%3A22-24&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1508s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "men-wrote-the-bible:why-does-he-compare-believers-to-crystal",
+   "type": "faq",
+   "sermon_slug": "men-wrote-the-bible",
+   "question": "Why does he compare believers to crystal?",
+   "answer": "He says crystal has all the impurities out, heated until “there’s not one little speck of impurity,” and when you thump it, it has that ring. He says that when we get like crystal, “we don’t hate back,” and “there’s a song that comes out of us that people want to have what we have.”",
+   "start_seconds": 1716,
+   "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1716s",
+   "page_anchor_url": "https://growonthevine.com/messages/men-wrote-the-bible/#faq-why-does-he-compare-believers-to-crystal",
+   "scriptures": [
+    {
+     "ref": "Revelation 21:10-11",
+     "translation": "NKJV",
+     "text_nkjv": "And he carried me away in the Spirit to a great and high mountain, and showed me the great city, the holy Jerusalem, descending out of heaven from God, having the glory of God. Her light was like a most precious stone, like a jasper stone, clear as crystal.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Revelation+21%3A10-11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=i5PVOMC19PQ&t=1722s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  }
+ ]
+}
