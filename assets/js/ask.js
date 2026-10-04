@@ -6,7 +6,42 @@ function el(t,c,x){var n=document.createElement(t);if(c)n.className=c;if(x!=null
 function link(href,cls,txt){var a=el('a',cls,txt);a.href=href;a.target='_blank';a.rel='noopener noreferrer';return a}
 /* verse-vs-sermon: shared builders so every Scripture / sermon element gets the same classes, icon and label */
 function tag(kind,label){var t=el('span','vs-tag vs-tag--'+kind),ic=el('span','vs-ico',kind==='scr'?'\uD83D\uDCD6':'\uD83C\uDF99');ic.setAttribute('aria-hidden','true');t.appendChild(ic);t.appendChild(document.createTextNode(label));return t}
-function verseBlock(v,id){var bq=el('blockquote','vs-block vs-scr');if(id)bq.id=id;var hd=el('div','vs-head');hd.appendChild(tag('scr','Scripture (BSB)'));bq.appendChild(hd);bq.appendChild(el('p','vs-text',v.text));var c=el('cite');c.appendChild(el('strong','vs-ref',v.ref+' (BSB)'));bq.appendChild(c);return bq}
+function verseBlock(v,id){var bq=el('blockquote','vs-block vs-scr');if(id)bq.id=id;var hd=el('div','vs-head');hd.appendChild(tag('scr','Scripture (BSB)'));bq.appendChild(hd);bq.appendChild(el('p','vs-text',v.text));var c=el('cite');c.appendChild(el('strong','vs-ref',v.ref+' (BSB)'));bq.appendChild(c);enhanceBlock(bq);return bq}
+/* ---- Scripture pop-up: a verse reference opens the verse text in place (no navigation, scroll position untouched) ---- */
+var ONECH={Obadiah:1,Philemon:1,'2 John':1,'3 John':1,Jude:1};
+function chapterUrl(ref){var m=/^(.+?)\s+(\d+)(?::.*)?$/.exec(ref||'');var q=ref||'';if(m){var ch=/:/.test(ref)||!ONECH[m[1]]?m[2]:'1';q=m[1]+' '+ch}return 'https://www.biblegateway.com/passage/?search='+encodeURIComponent(q)+'&version=BSB'}
+var pop=null,popTrig=null,popPrevOv='',popPrevPad='';
+function buildPop(){
+ var ov=el('div','vp-ov');ov.hidden=true;var dg=el('div','vp-card');dg.setAttribute('role','dialog');dg.setAttribute('aria-modal','true');dg.setAttribute('aria-labelledby','vp-h');dg.setAttribute('aria-describedby','vp-t');dg.tabIndex=-1;
+ dg.appendChild(el('span','vp-grab'));
+ var top=el('div','vp-top');top.appendChild(tag('scr','Scripture (BSB)'));var x=el('button','vp-x','\u00D7');x.type='button';x.setAttribute('aria-label','Close verse');top.appendChild(x);dg.appendChild(top);
+ var h=el('h2','vp-h');h.id='vp-h';dg.appendChild(h);var t=el('p','vp-t');t.id='vp-t';dg.appendChild(t);
+ var ft=el('div','vp-ft');var a=el('a','vp-ch','Read the whole chapter \u2197');a.target='_blank';a.rel='noopener noreferrer';var sr=el('span','vp-sr',' (opens in a new tab)');a.appendChild(sr);ft.appendChild(a);var cb=el('button','vp-close','Close');cb.type='button';ft.appendChild(cb);dg.appendChild(ft);
+ ov.appendChild(dg);document.body.appendChild(ov);
+ ov.addEventListener('mousedown',function(e){if(e.target===ov)closePop()});
+ x.addEventListener('click',closePop);cb.addEventListener('click',closePop);
+ ov.addEventListener('keydown',function(e){
+  if(e.key==='Escape'||e.key==='Esc'){e.preventDefault();e.stopPropagation();closePop();return}
+  if(e.key==='Tab'){var f=[x,a,cb];var i=f.indexOf(document.activeElement);if(e.shiftKey){if(i<=0){e.preventDefault();f[f.length-1].focus()}}else if(i===f.length-1||i<0){e.preventDefault();f[0].focus()}}});
+ pop={ov:ov,dg:dg,h:h,t:t,a:a,x:x};return pop}
+function closePop(){if(!pop||pop.ov.hidden)return;pop.ov.hidden=true;document.body.style.overflow=popPrevOv;document.body.style.paddingRight=popPrevPad;var t=popTrig;popTrig=null;if(t&&document.body.contains(t)){try{t.focus({preventScroll:true})}catch(_){t.focus()}}}
+function openPop(ref,text,trig){
+ if(!text){window.open(chapterUrl(ref),'_blank','noopener,noreferrer');return}
+ if(!pop)buildPop();pop.h.textContent=ref+' (BSB)';pop.t.textContent=text;pop.a.firstChild.nodeValue='Read the whole chapter \u2197';pop.a.href=chapterUrl(ref);
+ popTrig=trig||null;var sw=window.innerWidth-document.documentElement.clientWidth;popPrevOv=document.body.style.overflow;popPrevPad=document.body.style.paddingRight;document.body.style.overflow='hidden';if(sw>0)document.body.style.paddingRight=sw+'px';
+ pop.ov.hidden=false;pop.t.scrollTop=0;try{pop.x.focus({preventScroll:true})}catch(_){pop.x.focus()}}
+function blockFor(a){var h=a.getAttribute('href')||'';if(h.charAt(0)!=='#')return null;var b=document.getElementById(h.slice(1));return b&&b.querySelector('.vs-text')?b:null}
+document.addEventListener('click',function(e){
+ var a=e.target.closest&&e.target.closest('a.vs-rc,button.vs-open');if(!a||(e.button&&e.button!==0))return;
+ var ref=(a.textContent||'').replace(/\s*\(BSB\)\s*$/,'').trim(),b=null;
+ if(a.tagName==='A')b=blockFor(a);else b=a.closest('.vs-block');
+ if(!b){/* verse text not on the page: fall back to the BSB chapter in a new tab */e.preventDefault();window.open(chapterUrl(ref),'_blank','noopener,noreferrer');return}
+ e.preventDefault();var tx=b.querySelector('.vs-text');var rf=b.querySelector('.vs-ref');if(rf)ref=rf.textContent.replace(/\s*\(BSB\)\s*$/,'').trim();
+ openPop(ref,tx?tx.textContent.trim():'',a)});
+/* static (prepared) answers: make each Scripture-list reference a pop-up button too */
+function enhanceBlock(bq){var r=bq.querySelector('cite .vs-ref');if(r&&!r.querySelector('button')){var t=r.textContent;var b=el('button','vs-open',t);b.type='button';b.setAttribute('aria-haspopup','dialog');b.title='Show this verse in a pop-up';r.textContent='';r.appendChild(b)}}
+function enhanceStatic(){[].forEach.call(document.querySelectorAll('.vs-scr cite .vs-ref'),function(r){if(r.querySelector('button'))return;var t=r.textContent;var b=el('button','vs-open',t);b.type='button';b.setAttribute('aria-haspopup','dialog');b.title='Show this verse in a pop-up';r.textContent='';r.appendChild(b)});[].forEach.call(document.querySelectorAll('a.vs-rc'),function(a){a.setAttribute('aria-haspopup','dialog')})}
+
 function legend(){var d=el('div','vs-legend');d.setAttribute('role','note');d.setAttribute('aria-label','How to tell Scripture from the preacher\u2019s words');
  d.appendChild(el('span','vs-legend-title','How to read this:'));
  var k1=el('span','vs-key');k1.appendChild(tag('scr','Scripture (BSB)'));k1.appendChild(el('span','vs-key-d','the Bible\u2019s own words'));d.appendChild(k1);
@@ -27,10 +62,10 @@ function render(d){
   if(pg.label)card.appendChild(el('h3','plabel',pg.label));var p=el('p');
   pg.segs.forEach(function(g){
    if(g.t==='text'){p.appendChild(document.createTextNode(g.v))}
-   else if(g.t==='b'){var q=el('q','vs-q vs-q--scr','\u201C'+g.v+'\u201D');p.appendChild(q);var c=el('span','vs-cite');c.appendChild(document.createTextNode(' (BSB, '));var a=el('a','vs-rc',vref[g.vid]||'');a.href='#v-live-'+(vnum[g.vid]||1);c.appendChild(a);c.appendChild(document.createTextNode(')'));p.appendChild(c)}
+   else if(g.t==='b'){var q=el('q','vs-q vs-q--scr','\u201C'+g.v+'\u201D');p.appendChild(q);var c=el('span','vs-cite');c.appendChild(document.createTextNode(' (BSB, '));var a=el('a','vs-rc',vref[g.vid]||'');a.href='#v-live-'+(vnum[g.vid]||1);a.setAttribute('aria-haspopup','dialog');c.appendChild(a);c.appendChild(document.createTextNode(')'));p.appendChild(c)}
    else if(g.t==='k'){p.appendChild(el('q','vs-q vs-q--srm','\u201C'+g.v+'\u201D'))}
    else if(g.t==='s'&&sm[g.sid]){var s=sm[g.sid];p.appendChild(document.createTextNode(' '));var a2=link(safeUrl(s.watch_url),'vs-watch','\u25B6 '+s.title+' '+s.time);a2.title='Watch this part on YouTube';p.appendChild(a2);p.appendChild(document.createTextNode(' '))}
-   else if(g.t==='v'){var a3=el('a','vs-rc',vref[g.vid]||'');a3.href='#v-live-'+(vnum[g.vid]||1);p.appendChild(a3)}
+   else if(g.t==='v'){var a3=el('a','vs-rc',vref[g.vid]||'');a3.href='#v-live-'+(vnum[g.vid]||1);a3.setAttribute('aria-haspopup','dialog');p.appendChild(a3)}
   });card.appendChild(p)});
  art.appendChild(card);
  if(d.not_covered){var gn=el('div','gapnote');gn.appendChild(el('strong',null,'Not covered in the sermons yet. '));gn.appendChild(document.createTextNode(d.not_covered));art.appendChild(gn)}
@@ -64,6 +99,7 @@ function ask(q,fallbackId){
   else{fail([d.message||'Something went wrong on our side and we could not put an answer together. Please try again in a moment.'])}
  }).catch(function(){clearTimeout(to);busy(false);fail(['We could not reach the answer service just now. Please check your connection and try again in a moment.'])});
 }
+enhanceStatic();
 form.addEventListener('submit',function(e){e.preventDefault();ask(inp.value,null)});
 bs.forEach(function(b){b.addEventListener('click',function(e){if(b.tagName==='A'&&form.hasAttribute('data-askpage'))return;e.preventDefault();inp.value=b.dataset.q;try{history.replaceState(null,'','?q='+encodeURIComponent(b.dataset.q))}catch(_){}ask(b.dataset.q,b.dataset.target)})});
 /* ?q=<question> (from the question chips on the home page and shared links): pre-fill the box and run the Ask */
