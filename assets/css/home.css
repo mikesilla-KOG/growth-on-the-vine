@@ -1,10 +1,10 @@
 /* Home page (live). Loaded after assets/css/styles.css + ask.css; reuses their variables, fonts and cream background.
    Colour code (always paired with an icon + text label, never colour alone):
-   gold = Clips, deep green = Full Messages, soft blue = Ask. */
+   gold = Clips, deep green = Full Messages, light cream + sage-gold = Ask (brand palette; Scripture blocks elsewhere stay blue). */
 .gv-home {
   --gv-gold: #e8c547;      --gv-gold-bg: #fbf1c9;  --gv-gold-line: #b8922a; --gv-gold-ink: #4d3900;
   --gv-green: #1a3d2e;     --gv-green-bg: #e3efe7; --gv-green-line: #2d5c42; --gv-green-ink: #1a3d2e;
-  --gv-blue: #24618f;      --gv-blue-bg: #dcebf7;  --gv-blue-line: #5b94c2; --gv-blue-ink: #0f3a5c;
+  --gv-ask: #2d5c42;       --gv-ask-bg: #f5f6e4;   --gv-ask-line: #b3c28a; --gv-ask-ink: #1a3d2e; --gv-ask-field: #86a06f;
   --gv-pad: 1.1rem;
   --gv-w: min(var(--wide), 100%);
 }
@@ -25,7 +25,7 @@
 .gv-menu .gv-mi { font-size:1.35rem; line-height:1.1; }
 .gv-m-home   { --mc: var(--forest); }
 .gv-m-clips  { --mc: var(--gv-gold-line); }
-.gv-m-ask    { --mc: var(--gv-blue); }
+.gv-m-ask    { --mc: var(--gv-ask-line); }
 .gv-m-search { --mc: var(--gv-green-line); }
 @media (min-width:640px) {
   .gv-menu { display:flex; justify-content:center; gap:.5rem; padding:.3rem 1rem 0; }
@@ -52,19 +52,19 @@
 @media (max-width:480px) { .gv-start { width:100%; } }
 
 /* ---------- ask box (blue) ---------- */
-.gv-ask { background:var(--gv-blue-bg); border:2px solid var(--gv-blue-line); border-radius:calc(var(--radius) + 4px); padding:1rem var(--gv-pad) 1rem; margin:.5rem 0 0; }
-.gv-ask h2 { margin:0 0 .6rem; font-size:clamp(1.3rem,3.4vw,1.7rem); color:var(--gv-blue-ink); }
-.gv-ask .askbox { background:#fff; border-color:var(--gv-blue-line); margin:0 0 .8rem; }
-.gv-ask .askrow button.go { background:var(--gv-blue); min-width:6rem; }
-.gv-ask .askrow button.go:hover { background:var(--gv-blue-ink); }
-.gv-ask .askrow button.go:disabled { background:#8aa1b3; }
-.gv-chips-label { margin:0 0 .45rem; font-weight:700; color:var(--gv-blue-ink); font-size:.95rem; }
+.gv-ask { background:linear-gradient(180deg,#fbf6dc 0%,var(--gv-ask-bg) 38%,#eff4e2 100%); border:2px solid var(--gv-ask-line); box-shadow:inset 0 0 0 3px #fffdf5; border-radius:calc(var(--radius) + 4px); padding:1rem var(--gv-pad) 1rem; margin:.5rem 0 0; }
+.gv-ask h2 { margin:0 0 .6rem; font-size:clamp(1.3rem,3.4vw,1.7rem); color:var(--gv-ask-ink); }
+.gv-ask .askbox { background:#fff; border-color:var(--gv-ask-field); margin:0 0 .8rem; }
+.gv-ask .askrow button.go { background:var(--gv-ask); min-width:6rem; }
+.gv-ask .askrow button.go:hover { background:var(--gv-ask-ink); }
+.gv-ask .askrow button.go:disabled { background:#8a9a8c; }
+.gv-chips-label { margin:0 0 .45rem; font-weight:700; color:var(--gv-ask-ink); font-size:.95rem; }
 .gv-chips { display:flex; flex-wrap:wrap; gap:.5rem; }
-.gv-chip.qbtn { display:inline-flex; align-items:center; margin:0; min-height:2.75rem; text-decoration:none; background:#fff; border:2px solid var(--gv-blue); color:var(--gv-blue-ink); font-size:1rem; line-height:1.25; }
-.gv-chip.qbtn:hover, .gv-chip.qbtn[aria-pressed=true] { background:var(--gv-blue); color:#fff; }
+.gv-chip.qbtn { display:inline-flex; align-items:center; margin:0; min-height:2.75rem; text-decoration:none; background:#fff; border:2px solid var(--gv-ask); color:var(--gv-ask-ink); font-size:1rem; line-height:1.25; }
+.gv-chip.qbtn:hover, .gv-chip.qbtn[aria-pressed=true] { background:var(--gv-ask); color:#fff; }
 .gv-ask .ai-disclaimer { margin:.9rem 0 .4rem; font-size:.9rem; padding:.45rem .8rem; }
 .gv-ask-more { margin:0; font-size:.95rem; }
-.gv-ask-more a { color:var(--gv-blue-ink); font-weight:700; }
+.gv-ask-more a { color:var(--gv-ask-ink); font-weight:700; }
 .gv-ask #live:empty { display:none; }
 .gv-ask #live { margin-top:1rem; }
 .gv-ask .answer { margin:.2rem 0 0; }
@@ -73,7 +73,7 @@
 .gv-tag { display:inline-flex; align-items:center; gap:.3rem; align-self:flex-start; font-size:.78rem; font-weight:700; line-height:1.2; padding:.18rem .6rem; border-radius:999px; border:1.5px solid transparent; white-space:nowrap; }
 .gv-tag-clip { background:var(--gv-gold-bg); color:var(--gv-gold-ink); border-color:var(--gv-gold-line); }
 .gv-tag-full { background:var(--gv-green); color:#fff; border-color:var(--gv-green); }
-.gv-tag-ask  { background:var(--gv-blue-bg); color:var(--gv-blue-ink); border-color:var(--gv-blue); }
+.gv-tag-ask  { background:var(--gv-ask-bg); color:var(--gv-ask-ink); border-color:var(--gv-ask-field); }
 
 /* ---------- three big tiles ---------- */
 .gv-tiles { list-style:none; margin:0; padding:0; display:grid; grid-template-columns:minmax(0,1fr); gap:.9rem; }
@@ -90,8 +90,8 @@
 .gv-tile-clips .gv-tile-ico { background:var(--gv-gold); }
 .gv-tile-full  { --tl:var(--gv-green);     --tb:var(--gv-green-bg); --ti:var(--gv-green-ink); --tbtn:var(--gv-green); --tbtnc:#fff; }
 .gv-tile-full .gv-tile-ico { background:var(--gv-green); }
-.gv-tile-ask   { --tl:var(--gv-blue);      --tb:var(--gv-blue-bg);  --ti:var(--gv-blue-ink);  --tbtn:var(--gv-blue);  --tbtnc:#fff; }
-.gv-tile-ask .gv-tile-ico { background:#fff; border:2px solid var(--gv-blue); }
+.gv-tile-ask   { --tl:var(--gv-ask-line);      --tb:var(--gv-ask-bg);  --ti:var(--gv-ask-ink);  --tbtn:var(--gv-ask);  --tbtnc:#fff; }
+.gv-tile-ask .gv-tile-ico { background:#fff; border:2px solid var(--gv-ask-field); }
 .gv-tile-full .gv-tile-ico { filter:none; }
 @media (min-width:768px) {
   .gv-tiles { grid-template-columns:repeat(3,minmax(0,1fr)); gap:1.2rem; }
