@@ -112,3 +112,13 @@ blockquote.verse cite{font-style:normal;font-size:.9rem;color:var(--muted)}
   .answer .summarycard,.answer .gapnote,blockquote.verse,.smlist li{break-inside:avoid}
   .answer .blk h3{break-after:avoid}
 }
+
+/* ---- Ask page: "ways out" row (Home / Clips / Messages / Search) ---- */
+.ask-exits { display:flex; flex-wrap:wrap; gap:.5rem; margin:1.1rem 0 0; padding:0; list-style:none; }
+.ask-exits a { display:inline-flex; align-items:center; gap:.4rem; min-height:2.75rem; padding:.45rem 1.1rem; border-radius:999px; background:var(--leaf); color:#fff !important; border:2px solid var(--leaf); font-weight:700; font-size:1rem; line-height:1.2; text-decoration:none; }
+.ask-exits a:hover { background:var(--forest); border-color:var(--forest); }
+.ask-exits a:focus-visible { outline:3px solid var(--focus); outline-offset:3px; }
+.ask-exits .ask-exit-home { background:var(--gold-soft, #f3dc8b); color:var(--forest) !important; border-color:var(--gold, #b8922a); }
+.ask-exits .ask-exit-home:hover { background:var(--gold, #e8c547); border-color:var(--gold, #b8922a); }
+.ask-page .ask-exits-wrap + .gv-ask { margin-top:.9rem; }
+@media (max-width:480px) { .ask-exits { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); } .ask-exits a { justify-content:center; } }
