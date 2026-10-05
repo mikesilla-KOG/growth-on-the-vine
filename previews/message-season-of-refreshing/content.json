@@ -1,0 +1,617 @@
+{
+ "schema_version": 1,
+ "sermon": {
+  "slug": "season-of-refreshing",
+  "title": "Season of Refreshing",
+  "series": "Single message",
+  "series_part": "Full sermon",
+  "speaker": "Pastor David G. Kincer",
+  "church": "Vine Cluster Church",
+  "video_id": "6tyZc9DKWQQ",
+  "video_url": "https://www.youtube.com/watch?v=6tyZc9DKWQQ",
+  "upload_date": "2015-05-25",
+  "duration_seconds": 1692,
+  "language": "en",
+  "page_url": "https://growonthevine.com/messages/season-of-refreshing/",
+  "status": "preview",
+  "summary": "Pastor David G. Kincer teaches on the times of refreshing that come from the presence of the Lord (Acts 3:19), tracing four awakenings in America (1730, 1790, 1856 and 1967): the conditions before each, what God did, and how men’s doctrines and extremes derailed them. He insists the credit belongs to Jesus, not flawed men or churches, and urges believers to seek a refreshing now by stirring one another up to love and good works.",
+  "transcript_source": "This transcript comes from YouTube’s automatic English captions, which supply the timing and the words. Punctuation, capitalization and paragraphing were added by hand, and obvious caption errors were corrected; his wording was not rewritten. “[unclear]” marks a word or name that was not clear. Editor note: he gives “1 Chronicles 12:38” for the children of Issachar having understanding of the times; that verse is 1 Chronicles 12:32 (shown). The captions read “Hebrews 61” for repentance from dead works, rendered Hebrews 6:1. His historical figures and statements (colonial population and slave numbers, church attendance percentages, crowd sizes, Confederate soldiers saved, sexually transmitted disease rates, Catholics filled with the Spirit) and his comments on named historical preachers and church leaders are his own and are not verified here. A few words are marked [unclear].",
+  "brand": "Grow on the Vine"
+ },
+ "bible_translation": {
+  "code": "NKJV",
+  "notice": "Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved."
+ },
+ "chunks": [
+  {
+   "id": "season-of-refreshing:what-is-present-truth-and-understanding-the-times",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "Why do Christians need present truth and an understanding of the times? (2 Peter 1:12; 1 Chronicles 12:32)",
+   "short_answer": "He says God has a purpose and does His purposes in times and seasons, and like the children of Issachar we need understanding of the times to know what the church should do in our generation. He says “a lot of the church’s problem” is that “we don’t have knowledge we’re ignorant of things.”",
+   "text": "Okay again 2 Peter 1:12 be established in present truth in Ecclesiastes chapter 3 God has a purpose and he does these purposes in times and seasons 1 Chronicles 12:38 the children of Issachar had understanding of the times to know what Israel ought to do and through this teaching we’re trusting that we’re going to get understanding to know know what the church should do in our generation. Acts 3:14 you denied the holy one you killed the prince of life Jesus whom God raised from the dead I know you did it in ignorance and that’s a lot of the church’s problem we don’t have knowledge we’re ignorant of things as did your rulers their leaders were ignorant but those things which God foretold by the mouth of his all his prophets that Christ would suffer he has thus",
+   "start_seconds": 1,
+   "end_seconds": 71,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-what-is-present-truth-and-understanding-the-times",
+   "paragraphs": [
+    {
+     "start_seconds": 1,
+     "text": "Okay again 2 Peter 1:12 be established in present truth in Ecclesiastes chapter 3 God has a purpose and he does these purposes in times and seasons 1 Chronicles 12:38 the children of Issachar had understanding of the times to know what Israel ought to do and through this teaching we’re trusting that we’re going to get understanding to know know what the church should do in our generation. Acts 3:14 you denied the holy one you killed the prince of life Jesus whom God raised from the dead I know you did it in ignorance and that’s a lot of the church’s problem we don’t have knowledge we’re ignorant of things as did your rulers their leaders were ignorant but those things which God foretold by the mouth of his all his prophets that Christ would suffer he has thus",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "2 Peter 1:12",
+     "translation": "NKJV",
+     "text_nkjv": "For this reason I will not be negligent to remind you always of these things, though you know and are established in the present truth.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Peter+1%3A12&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=5s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Ecclesiastes 3:1",
+     "translation": "NKJV",
+     "text_nkjv": "To everything there is a season, A time for every purpose under heaven:",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+3%3A1&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=14s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "1 Chronicles 12:32",
+     "translation": "NKJV",
+     "text_nkjv": "of the sons of Issachar who had understanding of the times, to know what Israel ought to do, their chiefs were two hundred; and all their brethren were at their command;",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Chronicles+12%3A32&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=20s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Acts 3:14-18",
+     "translation": "NKJV",
+     "text_nkjv": "But you denied the Holy One and the Just, and asked for a murderer to be granted to you, and killed the Prince of life, whom God raised from the dead, of which we are witnesses. And His name, through faith in His name, has made this man strong, whom you see and know. Yes, the faith which comes through Him has given him this perfect soundness in the presence of you all. “Yet now, brethren, I know that you did it in ignorance, as did also your rulers. But those things which God foretold by the mouth of all His prophets, that the Christ would suffer, He has thus fulfilled.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+3%3A14-18&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=41s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "season-of-refreshing:what-are-the-times-of-refreshing",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "What are the times of refreshing in Acts 3:19?",
+   "short_answer": "He says Acts 3:19 calls for more than faith: “be converted be changed into another man and repent from your sins,” so the times of refreshing come from the presence of the Lord. He says these seasons of refreshing come only from the presence of the Lord Jesus Christ, until the times of restoration of all things.",
+   "text": "fulfilled. So he goes on to say for that reason because Christ fulfilled the other scriptures be converted and repent that your sins be blotted out not just faith but be converted be changed into another man and repent from your sins so the times of refreshing shall come from the presence of the Lord and that’s our subject today is the times of refreshing the seasons of refreshing that come from only the presence of the Lord Jesus Christ so that God may send Jesus Christ who has preached to you before whom the heaven must retain until the times of restoration are of all things which God has spoken by the mouth of all his holy prophets since the world began so we’re going to look at the refreshing in",
+   "start_seconds": 71,
+   "end_seconds": 130,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=71s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-what-are-the-times-of-refreshing",
+   "paragraphs": [
+    {
+     "start_seconds": 71,
+     "text": "fulfilled. So he goes on to say for that reason because Christ fulfilled the other scriptures be converted and repent that your sins be blotted out not just faith but be converted be changed into another man and repent from your sins so the times of refreshing shall come from the presence of the Lord and that’s our subject today is the times of refreshing the seasons of refreshing that come from only the presence of the Lord Jesus Christ so that God may send Jesus Christ who has preached to you before whom the heaven must retain until the times of restoration are of all things which God has spoken by the mouth of all his holy prophets since the world began so we’re going to look at the refreshing in",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=71s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 3:19-21",
+     "translation": "NKJV",
+     "text_nkjv": "Repent therefore and be converted, that your sins may be blotted out, so that times of refreshing may come from the presence of the Lord, and that He may send Jesus Christ, who was preached to you before, whom heaven must receive until the times of restoration of all things, which God has spoken by the mouth of all His holy prophets since the world began.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+3%3A19-21&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=80s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "season-of-refreshing:what-was-america-like-before-the-first-great-awakening",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "What was America like before the first Great Awakening?",
+   "short_answer": "He lists four obvious refreshings of God in history: 1730, 1790, 1856 and 1967. Before 1730 he describes Indian wars, European wars, epidemics, and intoxication, profanity and immorality in the colonies, with only 20% of the Massachusetts colony attending church, a half covenant that let unsaved people be members, and growing humanism.",
+   "text": "1730, 1790, 1856 and 1967. Four obvious refreshing of God times of refreshing from the presence of the Lord are in history books and have been in history books three of them the latest one is now accepted as a historical. Awakening so we’re going to look at the preconditions to the 1730 refreshing what was the conditions of America at that time well first of all the population was 500,000 people. Wow, New York’s got 10 times that many with 75,000 slaves which was 15% of the population in 17 and 20 there were Indian wars they were fighting with the Indians all the time the, the [unclear], the uh Puritans called them demons so they could justify killing them and Jamestown uh finally said there’s no quarter we’re going to annihilate them so there was war killing and murdering.\n\nOf in America and European wars just like today we have wars going on diseases and epidemics were wiping out people immigrants were coming in who only had a chance of living five. Years intoxication profanity and immorality and all vices were prevalent in the colonies at this time only 20% of the Massachusetts colony attended church the Puritans made a half covenant which allowed unsafe people to be members of the church don’t have to be born again don’t have to be converted now so they called it a half covenant humanism was growing and influencing the settlers you can be good without God there’s no power in prayer you know it’s all the humanist were growing in influence Jonathan Dickerson, the uh first president of the University of Princeton, said of the church religion was in a very low state believers were dead lifeless careless.",
+   "start_seconds": 130,
+   "end_seconds": 286,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=130s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-what-was-america-like-before-the-first-great-awakening",
+   "paragraphs": [
+    {
+     "start_seconds": 130,
+     "text": "1730, 1790, 1856 and 1967. Four obvious refreshing of God times of refreshing from the presence of the Lord are in history books and have been in history books three of them the latest one is now accepted as a historical. Awakening so we’re going to look at the preconditions to the 1730 refreshing what was the conditions of America at that time well first of all the population was 500,000 people. Wow, New York’s got 10 times that many with 75,000 slaves which was 15% of the population in 17 and 20 there were Indian wars they were fighting with the Indians all the time the, the [unclear], the uh Puritans called them demons so they could justify killing them and Jamestown uh finally said there’s no quarter we’re going to annihilate them so there was war killing and murdering.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=130s"
+    },
+    {
+     "start_seconds": 211,
+     "text": "Of in America and European wars just like today we have wars going on diseases and epidemics were wiping out people immigrants were coming in who only had a chance of living five. Years intoxication profanity and immorality and all vices were prevalent in the colonies at this time only 20% of the Massachusetts colony attended church the Puritans made a half covenant which allowed unsafe people to be members of the church don’t have to be born again don’t have to be converted now so they called it a half covenant humanism was growing and influencing the settlers you can be good without God there’s no power in prayer you know it’s all the humanist were growing in influence Jonathan Dickerson, the uh first president of the University of Princeton, said of the church religion was in a very low state believers were dead lifeless careless.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=211s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "season-of-refreshing:who-opposed-the-first-great-awakening",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "Who opposed the first Great Awakening, and what were the Old Light and New Light?",
+   "short_answer": "He says the unemotional, ritual, liberal churches opposed the awakening and were called the Old Light. Those who experienced individual faith and a salvation experience with Jesus outside of church doctrines, rituals and ceremonies were called the New Light.",
+   "text": "Carnal, fleshly and uh, God came in that condition and during the awakening 1730 through 1755, the churches that were involved with the Dutch Reform, the Baptist, the Presbyterian, the Congregationalist and some Anglicans. The unemotional ritual liberal churches. Opposed the awakening and they were called the Old Light. Individual faith and salvation experience with Jesus outside of church doctrines and outside of church rituals and methods and",
+   "start_seconds": 286,
+   "end_seconds": 339,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=286s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-who-opposed-the-first-great-awakening",
+   "paragraphs": [
+    {
+     "start_seconds": 286,
+     "text": "Carnal, fleshly and uh, God came in that condition and during the awakening 1730 through 1755, the churches that were involved with the Dutch Reform, the Baptist, the Presbyterian, the Congregationalist and some Anglicans. The unemotional ritual liberal churches. Opposed the awakening and they were called the Old Light. Individual faith and salvation experience with Jesus outside of church doctrines and outside of church rituals and methods and",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=286s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "season-of-refreshing:what-happened-in-the-first-great-awakening",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "What happened during the first Great Awakening?",
+   "short_answer": "He says church attendance rose to 75 to 85% of the population and thousands were converted, including Indians and slaves, by church members who had a personal relationship with Jesus and shared the gospel. He describes new music, new colleges and churches, open air meetings too large for a building, homes singing hymns, and some emotional shaking and loud joy: “if that’s the worst fault you can find in God’s church we’re doing good.”",
+   "text": "ceremonies were experienced; they were called the New Light. Now 75 to 85% of the population were attending church. Thousands were converted including Indians and slaves by, by lay, by church members they weren’t waiting for the ministers to do it they had a personal relationship with Jesus they were reading their Bible and they were sharing the gospel and people were getting converted by church members. Music was instituted a freshness of music in the church new colleges were built new churches were built the colonies were unified around religion and national\n\ndiversity being accepted. Open air meetings as crowds were too large for a building. Uh, Whitefield preached to 20,000 at a time and Ben Franklin went to his meetings to hear him and one time Ben Franklin stepped it off to see if the reports were right that 20,000 people could be there you know mathematical Ben Franklin. Christ affected people’s everyday life including music they were singing through the day you could walk through the towns and homes were singing hymns there were some emotional shaking, [unclear], screaming and loud joy and so the Old Light said it’s just emotion. if that’s the worst fault you can find in God’s church we’re doing",
+   "start_seconds": 339,
+   "end_seconds": 448,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=339s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-what-happened-in-the-first-great-awakening",
+   "paragraphs": [
+    {
+     "start_seconds": 339,
+     "text": "ceremonies were experienced; they were called the New Light. Now 75 to 85% of the population were attending church. Thousands were converted including Indians and slaves by, by lay, by church members they weren’t waiting for the ministers to do it they had a personal relationship with Jesus they were reading their Bible and they were sharing the gospel and people were getting converted by church members. Music was instituted a freshness of music in the church new colleges were built new churches were built the colonies were unified around religion and national",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=339s"
+    },
+    {
+     "start_seconds": 393,
+     "text": "diversity being accepted. Open air meetings as crowds were too large for a building. Uh, Whitefield preached to 20,000 at a time and Ben Franklin went to his meetings to hear him and one time Ben Franklin stepped it off to see if the reports were right that 20,000 people could be there you know mathematical Ben Franklin. Christ affected people’s everyday life including music they were singing through the day you could walk through the towns and homes were singing hymns there were some emotional shaking, [unclear], screaming and loud joy and so the Old Light said it’s just emotion. if that’s the worst fault you can find in God’s church we’re doing",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=393s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "season-of-refreshing:how-did-the-first-awakening-change-the-nation",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "How did the first Great Awakening change the nation?",
+   "short_answer": "He says it affected the colonies and the whole nation, leading up to the Revolutionary War and a republic. He sums it up as a conversion from intoxication, profanity and immorality to a personal salvation encounter with Jesus that affected daily life, from 20% going to church to 70 to 85% assembling together.",
+   "text": "good. A new acceptance of religious and national diversity led up to the Revolutionary War and a republic, Constitution. It affected the nation the colonies the whole nation so we had a conversion from intoxication profanity immorality and other vice to a personal faith salvation encounter with Jesus that affected their daily life converting from 20% going to church to 70 to 85% assembling together converting from a half covenant that allowed people in without being converted to thousands of converted including Indians and slave and the new music arising on the scene the Puritan half covenant allowing unsaved people to come into the church.",
+   "start_seconds": 448,
+   "end_seconds": 510,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=448s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-how-did-the-first-awakening-change-the-nation",
+   "paragraphs": [
+    {
+     "start_seconds": 448,
+     "text": "good. A new acceptance of religious and national diversity led up to the Revolutionary War and a republic, Constitution. It affected the nation the colonies the whole nation so we had a conversion from intoxication profanity immorality and other vice to a personal faith salvation encounter with Jesus that affected their daily life converting from 20% going to church to 70 to 85% assembling together converting from a half covenant that allowed people in without being converted to thousands of converted including Indians and slave and the new music arising on the scene the Puritan half covenant allowing unsaved people to come into the church.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=448s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "season-of-refreshing:who-gets-the-credit-for-revival",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "Who should get the credit for revival: people, churches, or Jesus? (Romans 4:21; 1 Corinthians 2:5)",
+   "short_answer": "He says historians credit flawed people and churches for something God did, but “Jesus doesn’t have any flaws and without Jesus we can’t do anything.” He says our error is to credit, praise and trust a man, a church, a dogma or our own opinions above Jesus Christ “who really does the work,” and faith must be in the power of God, not men’s intellect.",
+   "text": "Uh as I said were thousands converted and humanism was replaced by unity in the colonies around diverse religious and national differences being accepted. Historical authors and I in this series have been crediting human beings people and churches. These flawed people Waldo, Wycliffe, Hus, Luther, Zwingli, Calvin, Whitefield, Edwards, Wesley and popes are getting credit for something God did Calvin was one of the worst persecutors of people that opposed him he would have pe people beaten if they didn’t agree with his predestination theory he passed laws that caused everybody had to go to church church and everybody had to pay tithes to church whether you believed in God or not these guys had flaws Jesus doesn’t have any flaws and without Jesus we can’t do anything and the credit should be given to Jesus not people and not\n\nchurches. He does the work our error is to credit praise and trust a man a church a dogma or our own personal faith and opinions above Jesus Christ who really does the work. This faith that God is able in Romans chapter 4 to perform what he promised God is able to perform he does the performing this faith is not to be in men’s intellect but in the power of God 1 Corinthians chapter 2. We got to keep giving credit to Jesus Christ and the Holy Spirit doing the work in people and yes he uses people but they are nothing just like the donkey that talked to Balaam was used of",
+   "start_seconds": 510,
+   "end_seconds": 646,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=510s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-who-gets-the-credit-for-revival",
+   "paragraphs": [
+    {
+     "start_seconds": 510,
+     "text": "Uh as I said were thousands converted and humanism was replaced by unity in the colonies around diverse religious and national differences being accepted. Historical authors and I in this series have been crediting human beings people and churches. These flawed people Waldo, Wycliffe, Hus, Luther, Zwingli, Calvin, Whitefield, Edwards, Wesley and popes are getting credit for something God did Calvin was one of the worst persecutors of people that opposed him he would have pe people beaten if they didn’t agree with his predestination theory he passed laws that caused everybody had to go to church church and everybody had to pay tithes to church whether you believed in God or not these guys had flaws Jesus doesn’t have any flaws and without Jesus we can’t do anything and the credit should be given to Jesus not people and not",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=510s"
+    },
+    {
+     "start_seconds": 590,
+     "text": "churches. He does the work our error is to credit praise and trust a man a church a dogma or our own personal faith and opinions above Jesus Christ who really does the work. This faith that God is able in Romans chapter 4 to perform what he promised God is able to perform he does the performing this faith is not to be in men’s intellect but in the power of God 1 Corinthians chapter 2. We got to keep giving credit to Jesus Christ and the Holy Spirit doing the work in people and yes he uses people but they are nothing just like the donkey that talked to Balaam was used of",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=590s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Romans 4:21",
+     "translation": "NKJV",
+     "text_nkjv": "and being fully convinced that what He had promised He was also able to perform.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Romans+4%3A21&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=612s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "1 Corinthians 2:5",
+     "translation": "NKJV",
+     "text_nkjv": "that your faith should not be in the wisdom of men but in the power of God.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Corinthians+2%3A5&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=627s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "season-of-refreshing:what-led-to-the-second-great-awakening",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "What were conditions before the second Great Awakening?",
+   "short_answer": "He says the population grew from 5 million to 30 million, immigrants were coming in and taking jobs, and intellectualism and deism had crept back in. He describes deism as “a belief in God but he has no power,” and says the awakening again returned to the Scriptures, repentance and Bible morality, and an encounter with Jesus.",
+   "text": "God. We should not get uplifted because God uses us or uplift people because God uses them especially with flaws the second great awakening, 1790, 1840. We going to give you a precondition: the population grows from 5 million to 30 million the immigrants are coming in and taking jobs just like today intellectualism and deism had crept back in deism is a belief in God but he has no power this relationship with Jesus is is not. It’s not it God has no power he’s just a God he leaves us to make up our own\n\nmind. Now the same qualities as in the first awakening: getting back to scriptures repenting from our sins and going to Bible morality Bible morals a relationship with Jesus Christ scriptures. Encounter with Jesus morality is going to be the the three things that they kept and when the refreshing came they kept going back to but we had a new focus on social",
+   "start_seconds": 646,
+   "end_seconds": 735,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=646s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-what-led-to-the-second-great-awakening",
+   "paragraphs": [
+    {
+     "start_seconds": 646,
+     "text": "God. We should not get uplifted because God uses us or uplift people because God uses them especially with flaws the second great awakening, 1790, 1840. We going to give you a precondition: the population grows from 5 million to 30 million the immigrants are coming in and taking jobs just like today intellectualism and deism had crept back in deism is a belief in God but he has no power this relationship with Jesus is is not. It’s not it God has no power he’s just a God he leaves us to make up our own",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=646s"
+    },
+    {
+     "start_seconds": 698,
+     "text": "mind. Now the same qualities as in the first awakening: getting back to scriptures repenting from our sins and going to Bible morality Bible morals a relationship with Jesus Christ scriptures. Encounter with Jesus morality is going to be the the three things that they kept and when the refreshing came they kept going back to but we had a new focus on social",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=698s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "season-of-refreshing:what-social-issues-did-the-second-awakening-address",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "What social issues did the second Great Awakening focus on?",
+   "short_answer": "He says it focused on abstaining from tobacco and intoxication and on changing the condition of the poor, the prostitute, the addict, the handicapped, the mentally ill, orphans, widows and slaves, with women prominent in the work. He describes camp meetings of 20,000 in Kentucky where a newspaper reporter went down on his knees and cried out to God.",
+   "text": "issues: intoxication and tobacco they asked people to abstain from tobacco was killing people intoxication drugs and alcohol was destroying homes destroying lives and killing people so the folk focus was on don’t do it and if you did do it let’s change let’s get recovered out of that let’s get out of that lifestyle they focused on social issues to change the conditions of the poor not just give them food and help but change their condition change the condition of the prostitute the addict the the alcoholic and the drug addicts and the handicapped and the mentally ill the orphans the widow and the slaves and women were the prominent ones involved in the social issues women came on the scene and men didn’t like it and a lot of husband says you got to choose between Jesus and\n\nme, just like today, and on women which have the same demands on some of their men. And the f focus on the home focus on the family became higher than the focus on the kingdom of God. Popular camp meetings their camp meetings were made popular where 20,000 attended in Kentucky and a reporter went to check in on it and when he got out he said the roar from the crowd in the distant was just something amazing he says as I got closer to to that crowd I began to come upon people who were crying out to God on the ground in repentance shaking and you could feel a supernatural presence he said until finally I myself went down on my knees and cried out to God this is a reporter from a newspaper. The second coming",
+   "start_seconds": 735,
+   "end_seconds": 861,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=735s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-what-social-issues-did-the-second-awakening-address",
+   "paragraphs": [
+    {
+     "start_seconds": 735,
+     "text": "issues: intoxication and tobacco they asked people to abstain from tobacco was killing people intoxication drugs and alcohol was destroying homes destroying lives and killing people so the folk focus was on don’t do it and if you did do it let’s change let’s get recovered out of that let’s get out of that lifestyle they focused on social issues to change the conditions of the poor not just give them food and help but change their condition change the condition of the prostitute the addict the the alcoholic and the drug addicts and the handicapped and the mentally ill the orphans the widow and the slaves and women were the prominent ones involved in the social issues women came on the scene and men didn’t like it and a lot of husband says you got to choose between Jesus and",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=735s"
+    },
+    {
+     "start_seconds": 798,
+     "text": "me, just like today, and on women which have the same demands on some of their men. And the f focus on the home focus on the family became higher than the focus on the kingdom of God. Popular camp meetings their camp meetings were made popular where 20,000 attended in Kentucky and a reporter went to check in on it and when he got out he said the roar from the crowd in the distant was just something amazing he says as I got closer to to that crowd I began to come upon people who were crying out to God on the ground in repentance shaking and you could feel a supernatural presence he said until finally I myself went down on my knees and cried out to God this is a reporter from a newspaper. The second coming",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=798s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "season-of-refreshing:what-derailed-the-second-awakening",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "What derailed the second Great Awakening?",
+   "short_answer": "He says second coming extremes derailed it: the great disappointment of 1844, when people sold their properties and bought white robes and Christ did not come. He says “men’s theology came in men’s extremes faith in a church or a ministry above Jesus that derailed the refreshing and this seems to be our pattern.”",
+   "text": "extremes: the great disappointment in 1844 they predicted Christ would come thousands sold their properties even bought white robes to ascend up to heaven by and Christ did not come caused a lot of people to commit suicide and mock the church again men’s theology came in men’s extremes faith in a church or a ministry above Jesus that derailed the refreshing and this seems to be our pattern and not only the refreshing but the great commandment to love God love your neighbor love yourself by doing no harm which sums up the whole Bible. The third great awakening 1856 to 1900 preconditions 1857 there was a financial panic Wall Street collapsed banks went bankrupt railroads.",
+   "start_seconds": 861,
+   "end_seconds": 922,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=861s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-what-derailed-the-second-awakening",
+   "paragraphs": [
+    {
+     "start_seconds": 861,
+     "text": "extremes: the great disappointment in 1844 they predicted Christ would come thousands sold their properties even bought white robes to ascend up to heaven by and Christ did not come caused a lot of people to commit suicide and mock the church again men’s theology came in men’s extremes faith in a church or a ministry above Jesus that derailed the refreshing and this seems to be our pattern and not only the refreshing but the great commandment to love God love your neighbor love yourself by doing no harm which sums up the whole Bible. The third great awakening 1856 to 1900 preconditions 1857 there was a financial panic Wall Street collapsed banks went bankrupt railroads.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=861s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "season-of-refreshing:what-happened-in-the-third-great-awakening",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "What happened in the third Great Awakening (1856-1900)?",
+   "short_answer": "He says after a financial panic and with civil war looming, God moved with the same emphasis on Scripture, an encounter with Jesus, and repentance. He describes thousands attending daily prayer, businesses closing for noon prayer, social reforms, strong missionary effort, saloons closing, and millions encountering Christ.",
+   "text": "Failed people went bankrupt financial chaos was everywhere. The civil war seemed unavoidable at this time to many people because of slavery and the historians said America tottered on the brink of disaster many people were cynical of the church after the great disappointment sometimes the church brings problems on itself by extreme teachings. And again when God started moving it was the same as the first and second emphasis on the scripture emphasis on a relation and an encounter with Jesus emphasis on really repenting and turning from sin to\n\nmorality. People by the thousands attended daily prayer daily prayer morning or evening and at lunchtime businesses in some places closed for noon prayer. As the revival began to set in the people began to support the new Republican party urging it encouraging it to endorse anti-slavery and social reforms such as child labor women’s rights the handicap poverty and and such and the Republican party was birthed during this refreshing. There was a strong missionary effort everywhere not just overseas but local and churches became more popular than saloons one newspaper reporter wrote some saloons had to close up because no one was coming people were\n\npraying. Uh as 150,000 Confederate soldiers saved during the Civil War. Millions encountered Christ during the third awakening literally millions got saved and had a personal encounter with Jesus Christ many denominations and cult extremes started in this area. The fourth great awakening, 1967 through 1985, some of you were alive the preconditions: restoration that we taught you in the last session it happened in 1948. prosperity after the war people had jobs people had the American dream a home a wife a kids. In God We Trust was instituted in 1956",
+   "start_seconds": 922,
+   "end_seconds": 1100,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=922s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-what-happened-in-the-third-great-awakening",
+   "paragraphs": [
+    {
+     "start_seconds": 922,
+     "text": "Failed people went bankrupt financial chaos was everywhere. The civil war seemed unavoidable at this time to many people because of slavery and the historians said America tottered on the brink of disaster many people were cynical of the church after the great disappointment sometimes the church brings problems on itself by extreme teachings. And again when God started moving it was the same as the first and second emphasis on the scripture emphasis on a relation and an encounter with Jesus emphasis on really repenting and turning from sin to",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=922s"
+    },
+    {
+     "start_seconds": 976,
+     "text": "morality. People by the thousands attended daily prayer daily prayer morning or evening and at lunchtime businesses in some places closed for noon prayer. As the revival began to set in the people began to support the new Republican party urging it encouraging it to endorse anti-slavery and social reforms such as child labor women’s rights the handicap poverty and and such and the Republican party was birthed during this refreshing. There was a strong missionary effort everywhere not just overseas but local and churches became more popular than saloons one newspaper reporter wrote some saloons had to close up because no one was coming people were",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=976s"
+    },
+    {
+     "start_seconds": 1033,
+     "text": "praying. Uh as 150,000 Confederate soldiers saved during the Civil War. Millions encountered Christ during the third awakening literally millions got saved and had a personal encounter with Jesus Christ many denominations and cult extremes started in this area. The fourth great awakening, 1967 through 1985, some of you were alive the preconditions: restoration that we taught you in the last session it happened in 1948. prosperity after the war people had jobs people had the American dream a home a wife a kids. In God We Trust was instituted in 1956",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1033s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "season-of-refreshing:what-were-conditions-before-the-fourth-awakening",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "What were conditions before the fourth Great Awakening?",
+   "short_answer": "He contrasts the 1950s, when only 2% of Americans had a sexually transmitted disease and many attended church, with the 1960s: the pill and the sexual revolution, evolution taught in public schools, the “God is dead” movement, and the hippies with drugs, psychedelic music and communes. He says their lifestyle took its toll through disease, fried brains, the occult, despair and hopelessness.",
+   "text": "because of the focus on Jesus, the Bible and Christianity. One nation under God was instituted in 1954. There were two sexually transmitted diseases during the 50s and only 2% of Americans had them today we have over 30 and 50% of Americans have an sexually transmitted disease. Through the 50s people attended church. In 1960, 60% were attending church in America. In 1950 the civil rights movement was on, but also in the early\n\n50s the restoration had dwindled down to a lot of sham faith healings you got to have faith to be healed and if you didn’t get healed it’s your fault because you didn’t have faith a lot of sham prophecies. A lot of sham second coming return predictions we are really addicted to this second coming. Thing in the 60s in 1960 the pill came on the scene sexual revolution immediately followed evolution was instituted by the department of science to be taught in all public schools God is dead movement. God is dead. Arose the beatniks which turn to hippies with their peace their love peace not war love not war.\n\nDrugs be free be real don’t be plastic be real find yourself I got to find myself psychedelic music mind altering music. with their lights. Communes living together growing around nude when I led the coffee house during that time I had a hard time keeping these guys their clothes on we go camping they want to take their clothes off. They protested in the environment they protested the uh Vietnam War they were a counterculture rebellious group against any kind of establishment. In time their chosen lifestyle took its toll through disease sexually transmitted diseases uh hepatitis and different things fried brains from drugs the occult the despair that came from it in the misery and the hopelessness and then God comes on the scene in",
+   "start_seconds": 1100,
+   "end_seconds": 1290,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1100s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-what-were-conditions-before-the-fourth-awakening",
+   "paragraphs": [
+    {
+     "start_seconds": 1100,
+     "text": "because of the focus on Jesus, the Bible and Christianity. One nation under God was instituted in 1954. There were two sexually transmitted diseases during the 50s and only 2% of Americans had them today we have over 30 and 50% of Americans have an sexually transmitted disease. Through the 50s people attended church. In 1960, 60% were attending church in America. In 1950 the civil rights movement was on, but also in the early",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1100s"
+    },
+    {
+     "start_seconds": 1155,
+     "text": "50s the restoration had dwindled down to a lot of sham faith healings you got to have faith to be healed and if you didn’t get healed it’s your fault because you didn’t have faith a lot of sham prophecies. A lot of sham second coming return predictions we are really addicted to this second coming. Thing in the 60s in 1960 the pill came on the scene sexual revolution immediately followed evolution was instituted by the department of science to be taught in all public schools God is dead movement. God is dead. Arose the beatniks which turn to hippies with their peace their love peace not war love not war.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1155s"
+    },
+    {
+     "start_seconds": 1214,
+     "text": "Drugs be free be real don’t be plastic be real find yourself I got to find myself psychedelic music mind altering music. with their lights. Communes living together growing around nude when I led the coffee house during that time I had a hard time keeping these guys their clothes on we go camping they want to take their clothes off. They protested in the environment they protested the uh Vietnam War they were a counterculture rebellious group against any kind of establishment. In time their chosen lifestyle took its toll through disease sexually transmitted diseases uh hepatitis and different things fried brains from drugs the occult the despair that came from it in the misery and the hopelessness and then God comes on the scene in",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1214s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "season-of-refreshing:what-happened-in-the-1967-outpouring",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "What happened in the 1967 outpouring of the Holy Spirit and the Jesus people?",
+   "short_answer": "He says in 1967 God poured out His Holy Spirit on denominational churches, which received the baptism of the Holy Spirit with speaking in tongues, and the Holy Spirit converted hippies in coffee houses and on the streets. He says the Jesus people had their own music and fashion and believed in the baptism of the Holy Spirit with its gifts, miracles and healings, “but again men’s doctrines derailed the refreshing.”",
+   "text": "1967 and he poured out his Holy Spirit on denominations starting in 1960 with Episcopalians here and there but in 1967 there was a tremendous outpouring of the Holy Spirit on the Catholic church, the Lutheran, the Presbyterians these denominational churches they received the baptism of Holy Spirit with speaking in tongues and all the mistakes that the US Pentecostals had made before there was 150,000 Catholics filled with the Holy Ghost speaking in tongues you could go to the Anaheim Convention Center and there was 10,000 Catholics, priest and and lay people just Catholic people worshiping and praising God. The Holy Spirit converted hippies in coffee houses starting in Haight-Ashbury and San Francisco with the uh living room coffee house and on the streets you couldn’t go anywhere where without someone saying Jesus loves you and give you a tract and\n\nYeah the Jesus people brought their own music in folk music rock music all kinds of different varieties of music. Uh they had concerts they also had communes they had their own fashion they bought their clothes from the Salvation Army and just mixed it all together uh they believed in the baptism of the Holy Spirit with its gifts its miracles and healings but again men’s doctrines derailed the refreshing seed faith give and it will be given back to you grace and faith without any works positive confession name it claim it prosperity claiming phony miracles claiming phony prophecies phony experiences and I picked up a hitchhiker and and and and we talked and then he just",
+   "start_seconds": 1290,
+   "end_seconds": 1415,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1290s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-what-happened-in-the-1967-outpouring",
+   "paragraphs": [
+    {
+     "start_seconds": 1290,
+     "text": "1967 and he poured out his Holy Spirit on denominations starting in 1960 with Episcopalians here and there but in 1967 there was a tremendous outpouring of the Holy Spirit on the Catholic church, the Lutheran, the Presbyterians these denominational churches they received the baptism of Holy Spirit with speaking in tongues and all the mistakes that the US Pentecostals had made before there was 150,000 Catholics filled with the Holy Ghost speaking in tongues you could go to the Anaheim Convention Center and there was 10,000 Catholics, priest and and lay people just Catholic people worshiping and praising God. The Holy Spirit converted hippies in coffee houses starting in Haight-Ashbury and San Francisco with the uh living room coffee house and on the streets you couldn’t go anywhere where without someone saying Jesus loves you and give you a tract and",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1290s"
+    },
+    {
+     "start_seconds": 1357,
+     "text": "Yeah the Jesus people brought their own music in folk music rock music all kinds of different varieties of music. Uh they had concerts they also had communes they had their own fashion they bought their clothes from the Salvation Army and just mixed it all together uh they believed in the baptism of the Holy Spirit with its gifts its miracles and healings but again men’s doctrines derailed the refreshing seed faith give and it will be given back to you grace and faith without any works positive confession name it claim it prosperity claiming phony miracles claiming phony prophecies phony experiences and I picked up a hitchhiker and and and and we talked and then he just",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1357s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "season-of-refreshing:what-derailed-the-jesus-movement",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "What derailed the Jesus movement refreshing?",
+   "short_answer": "He names seed faith, grace without works, name it claim it prosperity, phony miracles, prophecies and experiences, everybody having a demon, and seeker friendly and emerging churches. He says emerging churches teach you win people through relationship, but “we need a relationship with Jesus not people,” and it is the power of the Holy Spirit performing God’s promises in individuals’ lives.",
+   "text": "disappeared. Demons casting out demons they were vomiting up demons everybody had a demon when I went to the coffee house they were casting demons out of the couches the curtains the walls each other. And then seeker friendly churches came on the scene an emerging church seeker friendly whatever you want we’ll do it for you if you come to church. Emerging churches that say the Bible is not the only source of truth like the liberal churches but they added they said one’s experience is truth and they added something else you win people through relationship and they forget the 3,000 in Acts 2 and the 5,000 in Acts 4. Those had no relationship with anybody God came and converted them. Think about\n\nit. We need a relationship with Jesus not people. So remember history credits name people in churches but it’s the power of the Holy Spirit performing the promis of promises of God in individuals’ lives, not waiting for the next refreshing. We need the power now in our lives you see the Bible says in Romans 4:21 Abraham’s faith was strong because he believed God was able to perform what he promised and first Corinthians 2:5 don’t let your faith be in the intellect of men but in the power of God and so how can we get the a next refreshing for ourselves.",
+   "start_seconds": 1415,
+   "end_seconds": 1529,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1415s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-what-derailed-the-jesus-movement",
+   "paragraphs": [
+    {
+     "start_seconds": 1415,
+     "text": "disappeared. Demons casting out demons they were vomiting up demons everybody had a demon when I went to the coffee house they were casting demons out of the couches the curtains the walls each other. And then seeker friendly churches came on the scene an emerging church seeker friendly whatever you want we’ll do it for you if you come to church. Emerging churches that say the Bible is not the only source of truth like the liberal churches but they added they said one’s experience is truth and they added something else you win people through relationship and they forget the 3,000 in Acts 2 and the 5,000 in Acts 4. Those had no relationship with anybody God came and converted them. Think about",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1415s"
+    },
+    {
+     "start_seconds": 1473,
+     "text": "it. We need a relationship with Jesus not people. So remember history credits name people in churches but it’s the power of the Holy Spirit performing the promis of promises of God in individuals’ lives, not waiting for the next refreshing. We need the power now in our lives you see the Bible says in Romans 4:21 Abraham’s faith was strong because he believed God was able to perform what he promised and first Corinthians 2:5 don’t let your faith be in the intellect of men but in the power of God and so how can we get the a next refreshing for ourselves.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1473s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "season-of-refreshing:how-can-we-have-a-refreshing-ourselves",
+   "type": "section",
+   "sermon_slug": "season-of-refreshing",
+   "section_question": "How can we have a refreshing ourselves before the next one? (Hebrews 10:24-25)",
+   "short_answer": "He says “we can have a refreshing ourself” by stirring up one another to love and good works and not forsaking the assembling together. He says the congregation should participate through example, worship, prayers and songs, not man’s theology or arguments over music style: “it should be music that you can encounter the presence of Jesus Christ.”",
+   "text": "Before God moves in another broad refreshing we can have a refreshing ourself Hebrews 10:24 let us consider one another to provoke stir up one another and to love and good works love love God love your neighbor love yourself do no harm good works first uh Hebrews 6:1, repentance from dead work so good works is the opposite of dead works or works that lead to death. So we’re supposed to be stirring one another as we gather together not forsaking the assembling of ourself together as the manner of some is but encouraging one another here we see the congregation is a participant through example through speech through involvement when you go to church you’re encouraging people to go when you get involved with worship our song leader shouldn’t have to say okay let’s lift up Jesus now let’s praise Jesus we should just be doing it because we are the ones that’s supposed to be encouraging and stirring up one another to love and good works through prayers, through prophecies, through\n\nsongs, not man’s theology not apologetics when you have an encounter with Christ it won’t matter to you if the crow two times or three times it won’t matter to you some of these questions that that get you distracted from a real encounter with God. Psychology it’s not in the intellectual thinking it is in the power of God music I’m going to a church where they play rock music well I’m going to a church where they play country music well I’m going to a church where they play contemporary music should not the style of music should not be the issue it should be music that you can encounter the presence of Jesus Christ in, and be encouraged to love and to do good\n\nworks. Again, Bible morality is unpopular having a relationship with Jesus a personal encounter with Jesus is not popular but the results are indisputable. The results in these three refreshing is it not only changed the church it impacted the whole nation every time.",
+   "start_seconds": 1529,
+   "end_seconds": 1692,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1529s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#q-how-can-we-have-a-refreshing-ourselves",
+   "paragraphs": [
+    {
+     "start_seconds": 1529,
+     "text": "Before God moves in another broad refreshing we can have a refreshing ourself Hebrews 10:24 let us consider one another to provoke stir up one another and to love and good works love love God love your neighbor love yourself do no harm good works first uh Hebrews 6:1, repentance from dead work so good works is the opposite of dead works or works that lead to death. So we’re supposed to be stirring one another as we gather together not forsaking the assembling of ourself together as the manner of some is but encouraging one another here we see the congregation is a participant through example through speech through involvement when you go to church you’re encouraging people to go when you get involved with worship our song leader shouldn’t have to say okay let’s lift up Jesus now let’s praise Jesus we should just be doing it because we are the ones that’s supposed to be encouraging and stirring up one another to love and good works through prayers, through prophecies, through",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1529s"
+    },
+    {
+     "start_seconds": 1605,
+     "text": "songs, not man’s theology not apologetics when you have an encounter with Christ it won’t matter to you if the crow two times or three times it won’t matter to you some of these questions that that get you distracted from a real encounter with God. Psychology it’s not in the intellectual thinking it is in the power of God music I’m going to a church where they play rock music well I’m going to a church where they play country music well I’m going to a church where they play contemporary music should not the style of music should not be the issue it should be music that you can encounter the presence of Jesus Christ in, and be encouraged to love and to do good",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1605s"
+    },
+    {
+     "start_seconds": 1661,
+     "text": "works. Again, Bible morality is unpopular having a relationship with Jesus a personal encounter with Jesus is not popular but the results are indisputable. The results in these three refreshing is it not only changed the church it impacted the whole nation every time.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1661s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Hebrews 10:24-25",
+     "translation": "NKJV",
+     "text_nkjv": "And let us consider one another in order to stir up love and good works, not forsaking the assembling of ourselves together, as is the manner of some, but exhorting one another, and so much the more as you see the Day approaching.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Hebrews+10%3A24-25&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1539s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Hebrews 6:1",
+     "translation": "NKJV",
+     "text_nkjv": "Therefore, leaving the discussion of the elementary principles of Christ, let us go on to perfection, not laying again the foundation of repentance from dead works and of faith toward God,",
+     "source_url": "https://www.biblegateway.com/passage/?search=Hebrews+6%3A1&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1552s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  }
+ ],
+ "faqs": [
+  {
+   "id": "season-of-refreshing:what-did-the-half-covenant-allow",
+   "type": "faq",
+   "sermon_slug": "season-of-refreshing",
+   "question": "What was the half covenant?",
+   "answer": "He says the Puritans made a half covenant which allowed unsaved people to be members of the church without being born again or converted.",
+   "start_seconds": 211,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=211s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#faq-what-did-the-half-covenant-allow",
+   "scriptures": []
+  },
+  {
+   "id": "season-of-refreshing:what-is-humanism",
+   "type": "faq",
+   "sermon_slug": "season-of-refreshing",
+   "question": "What humanist ideas does he say were growing before the first awakening?",
+   "answer": "He says humanism taught “you can be good without God” and that there’s no power in prayer.",
+   "start_seconds": 211,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=211s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#faq-what-is-humanism",
+   "scriptures": []
+  },
+  {
+   "id": "season-of-refreshing:who-led-people-to-christ-in-the-first-awakening",
+   "type": "faq",
+   "sermon_slug": "season-of-refreshing",
+   "question": "Who was leading people to Christ in the first awakening?",
+   "answer": "He says thousands were converted by church members; they weren’t waiting for the ministers to do it, they had a personal relationship with Jesus, read their Bible and shared the gospel.",
+   "start_seconds": 339,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=339s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#faq-who-led-people-to-christ-in-the-first-awakening",
+   "scriptures": []
+  },
+  {
+   "id": "season-of-refreshing:is-emotion-in-revival-wrong",
+   "type": "faq",
+   "sermon_slug": "season-of-refreshing",
+   "question": "Is emotion in revival a fault?",
+   "answer": "He says there was some emotional shaking, screaming and loud joy, and the Old Light said it was just emotion: “if that’s the worst fault you can find in God’s church we’re doing good.”",
+   "start_seconds": 393,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=393s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#faq-is-emotion-in-revival-wrong",
+   "scriptures": []
+  },
+  {
+   "id": "season-of-refreshing:should-we-be-proud-when-god-uses-us",
+   "type": "faq",
+   "sermon_slug": "season-of-refreshing",
+   "question": "Should we be lifted up when God uses us?",
+   "answer": "He says we should not get uplifted because God uses us or uplift people because God uses them; they are nothing, just like the donkey that talked to Balaam was used of God.",
+   "start_seconds": 590,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=590s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#faq-should-we-be-proud-when-god-uses-us",
+   "scriptures": []
+  },
+  {
+   "id": "season-of-refreshing:what-is-deism",
+   "type": "faq",
+   "sermon_slug": "season-of-refreshing",
+   "question": "What is deism?",
+   "answer": "He says deism is a belief in God but he has no power; God leaves us to make up our own mind.",
+   "start_seconds": 646,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=646s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#faq-what-is-deism",
+   "scriptures": []
+  },
+  {
+   "id": "season-of-refreshing:what-was-the-great-disappointment",
+   "type": "faq",
+   "sermon_slug": "season-of-refreshing",
+   "question": "What was the great disappointment of 1844?",
+   "answer": "He says people predicted Christ would come in 1844; thousands sold their properties and even bought white robes, and when Christ did not come many mocked the church.",
+   "start_seconds": 861,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=861s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#faq-what-was-the-great-disappointment",
+   "scriptures": []
+  },
+  {
+   "id": "season-of-refreshing:what-sums-up-the-whole-bible",
+   "type": "faq",
+   "sermon_slug": "season-of-refreshing",
+   "question": "What sums up the whole Bible, according to him?",
+   "answer": "He says the great commandment to love God, love your neighbor and love yourself by doing no harm “sums up the whole Bible.”",
+   "start_seconds": 861,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=861s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#faq-what-sums-up-the-whole-bible",
+   "scriptures": []
+  },
+  {
+   "id": "season-of-refreshing:does-the-church-cause-its-own-problems",
+   "type": "faq",
+   "sermon_slug": "season-of-refreshing",
+   "question": "Does the church sometimes bring problems on itself?",
+   "answer": "He says many people were cynical of the church after the great disappointment, and “sometimes the church brings problems on itself by extreme teachings.”",
+   "start_seconds": 922,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=922s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#faq-does-the-church-cause-its-own-problems",
+   "scriptures": []
+  },
+  {
+   "id": "season-of-refreshing:do-we-need-relationships-to-win-people",
+   "type": "faq",
+   "sermon_slug": "season-of-refreshing",
+   "question": "Do we win people to Christ only through relationships?",
+   "answer": "He says emerging churches teach that you win people through relationship, but they forget the 3,000 in Acts 2 and the 5,000 in Acts 4 who had no relationship with anybody: God came and converted them.",
+   "start_seconds": 1415,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1415s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#faq-do-we-need-relationships-to-win-people",
+   "scriptures": []
+  },
+  {
+   "id": "season-of-refreshing:does-music-style-matter",
+   "type": "faq",
+   "sermon_slug": "season-of-refreshing",
+   "question": "Does the style of church music matter?",
+   "answer": "He says the style of music should not be the issue; it should be music in which you can encounter the presence of Jesus Christ and be encouraged to love and to do good works.",
+   "start_seconds": 1605,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1605s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#faq-does-music-style-matter",
+   "scriptures": []
+  },
+  {
+   "id": "season-of-refreshing:what-was-the-result-of-the-refreshings",
+   "type": "faq",
+   "sermon_slug": "season-of-refreshing",
+   "question": "What was the result of these refreshings?",
+   "answer": "He says Bible morality and a personal encounter with Jesus are not popular, “but the results are indisputable”: each refreshing changed the church and impacted the whole nation.",
+   "start_seconds": 1661,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6tyZc9DKWQQ&t=1661s",
+   "page_anchor_url": "https://growonthevine.com/messages/season-of-refreshing/#faq-what-was-the-result-of-the-refreshings",
+   "scriptures": []
+  }
+ ]
+}
