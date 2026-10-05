@@ -1,0 +1,871 @@
+{
+ "schema_version": 1,
+ "sermon": {
+  "slug": "abandoning-false-prophets",
+  "title": "Abandoning False Prophets",
+  "series": "",
+  "series_part": "",
+  "speaker": "Pastor David G. Kincer",
+  "church": "Vine Cluster Church",
+  "video_id": "PPEkIOndfJQ",
+  "video_url": "https://www.youtube.com/watch?v=PPEkIOndfJQ",
+  "upload_date": "2015-04-27",
+  "duration_seconds": 1501,
+  "language": "en",
+  "page_url": "https://growonthevine.com/messages/abandoning-false-prophets/",
+  "status": "live",
+  "summary": "In this second session on present truth, Pastor David G. Kincer reviews the seasons of the last days: false prophets and antichrists, persecution, the falling away, restoration, the gospel to all nations and increased knowledge, and warns against date-setting. He then gives eight Bible marks for recognizing and abandoning false prophets, above all that they strengthen evildoers and tell people sin is okay, and says the love that waxes cold is love for God shown by obeying him.",
+  "transcript_source": "This transcript comes from YouTube’s automatic English captions, which supply the timing and the words. Punctuation, capitalization and paragraphing were added from the speaker’s pauses and then corrected by hand, and obvious caption errors (names, Bible references) were fixed; his wording was not rewritten. “[unclear]” marks a word or name that was not clear. Editor notes: This is presented as the second session on “present truth.” At 2:20 he cites “Matthew 23 11” for many false prophets; the verse that says this is Matthew 24:11, which is linked. At 3:14 and 8:17 he cites “Luke 21 11” for persecution and for wars and earthquakes; the persecution verses are Luke 21:12-17. At 12:17 he says “John 4 1-3” for the passage in First John 4:1-3. The children of Issachar are in 1 Chronicles 12:32 (he cites 12:21-38). Historical dates and figures (e.g. 476 to 1500 A.D., the printing press in 1440, the revival years) and the list of church bodies at 21:01 are given as spoken and have not been checked.",
+  "brand": "Grow on the Vine"
+ },
+ "bible_translation": {
+  "code": "NKJV",
+  "notice": "Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved."
+ },
+ "chunks": [
+  {
+   "id": "abandoning-false-prophets:what-did-the-children-of-issachar-understand",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "What did the children of Issachar understand about the times?",
+   "short_answer": "He says Second Peter 1:12 tells us to be established in present truth and Ecclesiastes 3 says there is a season for every purpose. In First Chronicles 12 the children of Issachar had understanding of the times to know what Israel ought to do in the transfer from Saul to David, and he says we are in the last days, the salvation season.",
+   "text": "We thank you for joining us again in our second session of present truth in second Peter 1:12 says be established in present truth in Ecclesiastes the Bible says in chapter 3 to everything there is a season and a time for every purpose under heaven so God has seasons of his purposes and times First Chronicles 12:21-38 the children of Issachar had understanding of the times to know what Israel ought to do there was a transfer from Saul to David and the children of Issachar understood what God was doing and knew what to do as we said in the last session we are in the last days the salvation season acts chapter 2 verse 16. This is that which is spoken by the prophet Joel in the last days plural seasons.",
+   "start_seconds": 1,
+   "end_seconds": 55,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-what-did-the-children-of-issachar-understand",
+   "paragraphs": [
+    {
+     "start_seconds": 1,
+     "text": "We thank you for joining us again in our second session of present truth in second Peter 1:12 says be established in present truth in Ecclesiastes the Bible says in chapter 3 to everything there is a season and a time for every purpose under heaven so God has seasons of his purposes and times First Chronicles 12:21-38 the children of Issachar had understanding of the times to know what Israel ought to do there was a transfer from Saul to David and the children of Issachar understood what God was doing and knew what to do as we said in the last session we are in the last days the salvation season acts chapter 2 verse 16. This is that which is spoken by the prophet Joel in the last days plural seasons.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "2 Peter 1:12",
+     "translation": "NKJV",
+     "text_nkjv": "For this reason I will not be negligent to remind you always of these things, though you know and are established in the present truth.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Peter+1%3A12&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=7s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Ecclesiastes 3:1",
+     "translation": "NKJV",
+     "text_nkjv": "To everything there is a season, A time for every purpose under heaven:",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+3%3A1&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=13s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "1 Chronicles 12:32",
+     "translation": "NKJV",
+     "text_nkjv": "of the sons of Issachar who had understanding of the times, to know what Israel ought to do, their chiefs were two hundred; and all their brethren were at their command;",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Chronicles+12%3A32&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=26s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Acts 2:16-17",
+     "translation": "NKJV",
+     "text_nkjv": "But this is what was spoken by the prophet Joel: ‘And it shall come to pass in the last days, says God, That I will pour out of My Spirit on all flesh; Your sons and your daughters shall prophesy, Your young men shall see visions, Your old men shall dream dreams.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+2%3A16-17&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=47s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:why-are-the-last-days-seasons",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "Why does he say the last days are “seasons,” plural?",
+   "short_answer": "He says the last days are plural seasons, while the day of the Lord is one season, and we are in a salvation season from Christ’s coming to his second coming. He says God poured out his Spirit again in 1900, 1948 and 1968, and he has no reason to believe God will not pour out his Spirit again, including in America and Europe.",
+   "text": "I will pour out my spirit on all flesh there will be signs in the heavens signs in the earth before the day of the Lord singular one season I will pour out my spirit in those days plural. Seasons and all who call on the Lord will be saved so we’re in a salvation season from the time Christ came and began to preach to his second coming the end. And we’re in the last days and the last days is plural seasons and God poured out his spirit again in 1900 again in 1948 and again in 1968. Seasons plural and I got no reason to believe that he won’t visit us again pour out his spirit again and we’re talking about America right now and Europe uh because we’re in the last day seasons and he’s pouring out his spirit in the last day seasons.",
+   "start_seconds": 55,
+   "end_seconds": 116,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=55s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-why-are-the-last-days-seasons",
+   "paragraphs": [
+    {
+     "start_seconds": 55,
+     "text": "I will pour out my spirit on all flesh there will be signs in the heavens signs in the earth before the day of the Lord singular one season I will pour out my spirit in those days plural. Seasons and all who call on the Lord will be saved so we’re in a salvation season from the time Christ came and began to preach to his second coming the end. And we’re in the last days and the last days is plural seasons and God poured out his spirit again in 1900 again in 1948 and again in 1968. Seasons plural and I got no reason to believe that he won’t visit us again pour out his spirit again and we’re talking about America right now and Europe uh because we’re in the last day seasons and he’s pouring out his spirit in the last day seasons.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=55s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 2:17-21",
+     "translation": "NKJV",
+     "text_nkjv": "‘And it shall come to pass in the last days, says God, That I will pour out of My Spirit on all flesh; Your sons and your daughters shall prophesy, Your young men shall see visions, Your old men shall dream dreams. And on My menservants and on My maidservants I will pour out My Spirit in those days; And they shall prophesy. I will show wonders in heaven above And signs in the earth beneath: Blood and fire and vapor of smoke. The sun shall be turned into darkness, And the moon into blood, Before the coming of the great and awesome day of the LORD. And it shall come to pass That whoever calls on the name of the LORD Shall be saved.’",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+2%3A17-21&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=56s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:are-we-in-a-season-of-false-prophets",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "Are we in a season of false prophets and antichrists?",
+   "short_answer": "He says it is not one big bad antichrist but many, united in denying Christ, and from First John 4:1 those who do not confess that Jesus has come in the flesh are not of God. He says there have always been false prophets and antichrists from Christ’s coming until his return, so we should not be troubled when we find people teaching lies.",
+   "text": "Again. We find that uh we’re in the false prophet and the antichrist season it’s not one big bad antichrist but many acting. United as one at least on the purpose of denying Christ first John 4:1 and Matthew 23:11. Says that Jesus will come in the flesh. And there are many false prophets, [unclear] antichrist and he says by this you know them. That. If they don’t say Jesus has come in the flesh the messiah has come they’re not of God and if they do they’re of God but that doesn’t mean they’re still true prophet so we are in a pro— false prophet. Antichrist season and the Bible says there’s many so why did we get all troubled when we find people preaching lies and teaching lies and and opposing Jesus Christ himself because from the time Jesus came A.D. 1 till the time he returns there has been false prophets antichrist and always will be till Christ comes.",
+   "start_seconds": 116,
+   "end_seconds": 194,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=116s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-are-we-in-a-season-of-false-prophets",
+   "paragraphs": [
+    {
+     "start_seconds": 116,
+     "text": "Again. We find that uh we’re in the false prophet and the antichrist season it’s not one big bad antichrist but many acting. United as one at least on the purpose of denying Christ first John 4:1 and Matthew 23:11. Says that Jesus will come in the flesh. And there are many false prophets, [unclear] antichrist and he says by this you know them. That. If they don’t say Jesus has come in the flesh the messiah has come they’re not of God and if they do they’re of God but that doesn’t mean they’re still true prophet so we are in a pro— false prophet. Antichrist season and the Bible says there’s many so why did we get all troubled when we find people preaching lies and teaching lies and and opposing Jesus Christ himself because from the time Jesus came A.D. 1 till the time he returns there has been false prophets antichrist and always will be till Christ comes.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=116s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 John 4:1-3",
+     "translation": "NKJV",
+     "text_nkjv": "Beloved, do not believe every spirit, but test the spirits, whether they are of God; because many false prophets have gone out into the world. By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God, and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+John+4%3A1-3&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=133s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Matthew 24:11",
+     "translation": "NKJV",
+     "text_nkjv": "Then many false prophets will rise up and deceive many.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+24%3A11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=134s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:will-followers-of-jesus-be-persecuted",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "Will followers of Jesus be persecuted until the end?",
+   "short_answer": "He says the followers of Jesus are hated and persecuted of all nations, and he that endures to the end shall be saved. He says all nations were not discovered until the 1500s, so Christ could not have come before then, and the persecution season is here until he returns, so do not get upset if you are persecuted.",
+   "text": "In Luke chapter 21 verse 11 and Matthew 24:9 and Mark 13:13. We find that the followers of Jesus are hated and persecuted of all nations. And he that endures until the end shall be saved so we’re going to be persecuted till the end season. Okay. And all nations were not discovered to the 1500s. So Christ couldn’t have come before that because he wouldn’t have fulfilled these scriptures and yet people for hundreds of years had been predicting the return of Christ not knowing that all nations hasn’t been revealed to us yet and today when we got these people prophesying that Christ is coming they’re not taken into account there’s things that God has not brought to pass yet so he can’t come yet so the followers of Christ are in the season from Christ until he returns and the persecution season.",
+   "start_seconds": 194,
+   "end_seconds": 260,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=194s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-will-followers-of-jesus-be-persecuted",
+   "paragraphs": [
+    {
+     "start_seconds": 194,
+     "text": "In Luke chapter 21 verse 11 and Matthew 24:9 and Mark 13:13. We find that the followers of Jesus are hated and persecuted of all nations. And he that endures until the end shall be saved so we’re going to be persecuted till the end season. Okay. And all nations were not discovered to the 1500s. So Christ couldn’t have come before that because he wouldn’t have fulfilled these scriptures and yet people for hundreds of years had been predicting the return of Christ not knowing that all nations hasn’t been revealed to us yet and today when we got these people prophesying that Christ is coming they’re not taken into account there’s things that God has not brought to pass yet so he can’t come yet so the followers of Christ are in the season from Christ until he returns and the persecution season.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=194s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Matthew 24:9",
+     "translation": "NKJV",
+     "text_nkjv": "“Then they will deliver you up to tribulation and kill you, and you will be hated by all nations for My name’s sake.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+24%3A9&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=197s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Mark 13:13",
+     "translation": "NKJV",
+     "text_nkjv": "And you will be hated by all for My name’s sake. But he who endures to the end shall be saved.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Mark+13%3A13&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=199s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Luke 21:17",
+     "translation": "NKJV",
+     "text_nkjv": "And you will be hated by all for My name’s sake.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Luke+21%3A17&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=194s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:should-predictions-of-jesus-return-trouble-us",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "Should claims that Jesus is coming any minute trouble us?",
+   "short_answer": "From Second Thessalonians 2:2-3 he says do not be shaken or troubled that the day of the Lord is at hand, because that day will not come except there come a falling away first. He says TV and radio are troubling people that he is coming in a minute: “relax he’ll come when he comes.”",
+   "text": "Is here until he returns and we know about the Inquisition we know about the Russian and the China communistic nations that slaughtered Christians and the Nazis and the Muslims and so forth okay so don’t get upset if you get persecuted or you know people getting persecuted it has been prophesied to happen again in second— only Second Thessalonians 2:2 don’t be shaken in mind or be troubled neither by a spirit nor word nor by letter as from us that the day of the Lord is at hand or here let no man deceive you that day will not come except there come a falling away and that’s what people are doing today on tv and radio they’re just troubling people that oh he’s coming in a minute oh he’s coming oh the signs are here relax he’ll come when he comes.",
+   "start_seconds": 260,
+   "end_seconds": 314,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=260s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-should-predictions-of-jesus-return-trouble-us",
+   "paragraphs": [
+    {
+     "start_seconds": 260,
+     "text": "Is here until he returns and we know about the Inquisition we know about the Russian and the China communistic nations that slaughtered Christians and the Nazis and the Muslims and so forth okay so don’t get upset if you get persecuted or you know people getting persecuted it has been prophesied to happen again in second— only Second Thessalonians 2:2 don’t be shaken in mind or be troubled neither by a spirit nor word nor by letter as from us that the day of the Lord is at hand or here let no man deceive you that day will not come except there come a falling away and that’s what people are doing today on tv and radio they’re just troubling people that oh he’s coming in a minute oh he’s coming oh the signs are here relax he’ll come when he comes.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=260s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "2 Thessalonians 2:2-3",
+     "translation": "NKJV",
+     "text_nkjv": "not to be soon shaken in mind or troubled, either by spirit or by word or by letter, as if from us, as though the day of Christ had come. Let no one deceive you by any means; for that Day will not come unless the falling away comes first, and the man of sin is revealed, the son of perdition,",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Thessalonians+2%3A2-3&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=285s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:when-was-the-falling-away-and-what-has-been-restored",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "When was the falling away, and what has been restored since?",
+   "short_answer": "He says there was a falling away from 476 to around 1500 A.D., the dark ages, when the church was gross and corrupt. From Acts 3:19-21 he says Jesus must remain in heaven until the restoration of all things, and since the 1500s there have been four seasons of refreshing, the great awakenings, restoring the just shall live by faith, water baptism, holiness and divine healing.",
+   "text": "Hallelujah and so we know there was a falling away season from 476 to around 1500 A.D. A dark ages the Catholic church was so gross and corrupt it’s just unbelievable you need to read Halley’s Handbook to just find out how dark the dark ages was in the church world you see and the Catholics they were part of those atrocities it was horrible what was going on and so there was a great falling away there Christianity had almost been snuffed out you really got to dig deep to find there were still some faithful Christians little pockets around. In Acts 3:19 we find that the times of refreshing shall come from the presence of the Lord and the restoration of all things spoken by the prophets since the world began and Jesus must be retained into the heavens he’s got to remain there until the restoration of all things so why hasn’t Christ come yet he hasn’t restored all things.\n\nAnd he can’t come until all things are restored and we see from the 1500s to the present day there has been seasons of refreshing four of them they’re called the great awakenings in history books. And the restoration of all things happened during these refreshing times the restoration of the just shall live by faith for example the restoration of water baptism and holiness and and sanctification the restoration of divine healing by A b. Simpson and the Missionary Alliance church he was shocked when he prayed for a boy dying in a coma and the boy awoke.",
+   "start_seconds": 314,
+   "end_seconds": 428,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=314s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-when-was-the-falling-away-and-what-has-been-restored",
+   "paragraphs": [
+    {
+     "start_seconds": 314,
+     "text": "Hallelujah and so we know there was a falling away season from 476 to around 1500 A.D. A dark ages the Catholic church was so gross and corrupt it’s just unbelievable you need to read Halley’s Handbook to just find out how dark the dark ages was in the church world you see and the Catholics they were part of those atrocities it was horrible what was going on and so there was a great falling away there Christianity had almost been snuffed out you really got to dig deep to find there were still some faithful Christians little pockets around. In Acts 3:19 we find that the times of refreshing shall come from the presence of the Lord and the restoration of all things spoken by the prophets since the world began and Jesus must be retained into the heavens he’s got to remain there until the restoration of all things so why hasn’t Christ come yet he hasn’t restored all things.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=314s"
+    },
+    {
+     "start_seconds": 385,
+     "text": "And he can’t come until all things are restored and we see from the 1500s to the present day there has been seasons of refreshing four of them they’re called the great awakenings in history books. And the restoration of all things happened during these refreshing times the restoration of the just shall live by faith for example the restoration of water baptism and holiness and and sanctification the restoration of divine healing by A b. Simpson and the Missionary Alliance church he was shocked when he prayed for a boy dying in a coma and the boy awoke.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=385s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 3:19-21",
+     "translation": "NKJV",
+     "text_nkjv": "Repent therefore and be converted, that your sins may be blotted out, so that times of refreshing may come from the presence of the Lord, and that He may send Jesus Christ, who was preached to you before, whom heaven must receive until the times of restoration of all things, which God has spoken by the mouth of all His holy prophets since the world began.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+3%3A19-21&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=356s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:has-the-gospel-been-preached-as-a-witness",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "Has the gospel been preached to all nations as a witness?",
+   "short_answer": "From Matthew 24:14 he says the gospel of the kingdom and of repentance must be preached to all nations as a witness, and then the end shall come. He says all nations were not discovered until after the 1500s, and if it had been fulfilled we would not be here, so it has not yet been preached as a witness.",
+   "text": "Hahaha. And he started preaching healing. In Matthew 24:14 the Bible tells us that the gospel of the kingdom and the gospel of repentance shall be preached to all nations as a witness don’t forget as a witness then shall the end come we did again we did not discover all nations till the 15 after the 1500s so we couldn’t have preached the gospel to then and all these predictions of the second coming couldn’t be because this had not been fulfilled and folks if it had been fulfilled we wouldn’t be here today because it says then shall the end come so the gospel of the kingdom and repentance has not been preached as a witness and we’ll get into that I’ve told you for years there’s something on the horizon that’s going to transform this earth and God is going to be in charge of it and uh preaching the gospel as a witness and as we said North and South America we’re not.",
+   "start_seconds": 428,
+   "end_seconds": 497,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=428s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-has-the-gospel-been-preached-as-a-witness",
+   "paragraphs": [
+    {
+     "start_seconds": 428,
+     "text": "Hahaha. And he started preaching healing. In Matthew 24:14 the Bible tells us that the gospel of the kingdom and the gospel of repentance shall be preached to all nations as a witness don’t forget as a witness then shall the end come we did again we did not discover all nations till the 15 after the 1500s so we couldn’t have preached the gospel to then and all these predictions of the second coming couldn’t be because this had not been fulfilled and folks if it had been fulfilled we wouldn’t be here today because it says then shall the end come so the gospel of the kingdom and repentance has not been preached as a witness and we’ll get into that I’ve told you for years there’s something on the horizon that’s going to transform this earth and God is going to be in charge of it and uh preaching the gospel as a witness and as we said North and South America we’re not.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=428s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Matthew 24:14",
+     "translation": "NKJV",
+     "text_nkjv": "And this gospel of the kingdom will be preached in all the world as a witness to all the nations, and then the end will come.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+24%3A14&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=433s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:are-wars-and-earthquakes-signs-of-the-end",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "Are wars, earthquakes and hurricanes signs of the end?",
+   "short_answer": "From Luke 21 and Mark 13:7 he says Jesus said there will be wars, earthquakes, famines and pestilences, but the end is not yet, so be not troubled. He says people keep calling every war, earthquake, hurricane and volcano a sign of the end time, but the Bible plainly says they are not.",
+   "text": "Discovered at the time Australia and the islands of the sea and now we’ve been trying to preach the gospel to them and a lot of people think that’s happened but you got to remember as a witness. Okay Luke 21:11 and Mark 13:7. Jesus said there will be wars earthquakes famine, pestilences fearful sights and great signs from heaven but the end is not yet again he says be not troubled for such things must needs be the end is not yet and what are people telling this day after day all the time at all the wars and the earthquakes and the hurricanes and the volcanoes and all these things are a sign of the end time the Bible plainly says they’re not. He plainly says they’re not. They’re just going to be the end is not yet don’t be troubled by these things he says when [unclear] quakes come and uh famines and all this stuff and these things are going to be so we’re living in the season of wars quakes famine plagues.",
+   "start_seconds": 497,
+   "end_seconds": 566,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=497s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-are-wars-and-earthquakes-signs-of-the-end",
+   "paragraphs": [
+    {
+     "start_seconds": 497,
+     "text": "Discovered at the time Australia and the islands of the sea and now we’ve been trying to preach the gospel to them and a lot of people think that’s happened but you got to remember as a witness. Okay Luke 21:11 and Mark 13:7. Jesus said there will be wars earthquakes famine, pestilences fearful sights and great signs from heaven but the end is not yet again he says be not troubled for such things must needs be the end is not yet and what are people telling this day after day all the time at all the wars and the earthquakes and the hurricanes and the volcanoes and all these things are a sign of the end time the Bible plainly says they’re not. He plainly says they’re not. They’re just going to be the end is not yet don’t be troubled by these things he says when [unclear] quakes come and uh famines and all this stuff and these things are going to be so we’re living in the season of wars quakes famine plagues.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=497s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Luke 21:9-11",
+     "translation": "NKJV",
+     "text_nkjv": "But when you hear of wars and commotions, do not be terrified; for these things must come to pass first, but the end will not come immediately.” Then He said to them, “Nation will rise against nation, and kingdom against kingdom. And there will be great earthquakes in various places, and famines and pestilences; and there will be fearful sights and great signs from heaven.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Luke+21%3A9-11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=510s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Mark 13:7-8",
+     "translation": "NKJV",
+     "text_nkjv": "But when you hear of wars and rumors of wars, do not be troubled; for such things must happen, but the end is not yet. For nation will rise against nation, and kingdom against kingdom. And there will be earthquakes in various places, and there will be famines and troubles. These are the beginnings of sorrows.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Mark+13%3A7-8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=512s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:what-does-daniel-12-say-about-the-time-of-the-end",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "What does Daniel 12 say about the time of the end?",
+   "short_answer": "From Daniel 12:4 he says Daniel’s prophecies were sealed until the time of the end, when knowledge shall increase, starting with the printing press and the industrial revolution. From Daniel 12:8-10 he says the wise shall understand, there will be a restoration of wisdom in the church, and prophets predicting the end are messing it up.",
+   "text": "And we’re not to be troubled they’re not signs of the end they’re not signs of the second coming of Christ. Hallelujah. So relax. Relax. Daniel 12:4. Daniel. The angel said shut up the words seal the book even to the time of the end okay so Daniel’s prophecies about the end to shut up to when the time of the end and knowledge shall be increased and we find that after the printing press was invented in 1440 and they could copy books from 40 pages a day to 3500 pages a day was the initial start of the industrial revolution which really took place in the 1800s to the present time.\n\nDaniel 12:8. I heard Daniel said but I understood not thence said I what shall be the end of these things Daniel is asking when is the end the man said the words are closed up and sealed to the time of the end here it says it again many shall be purified made white and tried but the wicked will do wickedly and none of the wicked shall understand but the wise shall understand there’s going to be a restoration of wisdom in the church and the book of Daniel and the things concerning the end season is sealed up until that season comes so these prophets that are prophesying this are just messing it up we don’t know. Acts 1:6. They asked Jesus will you at this time restore the kingdom to Israel several times in the Bible God said Israel would become a nation again.",
+   "start_seconds": 566,
+   "end_seconds": 680,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=566s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-what-does-daniel-12-say-about-the-time-of-the-end",
+   "paragraphs": [
+    {
+     "start_seconds": 566,
+     "text": "And we’re not to be troubled they’re not signs of the end they’re not signs of the second coming of Christ. Hallelujah. So relax. Relax. Daniel 12:4. Daniel. The angel said shut up the words seal the book even to the time of the end okay so Daniel’s prophecies about the end to shut up to when the time of the end and knowledge shall be increased and we find that after the printing press was invented in 1440 and they could copy books from 40 pages a day to 3500 pages a day was the initial start of the industrial revolution which really took place in the 1800s to the present time.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=566s"
+    },
+    {
+     "start_seconds": 624,
+     "text": "Daniel 12:8. I heard Daniel said but I understood not thence said I what shall be the end of these things Daniel is asking when is the end the man said the words are closed up and sealed to the time of the end here it says it again many shall be purified made white and tried but the wicked will do wickedly and none of the wicked shall understand but the wise shall understand there’s going to be a restoration of wisdom in the church and the book of Daniel and the things concerning the end season is sealed up until that season comes so these prophets that are prophesying this are just messing it up we don’t know. Acts 1:6. They asked Jesus will you at this time restore the kingdom to Israel several times in the Bible God said Israel would become a nation again.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=624s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Daniel 12:4",
+     "translation": "NKJV",
+     "text_nkjv": "“But you, Daniel, shut up the words, and seal the book until the time of the end; many shall run to and fro, and knowledge shall increase.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Daniel+12%3A4&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=584s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Daniel 12:8-10",
+     "translation": "NKJV",
+     "text_nkjv": "Although I heard, I did not understand. Then I said, “My lord, what shall be the end of these things?” And he said, “Go your way, Daniel, for the words are closed up and sealed till the time of the end. Many shall be purified, made white, and refined, but the wicked shall do wickedly; and none of the wicked shall understand, but the wise shall understand.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Daniel+12%3A8-10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=624s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:can-we-know-gods-times-and-seasons",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "Can we know the times and seasons of what God will do next?",
+   "short_answer": "He says Isaiah said Israel would become a nation overnight, and it did, but in Acts 1:7 Jesus said it is not for us to know the times or seasons. He says we know seasons when we are in them or after they pass, not what is next, and Israel becoming a nation in 1948 along with the outpouring of the Spirit confirms we are in the last of the last days.",
+   "text": "And and Isaiah said it’d be overnight which really happened it happened overnight he said it is not for you to know the seasons or times which the father has put in his own hand and on authority here Jesus is telling us we don’t know the seasons of the time we know them when we’re in them we know them when they pass like I’m giving you but we don’t know what season is next and when he’s going to do it and the Bible’s plain about it and yet we emphatically try. To prophesy the second coming and all this stuff. Folks we just don’t know the time or season till God activates it and Israel. Becoming a nation in 1948 right along with the outpouring of the spirit again in 1948 tells us in his confirmation that we’re in the last of the last days okay we’re in those seasons.",
+   "start_seconds": 680,
+   "end_seconds": 737,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=680s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-can-we-know-gods-times-and-seasons",
+   "paragraphs": [
+    {
+     "start_seconds": 680,
+     "text": "And and Isaiah said it’d be overnight which really happened it happened overnight he said it is not for you to know the seasons or times which the father has put in his own hand and on authority here Jesus is telling us we don’t know the seasons of the time we know them when we’re in them we know them when they pass like I’m giving you but we don’t know what season is next and when he’s going to do it and the Bible’s plain about it and yet we emphatically try. To prophesy the second coming and all this stuff. Folks we just don’t know the time or season till God activates it and Israel. Becoming a nation in 1948 right along with the outpouring of the spirit again in 1948 tells us in his confirmation that we’re in the last of the last days okay we’re in those seasons.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=680s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 1:6-7",
+     "translation": "NKJV",
+     "text_nkjv": "Therefore, when they had come together, they asked Him, saying, “Lord, will You at this time restore the kingdom to Israel?” And He said to them, “It is not for you to know times or seasons which the Father has put in His own authority.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+1%3A6-7&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=680s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Isaiah 66:8",
+     "translation": "NKJV",
+     "text_nkjv": "Who has heard such a thing? Who has seen such things? Shall the earth be made to give birth in one day? Or shall a nation be born at once? For as soon as Zion was in labor, She gave birth to her children.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Isaiah+66%3A8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=681s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:how-can-you-recognize-false-prophets",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "How can you recognize and abandon false prophets?",
+   "short_answer": "He gives eight Bible quotes about false prophets, starting with the spirit that does not confess Jesus Christ has come in the flesh. From Acts 13:6-10 he says the false prophet withstood Barnabas and Saul and sought to turn the deputy from the faith; false prophets want your faith in their group, leader or philosophy rather than in Jesus to forgive, deliver and mature you.",
+   "text": "And uh only a God could write these verses and fulfill them we’re going to give you eight Bible quotes about false prophets so you can understand recognize and abandon false prophets the first one we’ve already used John 4:1-3 many false prophets are going into the world by this you know every spirit that confesses not that Jesus Christ has come in the flesh is not of God and that is the spirit of antichrist and many are already in the world not one big bad antichrist there are many big bad antichrist and we know them today as the Jews who haven’t accepted Christ they don’t believe Christ is the messiah come in the flesh the Muslims who said Jesus did not die on the cross he was just another prophet like Muhammad. The atheist.\n\nThe humanists the liberals the religionists liberal churches liberal philosophies they all denounce Jesus Christ as the only one that can save and so forth in Acts 13:6 a sorcerer a false prophet a Jew this guy is not only in the Jewish religion but he’s in the witchcraft and he’s a false prophet and what sets him apart as a false prophet he withstood Barnabas and Saul. Teaching the deputy the word of God. Seeking to turn away the deputy from the faith you see false prophets don’t want you putting your faith in Jesus only to forgive cleanse and deliver from repented and confessed sins you see they want you to put your faith in their group or in their leader or some.\n\nMan-made philosophy so they turn they try to turn people from not listening to the preaching of Jesus Christ and what faith is it that God has power to perform what he promised that’s the faith and God will finish the good work he begin in you that’s the faith God will grow you to maturity that’s the faith that we have in Christ that God has power to perform what he said if he can forgive he can forgive by his power deliver by his power and mature you by his power. And they want to turn you away from Jesus Christ. They may believe in Jesus but they want to turn you away.",
+   "start_seconds": 737,
+   "end_seconds": 903,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=737s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-how-can-you-recognize-false-prophets",
+   "paragraphs": [
+    {
+     "start_seconds": 737,
+     "text": "And uh only a God could write these verses and fulfill them we’re going to give you eight Bible quotes about false prophets so you can understand recognize and abandon false prophets the first one we’ve already used John 4:1-3 many false prophets are going into the world by this you know every spirit that confesses not that Jesus Christ has come in the flesh is not of God and that is the spirit of antichrist and many are already in the world not one big bad antichrist there are many big bad antichrist and we know them today as the Jews who haven’t accepted Christ they don’t believe Christ is the messiah come in the flesh the Muslims who said Jesus did not die on the cross he was just another prophet like Muhammad. The atheist.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=737s"
+    },
+    {
+     "start_seconds": 792,
+     "text": "The humanists the liberals the religionists liberal churches liberal philosophies they all denounce Jesus Christ as the only one that can save and so forth in Acts 13:6 a sorcerer a false prophet a Jew this guy is not only in the Jewish religion but he’s in the witchcraft and he’s a false prophet and what sets him apart as a false prophet he withstood Barnabas and Saul. Teaching the deputy the word of God. Seeking to turn away the deputy from the faith you see false prophets don’t want you putting your faith in Jesus only to forgive cleanse and deliver from repented and confessed sins you see they want you to put your faith in their group or in their leader or some.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=792s"
+    },
+    {
+     "start_seconds": 850,
+     "text": "Man-made philosophy so they turn they try to turn people from not listening to the preaching of Jesus Christ and what faith is it that God has power to perform what he promised that’s the faith and God will finish the good work he begin in you that’s the faith God will grow you to maturity that’s the faith that we have in Christ that God has power to perform what he said if he can forgive he can forgive by his power deliver by his power and mature you by his power. And they want to turn you away from Jesus Christ. They may believe in Jesus but they want to turn you away.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=850s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 John 4:1-3",
+     "translation": "NKJV",
+     "text_nkjv": "Beloved, do not believe every spirit, but test the spirits, whether they are of God; because many false prophets have gone out into the world. By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God, and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+John+4%3A1-3&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=737s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Acts 13:6-10",
+     "translation": "NKJV",
+     "text_nkjv": "Now when they had gone through the island to Paphos, they found a certain sorcerer, a false prophet, a Jew whose name was Bar-Jesus, who was with the proconsul, Sergius Paulus, an intelligent man. This man called for Barnabas and Saul and sought to hear the word of God. But Elymas the sorcerer (for so his name is translated) withstood them, seeking to turn the proconsul away from the faith. Then Saul, who also is called Paul, filled with the Holy Spirit, looked intently at him and said, “O full of all deceit and all fraud, you son of the devil, you enemy of all righteousness, will you not cease perverting the straight ways of the Lord?",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+13%3A6-10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=805s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Philippians 1:6",
+     "translation": "NKJV",
+     "text_nkjv": "being confident of this very thing, that He who has begun a good work in you will complete it until the day of Jesus Christ;",
+     "source_url": "https://www.biblegateway.com/passage/?search=Philippians+1%3A6&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=867s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:what-is-the-biggest-mark-of-a-false-prophet",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "What is the biggest mark of a false prophet?",
+   "short_answer": "From Jeremiah 23 he says the big one is that false prophets strengthen evildoers so none turn from their wickedness, telling them no evil will happen and they have eternal security whatever they do. He says it is the big one in America because they claim to believe in Christ but tell you doing wrong is okay, and from Second Peter 2:1-3 they bring in damnable heresies.",
+   "text": "Jesus and the faith you have in him. In Jeremiah 23 we verse 11 through 32 we have the profane prophets. Their behavior is they commit adultery sexual immorality and they lie but this is the big one this is the big one of false prophets they strengthen evildoers so none turn from their wickedness they say no evil shall happen to you God is love you’ve got eternal security because you believe in Jesus you can do what you want God wants you to be happy. They should have turned them from their evil way and they caused my people to error by their lies and so these people say it’s not by works. Not good works that you have to do none of them are necessary faith only if you’re homosexual that’s okay you want to commit adultery that’s okay child abuse okay gambling.\n\nDrunkenness drugs. Gang violence profanity. Idolatry. Murder that’s okay it’s okay you got eternal security all the authority of the believer yeah you’re all right. And they strengthen evildoers they tell the homosexual that he’s okay they tell the adulterer the fornicator that they’re okay false prophets folks and it’s the big one in America it is the big one because they claim to believe in Christ even his virgin birth his miracles and all the rest but they tell you that doing wrong is okay. Second Peter 2 verse one through three there will be false teachers among you bringing in damnable heresies punishable hell sins denying the Lord that bought them many will follow their destructive ways causing the way of truth to be evil spoken of and that’s true when you live a corrupt life.",
+   "start_seconds": 903,
+   "end_seconds": 1029,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=903s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-what-is-the-biggest-mark-of-a-false-prophet",
+   "paragraphs": [
+    {
+     "start_seconds": 903,
+     "text": "Jesus and the faith you have in him. In Jeremiah 23 we verse 11 through 32 we have the profane prophets. Their behavior is they commit adultery sexual immorality and they lie but this is the big one this is the big one of false prophets they strengthen evildoers so none turn from their wickedness they say no evil shall happen to you God is love you’ve got eternal security because you believe in Jesus you can do what you want God wants you to be happy. They should have turned them from their evil way and they caused my people to error by their lies and so these people say it’s not by works. Not good works that you have to do none of them are necessary faith only if you’re homosexual that’s okay you want to commit adultery that’s okay child abuse okay gambling.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=903s"
+    },
+    {
+     "start_seconds": 964,
+     "text": "Drunkenness drugs. Gang violence profanity. Idolatry. Murder that’s okay it’s okay you got eternal security all the authority of the believer yeah you’re all right. And they strengthen evildoers they tell the homosexual that he’s okay they tell the adulterer the fornicator that they’re okay false prophets folks and it’s the big one in America it is the big one because they claim to believe in Christ even his virgin birth his miracles and all the rest but they tell you that doing wrong is okay. Second Peter 2 verse one through three there will be false teachers among you bringing in damnable heresies punishable hell sins denying the Lord that bought them many will follow their destructive ways causing the way of truth to be evil spoken of and that’s true when you live a corrupt life.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=964s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Jeremiah 23:14-17",
+     "translation": "NKJV",
+     "text_nkjv": "Also I have seen a horrible thing in the prophets of Jerusalem: They commit adultery and walk in lies; They also strengthen the hands of evildoers, So that no one turns back from his wickedness. All of them are like Sodom to Me, And her inhabitants like Gomorrah. “Therefore thus says the LORD of hosts concerning the prophets: ‘Behold, I will feed them with wormwood, And make them drink the water of gall; For from the prophets of Jerusalem Profaneness has gone out into all the land.’ ” Thus says the LORD of hosts: “Do not listen to the words of the prophets who prophesy to you. They make you worthless; They speak a vision of their own heart, Not from the mouth of the LORD. They continually say to those who despise Me, ‘The LORD has said, “You shall have peace” ’; And to everyone who walks according to the dictates of his own heart, they say, ‘No evil shall come upon you.’ ”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Jeremiah+23%3A14-17&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=907s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Jeremiah 23:32",
+     "translation": "NKJV",
+     "text_nkjv": "Behold, I am against those who prophesy false dreams,” says the LORD, “and tell them, and cause My people to err by their lies and by their recklessness. Yet I did not send them or command them; therefore they shall not profit this people at all,” says the LORD.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Jeremiah+23%3A32&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=903s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "2 Peter 2:1-3",
+     "translation": "NKJV",
+     "text_nkjv": "But there were also false prophets among the people, even as there will be false teachers among you, who will secretly bring in destructive heresies, even denying the Lord who bought them, and bring on themselves swift destruction. And many will follow their destructive ways, because of whom the way of truth will be blasphemed. By covetousness they will exploit you with deceptive words; for a long time their judgment has not been idle, and their destruction does not slumber.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Peter+2%3A1-3&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1006s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:why-do-false-teachers-want-your-money",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "Why do false teachers make merchandise of people?",
+   "short_answer": "He says by greed and covetousness they make merchandise of you with deceptive words, wanting your tithes and offerings while living in mansions. He cites Balaam in Revelation 2:14, Jude 11 and Second Peter 2:15, who loved the wages of unrighteousness, and Jezebel, who called herself a prophetess, and says from Matthew 7:15-18 you know false prophets by their fruits.",
+   "text": "And people know. They you bring a bad name on Jesus Christ okay not that he can’t handle it it’s just you or a source of that problem but the key here number four is by greed covetousness shall they with deceptive words make merchandise they’re going to make money off you why are they why are they teaching like this they want your tithes they want your offering they want your money. And Americans are so gullible they buy the books and everything. And all they’re after is your money and they live in mansions and drive fancy cars offer you Revelations 2:14 and 20 talks about Balaam the divine— or Balaam was a diviner sorcerer like the guy in acts you hold the doctrine of Balaam Jude 11 and II Peter 2:15.\n\nHe loved the wages of unrighteousness he liked the reward the money like we said before and you allow that woman Jezebel which calls herself a prophetess calls herself a prophetess they appoint themselves and I don’t know why it is but a lot of this comes from women thinking they’re really spiritual with kitchen prophecies and telling everybody else a word from God they appoint themselves as a prophetess. And Balaam also appointed himself as a prophet and they teach that sexual immorality is okay and that partaking of idolatry is okay. All right. Matthew 7:15. Beware of false prophets who come to you in sheep’s clothing but inwardly they are ravenous wolves destructive destroying wolves nah quote number six you will know them by their fruits a good tree can’t bear bad fruit can’t bear bad fruit neither can a bad tree bear good fruit so you know them by their behavior and you know them by the behavior of those they are false prophesying to it it’s in the behavior it’s in the actions.",
+   "start_seconds": 1029,
+   "end_seconds": 1165,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1029s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-why-do-false-teachers-want-your-money",
+   "paragraphs": [
+    {
+     "start_seconds": 1029,
+     "text": "And people know. They you bring a bad name on Jesus Christ okay not that he can’t handle it it’s just you or a source of that problem but the key here number four is by greed covetousness shall they with deceptive words make merchandise they’re going to make money off you why are they why are they teaching like this they want your tithes they want your offering they want your money. And Americans are so gullible they buy the books and everything. And all they’re after is your money and they live in mansions and drive fancy cars offer you Revelations 2:14 and 20 talks about Balaam the divine— or Balaam was a diviner sorcerer like the guy in acts you hold the doctrine of Balaam Jude 11 and II Peter 2:15.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1029s"
+    },
+    {
+     "start_seconds": 1087,
+     "text": "He loved the wages of unrighteousness he liked the reward the money like we said before and you allow that woman Jezebel which calls herself a prophetess calls herself a prophetess they appoint themselves and I don’t know why it is but a lot of this comes from women thinking they’re really spiritual with kitchen prophecies and telling everybody else a word from God they appoint themselves as a prophetess. And Balaam also appointed himself as a prophet and they teach that sexual immorality is okay and that partaking of idolatry is okay. All right. Matthew 7:15. Beware of false prophets who come to you in sheep’s clothing but inwardly they are ravenous wolves destructive destroying wolves nah quote number six you will know them by their fruits a good tree can’t bear bad fruit can’t bear bad fruit neither can a bad tree bear good fruit so you know them by their behavior and you know them by the behavior of those they are false prophesying to it it’s in the behavior it’s in the actions.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1087s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "2 Peter 2:3",
+     "translation": "NKJV",
+     "text_nkjv": "By covetousness they will exploit you with deceptive words; for a long time their judgment has not been idle, and their destruction does not slumber.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Peter+2%3A3&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1048s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Revelation 2:14",
+     "translation": "NKJV",
+     "text_nkjv": "But I have a few things against you, because you have there those who hold the doctrine of Balaam, who taught Balak to put a stumbling block before the children of Israel, to eat things sacrificed to idols, and to commit sexual immorality.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Revelation+2%3A14&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1072s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Revelation 2:20",
+     "translation": "NKJV",
+     "text_nkjv": "Nevertheless I have a few things against you, because you allow that woman Jezebel, who calls herself a prophetess, to teach and seduce My servants to commit sexual immorality and eat things sacrificed to idols.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Revelation+2%3A20&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1094s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Jude 11",
+     "translation": "NKJV",
+     "text_nkjv": "Woe to them! For they have gone in the way of Cain, have run greedily in the error of Balaam for profit, and perished in the rebellion of Korah.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Jude+11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1084s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "2 Peter 2:15",
+     "translation": "NKJV",
+     "text_nkjv": "They have forsaken the right way and gone astray, following the way of Balaam the son of Beor, who loved the wages of unrighteousness;",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Peter+2%3A15&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1086s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Matthew 7:15-18",
+     "translation": "NKJV",
+     "text_nkjv": "“Beware of false prophets, who come to you in sheep’s clothing, but inwardly they are ravenous wolves. You will know them by their fruits. Do men gather grapes from thornbushes or figs from thistles? Even so, every good tree bears good fruit, but a bad tree bears bad fruit. A good tree cannot bear bad fruit, nor can a bad tree bear good fruit.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+7%3A15-18&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1128s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:how-do-congregations-encourage-false-doctrine",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "How do congregations encourage false doctrine?",
+   "short_answer": "From Luke 6:26 and Isaiah 30:9-10 he says number seven is the people themselves telling ministers to speak smooth things, idolizing and paying them well to say what they want to hear. He says many ministers fall for it so as not to lose a big donor, and the last mark is false prophets showing signs and wonders in the last days.",
+   "text": "That’s in Matthew 7:15. through 18. In Mark 13:22. Number seven. All right— Luke 6:26. Woe to you when men shall speak well of you for so did though their fathers to the false prophets Isaiah 30 verse 9 a rebellious people say to the prophets prophesy not right things speak to us smooth thing speak to us easy things speak to us deceits. And so number seven is the people themselves encouraging ministers pastors. To teach false doctrine.\n\nAnd the people will idolize your name lift up your position and pay you well. To speak what they want to hear and a lot of ministers fall for that they don’t want to lose anybody in the congregation especially if they’re a big donor so they may not believe. Doing that is wrong but they do it. They do it and the last one was in the last days they’ll show signs and wonders. And that is in the last days I haven’t seen any false prophets showing signs and wonders calling fire from heaven.",
+   "start_seconds": 1165,
+   "end_seconds": 1261,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1165s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-how-do-congregations-encourage-false-doctrine",
+   "paragraphs": [
+    {
+     "start_seconds": 1165,
+     "text": "That’s in Matthew 7:15. through 18. In Mark 13:22. Number seven. All right— Luke 6:26. Woe to you when men shall speak well of you for so did though their fathers to the false prophets Isaiah 30 verse 9 a rebellious people say to the prophets prophesy not right things speak to us smooth thing speak to us easy things speak to us deceits. And so number seven is the people themselves encouraging ministers pastors. To teach false doctrine.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1165s"
+    },
+    {
+     "start_seconds": 1217,
+     "text": "And the people will idolize your name lift up your position and pay you well. To speak what they want to hear and a lot of ministers fall for that they don’t want to lose anybody in the congregation especially if they’re a big donor so they may not believe. Doing that is wrong but they do it. They do it and the last one was in the last days they’ll show signs and wonders. And that is in the last days I haven’t seen any false prophets showing signs and wonders calling fire from heaven.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1217s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Mark 13:22",
+     "translation": "NKJV",
+     "text_nkjv": "For false christs and false prophets will rise and show signs and wonders to deceive, if possible, even the elect.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Mark+13%3A22&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1173s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Luke 6:26",
+     "translation": "NKJV",
+     "text_nkjv": "Woe to you when all men speak well of you, For so did their fathers to the false prophets.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Luke+6%3A26&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1180s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Isaiah 30:9-10",
+     "translation": "NKJV",
+     "text_nkjv": "That this is a rebellious people, Lying children, Children who will not hear the law of the LORD; Who say to the seers, “Do not see,” And to the prophets, “Do not prophesy to us right things; Speak to us smooth things, prophesy deceits.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Isaiah+30%3A9-10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1189s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:why-is-sin-accepted-in-american-churches",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "Why is sin accepted in many American churches?",
+   "short_answer": "He lists churches and groups he says accept homosexual members or same-sex marriage. From Second Timothy 3 and Matthew 24:11-12 he says in the last days evil men and seducers wax worse and worse, many false prophets deceive many, and because iniquity abounds the love of many will wax cold, while the wicked and the children of God grow together until the harvest.",
+   "text": "Prophets the churches today in America not only accept adultery premarital sex kid sex swingers animals sex with animals that produce the sexual transmitted diseases they’re all acceptable and by many Americans and by many American churches here’s a list of churches that accept homosexual as members Disciples of Christ, Reformed Church in America, Eastern Orthodox, Episcopal Church, the Community of Christ, Evangelical Lutheran and the Catholics they don’t even excommunicate the priests when they get caught having sex with boys they that believe in and teach same-sex marriages the Presbyterian Church USA, Friends or Quakers, Unification Church, United Church of Christ, Conservative and Reformed Jews plus the liberal churches the humanist churches and the mega churches the mega churches except them as members and approve of same-sex marriages many mega churches do that along with the United States government and the public schools now why is sin accepted in Americans churches why is this happening second Timothy 3:1.\n\nAnd 13. In the last days difficult times will come dangerous times shall come evil men and he gives a list of them and seducers shall wax worse and worse worse and worse deceiving and being deceived themselves in Matthew 24:11 many false prophets shall arise and shall deceive many because iniquity shall abound it’s going to wax worse and worse because of that the love of many shall wax cold. The love of what many believers many followers of Christ will wax cold and remember Jesus said that the wicked the children of the wicked one and the children of God must grow together till the end time harvest.",
+   "start_seconds": 1261,
+   "end_seconds": 1385,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1261s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-why-is-sin-accepted-in-american-churches",
+   "paragraphs": [
+    {
+     "start_seconds": 1261,
+     "text": "Prophets the churches today in America not only accept adultery premarital sex kid sex swingers animals sex with animals that produce the sexual transmitted diseases they’re all acceptable and by many Americans and by many American churches here’s a list of churches that accept homosexual as members Disciples of Christ, Reformed Church in America, Eastern Orthodox, Episcopal Church, the Community of Christ, Evangelical Lutheran and the Catholics they don’t even excommunicate the priests when they get caught having sex with boys they that believe in and teach same-sex marriages the Presbyterian Church USA, Friends or Quakers, Unification Church, United Church of Christ, Conservative and Reformed Jews plus the liberal churches the humanist churches and the mega churches the mega churches except them as members and approve of same-sex marriages many mega churches do that along with the United States government and the public schools now why is sin accepted in Americans churches why is this happening second Timothy 3:1.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1261s"
+    },
+    {
+     "start_seconds": 1333,
+     "text": "And 13. In the last days difficult times will come dangerous times shall come evil men and he gives a list of them and seducers shall wax worse and worse worse and worse deceiving and being deceived themselves in Matthew 24:11 many false prophets shall arise and shall deceive many because iniquity shall abound it’s going to wax worse and worse because of that the love of many shall wax cold. The love of what many believers many followers of Christ will wax cold and remember Jesus said that the wicked the children of the wicked one and the children of God must grow together till the end time harvest.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1333s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "2 Timothy 3:1-5",
+     "translation": "NKJV",
+     "text_nkjv": "But know this, that in the last days perilous times will come: For men will be lovers of themselves, lovers of money, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy, unloving, unforgiving, slanderers, without self-control, brutal, despisers of good, traitors, headstrong, haughty, lovers of pleasure rather than lovers of God, having a form of godliness but denying its power. And from such people turn away!",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Timothy+3%3A1-5&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1331s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "2 Timothy 3:13",
+     "translation": "NKJV",
+     "text_nkjv": "But evil men and impostors will grow worse and worse, deceiving and being deceived.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Timothy+3%3A13&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1342s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Matthew 24:11-12",
+     "translation": "NKJV",
+     "text_nkjv": "Then many false prophets will rise up and deceive many. And because lawlessness will abound, the love of many will grow cold.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+24%3A11-12&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1351s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Matthew 13:30",
+     "translation": "NKJV",
+     "text_nkjv": "Let both grow together until the harvest, and at the time of harvest I will say to the reapers, “First gather together the tares and bind them in bundles to burn them, but gather the wheat into my barn.” ’ ”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+13%3A30&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1380s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "abandoning-false-prophets:what-love-will-wax-cold",
+   "type": "section",
+   "sermon_slug": "abandoning-false-prophets",
+   "section_question": "What love will wax cold in the last days?",
+   "short_answer": "He says the love that waxes cold is not love for the poor or the sinner but love for God, shown by obeying him: “if you love me you will keep my commandments.” He says nothing replaces the first commandment to love God with all your heart by obeying him, and Christians need to stand up and commit themselves to loving God by obeying.",
+   "text": "Until the end of the ages and so wickedness is getting worse and worse and it’s getting worse because they’re not doing it in secret now they’re doing it publicly promoting it everywhere and because of that the love of many wax cold well what love is he talking about the love for the poor the love for the sick the love for the criminal or sinner no. It’s the love for God to obey him John 14:15. If you love me you will keep my commandments. If anyone loves me he will keep my word and he who does not love me does not keep my word that’s why multitudes of Christians in America are embracing sin as approved. Yeah portions to the poor I submit to you medical to the miserable sentiment for sinners God is love.\n\nEternal security none of these replaces the first commandment love God with all your heart all your soul with all your might with all your strength by obeying him government health care forces moral people to pay high medical bills and premiums of immoral people. With their stds and their abortions and their tobacco use and drug and alcohol. They give our free money [unclear] taxes to lazy people who make poor choices in education and job skills folks the poor need jobs that our government exported to other nations they need jobs and our government not only exported other nations but they allow illegal aliens to come in and take those jobs I submit to you Christians need to stand up and commit themselves to loving God by obeying his moral work.",
+   "start_seconds": 1385,
+   "end_seconds": 1501,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1385s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#q-what-love-will-wax-cold",
+   "paragraphs": [
+    {
+     "start_seconds": 1385,
+     "text": "Until the end of the ages and so wickedness is getting worse and worse and it’s getting worse because they’re not doing it in secret now they’re doing it publicly promoting it everywhere and because of that the love of many wax cold well what love is he talking about the love for the poor the love for the sick the love for the criminal or sinner no. It’s the love for God to obey him John 14:15. If you love me you will keep my commandments. If anyone loves me he will keep my word and he who does not love me does not keep my word that’s why multitudes of Christians in America are embracing sin as approved. Yeah portions to the poor I submit to you medical to the miserable sentiment for sinners God is love.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1385s"
+    },
+    {
+     "start_seconds": 1440,
+     "text": "Eternal security none of these replaces the first commandment love God with all your heart all your soul with all your might with all your strength by obeying him government health care forces moral people to pay high medical bills and premiums of immoral people. With their stds and their abortions and their tobacco use and drug and alcohol. They give our free money [unclear] taxes to lazy people who make poor choices in education and job skills folks the poor need jobs that our government exported to other nations they need jobs and our government not only exported other nations but they allow illegal aliens to come in and take those jobs I submit to you Christians need to stand up and commit themselves to loving God by obeying his moral work.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1440s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "John 14:15",
+     "translation": "NKJV",
+     "text_nkjv": "“If you love Me, keep My commandments.",
+     "source_url": "https://www.biblegateway.com/passage/?search=John+14%3A15&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1411s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "John 14:23-24",
+     "translation": "NKJV",
+     "text_nkjv": "Jesus answered and said to him, “If anyone loves Me, he will keep My word; and My Father will love him, and We will come to him and make Our home with him. He who does not love Me does not keep My words; and the word which you hear is not Mine but the Father’s who sent Me.",
+     "source_url": "https://www.biblegateway.com/passage/?search=John+14%3A23-24&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1416s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Mark 12:30",
+     "translation": "NKJV",
+     "text_nkjv": "And you shall love the LORD your God with all your heart, with all your soul, with all your mind, and with all your strength.’ This is the first commandment.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Mark+12%3A30&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1446s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  }
+ ],
+ "faqs": [
+  {
+   "id": "abandoning-false-prophets:could-christ-have-come-before-the-1500s",
+   "type": "faq",
+   "sermon_slug": "abandoning-false-prophets",
+   "question": "Could Christ have returned before the 1500s?",
+   "answer": "He says no, because all nations were not discovered until the 1500s, so the scriptures about all nations would not have been fulfilled, though people predicted his return for hundreds of years.",
+   "start_seconds": 194,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=194s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#faq-could-christ-have-come-before-the-1500s",
+   "scriptures": []
+  },
+  {
+   "id": "abandoning-false-prophets:why-was-there-a-falling-away",
+   "type": "faq",
+   "sermon_slug": "abandoning-false-prophets",
+   "question": "How dark was the falling away?",
+   "answer": "He says the church in the dark ages was gross and corrupt, Christianity had almost been snuffed out, and you have to dig deep to find little pockets of faithful Christians.",
+   "start_seconds": 314,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=314s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#faq-why-was-there-a-falling-away",
+   "scriptures": []
+  },
+  {
+   "id": "abandoning-false-prophets:why-hasnt-christ-come-yet",
+   "type": "faq",
+   "sermon_slug": "abandoning-false-prophets",
+   "question": "Why hasn’t Christ come yet?",
+   "answer": "He says Jesus must remain in heaven until the restoration of all things, and he has not restored all things yet, so he cannot come.",
+   "start_seconds": 314,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=314s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#faq-why-hasnt-christ-come-yet",
+   "scriptures": [
+    {
+     "ref": "Acts 3:21",
+     "translation": "NKJV",
+     "text_nkjv": "whom heaven must receive until the times of restoration of all things, which God has spoken by the mouth of all His holy prophets since the world began.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+3%3A21&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=363s",
+     "quoted_without_naming_reference": true
+    }
+   ]
+  },
+  {
+   "id": "abandoning-false-prophets:what-faith-do-false-prophets-attack",
+   "type": "faq",
+   "sermon_slug": "abandoning-false-prophets",
+   "question": "What faith do false prophets try to turn you from?",
+   "answer": "He says it is the faith that God has power to perform what he promised: to forgive, deliver and mature you by his power, and to finish the good work he began in you.",
+   "start_seconds": 850,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=850s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#faq-what-faith-do-false-prophets-attack",
+   "scriptures": []
+  },
+  {
+   "id": "abandoning-false-prophets:do-false-prophets-say-anything-goes",
+   "type": "faq",
+   "sermon_slug": "abandoning-false-prophets",
+   "question": "What do false prophets tell people about sin?",
+   "answer": "He says they tell people no evil shall happen to them, God is love, they have eternal security because they believe in Jesus and can do what they want, and God wants them to be happy.",
+   "start_seconds": 903,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=903s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#faq-do-false-prophets-say-anything-goes",
+   "scriptures": []
+  },
+  {
+   "id": "abandoning-false-prophets:why-do-false-teachers-teach-this-way",
+   "type": "faq",
+   "sermon_slug": "abandoning-false-prophets",
+   "question": "Why do false teachers teach that sin is okay?",
+   "answer": "He says they want your tithes, offerings and money, Americans are gullible and buy the books, and they live in mansions and drive fancy cars.",
+   "start_seconds": 1029,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1029s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#faq-why-do-false-teachers-teach-this-way",
+   "scriptures": []
+  },
+  {
+   "id": "abandoning-false-prophets:how-do-you-know-false-prophets-by-their-fruits",
+   "type": "faq",
+   "sermon_slug": "abandoning-false-prophets",
+   "question": "How do you know a false prophet by their fruits?",
+   "answer": "He says a good tree cannot bear bad fruit, so you know them by their behavior and by the behavior of those they prophesy to; it is in the actions.",
+   "start_seconds": 1087,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1087s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#faq-how-do-you-know-false-prophets-by-their-fruits",
+   "scriptures": [
+    {
+     "ref": "Matthew 7:16-18",
+     "translation": "NKJV",
+     "text_nkjv": "You will know them by their fruits. Do men gather grapes from thornbushes or figs from thistles? Even so, every good tree bears good fruit, but a bad tree bears bad fruit. A good tree cannot bear bad fruit, nor can a bad tree bear good fruit.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+7%3A16-18&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1142s",
+     "quoted_without_naming_reference": true
+    }
+   ]
+  },
+  {
+   "id": "abandoning-false-prophets:why-do-ministers-preach-what-people-want",
+   "type": "faq",
+   "sermon_slug": "abandoning-false-prophets",
+   "question": "Why do some ministers preach what people want to hear?",
+   "answer": "He says people will idolize your name, lift up your position and pay you well, and many ministers do not want to lose anybody, especially a big donor.",
+   "start_seconds": 1217,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1217s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#faq-why-do-ministers-preach-what-people-want",
+   "scriptures": []
+  },
+  {
+   "id": "abandoning-false-prophets:does-love-for-the-poor-replace-obedience",
+   "type": "faq",
+   "sermon_slug": "abandoning-false-prophets",
+   "question": "Can compassion or “God is love” replace obeying God?",
+   "answer": "He says portions to the poor, medical care for the miserable, sentiment for sinners, “God is love” and eternal security do not replace the first commandment to love God by obeying him.",
+   "start_seconds": 1440,
+   "video_url_at_time": "https://www.youtube.com/watch?v=PPEkIOndfJQ&t=1440s",
+   "page_anchor_url": "https://growonthevine.com/messages/abandoning-false-prophets/#faq-does-love-for-the-poor-replace-obedience",
+   "scriptures": []
+  }
+ ]
+}

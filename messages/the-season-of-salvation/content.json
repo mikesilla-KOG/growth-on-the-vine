@@ -1,0 +1,695 @@
+{
+ "schema_version": 1,
+ "sermon": {
+  "slug": "the-season-of-salvation",
+  "title": "The Season of Salvation",
+  "series": "",
+  "series_part": "",
+  "speaker": "Pastor David G. Kincer",
+  "church": "Vine Cluster Church",
+  "video_id": "vE2GhXLdsNA",
+  "video_url": "https://www.youtube.com/watch?v=vE2GhXLdsNA",
+  "upload_date": "2015-04-24",
+  "duration_seconds": 1450,
+  "language": "en",
+  "page_url": "https://growonthevine.com/messages/the-season-of-salvation/",
+  "status": "live",
+  "summary": "In this first session on present truth, Pastor David G. Kincer says God works in seasons and that the present season, the last days before Christ’s return, is a season of salvation. He separates present truth from future events no one can date, and walks through signs he says are already fulfilled or under way: antichrists and persecution, the falling away, restoration, the gospel to all nations, increased knowledge and Israel becoming a nation.",
+  "transcript_source": "This transcript comes from YouTube’s automatic English captions, which supply the timing and the words. Punctuation, capitalization and paragraphing were added from the speaker’s pauses and then corrected by hand, and obvious caption errors (names, Bible references) were fixed; his wording was not rewritten. “[unclear]” marks a word or name that was not clear. Editor notes: This is presented as the first session on “present truth.” At 13:15 he cites “Luke 21 11” and then quotes the next verse on persecution (Luke 21:12). Names of movements and people are spelled as heard; where a name was not clear it is marked [unclear]. Historical dates and figures (e.g. 313 A.D., 476 A.D., 1517, the revival years, 2600 years, the share of non-religious Israelis) are given as spoken and have not been checked.",
+  "brand": "Grow on the Vine"
+ },
+ "bible_translation": {
+  "code": "NKJV",
+  "notice": "Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved."
+ },
+ "chunks": [
+  {
+   "id": "the-season-of-salvation:what-is-present-truth",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "What is present truth, and does God work in seasons?",
+   "short_answer": "He says Second Peter 1:12 tells us to be established in present truth, truth at that time. From Ecclesiastes 3 he says to everything there is a season, and God has made everything beautiful in its time.",
+   "text": "Thank you for joining us in our first session. Of present truth. In second Peter chapter 1 verse 12. The Bible tells us to be established. In present truth. Truth at that time. In Ecclesiastes 3:1-8. The Bible tells us to everything there is a season. And a time for every purpose under heaven and he goes on and lists the time of war a time of peace a time together a time to cast away a time to hate a time to love a time to be born a time to die and then he makes this awesome statement. In verse 11.",
+   "start_seconds": 1,
+   "end_seconds": 54,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-what-is-present-truth",
+   "paragraphs": [
+    {
+     "start_seconds": 1,
+     "text": "Thank you for joining us in our first session. Of present truth. In second Peter chapter 1 verse 12. The Bible tells us to be established. In present truth. Truth at that time. In Ecclesiastes 3:1-8. The Bible tells us to everything there is a season. And a time for every purpose under heaven and he goes on and lists the time of war a time of peace a time together a time to cast away a time to hate a time to love a time to be born a time to die and then he makes this awesome statement. In verse 11.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "2 Peter 1:12",
+     "translation": "NKJV",
+     "text_nkjv": "For this reason I will not be negligent to remind you always of these things, though you know and are established in the present truth.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Peter+1%3A12&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=9s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Ecclesiastes 3:1-8",
+     "translation": "NKJV",
+     "text_nkjv": "To everything there is a season, A time for every purpose under heaven: A time to be born, And a time to die; A time to plant, And a time to pluck what is planted; A time to kill, And a time to heal; A time to break down, And a time to build up; A time to weep, And a time to laugh; A time to mourn, And a time to dance; A time to cast away stones, And a time to gather stones; A time to embrace, And a time to refrain from embracing; A time to gain, And a time to lose; A time to keep, And a time to throw away; A time to tear, And a time to sew; A time to keep silence, And a time to speak; A time to love, And a time to hate; A time of war, And a time of peace.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+3%3A1-8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=23s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Ecclesiastes 3:11",
+     "translation": "NKJV",
+     "text_nkjv": "He has made everything beautiful in its time. Also He has put eternity in their hearts, except that no one can find out the work that God does from beginning to end.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+3%3A11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=52s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-season-of-salvation:can-we-discern-the-signs-of-the-times",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "Can we discern the signs of the times?",
+   "short_answer": "He says if you know the seasons of God you are at peace, even in what others call bad seasons. In Luke 12:56 and Matthew 16:3 Jesus told the religious critics they could discern the sky but not this time or the signs of the times; God has seasons and times in which he performs his purposes.",
+   "text": "He has made everything beautiful in its time so the end result is if you know the seasons of God you’re at peace even what other people would call bad seasons you have no problem with because you understand. That God is a purpose during that season. In Luke chapter 12 verse 56. Jesus turns to those who are following him and criticizing him and very religious group and says you hypocrites you that say and do nothing do the opposite you can discern the face of the sky and of the earth you can tell me when it’s going to rain you can tell me when it’s going to be a hot day when it’s going to be a cool day you can discern those natural signs but you can’t discern this time the time of the messiah the time of the church being built by him in Matthew 16:3 he makes it even more clear using the same verse the same statement but instead of saying you can’t discern this time he says you can’t discern the signs of the times in other words God has season and he has times that he’s going to perform purposes in.",
+   "start_seconds": 54,
+   "end_seconds": 137,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=54s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-can-we-discern-the-signs-of-the-times",
+   "paragraphs": [
+    {
+     "start_seconds": 54,
+     "text": "He has made everything beautiful in its time so the end result is if you know the seasons of God you’re at peace even what other people would call bad seasons you have no problem with because you understand. That God is a purpose during that season. In Luke chapter 12 verse 56. Jesus turns to those who are following him and criticizing him and very religious group and says you hypocrites you that say and do nothing do the opposite you can discern the face of the sky and of the earth you can tell me when it’s going to rain you can tell me when it’s going to be a hot day when it’s going to be a cool day you can discern those natural signs but you can’t discern this time the time of the messiah the time of the church being built by him in Matthew 16:3 he makes it even more clear using the same verse the same statement but instead of saying you can’t discern this time he says you can’t discern the signs of the times in other words God has season and he has times that he’s going to perform purposes in.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=54s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Luke 12:56",
+     "translation": "NKJV",
+     "text_nkjv": "Hypocrites! You can discern the face of the sky and of the earth, but how is it you do not discern this time?",
+     "source_url": "https://www.biblegateway.com/passage/?search=Luke+12%3A56&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=76s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Matthew 16:3",
+     "translation": "NKJV",
+     "text_nkjv": "and in the morning, ‘It will be foul weather today, for the sky is red and threatening.’ Hypocrites! You know how to discern the face of the sky, but you cannot discern the signs of the times.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+16%3A3&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=111s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-season-of-salvation:does-anyone-know-when-jesus-will-return",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "Does anyone know the day Jesus will return?",
+   "short_answer": "He says future truth is not present truth. From Mark 13:24-32 he says after the great tribulation the Son of man will come in the clouds, but no one knows the day or hour, not the angels, only the Father.",
+   "text": "Now first you got to understand that future truth is not in the present season. No one knows for instance the day and the hour of these future seasons Mark 13:24 through 32 after the great tribulation. A future season the sun will be darkened the moon will not give its light the stars of heaven will fall then they will see the son of man coming in the clouds with great power and glory his second coming is a future event we don’t know when that is then he will send his angels and gather his elect from the four winds but the day and hour knows what no one not the angels in heaven nor the— but only the father and what is happening in.",
+   "start_seconds": 137,
+   "end_seconds": 189,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=137s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-does-anyone-know-when-jesus-will-return",
+   "paragraphs": [
+    {
+     "start_seconds": 137,
+     "text": "Now first you got to understand that future truth is not in the present season. No one knows for instance the day and the hour of these future seasons Mark 13:24 through 32 after the great tribulation. A future season the sun will be darkened the moon will not give its light the stars of heaven will fall then they will see the son of man coming in the clouds with great power and glory his second coming is a future event we don’t know when that is then he will send his angels and gather his elect from the four winds but the day and hour knows what no one not the angels in heaven nor the— but only the father and what is happening in.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=137s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Mark 13:24-32",
+     "translation": "NKJV",
+     "text_nkjv": "“But in those days, after that tribulation, the sun will be darkened, and the moon will not give its light; the stars of heaven will fall, and the powers in the heavens will be shaken. Then they will see the Son of Man coming in the clouds with great power and glory. And then He will send His angels, and gather together His elect from the four winds, from the farthest part of earth to the farthest part of heaven. “Now learn this parable from the fig tree: When its branch has already become tender, and puts forth leaves, you know that summer is near. So you also, when you see these things happening, know that it is near—at the doors! Assuredly, I say to you, this generation will by no means pass away till all these things take place. Heaven and earth will pass away, but My words will by no means pass away. “But of that day and hour no one knows, not even the angels in heaven, nor the Son, but only the Father.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Mark+13%3A24-32&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=150s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-season-of-salvation:what-future-events-have-not-happened-yet",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "What future events have not happened yet?",
+   "short_answer": "He says despite the constant bombardment that Jesus is coming any minute, nobody knows but God, and people predicting dates are dealing in future things. He lists future truths: the great tribulation, the seals, trumpets and bowls of Revelation, a glorious church, the heavens rolled up, the second coming, the resurrection and the renewed earth.",
+   "text": "The world today is a constant bombardment that we’re in the end times and Jesus is coming in a minute and he plainly says nobody knows but God himself not even Jesus who was God in the flesh knew. And yet we got all these people prophesying he’s coming and predicting dates and everything else that is future things that’s not present truth. Future things is the great tribulation the seals of Revelation the trumpets of Revelation the bowls of Revelation the thunderings of Revelation perplexities that come upon the nations and upon the people that is a future thing a time of peace is a future thing a glorious church where the gates of hell cannot prevail against we’re not there yet the heavens dissolved and rolled up like a scroll we’re not there yet Jesus second coming his second return to judge the world we’re not in that truth yet the dead resurrected from the graves and those alive caught up to meet the Lord in the air we’re not there yet and the fiery earth renovated and renewed those are future truths present truth is a basic one here we’re living in the last days that’s the basic.",
+   "start_seconds": 189,
+   "end_seconds": 275,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=189s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-what-future-events-have-not-happened-yet",
+   "paragraphs": [
+    {
+     "start_seconds": 189,
+     "text": "The world today is a constant bombardment that we’re in the end times and Jesus is coming in a minute and he plainly says nobody knows but God himself not even Jesus who was God in the flesh knew. And yet we got all these people prophesying he’s coming and predicting dates and everything else that is future things that’s not present truth. Future things is the great tribulation the seals of Revelation the trumpets of Revelation the bowls of Revelation the thunderings of Revelation perplexities that come upon the nations and upon the people that is a future thing a time of peace is a future thing a glorious church where the gates of hell cannot prevail against we’re not there yet the heavens dissolved and rolled up like a scroll we’re not there yet Jesus second coming his second return to judge the world we’re not in that truth yet the dead resurrected from the graves and those alive caught up to meet the Lord in the air we’re not there yet and the fiery earth renovated and renewed those are future truths present truth is a basic one here we’re living in the last days that’s the basic.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=189s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-season-of-salvation:are-we-living-in-the-last-days",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "Are we living in the last days?",
+   "short_answer": "He says the basic present truth is that we are living in the last days, which began when God poured out his Spirit in Acts 2, quoting Joel. He says this signified more outpourings of the Holy Ghost, which came in 1900, 1948 and 1968, and that whosoever calls on the name of the Lord shall be saved.",
+   "text": "Present truth and it is the season of a season of salvation in these last days Acts 2:16 makes it very clear quoting from Joel chapter 2 this is that which was spoken by the prophet Joel that it shall come to pass in the last days well so when God poured out his spirit in Acts 2 and they spoke in tongues the mighty works of God that was the beginning of the last days the beginning of the last days God says I will pour out my spirit on all flesh your sons and your daughters shall prophesy your young men will see visions and your old men will dream dreams on my servants and my handmaidens I will pour out in those days of my spirit and they shall prophesy signifying that there’s going to be more outpourings of the Holy Ghost which came in 1900. Which came again in 1948 which came again in 1968.\n\nGod came and visited the mainline denominational churches in 1968 filled them with the Holy Ghost they spoke in tongues and and in 1948 was another outpouring of his spirit which we will hit later. And the Azusa Street revival which spread throughout the world. We are in the last days. He goes on to say I will show wonders in heaven above and signs in the earth beneath blood and fire and vapor of smoke the sun shall be turned into darkness and the moon unto blood before the great and notable day of the Lord the second coming of Christ is a future event and so now he’s talking about other future events before the second coming of Christ we’re not there yet but he says it shall come to pass that whosoever shall call on the name of the Lord shall be.",
+   "start_seconds": 275,
+   "end_seconds": 382,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=275s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-are-we-living-in-the-last-days",
+   "paragraphs": [
+    {
+     "start_seconds": 275,
+     "text": "Present truth and it is the season of a season of salvation in these last days Acts 2:16 makes it very clear quoting from Joel chapter 2 this is that which was spoken by the prophet Joel that it shall come to pass in the last days well so when God poured out his spirit in Acts 2 and they spoke in tongues the mighty works of God that was the beginning of the last days the beginning of the last days God says I will pour out my spirit on all flesh your sons and your daughters shall prophesy your young men will see visions and your old men will dream dreams on my servants and my handmaidens I will pour out in those days of my spirit and they shall prophesy signifying that there’s going to be more outpourings of the Holy Ghost which came in 1900. Which came again in 1948 which came again in 1968.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=275s"
+    },
+    {
+     "start_seconds": 329,
+     "text": "God came and visited the mainline denominational churches in 1968 filled them with the Holy Ghost they spoke in tongues and and in 1948 was another outpouring of his spirit which we will hit later. And the Azusa Street revival which spread throughout the world. We are in the last days. He goes on to say I will show wonders in heaven above and signs in the earth beneath blood and fire and vapor of smoke the sun shall be turned into darkness and the moon unto blood before the great and notable day of the Lord the second coming of Christ is a future event and so now he’s talking about other future events before the second coming of Christ we’re not there yet but he says it shall come to pass that whosoever shall call on the name of the Lord shall be.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=329s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 2:16-21",
+     "translation": "NKJV",
+     "text_nkjv": "But this is what was spoken by the prophet Joel: ‘And it shall come to pass in the last days, says God, That I will pour out of My Spirit on all flesh; Your sons and your daughters shall prophesy, Your young men shall see visions, Your old men shall dream dreams. And on My menservants and on My maidservants I will pour out My Spirit in those days; And they shall prophesy. I will show wonders in heaven above And signs in the earth beneath: Blood and fire and vapor of smoke. The sun shall be turned into darkness, And the moon into blood, Before the coming of the great and awesome day of the LORD. And it shall come to pass That whoever calls on the name of the LORD Shall be saved.’",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+2%3A16-21&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=282s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Joel 2:28-32",
+     "translation": "NKJV",
+     "text_nkjv": "“And it shall come to pass afterward That I will pour out My Spirit on all flesh; Your sons and your daughters shall prophesy, Your old men shall dream dreams, Your young men shall see visions. And also on My menservants and on My maidservants I will pour out My Spirit in those days. “And I will show wonders in the heavens and in the earth: Blood and fire and pillars of smoke. The sun shall be turned into darkness, And the moon into blood, Before the coming of the great and awesome day of the LORD. And it shall come to pass That whoever calls on the name of the LORD Shall be saved. For in Mount Zion and in Jerusalem there shall be deliverance, As the LORD has said, Among the remnant whom the LORD calls.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Joel+2%3A28-32&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=285s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-season-of-salvation:what-season-are-we-in",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "What season are we in now?",
+   "short_answer": "He says the season before Christ’s second return is a season of salvation from sin. He builds on it: present truth number one is that Jesus, God in the flesh, has come, and number two that many antichrists and false prophets are in the world; from First John 4:1-3, every spirit that confesses Jesus has come in the flesh is of God.",
+   "text": "Saved. During the last days before the second return is a season of salvation. Salvation from sin. It is the season no matter what people tell you that’s the season we are in and it started with the beginning of the last days now we’re going to look at some we’re going to build on the basic present truth number one Jesus God in the flesh has come number two many antichrists are in the world. In first John 4:1-3 many false prophets are going into the world they were there back then they’re here now that’s no big deal. By this you know the spirit of God every spirit that confesses that Jesus has come in the flesh is of God.\n\nYou see. You can tell when a person is right but do they believe and do they preach and teach that Jesus Christ is the messiah God in the flesh who died on the cross for the sins of the world born of a virgin did miracles. Ascended back to heaven after he died and he’s coming back again after he builds a glorious church see you know that that is of God every spirit that confesses not that Jesus Christ is come in the flesh is not of God and not only is it not a God this is the spirit of antichrist the people that oppose God and even now it is in the world now the difference between the false prophet and the antichrist is the antichrist does not believe the messiah has come that Jesus is the messiah God in the flesh false prophets believe but they teach you things that lead you away from him you got it.",
+   "start_seconds": 382,
+   "end_seconds": 499,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=382s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-what-season-are-we-in",
+   "paragraphs": [
+    {
+     "start_seconds": 382,
+     "text": "Saved. During the last days before the second return is a season of salvation. Salvation from sin. It is the season no matter what people tell you that’s the season we are in and it started with the beginning of the last days now we’re going to look at some we’re going to build on the basic present truth number one Jesus God in the flesh has come number two many antichrists are in the world. In first John 4:1-3 many false prophets are going into the world they were there back then they’re here now that’s no big deal. By this you know the spirit of God every spirit that confesses that Jesus has come in the flesh is of God.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=382s"
+    },
+    {
+     "start_seconds": 440,
+     "text": "You see. You can tell when a person is right but do they believe and do they preach and teach that Jesus Christ is the messiah God in the flesh who died on the cross for the sins of the world born of a virgin did miracles. Ascended back to heaven after he died and he’s coming back again after he builds a glorious church see you know that that is of God every spirit that confesses not that Jesus Christ is come in the flesh is not of God and not only is it not a God this is the spirit of antichrist the people that oppose God and even now it is in the world now the difference between the false prophet and the antichrist is the antichrist does not believe the messiah has come that Jesus is the messiah God in the flesh false prophets believe but they teach you things that lead you away from him you got it.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=440s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 John 4:1-3",
+     "translation": "NKJV",
+     "text_nkjv": "Beloved, do not believe every spirit, but test the spirits, whether they are of God; because many false prophets have gone out into the world. By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God, and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+John+4%3A1-3&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=421s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-season-of-salvation:who-are-the-antichrists",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "Who are the many antichrists?",
+   "short_answer": "He says there are many antichrists, not one big boogeyman, and lists groups he says oppose Christ because they do not believe he existed or was God in the flesh who died for the sins of the world. Present truth number three is that Christians are hated and persecuted.",
+   "text": "Even now there are many how many many antichrist not one big boogeyman coming there are many opponents of Christ in the earth whereby we know that it is the last time and so we know that Jews who don’t accept Christ the Bible calls antichrist. We know that atheists are antichrists humanist or antichrist religionists are antichrists free thinkers homosexual activists liberals and so forth they are opposers of Christ simply because they don’t believe that he really existed or they don’t believe he was God in the flesh and died for the sins of the world they opposed Jesus Christ that’s one of the present truths we are living in number three Christians are hated and persecuted Luke 21:11 there will be wars earthquakes famines pestilences fearful sights.",
+   "start_seconds": 499,
+   "end_seconds": 556,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=499s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-who-are-the-antichrists",
+   "paragraphs": [
+    {
+     "start_seconds": 499,
+     "text": "Even now there are many how many many antichrist not one big boogeyman coming there are many opponents of Christ in the earth whereby we know that it is the last time and so we know that Jews who don’t accept Christ the Bible calls antichrist. We know that atheists are antichrists humanist or antichrist religionists are antichrists free thinkers homosexual activists liberals and so forth they are opposers of Christ simply because they don’t believe that he really existed or they don’t believe he was God in the flesh and died for the sins of the world they opposed Jesus Christ that’s one of the present truths we are living in number three Christians are hated and persecuted Luke 21:11 there will be wars earthquakes famines pestilences fearful sights.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=499s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 John 2:18",
+     "translation": "NKJV",
+     "text_nkjv": "Little children, it is the last hour; and as you have heard that the Antichrist is coming, even now many antichrists have come, by which we know that it is the last hour.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+John+2%3A18&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=499s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Luke 21:11-12",
+     "translation": "NKJV",
+     "text_nkjv": "And there will be great earthquakes in various places, and famines and pestilences; and there will be fearful sights and great signs from heaven. But before all these things, they will lay their hands on you and persecute you, delivering you up to the synagogues and prisons. You will be brought before kings and rulers for My name’s sake.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Luke+21%3A11-12&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=548s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-season-of-salvation:are-wars-and-earthquakes-signs-of-the-end",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "Are wars, earthquakes and famines signs of the end?",
+   "short_answer": "He says Jesus said these things come but the end is not yet, so do not be troubled; they have nothing to do with his return. From Matthew 24:9 he says believers will be hated of all nations, and since the nations were not all known until about 1500, there will be a later persecution in the last of the last days.",
+   "text": "In heaven but the end is not yet the end is not yet these things have nothing to do with the signs of the end of the time and Jesus coming which these people promote plainly says and he doubles it he says don’t be troubled before all of these things they will persecute you and deliver you to synagogues prisons kings and rulers for my name which they did up to 313 a.d the early church was heavily persecuted heavily persecuted. They will afflict and kill you Matthew 24:9 and you’ll be hated of all nations for my name’s sake now they didn’t know that South America was there yet North America was there yet Australia was there yet the islands [unclear] they didn’t know there was other nations in the world yet so there has to be a later persecution.\n\nBecause now we know all the nations of the earth. And until 1500 a.d we didn’t know there was other nations. And so Christians and people who taught that Christ was coming any time any time and picking dates they didn’t even realize that first we’ve got to be revealed that there are other nations other people in the earth so there will be a persecution. Also in the last of the last days after all nations have been revealed to us. And just remember. He says the end is not yet and don’t be troubled by people telling you there’s wars earthquakes famines pestilences plagues and so forth he says don’t be troubled by that that’s not anything to do with the return of Jesus Christ.",
+   "start_seconds": 556,
+   "end_seconds": 667,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=556s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-are-wars-and-earthquakes-signs-of-the-end",
+   "paragraphs": [
+    {
+     "start_seconds": 556,
+     "text": "In heaven but the end is not yet the end is not yet these things have nothing to do with the signs of the end of the time and Jesus coming which these people promote plainly says and he doubles it he says don’t be troubled before all of these things they will persecute you and deliver you to synagogues prisons kings and rulers for my name which they did up to 313 a.d the early church was heavily persecuted heavily persecuted. They will afflict and kill you Matthew 24:9 and you’ll be hated of all nations for my name’s sake now they didn’t know that South America was there yet North America was there yet Australia was there yet the islands [unclear] they didn’t know there was other nations in the world yet so there has to be a later persecution.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=556s"
+    },
+    {
+     "start_seconds": 608,
+     "text": "Because now we know all the nations of the earth. And until 1500 a.d we didn’t know there was other nations. And so Christians and people who taught that Christ was coming any time any time and picking dates they didn’t even realize that first we’ve got to be revealed that there are other nations other people in the earth so there will be a persecution. Also in the last of the last days after all nations have been revealed to us. And just remember. He says the end is not yet and don’t be troubled by people telling you there’s wars earthquakes famines pestilences plagues and so forth he says don’t be troubled by that that’s not anything to do with the return of Jesus Christ.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=608s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Matthew 24:9",
+     "translation": "NKJV",
+     "text_nkjv": "“Then they will deliver you up to tribulation and kill you, and you will be hated by all nations for My name’s sake.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+24%3A9&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=590s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Matthew 24:6",
+     "translation": "NKJV",
+     "text_nkjv": "And you will hear of wars and rumors of wars. See that you are not troubled; for all these things must come to pass, but the end is not yet.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+24%3A6&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=558s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-season-of-salvation:has-the-falling-away-already-happened",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "Has the falling away already happened?",
+   "short_answer": "From Second Thessalonians 2:2-3 he says that day will not come except there come a falling away first. He says after Rome fell in 476 A.D. came the dark ages, when the church went into real corruption and people could not read the Bible, and that we are living after the falling away, so it has already been fulfilled.",
+   "text": "Present truth number four there will be a falling away before Jesus returns. II Thessalonians 2:2-3. Be not soon shaken in mind or be troubled neither by spirit nor by the word nor by a letter from us apostles that the day of the Lord is at hand and what are people doing today in tv and radio and books troubling us that Jesus is coming anytime and uh Israel surrounded by armies and all this wicked sin in the world he said don’t be troubled by that I got a lot of things to do. Let no man deceive you for that day will not come except there come a falling away and we find as we read history when the Roman Empire fell here. That. In 476 A.D.\n\nThat darkness we call them the dark ages and the church went into real corruption the Catholic church was grossly corrupt during this time. Everybody knows it it’s history from sexual immorality to homosexuality to selling people free eternal ticket to heaven because they could live any way they want if they just pay the church money and so for almost [unclear] A.D. we were in the dark ages there was a great falling away. The Bible was written by hand number one and people of poverty and people of of poor means could not even afford to read the Bible on their own and they were forbidden to read the Bible by the Catholic church because only the priests could tell you what the Bible said and when you can’t read the word there’s a great chance you’re going to fall away.",
+   "start_seconds": 667,
+   "end_seconds": 782,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=667s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-has-the-falling-away-already-happened",
+   "paragraphs": [
+    {
+     "start_seconds": 667,
+     "text": "Present truth number four there will be a falling away before Jesus returns. II Thessalonians 2:2-3. Be not soon shaken in mind or be troubled neither by spirit nor by the word nor by a letter from us apostles that the day of the Lord is at hand and what are people doing today in tv and radio and books troubling us that Jesus is coming anytime and uh Israel surrounded by armies and all this wicked sin in the world he said don’t be troubled by that I got a lot of things to do. Let no man deceive you for that day will not come except there come a falling away and we find as we read history when the Roman Empire fell here. That. In 476 A.D.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=667s"
+    },
+    {
+     "start_seconds": 721,
+     "text": "That darkness we call them the dark ages and the church went into real corruption the Catholic church was grossly corrupt during this time. Everybody knows it it’s history from sexual immorality to homosexuality to selling people free eternal ticket to heaven because they could live any way they want if they just pay the church money and so for almost [unclear] A.D. we were in the dark ages there was a great falling away. The Bible was written by hand number one and people of poverty and people of of poor means could not even afford to read the Bible on their own and they were forbidden to read the Bible by the Catholic church because only the priests could tell you what the Bible said and when you can’t read the word there’s a great chance you’re going to fall away.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=721s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "2 Thessalonians 2:2-3",
+     "translation": "NKJV",
+     "text_nkjv": "not to be soon shaken in mind or troubled, either by spirit or by word or by letter, as if from us, as though the day of Christ had come. Let no one deceive you by any means; for that Day will not come unless the falling away comes first, and the man of sin is revealed, the son of perdition,",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Thessalonians+2%3A2-3&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=672s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-season-of-salvation:what-is-the-restoration-of-all-things",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "What is the restoration of all things?",
+   "short_answer": "He says present truth number five is the restoration of all things and times of refreshing. From Acts 3:19-21 he says repent and be converted so times of refreshing may come, and Jesus cannot come until the restoration of all things spoken by the prophets is fulfilled.",
+   "text": "So the bottom line is we’re living in a season after the falling away. After he predicted the falling away. We’re on the other side of it so we know the falling away has already been fulfilled number five the restoration of all things and the times of refreshing that’s a season we’re in Acts 3:19 repent be converted that your sins may be blotted out so that times of refreshing may come from the presence of the Lord that he may send Jesus Christ preached to you before whom the heavens must receive until the times of restoration he can’t come until the restoration of how many things all things. He can’t come until this is fulfilled.",
+   "start_seconds": 782,
+   "end_seconds": 839,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=782s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-what-is-the-restoration-of-all-things",
+   "paragraphs": [
+    {
+     "start_seconds": 782,
+     "text": "So the bottom line is we’re living in a season after the falling away. After he predicted the falling away. We’re on the other side of it so we know the falling away has already been fulfilled number five the restoration of all things and the times of refreshing that’s a season we’re in Acts 3:19 repent be converted that your sins may be blotted out so that times of refreshing may come from the presence of the Lord that he may send Jesus Christ preached to you before whom the heavens must receive until the times of restoration he can’t come until the restoration of how many things all things. He can’t come until this is fulfilled.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=782s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 3:19-21",
+     "translation": "NKJV",
+     "text_nkjv": "Repent therefore and be converted, that your sins may be blotted out, so that times of refreshing may come from the presence of the Lord, and that He may send Jesus Christ, who was preached to you before, whom heaven must receive until the times of restoration of all things, which God has spoken by the mouth of all His holy prophets since the world began.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+3%3A19-21&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=810s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-season-of-salvation:what-has-god-restored-through-church-history",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "What has God restored through church history?",
+   "short_answer": "He traces restorations: the just shall live by faith, water baptism with the Anabaptists, the sanctified life with the Methodists, divine healing, the baptism of the Holy Ghost in 1900, praise, worship and unity in 1948, a refreshing in 1968, and America’s great awakenings. He says if you fell back you can be restored and refreshed.",
+   "text": "Which God spoke by the mouth of his prophets since the world began that included Adam. Okay. So we find. That. Martin Luther started the Lutheran church of just say just shall live by faith in 1517. And uh then the Anabaptists came along with water baptism the Methodists with the sanctified life A b. Simpson and the [unclear] Alliance with divine healing. And then the Pentecostals in 1900. With the baptism of the Holy Ghost restored 1948 again it was restored and which lasted until the 80s 1980s. There was a restoration. Of uh praise and worship in 1948.\n\nA restoration of unity the body of Christ, fivefold ministry and prophecy. And in 1968. Was a refreshing on all the denominational church that missed the 48 revival and the other revivals the awakenings in 1730 was the first historical recognized awakening in America. Okay then in 1790 the second and in the civil war the third great awakening and we are living in the season of restoration and awakening and if you are a sinner that fell back you can be a Christian that fell back you can be restored you can be refreshed if you’re dry and if you’re dead you can be refreshed and renewed we are living in that season. Number six the gospels preach to all the world Matthew 24:14 this gospel of the kingdom shall be preached and to all the world for a witness and to all nations and then the end shall come.",
+   "start_seconds": 839,
+   "end_seconds": 960,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=839s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-what-has-god-restored-through-church-history",
+   "paragraphs": [
+    {
+     "start_seconds": 839,
+     "text": "Which God spoke by the mouth of his prophets since the world began that included Adam. Okay. So we find. That. Martin Luther started the Lutheran church of just say just shall live by faith in 1517. And uh then the Anabaptists came along with water baptism the Methodists with the sanctified life A b. Simpson and the [unclear] Alliance with divine healing. And then the Pentecostals in 1900. With the baptism of the Holy Ghost restored 1948 again it was restored and which lasted until the 80s 1980s. There was a restoration. Of uh praise and worship in 1948.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=839s"
+    },
+    {
+     "start_seconds": 894,
+     "text": "A restoration of unity the body of Christ, fivefold ministry and prophecy. And in 1968. Was a refreshing on all the denominational church that missed the 48 revival and the other revivals the awakenings in 1730 was the first historical recognized awakening in America. Okay then in 1790 the second and in the civil war the third great awakening and we are living in the season of restoration and awakening and if you are a sinner that fell back you can be a Christian that fell back you can be restored you can be refreshed if you’re dry and if you’re dead you can be refreshed and renewed we are living in that season. Number six the gospels preach to all the world Matthew 24:14 this gospel of the kingdom shall be preached and to all the world for a witness and to all nations and then the end shall come.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=894s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Romans 1:17",
+     "translation": "NKJV",
+     "text_nkjv": "For in it the righteousness of God is revealed from faith to faith; as it is written, “The just shall live by faith.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Romans+1%3A17&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=857s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-season-of-salvation:has-the-gospel-been-preached-to-all-nations",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "Must the gospel be preached to all nations before the end?",
+   "short_answer": "From Matthew 24:14 he says the gospel of the kingdom must be preached to all nations as a witness, not psychology or positive thinking but the gospel with proof. From Luke 24:47 he says repentance and remission of sins is preached among all nations, and since the nations were not known until the 1500s, this is a sign of the last of the last days.",
+   "text": "As a witness to all nations so all nations had to be discovered first and then we got to get the gospel to them as a witness not psychiatry not psychology not possibility thinking pos and positive thinking and and purpose driven thinking but the gospel with a witness. Proof Luke 24:47 repentance and remission of sin shall be preached the release of debts forgiveness deliverance of confessed sins shall be preached in Jesus name among all nations beginning at Jerusalem in 1492. America was discovered. In 1519 they sailed around the world for the first time so right in this area there was a big transition going on God started a whole new dimension.\n\nOf revealing himself to the earth around 1500 a.d see we know that because we can look back on it and so we know that’s present truth. And uh. You can’t have the gospel preached to all nations if you didn’t know. Where all the nations were. And they didn’t know until the 1500s. We are living in the season when the gospel of repentance for deliverance and forgiveness of confessed sins is taught to all nations a sign of the start of the last of the last days. Number seven. Knowledge shall increase. God prophesied and predicted knowledge shall increase and I’m shocked that no one uses this.",
+   "start_seconds": 960,
+   "end_seconds": 1068,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=960s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-has-the-gospel-been-preached-to-all-nations",
+   "paragraphs": [
+    {
+     "start_seconds": 960,
+     "text": "As a witness to all nations so all nations had to be discovered first and then we got to get the gospel to them as a witness not psychiatry not psychology not possibility thinking pos and positive thinking and and purpose driven thinking but the gospel with a witness. Proof Luke 24:47 repentance and remission of sin shall be preached the release of debts forgiveness deliverance of confessed sins shall be preached in Jesus name among all nations beginning at Jerusalem in 1492. America was discovered. In 1519 they sailed around the world for the first time so right in this area there was a big transition going on God started a whole new dimension.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=960s"
+    },
+    {
+     "start_seconds": 1014,
+     "text": "Of revealing himself to the earth around 1500 a.d see we know that because we can look back on it and so we know that’s present truth. And uh. You can’t have the gospel preached to all nations if you didn’t know. Where all the nations were. And they didn’t know until the 1500s. We are living in the season when the gospel of repentance for deliverance and forgiveness of confessed sins is taught to all nations a sign of the start of the last of the last days. Number seven. Knowledge shall increase. God prophesied and predicted knowledge shall increase and I’m shocked that no one uses this.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1014s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Matthew 24:14",
+     "translation": "NKJV",
+     "text_nkjv": "And this gospel of the kingdom will be preached in all the world as a witness to all the nations, and then the end will come.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+24%3A14&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=960s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Luke 24:47",
+     "translation": "NKJV",
+     "text_nkjv": "and that repentance and remission of sins should be preached in His name to all nations, beginning at Jerusalem.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Luke+24%3A47&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=982s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-season-of-salvation:what-does-daniel-12-4-say-about-knowledge",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "What does Daniel 12:4 say about knowledge increasing?",
+   "short_answer": "He says Daniel’s book was sealed until the time of the end, when many shall run to and fro and knowledge shall increase. He says after close to six thousand years of horse and buggy came the industrial revolution, rockets and computers, but the danger is thinking you can grow in God with knowledge and not the Spirit.",
+   "text": "No one. Daniel 12:4 Daniel shut up the words and seal the book even to the end of time it’s amazing how all these people seem to know what Daniel didn’t know. The book was closed to Daniel until the what in time that’s when it will be opened. He says many shall run to and fro and knowledge shall what be increased. And folks we were in the horse and buggy days. For six thousand years or uh. Close to six thousand years. And then all of a sudden the industrial revolution came the steam engines steam ships trains airplanes then came rockets to the moon. And computers.\n\nIn every home we’re living when God is allowing knowledge to increase signifying again that we’re in the last. Of the last days see when God said man could understand things then man started understanding things and man takes a lot of credit when God kept them ignorant until he was ready for us to have these high tech industrial things and it’s prophesied in the Bible and so we’re living in this period where knowledge is increasing. The danger of that is people think they can get saved and grow in God a maturing God with just knowledge. And not the spirit. Of the word and the spirit of God that gives the life to that knowledge now.",
+   "start_seconds": 1068,
+   "end_seconds": 1178,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1068s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-what-does-daniel-12-4-say-about-knowledge",
+   "paragraphs": [
+    {
+     "start_seconds": 1068,
+     "text": "No one. Daniel 12:4 Daniel shut up the words and seal the book even to the end of time it’s amazing how all these people seem to know what Daniel didn’t know. The book was closed to Daniel until the what in time that’s when it will be opened. He says many shall run to and fro and knowledge shall what be increased. And folks we were in the horse and buggy days. For six thousand years or uh. Close to six thousand years. And then all of a sudden the industrial revolution came the steam engines steam ships trains airplanes then came rockets to the moon. And computers.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1068s"
+    },
+    {
+     "start_seconds": 1122,
+     "text": "In every home we’re living when God is allowing knowledge to increase signifying again that we’re in the last. Of the last days see when God said man could understand things then man started understanding things and man takes a lot of credit when God kept them ignorant until he was ready for us to have these high tech industrial things and it’s prophesied in the Bible and so we’re living in this period where knowledge is increasing. The danger of that is people think they can get saved and grow in God a maturing God with just knowledge. And not the spirit. Of the word and the spirit of God that gives the life to that knowledge now.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1122s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Daniel 12:4",
+     "translation": "NKJV",
+     "text_nkjv": "“But you, Daniel, shut up the words, and seal the book until the time of the end; many shall run to and fro, and knowledge shall increase.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Daniel+12%3A4&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1070s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-season-of-salvation:why-does-israel-becoming-a-nation-matter",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "Why does Israel becoming a nation matter?",
+   "short_answer": "From Isaiah 66:8 he says a nation would be born at once, and in 1948 natural Israel became a nation after 2600 years; only God could do it, not Israel’s righteousness. From Acts 1:6-7 he says it is not for us to know the times and seasons, and people selling date predictions are making money off Christians.",
+   "text": "Present truth. Number eight. Is a real important one. Israel natural Israel became a nation after 2600 years. Isaiah 66:8 who has heard of such a thing who has seen such a thing shall the earth be made to bring forth in one day or shall a nation be birthed at once for as soon as Zion. Which is Jerusalem which is God’s peoples in Israel. Soon if Israel Zion travailed natural Israel she brought forth her children and sure enough in 1948. Israel became a nation natural Israel became a nation after being scattered throughout the world for 2600 years folks only God could accomplish something like that because close to 50 percent of Israelis today are non-religious people.\n\nGod is just doing what he’s said to do in other words it’s not Israel’s righteousness. That has brought this nation to pass. To be fulfilled. It is God. Fulfilling his promises his prophecies in the Bible Acts 1:6 they asked Jesus Lord will you at this time restore the kingdom to Israel and Jesus said it’s not for you to know the times of seasons which the father has put in his own authority. It’s not for you to know the times of the seasons of future events until God activates them and these people are making buku bucks of money of Christians. Who buy this sales pitch. That they know when things are going to happen when God over and over says nobody knows these things but the father in heaven the angels don’t know him Jesus didn’t know him only God knows them until he opens our understanding and he activates it we won’t know them but we can live in present truth.",
+   "start_seconds": 1178,
+   "end_seconds": 1322,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1178s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-why-does-israel-becoming-a-nation-matter",
+   "paragraphs": [
+    {
+     "start_seconds": 1178,
+     "text": "Present truth. Number eight. Is a real important one. Israel natural Israel became a nation after 2600 years. Isaiah 66:8 who has heard of such a thing who has seen such a thing shall the earth be made to bring forth in one day or shall a nation be birthed at once for as soon as Zion. Which is Jerusalem which is God’s peoples in Israel. Soon if Israel Zion travailed natural Israel she brought forth her children and sure enough in 1948. Israel became a nation natural Israel became a nation after being scattered throughout the world for 2600 years folks only God could accomplish something like that because close to 50 percent of Israelis today are non-religious people.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1178s"
+    },
+    {
+     "start_seconds": 1251,
+     "text": "God is just doing what he’s said to do in other words it’s not Israel’s righteousness. That has brought this nation to pass. To be fulfilled. It is God. Fulfilling his promises his prophecies in the Bible Acts 1:6 they asked Jesus Lord will you at this time restore the kingdom to Israel and Jesus said it’s not for you to know the times of seasons which the father has put in his own authority. It’s not for you to know the times of the seasons of future events until God activates them and these people are making buku bucks of money of Christians. Who buy this sales pitch. That they know when things are going to happen when God over and over says nobody knows these things but the father in heaven the angels don’t know him Jesus didn’t know him only God knows them until he opens our understanding and he activates it we won’t know them but we can live in present truth.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1251s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Isaiah 66:8",
+     "translation": "NKJV",
+     "text_nkjv": "Who has heard such a thing? Who has seen such things? Shall the earth be made to give birth in one day? Or shall a nation be born at once? For as soon as Zion was in labor, She gave birth to her children.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Isaiah+66%3A8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1192s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Acts 1:6-7",
+     "translation": "NKJV",
+     "text_nkjv": "Therefore, when they had come together, they asked Him, saying, “Lord, will You at this time restore the kingdom to Israel?” And He said to them, “It is not for you to know times or seasons which the Father has put in His own authority.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+1%3A6-7&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1269s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-season-of-salvation:what-can-the-church-expect-in-this-season",
+   "type": "section",
+   "sermon_slug": "the-season-of-salvation",
+   "section_question": "What can the church expect in this season?",
+   "short_answer": "He summarizes that we live in the last days, a day of salvation after the falling away and after Israel became a nation, so we can expect restoration and refreshing, not wars and pestilence. He says to expect Christianity to keep growing in all nations and a glorious church without spot or wrinkle before Christ returns.",
+   "text": "Summary. The season of the last the last days we are living in it’s a day of salvation the day of Jesus. God in the flesh. It’s a day of many false prophets and antichrist that hate and persecute. The church the believer in all nations it’s after the falling away period. It is we are after now the Jewish nation becoming a nation. We can expect. The Bible to be open to us. As future events are achieved we can expect that hallelujah. We can expect restoration and refreshing. When individuals fall away we don’t have to look for wars and rumors of war and pestilence and sicknesses and all that nonsense we can look for restoration and refreshing because God promised it in our season.\n\nExpect Christianity in South America Africa and Asia and the whole rest of the world. Outside of America and Europe they’re the only ones declining to keep growing as the gospel of repentance and remission of sins. Sins are taught in all nations and millions every year are coming to Christ on these continents millions it’s only Europe and America that we are getting cold and dead and you can look for a glorious church before the second return of Christ a church without spot or wrinkle overcoming the gates of hell and I submit to you that if Jesus can restore natural Israel and fulfill his word to natural Israel he can finish the good work he began in his church and make us a glorious church that can go through the great tribulation we can handle things because he. Can fulfill every jot and tittle of his word before he returns.",
+   "start_seconds": 1322,
+   "end_seconds": 1450,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1322s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#q-what-can-the-church-expect-in-this-season",
+   "paragraphs": [
+    {
+     "start_seconds": 1322,
+     "text": "Summary. The season of the last the last days we are living in it’s a day of salvation the day of Jesus. God in the flesh. It’s a day of many false prophets and antichrist that hate and persecute. The church the believer in all nations it’s after the falling away period. It is we are after now the Jewish nation becoming a nation. We can expect. The Bible to be open to us. As future events are achieved we can expect that hallelujah. We can expect restoration and refreshing. When individuals fall away we don’t have to look for wars and rumors of war and pestilence and sicknesses and all that nonsense we can look for restoration and refreshing because God promised it in our season.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1322s"
+    },
+    {
+     "start_seconds": 1386,
+     "text": "Expect Christianity in South America Africa and Asia and the whole rest of the world. Outside of America and Europe they’re the only ones declining to keep growing as the gospel of repentance and remission of sins. Sins are taught in all nations and millions every year are coming to Christ on these continents millions it’s only Europe and America that we are getting cold and dead and you can look for a glorious church before the second return of Christ a church without spot or wrinkle overcoming the gates of hell and I submit to you that if Jesus can restore natural Israel and fulfill his word to natural Israel he can finish the good work he began in his church and make us a glorious church that can go through the great tribulation we can handle things because he. Can fulfill every jot and tittle of his word before he returns.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1386s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Ephesians 5:27",
+     "translation": "NKJV",
+     "text_nkjv": "that He might present her to Himself a glorious church, not having spot or wrinkle or any such thing, but that she should be holy and without blemish.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+5%3A27&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1417s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Matthew 5:18",
+     "translation": "NKJV",
+     "text_nkjv": "For assuredly, I say to you, till heaven and earth pass away, one jot or one tittle will by no means pass from the law till all is fulfilled.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+5%3A18&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1445s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  }
+ ],
+ "faqs": [
+  {
+   "id": "the-season-of-salvation:why-are-some-at-peace-in-bad-seasons",
+   "type": "faq",
+   "sermon_slug": "the-season-of-salvation",
+   "question": "How can you be at peace in bad seasons?",
+   "answer": "He says if you know the seasons of God you are at peace, even in what others call bad seasons, because you understand God has a purpose during that season.",
+   "start_seconds": 54,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=54s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#faq-why-are-some-at-peace-in-bad-seasons",
+   "scriptures": []
+  },
+  {
+   "id": "the-season-of-salvation:should-we-trust-people-who-predict-dates",
+   "type": "faq",
+   "sermon_slug": "the-season-of-salvation",
+   "question": "Should we trust people who predict the date of Jesus’ return?",
+   "answer": "He says Jesus plainly said nobody knows but God himself, yet people keep prophesying and predicting dates about future things that are not present truth.",
+   "start_seconds": 189,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=189s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#faq-should-we-trust-people-who-predict-dates",
+   "scriptures": []
+  },
+  {
+   "id": "the-season-of-salvation:false-prophet-vs-antichrist",
+   "type": "faq",
+   "sermon_slug": "the-season-of-salvation",
+   "question": "What is the difference between a false prophet and an antichrist?",
+   "answer": "He says the antichrist does not believe Jesus is the Messiah, God in the flesh, while false prophets believe but teach things that lead you away from him.",
+   "start_seconds": 440,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=440s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#faq-false-prophet-vs-antichrist",
+   "scriptures": []
+  },
+  {
+   "id": "the-season-of-salvation:when-was-the-early-church-persecuted",
+   "type": "faq",
+   "sermon_slug": "the-season-of-salvation",
+   "question": "How long was the early church persecuted?",
+   "answer": "He says the early church was heavily persecuted up to 313 A.D.",
+   "start_seconds": 556,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=556s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#faq-when-was-the-early-church-persecuted",
+   "scriptures": []
+  },
+  {
+   "id": "the-season-of-salvation:why-couldnt-people-read-the-bible",
+   "type": "faq",
+   "sermon_slug": "the-season-of-salvation",
+   "question": "Why couldn’t people read the Bible in the dark ages?",
+   "answer": "He says the Bible was written by hand, poor people could not afford one, and they were forbidden to read it because only the priests could tell them what it said.",
+   "start_seconds": 721,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=721s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#faq-why-couldnt-people-read-the-bible",
+   "scriptures": []
+  },
+  {
+   "id": "the-season-of-salvation:can-a-backslider-be-restored",
+   "type": "faq",
+   "sermon_slug": "the-season-of-salvation",
+   "question": "Can someone who fell away be restored?",
+   "answer": "He says we are living in the season of restoration and awakening; if you fell back you can be restored, and if you are dry or dead you can be refreshed and renewed.",
+   "start_seconds": 894,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=894s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#faq-can-a-backslider-be-restored",
+   "scriptures": []
+  },
+  {
+   "id": "the-season-of-salvation:what-gospel-should-be-preached",
+   "type": "faq",
+   "sermon_slug": "the-season-of-salvation",
+   "question": "What should be preached to the nations?",
+   "answer": "He says not psychiatry, psychology, possibility thinking or purpose driven thinking, but the gospel with a witness: repentance and remission of sins in Jesus’ name.",
+   "start_seconds": 960,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=960s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#faq-what-gospel-should-be-preached",
+   "scriptures": [
+    {
+     "ref": "Luke 24:47",
+     "translation": "NKJV",
+     "text_nkjv": "and that repentance and remission of sins should be preached in His name to all nations, beginning at Jerusalem.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Luke+24%3A47&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=984s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "the-season-of-salvation:what-is-the-danger-of-knowledge",
+   "type": "faq",
+   "sermon_slug": "the-season-of-salvation",
+   "question": "What is the danger of increased knowledge?",
+   "answer": "He says people think they can get saved and grow in God with just knowledge and not the spirit of the word and the Spirit of God that gives life to that knowledge.",
+   "start_seconds": 1122,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1122s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#faq-what-is-the-danger-of-knowledge",
+   "scriptures": []
+  },
+  {
+   "id": "the-season-of-salvation:where-is-christianity-growing",
+   "type": "faq",
+   "sermon_slug": "the-season-of-salvation",
+   "question": "Where does he say Christianity is growing?",
+   "answer": "He says to expect Christianity to keep growing in South America, Africa and Asia, with millions coming to Christ every year, while Europe and America are getting cold.",
+   "start_seconds": 1386,
+   "video_url_at_time": "https://www.youtube.com/watch?v=vE2GhXLdsNA&t=1386s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-season-of-salvation/#faq-where-is-christianity-growing",
+   "scriptures": []
+  }
+ ]
+}
