@@ -1,0 +1,651 @@
+{
+ "schema_version": 1,
+ "sermon": {
+  "slug": "the-nations",
+  "title": "The Nations",
+  "series": "",
+  "series_part": "",
+  "speaker": "Pastor David G. Kincer",
+  "church": "Vine Cluster Church",
+  "video_id": "uuaJGzL4tvw",
+  "video_url": "https://www.youtube.com/watch?v=uuaJGzL4tvw",
+  "upload_date": "2015-08-31",
+  "duration_seconds": 1837,
+  "language": "en",
+  "page_url": "https://growonthevine.com/messages/the-nations/",
+  "status": "preview",
+  "summary": "Pastor David G. Kincer teaches what the Lord requires, distinguishes shadow, wise, civil and spiritual laws, and applies Israel’s call to possess the land to the church’s call to teach all nations with the word and the Spirit. He insists God shows no partiality, warns that blood-guilt follows silence toward the wicked, and shows from Acts 10 and Romans 2 that every nation's God-fearers who do right are accepted.",
+  "transcript_source": "This transcript comes from YouTube’s automatic English captions, which supply the timing and the words. Punctuation, capitalization and paragraphing were added from the speaker’s pauses and then corrected by hand, and obvious caption errors (names, Bible references) were fixed; his wording was not rewritten. “[unclear]” marks a word or name that was not clear. Editor notes: Statistic “7.3 billion / seven and a half million / little over ten percent” without food is as spoken and arithmetically inconsistent—flagged unverified. “News olams” captions corrected to Muslims. Named politics (Democrats/Republicans outsourcing), Islam/mosque reciprocity, homosexuality, socialism kept as spoken.",
+  "brand": "Grow on the Vine"
+ },
+ "bible_translation": {
+  "code": "NKJV",
+  "notice": "Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved."
+ },
+ "chunks": [
+  {
+   "id": "the-nations:what-does-the-lord-require",
+   "type": "section",
+   "sermon_slug": "the-nations",
+   "section_question": "What does the Lord require of his people?",
+   "short_answer": "From Deuteronomy he says God lays out plainly what is required—not just believing: fear the Lord (hate and depart from evil), walk in his ways and love him (love does no harm), serve him with all heart and soul as a servant obeys the boss, and keep his commandments and statutes for your good.",
+   "text": "God is talking to Israel his people God’s people and then he says what does the Lord require of you how many would like in plain english to know what Jesus requires of us as Christian you see I love versus like this because that’s the way I pursue things that’s the way I. Approach things I want clarity I want it laid out and he lays it out here what’s required of me just believing.\n\nNumber one but to fear the Lord you’re gone now we know that the fear of the Lord is to hate evil and the fear of the Lord is to depart from evil so we are required to what? Look down on evil despise evil and depart from evil that is our requirement could that be an amen all right secondly to walk in his ways and to love him all right love does no harm so I don’t do things that harm God or harm his name I really can’t hurt God but I can bring a reproach on his name by my speech and by my actions okay and his ways are ways of righteousness is ways of ways of right all right third to serve the Lord your God with all your heart and with all your soul a servant has a boss.",
+   "start_seconds": 0,
+   "end_seconds": 95,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=0s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#q-what-does-the-lord-require",
+   "paragraphs": [
+    {
+     "start_seconds": 0,
+     "text": "God is talking to Israel his people God’s people and then he says what does the Lord require of you how many would like in plain english to know what Jesus requires of us as Christian you see I love versus like this because that’s the way I pursue things that’s the way I. Approach things I want clarity I want it laid out and he lays it out here what’s required of me just believing.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=0s"
+    },
+    {
+     "start_seconds": 34,
+     "text": "Number one but to fear the Lord you’re gone now we know that the fear of the Lord is to hate evil and the fear of the Lord is to depart from evil so we are required to what? Look down on evil despise evil and depart from evil that is our requirement could that be an amen all right secondly to walk in his ways and to love him all right love does no harm so I don’t do things that harm God or harm his name I really can’t hurt God but I can bring a reproach on his name by my speech and by my actions okay and his ways are ways of righteousness is ways of ways of right all right third to serve the Lord your God with all your heart and with all your soul a servant has a boss.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=34s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Deuteronomy 10:12-13",
+     "translation": "NKJV",
+     "text_nkjv": "“And now, Israel, what does the LORD your God require of you, but to fear the LORD your God, to walk in all His ways and to love Him, to serve the LORD your God with all your heart and with all your soul, and to keep the commandments of the LORD and His statutes which I command you today for your good?",
+     "source_url": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A12-13&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=5s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Proverbs 8:13",
+     "translation": "NKJV",
+     "text_nkjv": "The fear of the LORD is to hate evil; Pride and arrogance and the evil way And the perverse mouth I hate.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Proverbs+8%3A13&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=40s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-nations:what-kinds-of-bible-laws-are-there",
+   "type": "section",
+   "sermon_slug": "the-nations",
+   "section_question": "What kinds of Bible laws are there?",
+   "short_answer": "He distinguishes civil, spiritual, wise and shadow laws. Wise laws include not even looking on wine when it is red in the cup, and not going near a prostitute’s house—wisdom that flees the appearance of evil. Christians under grace are not under shadow laws but still under civil, spiritual and wise laws, and must teach children and grandchildren diligently.",
+   "text": "And we’re to do what the boss said amen. And not what we want it’s not our opinion it’s what he says to serve him with all my heart the mine the will the emotions and all my soul my spirit. So here is spirit not just a person number four it’s required of us to keep the commandments of the Lord and his statues which I command you today for your good what is the purpose of God telling us to keep commandments to make our life miserable to hinder us from enjoying life no it’s not what people twist the scriptures to say keeping his laws is for our good now you got to understand in the Bible there are civil laws there are spiritual laws there are wise laws and there are shadow laws shadow laws are things that point to a truth a wise law is making a great decision.\n\nThe Bible says be not drunk with wine wherein is excess but be filled with the spirit see the wise person and a proverb says don’t even look on the wine the alcohol when it’s read in the cup because at last it bites like an adder so a wise person would abstain from drinking because of where it can lead. See it’s not an issue if I’m just a sipper the issue is do I serve Jesus the way he said to and flee the very appearance of evil amen you see a wise law is don’t go near the prostitutes house the house don’t even walk by her street why you want to avoid getting into evil you just stay away from it you don’t want to get near being enticed by him see that’s wisdom so you don’t go to hell for walking by her house.\n\nYou go to hell for going in our house and getting in her bed and so the wise law is avoided you got it and and Christians don’t know these things. They just know I’m not under law I’m under grace they don’t even know what law they’re not under they’re not under the shadow laws they are still under civil laws spiritual laws and wise laws. Then he says over and over and over I just gave you a few verses teach them diligently. And children I just didn’t have room on the screen to put grandchildren it I didn’t want to make a room I should say and so when I raised my kids I can’t stop I still got to be an example and I got to impart to my grandchildren.",
+   "start_seconds": 95,
+   "end_seconds": 287,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=95s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#q-what-kinds-of-bible-laws-are-there",
+   "paragraphs": [
+    {
+     "start_seconds": 95,
+     "text": "And we’re to do what the boss said amen. And not what we want it’s not our opinion it’s what he says to serve him with all my heart the mine the will the emotions and all my soul my spirit. So here is spirit not just a person number four it’s required of us to keep the commandments of the Lord and his statues which I command you today for your good what is the purpose of God telling us to keep commandments to make our life miserable to hinder us from enjoying life no it’s not what people twist the scriptures to say keeping his laws is for our good now you got to understand in the Bible there are civil laws there are spiritual laws there are wise laws and there are shadow laws shadow laws are things that point to a truth a wise law is making a great decision.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=95s"
+    },
+    {
+     "start_seconds": 169,
+     "text": "The Bible says be not drunk with wine wherein is excess but be filled with the spirit see the wise person and a proverb says don’t even look on the wine the alcohol when it’s read in the cup because at last it bites like an adder so a wise person would abstain from drinking because of where it can lead. See it’s not an issue if I’m just a sipper the issue is do I serve Jesus the way he said to and flee the very appearance of evil amen you see a wise law is don’t go near the prostitutes house the house don’t even walk by her street why you want to avoid getting into evil you just stay away from it you don’t want to get near being enticed by him see that’s wisdom so you don’t go to hell for walking by her house.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=169s"
+    },
+    {
+     "start_seconds": 232,
+     "text": "You go to hell for going in our house and getting in her bed and so the wise law is avoided you got it and and Christians don’t know these things. They just know I’m not under law I’m under grace they don’t even know what law they’re not under they’re not under the shadow laws they are still under civil laws spiritual laws and wise laws. Then he says over and over and over I just gave you a few verses teach them diligently. And children I just didn’t have room on the screen to put grandchildren it I didn’t want to make a room I should say and so when I raised my kids I can’t stop I still got to be an example and I got to impart to my grandchildren.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=232s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Ephesians 5:18",
+     "translation": "NKJV",
+     "text_nkjv": "And do not be drunk with wine, in which is dissipation; but be filled with the Spirit,",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+5%3A18&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=171s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Proverbs 23:31",
+     "translation": "NKJV",
+     "text_nkjv": "Do not look on the wine when it is red, When it sparkles in the cup, When it swirls around smoothly;",
+     "source_url": "https://www.biblegateway.com/passage/?search=Proverbs+23%3A31&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=181s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-nations:should-christians-learn-heathen-customs",
+   "type": "section",
+   "sermon_slug": "the-nations",
+   "section_question": "Should Christians learn the way of the heathen?",
+   "short_answer": "From Jeremiah 10:2, learn not the way of the heathen. He says American “public” schools are humanist liberal schools with Bible and God removed, teaching secular humanism, liberalism and that homosexuality is acceptable—then parents wonder what happened to their adolescents.",
+   "text": "The things of God Jeremiah 10:2: learn not the way of the heathen. Learn not the way of their worthless profitless customs. Public schools in America are not public schools at all they are humanists liberal schools. The Bible and God has been taken out if they were public schools they would have a Jewish Bible a catholic Bible a protestant Bible and they would allow. Teaching of that Bible they are not a public school Christians are part of the public are. You out there and don’t you fall for this super reason and church and state nonsense they just want the Bible out of America they won’t Bible standards Bible morality out and we send our kids to public school that teach the huge religion of secular humanism that teach liberalism that teach that homosexuality is an acceptable lifestyle we sent our children there to be taught these bad character values and then we wonder what happened when they got to be adolescence.",
+   "start_seconds": 287,
+   "end_seconds": 363,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=287s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#q-should-christians-learn-heathen-customs",
+   "paragraphs": [
+    {
+     "start_seconds": 287,
+     "text": "The things of God Jeremiah 10:2: learn not the way of the heathen. Learn not the way of their worthless profitless customs. Public schools in America are not public schools at all they are humanists liberal schools. The Bible and God has been taken out if they were public schools they would have a Jewish Bible a catholic Bible a protestant Bible and they would allow. Teaching of that Bible they are not a public school Christians are part of the public are. You out there and don’t you fall for this super reason and church and state nonsense they just want the Bible out of America they won’t Bible standards Bible morality out and we send our kids to public school that teach the huge religion of secular humanism that teach liberalism that teach that homosexuality is an acceptable lifestyle we sent our children there to be taught these bad character values and then we wonder what happened when they got to be adolescence.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=287s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Jeremiah 10:2",
+     "translation": "NKJV",
+     "text_nkjv": "Thus says the LORD: “Do not learn the way of the Gentiles; Do not be dismayed at the signs of heaven, For the Gentiles are dismayed at them.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Jeremiah+10%3A2&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=291s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-nations:what-is-circumcision-of-the-heart",
+   "type": "section",
+   "sermon_slug": "the-nations",
+   "section_question": "What is circumcision of the heart versus shadow circumcision?",
+   "short_answer": "Even in the Old Testament circumcision pointed to a higher law—circumcise the foreskin of your heart and don’t be stiff-necked. Isaiah 1:11 shows God hating empty animal sacrifices as shadows of Christ’s death. Colossians 2:11 and water baptism are circumcision made without hands; Acts 7:51 rebukes the uncircumcised in heart who resist the Holy Ghost.",
+   "text": "And circumcised the foreskin of your heart and be stiff neck stubborn hard to get along with. No longer. American. American Christians are so stubborn. Well I believe what I believe what I believe doesn’t matter what God says is what they blew. But water we regard to believe his laws his work. And he says circumcised the foreskin of your heart see this is a shadow law circumcision is of shadow law and what I want to show you is even in the Old Testament God never intended for circumcision to be the end result he was pointing to a higher law that circumcision was an example of and we call him shadow laws the Bible calls and shadow laws.\n\nIsaiah 1:11 says delight not in the blood of bullock’s and lambs or the blood of goats don’t delight in burning incense and keeping the Sabbath days and the new moons and assembling together and the feast he says all these things I hate. He says who has asked you to do these things well he did he asked us to sacrifice land he asked us to burn incense but he is saying those are shadows of truths to come that my son will die on the cross that I will come in the body of Jesus Christ and I will die on a cross for the sins of the world it’s a shadow law we don’t kill animals anymore we have Jesus the lamb that was slain amen. Colossians 2:11 says you are circumcised with the circumcision made without hands and putting off the body of sin by the circumcision of Christ Jesus buried with him in water baptism where are you are risen with him.",
+   "start_seconds": 363,
+   "end_seconds": 496,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=363s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#q-what-is-circumcision-of-the-heart",
+   "paragraphs": [
+    {
+     "start_seconds": 363,
+     "text": "And circumcised the foreskin of your heart and be stiff neck stubborn hard to get along with. No longer. American. American Christians are so stubborn. Well I believe what I believe what I believe doesn’t matter what God says is what they blew. But water we regard to believe his laws his work. And he says circumcised the foreskin of your heart see this is a shadow law circumcision is of shadow law and what I want to show you is even in the Old Testament God never intended for circumcision to be the end result he was pointing to a higher law that circumcision was an example of and we call him shadow laws the Bible calls and shadow laws.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=363s"
+    },
+    {
+     "start_seconds": 424,
+     "text": "Isaiah 1:11 says delight not in the blood of bullock’s and lambs or the blood of goats don’t delight in burning incense and keeping the Sabbath days and the new moons and assembling together and the feast he says all these things I hate. He says who has asked you to do these things well he did he asked us to sacrifice land he asked us to burn incense but he is saying those are shadows of truths to come that my son will die on the cross that I will come in the body of Jesus Christ and I will die on a cross for the sins of the world it’s a shadow law we don’t kill animals anymore we have Jesus the lamb that was slain amen. Colossians 2:11 says you are circumcised with the circumcision made without hands and putting off the body of sin by the circumcision of Christ Jesus buried with him in water baptism where are you are risen with him.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=424s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Deuteronomy 10:16",
+     "translation": "NKJV",
+     "text_nkjv": "Therefore circumcise the foreskin of your heart, and be stiff-necked no longer.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A16&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=364s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Isaiah 1:11",
+     "translation": "NKJV",
+     "text_nkjv": "“To what purpose is the multitude of your sacrifices to Me?” Says the LORD. “I have had enough of burnt offerings of rams And the fat of fed cattle. I do not delight in the blood of bulls, Or of lambs or goats.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Isaiah+1%3A11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=424s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Colossians 2:11-12",
+     "translation": "NKJV",
+     "text_nkjv": "In Him you were also circumcised with the circumcision made without hands, by putting off the body of the sins of the flesh, by the circumcision of Christ, buried with Him in baptism, in which you also were raised with Him through faith in the working of God, who raised Him from the dead.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Colossians+2%3A11-12&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=474s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Acts 7:51",
+     "translation": "NKJV",
+     "text_nkjv": "“You stiff-necked and uncircumcised in heart and ears! You always resist the Holy Spirit; as your fathers did, so do you.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+7%3A51&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=495s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-nations:does-god-show-partiality-to-strangers",
+   "type": "section",
+   "sermon_slug": "the-nations",
+   "section_question": "Does God show partiality, and how should strangers be treated?",
+   "short_answer": "God shows no partiality nor takes a bribe; he administers justice for orphans and widows and loves the stranger. Exodus 12:49: one law for the native-born and the alien. He contrasts Muslim nations that won’t allow churches with demands for mosques here, and says outsourcing jobs denies blue-collar Americans the pursuit of happiness.",
+   "text": "To do. Right things the old man is dead and so water baptism is our circumcision and there’s Christian is that you don’t need to be baptized. Acts 7:51 says you stiff-necked people and uncircumcised in heart you always resist the Holy Ghost as your father’s did. See even in the New Testament God don’t want doesn’t want us to be hard to get along with just submit God shows no partiality nor does God take a brine this is what God does God administers justice for the orphans the widows and loves the stranger in giving him food and clothing is he God shows no partiality nor takes a bribe the stranger the orphans with food and clothing remember in Exodus chapter 12 verse 49 God said there’s one law for the native-born and for the alien the foreigner who dwells among you one long all men are created equal folks and they have a right to life liberty and the pursuit of happiness.\n\nLet me give you an example Muslims they don’t treat people equal you go over to start a church in Saudi Arabia in Palestine or Pakistan. In these Muslim nations and you see what happens we won’t see you again you will disappear and then they want to come over here and they want to build mosque and they want the religious freedom uh-uh honey unless you treat us equally over there we don’t have to treat you equally here. Pursuit of happiness. You can’t pursue happiness without a job. And the Democrats and Republicans have outsourced 1 million jobs a year since the 90s and a.\n\nLot of Americans don’t have work because they’re not college people they’re not tech school people they are blue-collar people and there’s hardly any blue collar jobs now and that is wrong the Bible says you take care of your your own nation first and let the nation that serves the Lord and does right the exalted let the nation let the other nations see that because you chose to take care of your people take care of your citizen provide them a job provide them with an infant structure where they can pursue the happiness of having a family getting married raising kids and propagate this system on and on and on. That’s the pursuit of happiness.\n\nFor this reason therefore love the stranger love the orphan love the widow it’s implied see those are different than you those are in a need there was in a difficult part of life don’t do anything to hurt them and God said he would minister justice to them and give them food and clothing and that’s exactly what he said in the New Testament that God looked the other way when you were worshiping your idols and all that but he gave you reign and he provided you food and clothing see God’s job is to do that you know we have a 7.3 billion population in the earth and listen to this only seven and a half million a little over ten percent. Don’t have enough food every day why is that because the Bible said God would give them food and clothing and shelter.",
+   "start_seconds": 496,
+   "end_seconds": 746,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=496s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#q-does-god-show-partiality-to-strangers",
+   "paragraphs": [
+    {
+     "start_seconds": 496,
+     "text": "To do. Right things the old man is dead and so water baptism is our circumcision and there’s Christian is that you don’t need to be baptized. Acts 7:51 says you stiff-necked people and uncircumcised in heart you always resist the Holy Ghost as your father’s did. See even in the New Testament God don’t want doesn’t want us to be hard to get along with just submit God shows no partiality nor does God take a brine this is what God does God administers justice for the orphans the widows and loves the stranger in giving him food and clothing is he God shows no partiality nor takes a bribe the stranger the orphans with food and clothing remember in Exodus chapter 12 verse 49 God said there’s one law for the native-born and for the alien the foreigner who dwells among you one long all men are created equal folks and they have a right to life liberty and the pursuit of happiness.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=496s"
+    },
+    {
+     "start_seconds": 578,
+     "text": "Let me give you an example Muslims they don’t treat people equal you go over to start a church in Saudi Arabia in Palestine or Pakistan. In these Muslim nations and you see what happens we won’t see you again you will disappear and then they want to come over here and they want to build mosque and they want the religious freedom uh-uh honey unless you treat us equally over there we don’t have to treat you equally here. Pursuit of happiness. You can’t pursue happiness without a job. And the Democrats and Republicans have outsourced 1 million jobs a year since the 90s and a.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=578s"
+    },
+    {
+     "start_seconds": 632,
+     "text": "Lot of Americans don’t have work because they’re not college people they’re not tech school people they are blue-collar people and there’s hardly any blue collar jobs now and that is wrong the Bible says you take care of your your own nation first and let the nation that serves the Lord and does right the exalted let the nation let the other nations see that because you chose to take care of your people take care of your citizen provide them a job provide them with an infant structure where they can pursue the happiness of having a family getting married raising kids and propagate this system on and on and on. That’s the pursuit of happiness.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=632s"
+    },
+    {
+     "start_seconds": 687,
+     "text": "For this reason therefore love the stranger love the orphan love the widow it’s implied see those are different than you those are in a need there was in a difficult part of life don’t do anything to hurt them and God said he would minister justice to them and give them food and clothing and that’s exactly what he said in the New Testament that God looked the other way when you were worshiping your idols and all that but he gave you reign and he provided you food and clothing see God’s job is to do that you know we have a 7.3 billion population in the earth and listen to this only seven and a half million a little over ten percent. Don’t have enough food every day why is that because the Bible said God would give them food and clothing and shelter.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=687s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Deuteronomy 10:17-19",
+     "translation": "NKJV",
+     "text_nkjv": "For the LORD your God is God of gods and Lord of lords, the great God, mighty and awesome, who shows no partiality nor takes a bribe. He administers justice for the fatherless and the widow, and loves the stranger, giving him food and clothing. Therefore love the stranger, for you were strangers in the land of Egypt.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Deuteronomy+10%3A17-19&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=532s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Exodus 12:49",
+     "translation": "NKJV",
+     "text_nkjv": "One law shall be for the native-born and for the stranger who dwells among you.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Exodus+12%3A49&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=563s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-nations:how-do-gods-people-possess-the-nations",
+   "type": "section",
+   "sermon_slug": "the-nations",
+   "section_question": "How were Israel to possess the land, and how do we possess nations now?",
+   "short_answer": "Strength comes from keeping God’s laws to possess the land. Deuteronomy 7: nations greater than Israel would be delivered for judgment when Amorite sin was mature. Israel failed when not strong in the word. In the New Testament the sword is the word (Ephesians 6:17); we teach all nations to observe what Christ commanded—not megachurch books—preaching repentance and remission of sins in his name (Luke 24:47).",
+   "text": "Keep my laws that you may be what strong so where does our strength come from the word of God not just reading it but what keeping it that’s where we’re strong and we got to read it and study it to us maintain the observation of it we got to remind it what God says and not be looking for these idiotic things that these religionists tell you to look for and then it says go in and possess the land. What does he mean two lists by possessing the land here. Seizing control taken authority over influencing the land what does he mean this is where the scriptures took place over to the right and this land of Israel okay before Israel had this land there were seven nations in that land those nations were called collectively Canaanites or amirite alright but they were also described in the Bible separately and so he tells us to be strong by obeying the word so they could possess the land alright in Deuteronomy 7.\n\n17 nations greater and mightier than you do we have nation in fact are the humanists right now in America more powerful than we are they are you gotta admit it they are. All right but when I read this verse I don’t see a problem why they had the same thing back there these nations were more military stronger greater than Israel was when the Lord delivers them to you not if the Lord delivers them to you when the Lord delivers these nations to you you you shall conquer and utterly destroy them and make no covenant or show mercy nor make marriages with him so God is going to use his people to bring judgment on the Amorite which is that God said to Abraham their sin has not come to maturity yet but when their sin comes a maturity your offspring are going to come back and possess this land and so we see that God judges nations with other nations and here he judge the canaanite land by his own people conquering it and they literally were supposed to kill and they did most of the time women children and all but because\n\nthey weren’t strong in the word they never defeated these seven nations. They let them remain and guess what happened those nations the few that were left turned them away from God. The New Testament churches the sword is the word the nations of the whole world so we don’t take guns to forget people to serve God and do right we use the word Ephesians 6:17 the sword of the spirit is the word of God my word is quick and powerful and sharper than any two-edged sword the Bible says so we are to take the word and go teach all nations how many nations all nations all peoples nations Gentiles heathen are all the same word in the Bible teaching them to observe the latest book from the megachurch.\n\nIt just amazes me how people will read in fact pastors think they got to write a book to be in the in crowd that’s what I was told at a pastor’s con man you need to write a book I got a book I. Got a buck how am I going to improve on this book all I can do is tell you what this book says. We are to what teach all things that Christ told us to teach and the apostles they followed the apostles doctrine the apostles were taught by Jesus when we get away from what Jesus taught and the apostles taught we get away from the power and the strength to have an influence over the nation’s keep my word be strong so you can want possess the nation’s we want to possess them for righteousness to do good turn them from sin and that’s what it says in Luke 24:47 repent.",
+   "start_seconds": 746,
+   "end_seconds": 1065,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=746s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#q-how-do-gods-people-possess-the-nations",
+   "paragraphs": [
+    {
+     "start_seconds": 746,
+     "text": "Keep my laws that you may be what strong so where does our strength come from the word of God not just reading it but what keeping it that’s where we’re strong and we got to read it and study it to us maintain the observation of it we got to remind it what God says and not be looking for these idiotic things that these religionists tell you to look for and then it says go in and possess the land. What does he mean two lists by possessing the land here. Seizing control taken authority over influencing the land what does he mean this is where the scriptures took place over to the right and this land of Israel okay before Israel had this land there were seven nations in that land those nations were called collectively Canaanites or amirite alright but they were also described in the Bible separately and so he tells us to be strong by obeying the word so they could possess the land alright in Deuteronomy 7.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=746s"
+    },
+    {
+     "start_seconds": 834,
+     "text": "17 nations greater and mightier than you do we have nation in fact are the humanists right now in America more powerful than we are they are you gotta admit it they are. All right but when I read this verse I don’t see a problem why they had the same thing back there these nations were more military stronger greater than Israel was when the Lord delivers them to you not if the Lord delivers them to you when the Lord delivers these nations to you you you shall conquer and utterly destroy them and make no covenant or show mercy nor make marriages with him so God is going to use his people to bring judgment on the Amorite which is that God said to Abraham their sin has not come to maturity yet but when their sin comes a maturity your offspring are going to come back and possess this land and so we see that God judges nations with other nations and here he judge the canaanite land by his own people conquering it and they literally were supposed to kill and they did most of the time women children and all but because",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=834s"
+    },
+    {
+     "start_seconds": 925,
+     "text": "they weren’t strong in the word they never defeated these seven nations. They let them remain and guess what happened those nations the few that were left turned them away from God. The New Testament churches the sword is the word the nations of the whole world so we don’t take guns to forget people to serve God and do right we use the word Ephesians 6:17 the sword of the spirit is the word of God my word is quick and powerful and sharper than any two-edged sword the Bible says so we are to take the word and go teach all nations how many nations all nations all peoples nations Gentiles heathen are all the same word in the Bible teaching them to observe the latest book from the megachurch.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=925s"
+    },
+    {
+     "start_seconds": 993,
+     "text": "It just amazes me how people will read in fact pastors think they got to write a book to be in the in crowd that’s what I was told at a pastor’s con man you need to write a book I got a book I. Got a buck how am I going to improve on this book all I can do is tell you what this book says. We are to what teach all things that Christ told us to teach and the apostles they followed the apostles doctrine the apostles were taught by Jesus when we get away from what Jesus taught and the apostles taught we get away from the power and the strength to have an influence over the nation’s keep my word be strong so you can want possess the nation’s we want to possess them for righteousness to do good turn them from sin and that’s what it says in Luke 24:47 repent.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=993s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Deuteronomy 7:1-2",
+     "translation": "NKJV",
+     "text_nkjv": "“When the LORD your God brings you into the land which you go to possess, and has cast out many nations before you, the Hittites and the Girgashites and the Amorites and the Canaanites and the Perizzites and the Hivites and the Jebusites, seven nations greater and mightier than you, and when the LORD your God delivers them over to you, you shall conquer them and utterly destroy them. You shall make no covenant with them nor show mercy to them.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Deuteronomy+7%3A1-2&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=831s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Ephesians 6:17",
+     "translation": "NKJV",
+     "text_nkjv": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God;",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+6%3A17&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=960s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Luke 24:47",
+     "translation": "NKJV",
+     "text_nkjv": "and that repentance and remission of sins should be preached in His name to all nations, beginning at Jerusalem.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Luke+24%3A47&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1061s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Matthew 28:19-20",
+     "translation": "NKJV",
+     "text_nkjv": "Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all things that I have commanded you; and lo, I am with you always, even to the end of the age.” Amen.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+28%3A19-20&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=972s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-nations:why-do-we-need-the-holy-spirit-for-the-nations",
+   "type": "section",
+   "sermon_slug": "the-nations",
+   "section_question": "Why do we need the Holy Spirit to reach the nations?",
+   "short_answer": "Jesus sends the promise of the Father—baptism of the Holy Ghost—so they tarry until clothed with power from on high. Acts 1: power to be witnesses; the gospel preached to all nations as a witness. He opened their understanding of the Scriptures; the Spirit fills with power to witness. We need the power of the word and the power of the Spirit.",
+   "text": "Repentance and remission of sins should be preached in his name among all nations don’t ever use the word God in this society user name of who Jesus that’s the name they hate because Jesus was God and Jesus is the identity with the protestant and the catholic religion and they want that name out he says this statement after that statement and I wow. In verse 49 I send the promise of my father upon you what was the promise of the father the baptism of the Holy Ghost say it baptism of the Holy Ghost I haven’t got time to go to John and show you that that’s a fact you see the baptism of the Holy Spirit was coming the infilling of the Holy Spirit was coming wasn’t there yet upon all flesh Jesus had it John the baptist had it but not everybody had access to it yet until Jesus ascended he says so you go and terry in Jerusalem until you be clothed with what power strength.\n\nSupernatural ability from on high in Acts 1 it says when the Holy Ghost comes you shall receive power when you get the Holy Ghost it’s not just tongue or no tongue you are baptized with spiritual power or spiritual abilities to one be a witness unto him and what did Jesus say this gospel shall be preached to all nations as a witness. And. The Holy Spirit the word gives us the power and in the New Testament we see that the spirit of God is also the other side of that power. I’ll prove it to you and Luke the last chapter the apostles had been with him for three and a half years taught him he died on the cross rose from the grave and he’s talking to him now and the Bible says he opened their understanding to understand the scriptures all the time he was talking they weren’t getting it you ever feel like that.",
+   "start_seconds": 1065,
+   "end_seconds": 1219,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1065s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#q-why-do-we-need-the-holy-spirit-for-the-nations",
+   "paragraphs": [
+    {
+     "start_seconds": 1065,
+     "text": "Repentance and remission of sins should be preached in his name among all nations don’t ever use the word God in this society user name of who Jesus that’s the name they hate because Jesus was God and Jesus is the identity with the protestant and the catholic religion and they want that name out he says this statement after that statement and I wow. In verse 49 I send the promise of my father upon you what was the promise of the father the baptism of the Holy Ghost say it baptism of the Holy Ghost I haven’t got time to go to John and show you that that’s a fact you see the baptism of the Holy Spirit was coming the infilling of the Holy Spirit was coming wasn’t there yet upon all flesh Jesus had it John the baptist had it but not everybody had access to it yet until Jesus ascended he says so you go and terry in Jerusalem until you be clothed with what power strength.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1065s"
+    },
+    {
+     "start_seconds": 1140,
+     "text": "Supernatural ability from on high in Acts 1 it says when the Holy Ghost comes you shall receive power when you get the Holy Ghost it’s not just tongue or no tongue you are baptized with spiritual power or spiritual abilities to one be a witness unto him and what did Jesus say this gospel shall be preached to all nations as a witness. And. The Holy Spirit the word gives us the power and in the New Testament we see that the spirit of God is also the other side of that power. I’ll prove it to you and Luke the last chapter the apostles had been with him for three and a half years taught him he died on the cross rose from the grave and he’s talking to him now and the Bible says he opened their understanding to understand the scriptures all the time he was talking they weren’t getting it you ever feel like that.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1140s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Luke 24:49",
+     "translation": "NKJV",
+     "text_nkjv": "Behold, I send the Promise of My Father upon you; but tarry in the city of Jerusalem until you are endued with power from on high.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Luke+24%3A49&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1097s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Acts 1:8",
+     "translation": "NKJV",
+     "text_nkjv": "But you shall receive power when the Holy Spirit has come upon you; and you shall be witnesses to Me in Jerusalem, and in all Judea and Samaria, and to the end of the earth.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+1%3A8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1140s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-nations:will-jesus-judge-the-nations",
+   "type": "section",
+   "sermon_slug": "the-nations",
+   "section_question": "Will Jesus judge the nations, and are we accountable to warn?",
+   "short_answer": "The Son of Man gathers all nations; the cursed go to eternal fire. God still judges with plagues, acts of God, wars and famines. Ezekiel 33/18: if you do not warn the wicked, his blood is required at your hand—so tell the homosexual, adulterer and socialist the truth that sets free.",
+   "text": "Now we leave Luke the last chapter and go to acts Luke is the same writer of acts and he continued his discourse in acts and he said he did and he says now I want to let you know not only did he open their understanding done to turn the scriptures but the Holy Spirit’s coming and he’s going to feel you and when your field you’re going to have power to witness for me and did they absolutely. So we need two things what are they the power the word. Power the spirit. Jesus himself judges and punishes the nations in the New Testament when I’m a son of man shall come. Before him shall be gathered all nations.\n\nThe curse are punished an eternal fire with Satan and his angels the curse of the evil one. The stiff neck the stubborn the righteous will enter into eternal life. To God is gone any judges the nation’s using plagues using acts of God using wars and using famines or economical stress that’s God and he’s still doing he’s been doing it ever since and we don’t get it now look at this. Ezekiel 33 and also and it is equal 18 when I say until the wicked you shall surely die. Eternal damnation in the lake of fire is what he’s talking about a spiritual death everybody dies physically alright.\n\nBut these people are going to die eternally because they are sinning they are doing wicked thing if you do not speak to warn the wicked from his way that wicked man shall die in his iniquity but his blood while I what require at your hand he gave us the responsibility to teach the nation’s repentance confession for the forgiveness and cleansing of sin and if we don’t do that. He’s going to hold us accountable for not being responsible to do what he asks us to do. Now I’m not going to get a clap over that statement because you got to be responsible. You got to tell the homosexual the wrong you got to tell the adulterer they’re wrong.\n\nYou got to tell the socialist that their idea of a government is wrong. But everybody gets their own opinion not they can have their own opinion but the wrong opinion oh presses the people. The truth sets people free. Now that scripture really got me as a young Christian back there when I first saved it 20 years old and that’s why I was on the streets preaching going door-to-door in jails old folks home I’d going ever. Telling people about the good news of Jesus Christ. Acts 26:17.",
+   "start_seconds": 1219,
+   "end_seconds": 1442,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1219s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#q-will-jesus-judge-the-nations",
+   "paragraphs": [
+    {
+     "start_seconds": 1219,
+     "text": "Now we leave Luke the last chapter and go to acts Luke is the same writer of acts and he continued his discourse in acts and he said he did and he says now I want to let you know not only did he open their understanding done to turn the scriptures but the Holy Spirit’s coming and he’s going to feel you and when your field you’re going to have power to witness for me and did they absolutely. So we need two things what are they the power the word. Power the spirit. Jesus himself judges and punishes the nations in the New Testament when I’m a son of man shall come. Before him shall be gathered all nations.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1219s"
+    },
+    {
+     "start_seconds": 1276,
+     "text": "The curse are punished an eternal fire with Satan and his angels the curse of the evil one. The stiff neck the stubborn the righteous will enter into eternal life. To God is gone any judges the nation’s using plagues using acts of God using wars and using famines or economical stress that’s God and he’s still doing he’s been doing it ever since and we don’t get it now look at this. Ezekiel 33 and also and it is equal 18 when I say until the wicked you shall surely die. Eternal damnation in the lake of fire is what he’s talking about a spiritual death everybody dies physically alright.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1276s"
+    },
+    {
+     "start_seconds": 1332,
+     "text": "But these people are going to die eternally because they are sinning they are doing wicked thing if you do not speak to warn the wicked from his way that wicked man shall die in his iniquity but his blood while I what require at your hand he gave us the responsibility to teach the nation’s repentance confession for the forgiveness and cleansing of sin and if we don’t do that. He’s going to hold us accountable for not being responsible to do what he asks us to do. Now I’m not going to get a clap over that statement because you got to be responsible. You got to tell the homosexual the wrong you got to tell the adulterer they’re wrong.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1332s"
+    },
+    {
+     "start_seconds": 1389,
+     "text": "You got to tell the socialist that their idea of a government is wrong. But everybody gets their own opinion not they can have their own opinion but the wrong opinion oh presses the people. The truth sets people free. Now that scripture really got me as a young Christian back there when I first saved it 20 years old and that’s why I was on the streets preaching going door-to-door in jails old folks home I’d going ever. Telling people about the good news of Jesus Christ. Acts 26:17.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1389s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Matthew 25:31-32",
+     "translation": "NKJV",
+     "text_nkjv": "“When the Son of Man comes in His glory, and all the holy angels with Him, then He will sit on the throne of His glory. All the nations will be gathered before Him, and He will separate them one from another, as a shepherd divides his sheep from the goats.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+25%3A31-32&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1268s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Ezekiel 33:8",
+     "translation": "NKJV",
+     "text_nkjv": "When I say to the wicked, ‘O wicked man, you shall surely die!’ and you do not speak to warn the wicked from his way, that wicked man shall die in his iniquity; but his blood I will require at your hand.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ezekiel+33%3A8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1312s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-nations:to-whom-did-jesus-send-paul",
+   "type": "section",
+   "sermon_slug": "the-nations",
+   "section_question": "To whom did Jesus send Paul, and why?",
+   "short_answer": "Acts 26:17–18: delivering Paul from the people (religionists) and the Gentiles (nations/heathen) to open their eyes, turn them from darkness to light and from Satan to God, that they may receive forgiveness and an inheritance among the sanctified. If God delivered Paul, why are we afraid to talk?",
+   "text": "Little more clarity on the issue delivering you talking to Paul God’s talking to Paul Jesus is talking to Paul delivering you Paul from the people the people here are the religionists the Pharisees the Jews the Sadducees. You see the the grecian religion and the roman religion deliver you from the religionists religionists or people that make up their own rules and methods to serve a deity that’s what a religion is this. I’m going to deliver you from them and I’m going to deliver you from the Gentiles now what are the Gentiles the nation’s the heathen. The people all right the unbeliever.\n\nI’m going to delivery from both of them now if he’s going to deliver Paul will he deliver us then why we are so afraid to talk. Now the purpose of sit now he says and to whom I seen you so who did God send Paul to the religionists and the unbeliever those outside of the church and the results I mean the purpose was to open their eyes to. Turn them from darkness to light and from the power of Satan under God from the influence of Satan unto the influence of God God the good guy Satan the bad guy he goes on to say that they may receive this is the result forgiveness of sin and an inheritance among them that are sanctified by faith that is in me.",
+   "start_seconds": 1442,
+   "end_seconds": 1559,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1442s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#q-to-whom-did-jesus-send-paul",
+   "paragraphs": [
+    {
+     "start_seconds": 1442,
+     "text": "Little more clarity on the issue delivering you talking to Paul God’s talking to Paul Jesus is talking to Paul delivering you Paul from the people the people here are the religionists the Pharisees the Jews the Sadducees. You see the the grecian religion and the roman religion deliver you from the religionists religionists or people that make up their own rules and methods to serve a deity that’s what a religion is this. I’m going to deliver you from them and I’m going to deliver you from the Gentiles now what are the Gentiles the nation’s the heathen. The people all right the unbeliever.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1442s"
+    },
+    {
+     "start_seconds": 1503,
+     "text": "I’m going to delivery from both of them now if he’s going to deliver Paul will he deliver us then why we are so afraid to talk. Now the purpose of sit now he says and to whom I seen you so who did God send Paul to the religionists and the unbeliever those outside of the church and the results I mean the purpose was to open their eyes to. Turn them from darkness to light and from the power of Satan under God from the influence of Satan unto the influence of God God the good guy Satan the bad guy he goes on to say that they may receive this is the result forgiveness of sin and an inheritance among them that are sanctified by faith that is in me.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1503s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 26:17-18",
+     "translation": "NKJV",
+     "text_nkjv": "I will deliver you from the Jewish people, as well as from the Gentiles, to whom I now send you, to open their eyes, in order to turn them from darkness to light, and from the power of Satan to God, that they may receive forgiveness of sins and an inheritance among those who are sanctified by faith in Me.’",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+26%3A17-18&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1442s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "the-nations:is-god-a-respecter-of-persons-among-nations",
+   "type": "section",
+   "sermon_slug": "the-nations",
+   "section_question": "Is God a respecter of persons among the nations?",
+   "short_answer": "Acts 10:34: God is not a respecter of persons. In every nation he who fears God and works righteousness is accepted. Romans 2: Gentiles who do by nature the things in the law show the work of the law written in their hearts—conscience recognizing right and wrong. God is not partial to believers who keep sinning; Ezekiel answers the “not fair” charge.",
+   "text": "God told Abraham I am your exceedingly great reward Jesus is our greatest inheritance wisdom of the Bible is next because he is the living word the empowerment of Holy Spirit is next because he is the Holy Spirit are you with me there is one God he is the Holy Ghost he is Jesus and he’s God he’s one God how many gods one I don’t know why the church can understand that simplicity of that and yes the body of Christ is in heaven because God dwelled in the body in that body was resurrected and it’s up there but he is how many gods one God in Jesus one God and the holy goals and one God in God. Acts 10:34 Peter opened his mouth and that’s what we need to do but we got to have something to say if you got to start off with I believe just shut your mouth.\n\nSo he opened his mouth instead of a truth I perceived that God is not what a respecter of persons isn’t that what we read back and Deuteronomy God is not partial is. He going to just bless your socks off and overlook you because you believe in Jesus and you shack up women and you take drugs and yeah. He’s pro founded in everything else but you believe in g is he gonna be partial to you because you’re believer wow oh man oh God this guy is so cool. That don’t sound fair it is fair go read Ezekiel go back and read the total chapter of Ezekiel I gave you in 33 and Ezekiel 18 because back there they said God that’s not fair he’ll sit what do you mean it’s not fair if the good man turns from his goodness and does evil he deserves to be punished if the wicked man turns from his wickedness and does good he deserves to get the reward of God God answered the question in those chapters very powerful chapters but in every nation how many nations every nations he that fears God and what’s the fear of the Lord depart from evil and hate evil look down an evil and does right is.\n\nAcceptable with God. Romans 2: when the Gentiles the heathen the nation do by nature the things contained in the law these having not the law are a law unto themselves you see the writer of Romans is backing up the fact that people and other nations can do what’s right without ever hearing about Jesus and the cross and he’s going to explain to us why. They are law not having the law they are a law unto themselves which show the work of the law written in their hearts what’s the heart mine. Will and the emotional part of them written in their hearts their conscience what’s the conscience.\n\nThe recognition of right and wrong. My conscience tells me and I can feel it if I’m doing what’s right or I’m doing what’s wrong and I have to harden my conscience. To do what’s wrong I have to reject it are you with me what’s this. Their conscience bearing witness walk bore witness the conscience what’s going to bear witness in heaven before Jesus their conscience and their thoughts where does the conscience work it’s your thought process that’s where the conscience works. Accusing or excusing one another in the day God judges the secrets of men by Jesus Christ God’s not what respecter of persons he sent them to the religionists as to the heathen we all have got to embrace repentance forgiveness of sin and doing what’s right keeping the laws of God.",
+   "start_seconds": 1559,
+   "end_seconds": 1837,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1559s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#q-is-god-a-respecter-of-persons-among-nations",
+   "paragraphs": [
+    {
+     "start_seconds": 1559,
+     "text": "God told Abraham I am your exceedingly great reward Jesus is our greatest inheritance wisdom of the Bible is next because he is the living word the empowerment of Holy Spirit is next because he is the Holy Spirit are you with me there is one God he is the Holy Ghost he is Jesus and he’s God he’s one God how many gods one I don’t know why the church can understand that simplicity of that and yes the body of Christ is in heaven because God dwelled in the body in that body was resurrected and it’s up there but he is how many gods one God in Jesus one God and the holy goals and one God in God. Acts 10:34 Peter opened his mouth and that’s what we need to do but we got to have something to say if you got to start off with I believe just shut your mouth.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1559s"
+    },
+    {
+     "start_seconds": 1616,
+     "text": "So he opened his mouth instead of a truth I perceived that God is not what a respecter of persons isn’t that what we read back and Deuteronomy God is not partial is. He going to just bless your socks off and overlook you because you believe in Jesus and you shack up women and you take drugs and yeah. He’s pro founded in everything else but you believe in g is he gonna be partial to you because you’re believer wow oh man oh God this guy is so cool. That don’t sound fair it is fair go read Ezekiel go back and read the total chapter of Ezekiel I gave you in 33 and Ezekiel 18 because back there they said God that’s not fair he’ll sit what do you mean it’s not fair if the good man turns from his goodness and does evil he deserves to be punished if the wicked man turns from his wickedness and does good he deserves to get the reward of God God answered the question in those chapters very powerful chapters but in every nation how many nations every nations he that fears God and what’s the fear of the Lord depart from evil and hate evil look down an evil and does right is.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1616s"
+    },
+    {
+     "start_seconds": 1702,
+     "text": "Acceptable with God. Romans 2: when the Gentiles the heathen the nation do by nature the things contained in the law these having not the law are a law unto themselves you see the writer of Romans is backing up the fact that people and other nations can do what’s right without ever hearing about Jesus and the cross and he’s going to explain to us why. They are law not having the law they are a law unto themselves which show the work of the law written in their hearts what’s the heart mine. Will and the emotional part of them written in their hearts their conscience what’s the conscience.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1702s"
+    },
+    {
+     "start_seconds": 1757,
+     "text": "The recognition of right and wrong. My conscience tells me and I can feel it if I’m doing what’s right or I’m doing what’s wrong and I have to harden my conscience. To do what’s wrong I have to reject it are you with me what’s this. Their conscience bearing witness walk bore witness the conscience what’s going to bear witness in heaven before Jesus their conscience and their thoughts where does the conscience work it’s your thought process that’s where the conscience works. Accusing or excusing one another in the day God judges the secrets of men by Jesus Christ God’s not what respecter of persons he sent them to the religionists as to the heathen we all have got to embrace repentance forgiveness of sin and doing what’s right keeping the laws of God.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1757s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 10:34-35",
+     "translation": "NKJV",
+     "text_nkjv": "Then Peter opened his mouth and said: “In truth I perceive that God shows no partiality. But in every nation whoever fears Him and works righteousness is accepted by Him.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+10%3A34-35&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1616s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Romans 2:14-15",
+     "translation": "NKJV",
+     "text_nkjv": "for when Gentiles, who do not have the law, by nature do the things in the law, these, although not having the law, are a law to themselves, who show the work of the law written in their hearts, their conscience also bearing witness, and between themselves their thoughts accusing or else excusing them)",
+     "source_url": "https://www.biblegateway.com/passage/?search=Romans+2%3A14-15&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1702s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Ezekiel 18:25-27",
+     "translation": "NKJV",
+     "text_nkjv": "“Yet you say, ‘The way of the Lord is not fair.’ Hear now, O house of Israel, is it not My way which is fair, and your ways which are not fair? When a righteous man turns away from his righteousness, commits iniquity, and dies in it, it is because of the iniquity which he has done that he dies. Again, when a wicked man turns away from the wickedness which he committed, and does what is lawful and right, he preserves himself alive.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ezekiel+18%3A25-27&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1661s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  }
+ ],
+ "faqs": [
+  {
+   "id": "the-nations:is-keeping-gods-laws-for-our-good",
+   "type": "faq",
+   "sermon_slug": "the-nations",
+   "question": "Is keeping God’s laws meant to make life miserable?",
+   "answer": "He says the purpose is for our good, not to hinder enjoyment of life—people twist the Scriptures when they say otherwise.",
+   "start_seconds": 95,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=95s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#faq-is-keeping-gods-laws-for-our-good",
+   "scriptures": []
+  },
+  {
+   "id": "the-nations:do-you-go-to-hell-for-walking-by-temptation",
+   "type": "faq",
+   "sermon_slug": "the-nations",
+   "question": "Do you go to hell for walking by a prostitute’s house?",
+   "answer": "He says you don’t go to hell for walking by her house; you go to hell for going in and getting in her bed—the wise law is to avoid.",
+   "start_seconds": 232,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=232s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#faq-do-you-go-to-hell-for-walking-by-temptation",
+   "scriptures": []
+  },
+  {
+   "id": "the-nations:are-public-schools-really-public",
+   "type": "faq",
+   "sermon_slug": "the-nations",
+   "question": "Are American public schools really public schools?",
+   "answer": "He says if they were public they would allow Jewish, Catholic and Protestant Bibles; instead they teach the religion of secular humanism.",
+   "start_seconds": 287,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=287s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#faq-are-public-schools-really-public",
+   "scriptures": []
+  },
+  {
+   "id": "the-nations:is-water-baptism-our-circumcision",
+   "type": "faq",
+   "sermon_slug": "the-nations",
+   "question": "Is water baptism our circumcision?",
+   "answer": "From Colossians 2 he says water baptism is circumcision made without hands, putting off the body of sin; the old man is dead.",
+   "start_seconds": 496,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=496s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#faq-is-water-baptism-our-circumcision",
+   "scriptures": []
+  },
+  {
+   "id": "the-nations:should-america-treat-muslims-equally-if-they-dont",
+   "type": "faq",
+   "sermon_slug": "the-nations",
+   "question": "Should America grant equal religious freedom if we are not treated equally abroad?",
+   "answer": "He says unless they treat us equally over there, we don’t have to treat them equally here regarding building mosques while churches disappear in those nations.",
+   "start_seconds": 578,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=578s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#faq-should-america-treat-muslims-equally-if-they-dont",
+   "scriptures": []
+  },
+  {
+   "id": "the-nations:how-many-lack-food-worldwide",
+   "type": "faq",
+   "sermon_slug": "the-nations",
+   "question": "How many people does he say lack enough food?",
+   "answer": "He says of about 7.3 billion, only about seven and a half million—a little over ten percent in his wording—don’t have enough food every day, because God said he would give food and clothing. (Statistic as spoken; unverified.)",
+   "start_seconds": 687,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=687s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#faq-how-many-lack-food-worldwide",
+   "scriptures": []
+  },
+  {
+   "id": "the-nations:what-sword-do-christians-use",
+   "type": "faq",
+   "sermon_slug": "the-nations",
+   "question": "What sword do New Testament churches use toward the nations?",
+   "answer": "The sword of the Spirit is the word of God—quick, powerful, sharper than any two-edged sword—not guns to force people to serve God.",
+   "start_seconds": 925,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=925s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#faq-what-sword-do-christians-use",
+   "scriptures": [
+    {
+     "ref": "Ephesians 6:17",
+     "translation": "NKJV",
+     "text_nkjv": "And take the helmet of salvation, and the sword of the Spirit, which is the word of God;",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+6%3A17&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=946s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  },
+  {
+   "id": "the-nations:why-use-the-name-jesus",
+   "type": "faq",
+   "sermon_slug": "the-nations",
+   "question": "Why does he say to use the name Jesus, not just “God”?",
+   "answer": "He says don’t use the vague word God in this society—use Jesus, the name they hate, because Jesus was God and is identified with Protestant and Catholic religion.",
+   "start_seconds": 1065,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1065s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#faq-why-use-the-name-jesus",
+   "scriptures": []
+  },
+  {
+   "id": "the-nations:what-two-powers-do-we-need",
+   "type": "faq",
+   "sermon_slug": "the-nations",
+   "question": "What two things do we need to witness to the nations?",
+   "answer": "The power of the word and the power of the Spirit—understanding opened to the Scriptures and being filled with the Holy Ghost.",
+   "start_seconds": 1140,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1140s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#faq-what-two-powers-do-we-need",
+   "scriptures": []
+  },
+  {
+   "id": "the-nations:what-is-the-conscience",
+   "type": "faq",
+   "sermon_slug": "the-nations",
+   "question": "What is the conscience according to Romans 2?",
+   "answer": "The recognition of right and wrong in the thought process—bearing witness, accusing or else excusing—when God judges secrets by Jesus Christ.",
+   "start_seconds": 1757,
+   "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1757s",
+   "page_anchor_url": "https://growonthevine.com/messages/the-nations/#faq-what-is-the-conscience",
+   "scriptures": [
+    {
+     "ref": "Romans 2:15",
+     "translation": "NKJV",
+     "text_nkjv": "who show the work of the law written in their hearts, their conscience also bearing witness, and between themselves their thoughts accusing or else excusing them)",
+     "source_url": "https://www.biblegateway.com/passage/?search=Romans+2%3A15&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=uuaJGzL4tvw&t=1757s",
+     "quoted_without_naming_reference": false
+    }
+   ]
+  }
+ ]
+}
