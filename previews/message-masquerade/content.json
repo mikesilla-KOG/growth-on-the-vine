@@ -1,0 +1,622 @@
+{
+ "schema_version": 1,
+ "sermon": {
+  "slug": "masquerade",
+  "title": "Masquerade",
+  "series": "",
+  "series_part": "",
+  "speaker": "Pastor David G. Kincer",
+  "church": "Vine Cluster Church",
+  "video_id": "6CUA_E-9IFw",
+  "video_url": "https://www.youtube.com/watch?v=6CUA_E-9IFw",
+  "upload_date": "2016-11-01",
+  "duration_seconds": 1748,
+  "language": "en",
+  "page_url": "https://growonthevine.com/messages/masquerade/",
+  "status": "preview",
+  "summary": "Pastor David G. Kincer teaches that a mask doesn’t change who you are. Satan masquerades as an angel of light, and his ministers as ministers of righteousness. He shows predators hiding as teachers, clergy, parents and police, baptized leaders who wore masks, and Jefferson’s warning that God’s justice won’t sleep forever. Jesus said we will know them by their fruits, and he will protect children.",
+  "transcript_source": "This transcript comes from YouTube’s automatic English captions, which supply the timing and the words. Punctuation, capitalization and paragraphing were added from the speaker’s pauses and then corrected by hand, and obvious caption errors (names, Bible references) were fixed; his wording was not rewritten. “[unclear]” marks a word or name that was not clear. Editor notes: Points to check: 1 John 1:5 spoken as “John 15”; Jefferson quote paraphrased (“I fear for my nation”); Stalin’s death toll garbled; Clinton founding a new Baptist church; Trump led to Christ by Paula White; Jefferson fighting slavery in the Constitution; Trinity described as “God in the flesh and God in light”; returning body “has no blood”. UNVERIFIED statistics: 1.6 million runaway/throwaway kids yearly; over 4 million public school students molested; abuse sentences cited. Sensitive content kept as spoken: on-screen child abuse cases (teacher, priest, youth pastor, father, mother, policeman, soldiers) with garbled private names marked [unclear]; dressing as a woman doesn’t make one a woman; mother selling food stamps; government rewarding bad behavior; judicial system “corrupt and evil”; Trump womanizing.",
+  "brand": "Grow on the Vine"
+ },
+ "bible_translation": {
+  "code": "NKJV",
+  "notice": "Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved."
+ },
+ "chunks": [
+  {
+   "id": "masquerade:a-mask-does-not-change-you",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "Does a mask change who you really are?",
+   "short_answer": "Putting on a mask changes how people react, not who you are. He says there are no walking dead—the dead can do nothing—and dressing like a woman doesn’t make a man a woman; what is really true is who you really are.",
+   "text": "Putting a mask on does not change who I really am but does change how people think and react to us when we use a masquerade when we pretend we’re something other than we’re not are you with me. This mask did not change me I’m still who I am I can think I am a monster. Okay walking dead but it still doesn’t change who I really am there is no such thing as walking dead or monsters and I knew this as a little boy that’s why I would go in because my daddy taught me right I would go in the graveyard and sit there at seven and eight years old at night.\n\nBecause I knew the dead could do nothing all right there when my mom and dad died I slept that night in the house and even in the chair my mom died in I slept the rest of the night in her chair that she died in when everybody else in the family wouldn’t come near that house because they have these superstitious ideas that her spirit was going to wander around here oh my gosh it’s all a bunch of nonsense a masquerade I can even say. Something like. I’m a woman.\n\nLet me do this right. I’m not as good at this as my wife I. Like the way Rebecca looks I want to be like Rebecca better and I can dress like a woman I can say I’m a woman but I am still what oh man Rebecca is a woman wow. All right it’s a masquerade just because you think something may be true is not true what’s really true is really who you are. Mr. [unclear] would you go out and have coffee with me after service. Ok now I’m going to ask you some questions you ready for this.",
+   "start_seconds": 0,
+   "end_seconds": 179,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=0s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-a-mask-does-not-change-you",
+   "paragraphs": [
+    {
+     "start_seconds": 0,
+     "text": "Putting a mask on does not change who I really am but does change how people think and react to us when we use a masquerade when we pretend we’re something other than we’re not are you with me. This mask did not change me I’m still who I am I can think I am a monster. Okay walking dead but it still doesn’t change who I really am there is no such thing as walking dead or monsters and I knew this as a little boy that’s why I would go in because my daddy taught me right I would go in the graveyard and sit there at seven and eight years old at night.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=0s"
+    },
+    {
+     "start_seconds": 62,
+     "text": "Because I knew the dead could do nothing all right there when my mom and dad died I slept that night in the house and even in the chair my mom died in I slept the rest of the night in her chair that she died in when everybody else in the family wouldn’t come near that house because they have these superstitious ideas that her spirit was going to wander around here oh my gosh it’s all a bunch of nonsense a masquerade I can even say. Something like. I’m a woman.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=62s"
+    },
+    {
+     "start_seconds": 116,
+     "text": "Let me do this right. I’m not as good at this as my wife I. Like the way Rebecca looks I want to be like Rebecca better and I can dress like a woman I can say I’m a woman but I am still what oh man Rebecca is a woman wow. All right it’s a masquerade just because you think something may be true is not true what’s really true is really who you are. Mr. [unclear] would you go out and have coffee with me after service. Ok now I’m going to ask you some questions you ready for this.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=116s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Ecclesiastes 9:5",
+     "translation": "NKJV",
+     "text_nkjv": "For the living know that they will die; But the dead know nothing, And they have no more reward, For the memory of them is forgotten.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ecclesiastes+9%3A5&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=64s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "masquerade:satans-real-disguise",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "What does Satan really look like?",
+   "short_answer": "The red, horned devil with a pitchfork is an artist’s idea. 2 Corinthians 11:14: Satan himself masquerades as an angel of light. He is a dark, evil spirit; Acts 26:18 speaks of turning people from darkness to light and from the power of Satan to God.",
+   "text": "Who is this. Satan somebody said how many say that’s Satan. The Devil yeah the Devil Satan the same thing ok you are absolutely wrong. It’s an artist imaginary idea of what Satan is Satan does not have a tail Satan does not have a fiery coal stoking pitchfork he doesn’t have horns and he isn’t red. All right but most people think this is the Devil because artists have to communicate to us and they think that’s true how many know what this is now for sure you know what this is. Angel wrong.\n\nIt’s Satan this is Satan. Satan himself masquerades as an angel of light aha. You see he’s really a spirit of darkness he’s a spirit like the angels are spirit but he’s a dark spirit and evil spirit of harmful spirit it says in Acts to turn people from darkness to light from the power of Satan unto God so Satan is the king of the power of darkness. We fight rulers of the darkness of this world and spiritual evil in high places so Satan is a spirit of the dark world the evil world okay angels are spirit of light Satan and demons are spirit of darkness and by the way angels don’t have wings okay this next one who is this.",
+   "start_seconds": 179,
+   "end_seconds": 299,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=179s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-satans-real-disguise",
+   "paragraphs": [
+    {
+     "start_seconds": 179,
+     "text": "Who is this. Satan somebody said how many say that’s Satan. The Devil yeah the Devil Satan the same thing ok you are absolutely wrong. It’s an artist imaginary idea of what Satan is Satan does not have a tail Satan does not have a fiery coal stoking pitchfork he doesn’t have horns and he isn’t red. All right but most people think this is the Devil because artists have to communicate to us and they think that’s true how many know what this is now for sure you know what this is. Angel wrong.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=179s"
+    },
+    {
+     "start_seconds": 233,
+     "text": "It’s Satan this is Satan. Satan himself masquerades as an angel of light aha. You see he’s really a spirit of darkness he’s a spirit like the angels are spirit but he’s a dark spirit and evil spirit of harmful spirit it says in Acts to turn people from darkness to light from the power of Satan unto God so Satan is the king of the power of darkness. We fight rulers of the darkness of this world and spiritual evil in high places so Satan is a spirit of the dark world the evil world okay angels are spirit of light Satan and demons are spirit of darkness and by the way angels don’t have wings okay this next one who is this.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=233s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "2 Corinthians 11:14",
+     "translation": "NKJV",
+     "text_nkjv": "And no wonder! For Satan himself transforms himself into an angel of light.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+11%3A14&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=239s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Acts 26:18",
+     "translation": "NKJV",
+     "text_nkjv": "to open their eyes, in order to turn them from darkness to light, and from the power of Satan to God, that they may receive forgiveness of sins and an inheritance among those who are sanctified by faith in Me.’",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+26%3A18&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=260s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Ephesians 6:12",
+     "translation": "NKJV",
+     "text_nkjv": "For we do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age, against spiritual hosts of wickedness in the heavenly places.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+6%3A12&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=269s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "masquerade:angels-and-god-is-light",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "How do angels and God appear?",
+   "short_answer": "He says angels have no wings and can manifest as human beings, as with Mary. 1 John 1:5: God is light and in him is no darkness at all; he wraps himself in light with no disguise. God said let there be light before the sun.",
+   "text": "This is Mary and she had a visitor an angel yeah no wings. angels can manifest themselves and when they do they manifest themselves as a human being alright they can. and materialize who do you think this is. Tinkerbell. All right kind of looks like Tinkerbell except the green costumes gone that is God. That is God we’re made in his likeness all right head hands feet and so forth. 1 John 1:5 God is light and in him is no darkness at all he does not camouflage himself when he clothes himself he wraps himself with a garment of light you see no disguise no camouflage light is truth light is right light is God.",
+   "start_seconds": 299,
+   "end_seconds": 368,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=299s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-angels-and-god-is-light",
+   "paragraphs": [
+    {
+     "start_seconds": 299,
+     "text": "This is Mary and she had a visitor an angel yeah no wings. angels can manifest themselves and when they do they manifest themselves as a human being alright they can. and materialize who do you think this is. Tinkerbell. All right kind of looks like Tinkerbell except the green costumes gone that is God. That is God we’re made in his likeness all right head hands feet and so forth. 1 John 1:5 God is light and in him is no darkness at all he does not camouflage himself when he clothes himself he wraps himself with a garment of light you see no disguise no camouflage light is truth light is right light is God.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=299s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 John 1:5",
+     "translation": "NKJV",
+     "text_nkjv": "This is the message which we have heard from Him and declare to you, that God is light and in Him is no darkness at all.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+John+1%3A5&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=367s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Psalm 104:2",
+     "translation": "NKJV",
+     "text_nkjv": "Who cover Yourself with light as with a garment, Who stretch out the heavens like a curtain.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Psalm+104%3A2&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=357s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Genesis 1:3",
+     "translation": "NKJV",
+     "text_nkjv": "Then God said, “Let there be light”; and there was light.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Genesis+1%3A3&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=367s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "masquerade:predators-in-trusted-roles",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "Who masquerades to hurt children?",
+   "short_answer": "He shows a Christian teacher, a Catholic priest, a Protestant youth pastor, a father, a mother, a policeman and soldiers who molested children—often with light sentences. A real one would never do that; they disguised themselves.",
+   "text": "how many of you know in the beginning God said let there be light and it wasn’t the sun [unclear] the sun came later and that throws a lot of people a curveball they don’t get it but God is light oh. Well hallelujah. alright now I’m going to ask you to guess some people here and see if you can get them right but I’m going to give you the first one alright this is a woman that teaches in a public school here in America all right she is a Christian woman that teaches in a public school in America. But. She is a masquerade she’s wearing a masquerade teachers would not hurt children Christians would not hurt children this woman.\n\nAged 30 and married and a Christian. molested four students sexually molested four students in her school and only got a nine month jail term for it all right now who is this who can guess who this is. A priest of a Catholic church all right you guessed it right but really this priest is not a real priest. He is wearing a disguise of a priest. He molested over a hundred boys in that catholic church a real catholic priests would not have done that see he masqueraded as a minister of the gospel.",
+   "start_seconds": 368,
+   "end_seconds": 488,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=368s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-predators-in-trusted-roles",
+   "paragraphs": [
+    {
+     "start_seconds": 368,
+     "text": "how many of you know in the beginning God said let there be light and it wasn’t the sun [unclear] the sun came later and that throws a lot of people a curveball they don’t get it but God is light oh. Well hallelujah. alright now I’m going to ask you to guess some people here and see if you can get them right but I’m going to give you the first one alright this is a woman that teaches in a public school here in America all right she is a Christian woman that teaches in a public school in America. But. She is a masquerade she’s wearing a masquerade teachers would not hurt children Christians would not hurt children this woman.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=368s"
+    },
+    {
+     "start_seconds": 430,
+     "text": "Aged 30 and married and a Christian. molested four students sexually molested four students in her school and only got a nine month jail term for it all right now who is this who can guess who this is. A priest of a Catholic church all right you guessed it right but really this priest is not a real priest. He is wearing a disguise of a priest. He molested over a hundred boys in that catholic church a real catholic priests would not have done that see he masqueraded as a minister of the gospel.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=430s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "masquerade:ministers-of-righteousness",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "Do Satan’s servants disguise themselves as ministers?",
+   "short_answer": "2 Corinthians 11:15: it’s no great thing if his ministers also disguise themselves as ministers of righteousness. You can’t judge a book by its cover; look at actions and speech. It’s not only a Catholic problem.",
+   "text": "Satan himself masquerades as an angel of light it’s not surprising then if his ministers masquerade disguise themselves as ministers of righteousness. You see you can’t go you can’t judge a book by its cover how many of you heard that yeah you’ve got to look at the actions and the speech of what a person is doing now it’s not just a catholic problem here’s a protestant youth pastor. Okay he’s a leader of the youth group in his church here which we have pictured on the screen but this youth leader raped eight boys in the youth group and one girl while married with three kids of his own and only got five years probation.\n\nHow many know he was disguising himself as a youth leader he wasn’t really one yeah. Now the parent who should be the first line of defense for a child to protect them and bring them up. [unclear] 30 some years old molested his boy raped him while married and having other kids from six years old to age 12 when he was caught so this father was using the disguise of a father to hurt children. This is a mother [unclear] all smiling and looking good looks like a real mother.\n\nShe’s 30 years old and she sexually molested three of her four children two boys and two girls even selling the involvement to other people to make money she was a drug addict and sold her food stamps to get drunk see our government just promotes a lot of permissiveness in this nation by just giving people and rewarding them for bad behavior is that an amen and she’s actually hurting her own children and inviting outsiders to join in. she’s wearing a masquerade not a real father not a real mother.\n\nThis as you see is a policeman and I have him blacked out because I didn’t want to see you to see what city he was from but how many know we’re supposed to feel safe with our policemen yeah well this guy’s using a disguise he’s disguised as a police officer but he raped many children. Many. And he was only punished with a lifetime parole never went to jail. These are soldiers we’re supposed to respect our soldiers. But there are some soldiers that have been convicted of raping many boys and girls. These soldiers aren’t really soldiers and this isn’t a real policeman they are disguised as real ones a real soldier would never do that and a real policeman would never do that am I right they disguised themselves.",
+   "start_seconds": 488,
+   "end_seconds": 727,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=488s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-ministers-of-righteousness",
+   "paragraphs": [
+    {
+     "start_seconds": 488,
+     "text": "Satan himself masquerades as an angel of light it’s not surprising then if his ministers masquerade disguise themselves as ministers of righteousness. You see you can’t go you can’t judge a book by its cover how many of you heard that yeah you’ve got to look at the actions and the speech of what a person is doing now it’s not just a catholic problem here’s a protestant youth pastor. Okay he’s a leader of the youth group in his church here which we have pictured on the screen but this youth leader raped eight boys in the youth group and one girl while married with three kids of his own and only got five years probation.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=488s"
+    },
+    {
+     "start_seconds": 551,
+     "text": "How many know he was disguising himself as a youth leader he wasn’t really one yeah. Now the parent who should be the first line of defense for a child to protect them and bring them up. [unclear] 30 some years old molested his boy raped him while married and having other kids from six years old to age 12 when he was caught so this father was using the disguise of a father to hurt children. This is a mother [unclear] all smiling and looking good looks like a real mother.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=551s"
+    },
+    {
+     "start_seconds": 606,
+     "text": "She’s 30 years old and she sexually molested three of her four children two boys and two girls even selling the involvement to other people to make money she was a drug addict and sold her food stamps to get drunk see our government just promotes a lot of permissiveness in this nation by just giving people and rewarding them for bad behavior is that an amen and she’s actually hurting her own children and inviting outsiders to join in. she’s wearing a masquerade not a real father not a real mother.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=606s"
+    },
+    {
+     "start_seconds": 660,
+     "text": "This as you see is a policeman and I have him blacked out because I didn’t want to see you to see what city he was from but how many know we’re supposed to feel safe with our policemen yeah well this guy’s using a disguise he’s disguised as a police officer but he raped many children. Many. And he was only punished with a lifetime parole never went to jail. These are soldiers we’re supposed to respect our soldiers. But there are some soldiers that have been convicted of raping many boys and girls. These soldiers aren’t really soldiers and this isn’t a real policeman they are disguised as real ones a real soldier would never do that and a real policeman would never do that am I right they disguised themselves.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=660s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "2 Corinthians 11:15",
+     "translation": "NKJV",
+     "text_nkjv": "Therefore it is no great thing if his ministers also transform themselves into ministers of righteousness, whose end will be according to their works.",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Corinthians+11%3A15&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=499s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "masquerade:leaders-who-were-baptized",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "Are baptized leaders always real Christians?",
+   "short_answer": "He shows Bill and Hillary Clinton, Donald Trump and Joseph Stalin—all baptized. Stalin trained for the Orthodox ministry yet murdered millions; it was all a masquerade.",
+   "text": "Okay I. Have four people on the screen every one of them are Christians. Every one of them have been baptized. Two of them have been leaders of a nation. Okay two of them want to be a leader of a nation.. You probably recognize Bill Clinton. Hillary Clinton this was taken when they were in Yale law school and this is Donald Trump when he graduated from his military school and going into college all right one of these leaders. murdered over [unclear] million innocent women children and men parents and their children over 50 million can any of you point to which one that was [unclear] yeah Joseph Stalin looks very innocent doesn’t he he’s 40 years old here.",
+   "start_seconds": 727,
+   "end_seconds": 805,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=727s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-leaders-who-were-baptized",
+   "paragraphs": [
+    {
+     "start_seconds": 727,
+     "text": "Okay I. Have four people on the screen every one of them are Christians. Every one of them have been baptized. Two of them have been leaders of a nation. Okay two of them want to be a leader of a nation.. You probably recognize Bill Clinton. Hillary Clinton this was taken when they were in Yale law school and this is Donald Trump when he graduated from his military school and going into college all right one of these leaders. murdered over [unclear] million innocent women children and men parents and their children over 50 million can any of you point to which one that was [unclear] yeah Joseph Stalin looks very innocent doesn’t he he’s 40 years old here.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=727s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "masquerade:clinton-and-trump",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "What does he say about Clinton and Trump?",
+   "short_answer": "He says Bill Clinton left the Southern Baptists for a church supporting abortion and same-sex marriage, and that Trump was led to Christ by Paula White. Both can be forgiven if they admit wrong and turn; whether they are real, only time will tell.",
+   "text": "Looks very innocent you know Joseph Stalin was only 5 foot 4. And so although he went to seminary for five years to be a Greek Orthodox minister. I mean you know he wasn’t a Christian at all is all a masquerade all a show ok. Bill Clinton was a Southern Baptist until his political views did not line up with the Southern Baptist and then he left the Southern Baptist church and him and some other Baptists started a new Baptist church that believed in abortion believed in same-sex marriage and the political agenda that they promote did you know that of course you don’t news never cover this you have to be a digger like me to find this out you got to be someone that spends hours going through documents and information to learn this stuff all right Hillary Clinton was baptized in a Methodist church the Methodist church have no problem with any of this stuff all right.\n\nDonald Trump was baptized in the Presbyterian church and then he joined Norman Vincent Peale’s positive thinking church and then about two years ago he got led to Christ by Paula White an evangelist a lady evangelist that he repented of his sins turned to Christ and became a born-again Christian how many of you knew that yeah you got to do a lot of digging a lot of reading to get this stuff all right he was a womanizer and everything else before he made a turn I mean I read about him I knew I knew he was and he bragged about having sex with all these gorgeous women way before they ever brought it out I knew all that stuff before they ever said anything but how many of you know both Bill Clinton and donald can be forgiven by God if they ask yeah if they admit the wrong ask forgiveness and turn from that they can be forgiven okay so why do we make it an issue in an election.",
+   "start_seconds": 805,
+   "end_seconds": 965,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=805s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-clinton-and-trump",
+   "paragraphs": [
+    {
+     "start_seconds": 805,
+     "text": "Looks very innocent you know Joseph Stalin was only 5 foot 4. And so although he went to seminary for five years to be a Greek Orthodox minister. I mean you know he wasn’t a Christian at all is all a masquerade all a show ok. Bill Clinton was a Southern Baptist until his political views did not line up with the Southern Baptist and then he left the Southern Baptist church and him and some other Baptists started a new Baptist church that believed in abortion believed in same-sex marriage and the political agenda that they promote did you know that of course you don’t news never cover this you have to be a digger like me to find this out you got to be someone that spends hours going through documents and information to learn this stuff all right Hillary Clinton was baptized in a Methodist church the Methodist church have no problem with any of this stuff all right.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=805s"
+    },
+    {
+     "start_seconds": 887,
+     "text": "Donald Trump was baptized in the Presbyterian church and then he joined Norman Vincent Peale’s positive thinking church and then about two years ago he got led to Christ by Paula White an evangelist a lady evangelist that he repented of his sins turned to Christ and became a born-again Christian how many of you knew that yeah you got to do a lot of digging a lot of reading to get this stuff all right he was a womanizer and everything else before he made a turn I mean I read about him I knew I knew he was and he bragged about having sex with all these gorgeous women way before they ever brought it out I knew all that stuff before they ever said anything but how many of you know both Bill Clinton and donald can be forgiven by God if they ask yeah if they admit the wrong ask forgiveness and turn from that they can be forgiven okay so why do we make it an issue in an election.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=887s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "masquerade:god-will-not-sleep-forever",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "What did Thomas Jefferson fear?",
+   "short_answer": "He quotes Jefferson: “I fear for my nation. For God is a just God and his justice will not sleep forever.” He says Jefferson wrote that rights come from the Creator and fought slavery in the Constitution.",
+   "text": "Because we want to divert from the real truth they are disguising things to cover the real truths that they want to take place in this nation under a government control. All right so my question is are these a masquerade or are they real is clinton for real is Trump for real [unclear] only time will tell huh only time will tell. Thomas Jefferson a famous American said this I fear for my nation. For God is a just God and his justice will not sleep forever this is Thomas Jefferson the one they said that wasn’t a Christian back there this is him talking the one they said there wasn’t a Christian yet wrote in the declaration of independence.",
+   "start_seconds": 965,
+   "end_seconds": 1026,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=965s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-god-will-not-sleep-forever",
+   "paragraphs": [
+    {
+     "start_seconds": 965,
+     "text": "Because we want to divert from the real truth they are disguising things to cover the real truths that they want to take place in this nation under a government control. All right so my question is are these a masquerade or are they real is clinton for real is Trump for real [unclear] only time will tell huh only time will tell. Thomas Jefferson a famous American said this I fear for my nation. For God is a just God and his justice will not sleep forever this is Thomas Jefferson the one they said that wasn’t a Christian back there this is him talking the one they said there wasn’t a Christian yet wrote in the declaration of independence.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=965s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "masquerade:read-the-platform",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "How should Christians vote?",
+   "short_answer": "One party says rights come from government, the other from God. Read the party platforms; we vote out of ignorance. He voted for Carter thinking the Spirit led him, then learned a person’s Christianity has nothing to do with the political agenda.",
+   "text": "That all men are created equal and given by their creator certain unalienable rights Thomas Jefferson said rights come from who God. God. One of the parties say that rights come from government. The other party says rights come from God one of the parties got it right do you know which one it is. How many have ever read the party platform ever in your life. [unclear]. You see we vote out of ignorance. The party platform tells you exactly what that party stands for all right and by the way you need to read the American socialist party platform and then you will really be enlightened about the democrat and republican platform.",
+   "start_seconds": 1026,
+   "end_seconds": 1091,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1026s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-read-the-platform",
+   "paragraphs": [
+    {
+     "start_seconds": 1026,
+     "text": "That all men are created equal and given by their creator certain unalienable rights Thomas Jefferson said rights come from who God. God. One of the parties say that rights come from government. The other party says rights come from God one of the parties got it right do you know which one it is. How many have ever read the party platform ever in your life. [unclear]. You see we vote out of ignorance. The party platform tells you exactly what that party stands for all right and by the way you need to read the American socialist party platform and then you will really be enlightened about the democrat and republican platform.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1026s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "masquerade:judgments-on-america",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "What judgments has America faced?",
+   "short_answer": "He lists the Civil War, the world wars, the Great Depression after the Roaring Twenties, the influenza epidemic and AIDS, and asks what it will take for America to turn back to God.",
+   "text": "You know when I was young I voted what I thought the spirit leading me the spirit led me to vote for Carter he was a baptist didn’t drink didn’t smoke didn’t run with people that do he taught Sunday school while he was a senator and a politician man that was a man and he became president and my eyes got open my eyes got open that a person’s christianity has nothing to do with the political agenda. Alleluia. Now Jefferson predicted. Jefferson predicted that God would awaken and judge America for their crimes the first crime that Thomas Jefferson was really interested in was slavery though he had slaves he did not want slavery in the constitution he fought against it he almost left because the southern states demanded slavery.\n\nAnd he had slave. And. That’s the big reason Thomas Jefferson said God will not sleep forever when we do injustice. could I get an amen and so we had the civil war didn’t we and then we had the world war Japan attacked us Germany attacked us and we had to go to war we had the great depression after the roaring twenties when life was loose carefree. Are you out there we had the influenza epidemic that killed millions we have the AIDS epidemic today that has killed millions what’s it going to take for America to wake up Thomas Jefferson is right God will not sleep forever.",
+   "start_seconds": 1091,
+   "end_seconds": 1233,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1091s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-judgments-on-america",
+   "paragraphs": [
+    {
+     "start_seconds": 1091,
+     "text": "You know when I was young I voted what I thought the spirit leading me the spirit led me to vote for Carter he was a baptist didn’t drink didn’t smoke didn’t run with people that do he taught Sunday school while he was a senator and a politician man that was a man and he became president and my eyes got open my eyes got open that a person’s christianity has nothing to do with the political agenda. Alleluia. Now Jefferson predicted. Jefferson predicted that God would awaken and judge America for their crimes the first crime that Thomas Jefferson was really interested in was slavery though he had slaves he did not want slavery in the constitution he fought against it he almost left because the southern states demanded slavery.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1091s"
+    },
+    {
+     "start_seconds": 1171,
+     "text": "And he had slave. And. That’s the big reason Thomas Jefferson said God will not sleep forever when we do injustice. could I get an amen and so we had the civil war didn’t we and then we had the world war Japan attacked us Germany attacked us and we had to go to war we had the great depression after the roaring twenties when life was loose carefree. Are you out there we had the influenza epidemic that killed millions we have the AIDS epidemic today that has killed millions what’s it going to take for America to wake up Thomas Jefferson is right God will not sleep forever.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1171s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "masquerade:children-ignored",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "Who pays for adults’ foolishness?",
+   "short_answer": "Children. He says no presidential candidate mentioned the 1.6 million kids who run away or are thrown away each year; we’d rather watch sports and TV than dig for real answers.",
+   "text": "ain’t that powerful and we can put on a masquerade and say what we want but what’s it going to take for America to turn back to God is it going to take losing a majority of our children you notice I brought out the children this morning no presidential candidate of the 20 that ran mentioned the condition of children in America none of them they never mentioned [unclear] 1.6 million kids that run away and are thrown away every year onto the street none of them mentioned it and it’s the children that are paying the greatest price for adults foolishness. Could that be true. We would rather watch football baseball hockey.",
+   "start_seconds": 1233,
+   "end_seconds": 1289,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1233s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-children-ignored",
+   "paragraphs": [
+    {
+     "start_seconds": 1233,
+     "text": "ain’t that powerful and we can put on a masquerade and say what we want but what’s it going to take for America to turn back to God is it going to take losing a majority of our children you notice I brought out the children this morning no presidential candidate of the 20 that ran mentioned the condition of children in America none of them they never mentioned [unclear] 1.6 million kids that run away and are thrown away every year onto the street none of them mentioned it and it’s the children that are paying the greatest price for adults foolishness. Could that be true. We would rather watch football baseball hockey.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1233s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "masquerade:know-them-by-their-fruits",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "How do you expose a masquerade?",
+   "short_answer": "Predators are exposed by their talk, vote and lifestyle. Matthew 7:15–16: beware of false prophets in sheep’s clothing who inwardly are ravening wolves; you will know them by their fruits—real fathers, mothers and leaders by how they behave.",
+   "text": "we’d rather watch the walking dead on tv then dig and get real answers for current issues in America we rely on faith we’re told just believe just believe just believe well if there’s no actions from your belief we’re going to lose. All right now. Predators of innocence. Masquerade is exposed by their talk their vote and their lifestyle a vote is a choice predators may disguise themselves but if you watch them and listen to what they say and follow their behavior they will expose who they really are all right and you’ll find that I’m not Rebecca.\n\nGood I can’t compete with her I like her being a woman. The Bible says beware of false prophets which come to you in sheep’s clothing but inwardly they are ravening wolves. preying wolves predators you shall know them by their fruits you’ll know them by their talk you’ll know them by their walk you’ll know a real father by how he handles his children and a mother how they raise their children how they are an example to them is it you’ll know a real leader civil leader by how they talk and how they behave and how they direct the nation to benefit the good of the people you know them by their fruits.",
+   "start_seconds": 1289,
+   "end_seconds": 1406,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1289s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-know-them-by-their-fruits",
+   "paragraphs": [
+    {
+     "start_seconds": 1289,
+     "text": "we’d rather watch the walking dead on tv then dig and get real answers for current issues in America we rely on faith we’re told just believe just believe just believe well if there’s no actions from your belief we’re going to lose. All right now. Predators of innocence. Masquerade is exposed by their talk their vote and their lifestyle a vote is a choice predators may disguise themselves but if you watch them and listen to what they say and follow their behavior they will expose who they really are all right and you’ll find that I’m not Rebecca.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1289s"
+    },
+    {
+     "start_seconds": 1350,
+     "text": "Good I can’t compete with her I like her being a woman. The Bible says beware of false prophets which come to you in sheep’s clothing but inwardly they are ravening wolves. preying wolves predators you shall know them by their fruits you’ll know them by their talk you’ll know them by their walk you’ll know a real father by how he handles his children and a mother how they raise their children how they are an example to them is it you’ll know a real leader civil leader by how they talk and how they behave and how they direct the nation to benefit the good of the people you know them by their fruits.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1350s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Matthew 7:15-16",
+     "translation": "NKJV",
+     "text_nkjv": "“Beware of false prophets, who come to you in sheep’s clothing, but inwardly they are ravenous wolves. You will know them by their fruits. Do men gather grapes from thornbushes or figs from thistles?",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+7%3A15-16&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1368s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "masquerade:lines-of-defense",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "Who protects children?",
+   "short_answer": "You can’t blame the whole Catholic Church for some priests, but it is accountable for not dealing with it, as are Protestant churches. The first line of defense is the parent, then the church (why they run a bus ministry), then government—which he says is failing.",
+   "text": "Amen. Wolves in sheep’s clothing I showed you the catholic priests that really wasn’t a real catholic priest you can’t blame the whole church because some priests broke the rules [unclear]. But you can hold the catholic church accountable for not dealing with that and a lot of protestant churches aren’t dealing with sexual immorality in their churches. School teachers over 4 million over 4 million public school students are sexually molested and abused from the time they’re like ten years old they graduate from school teachers are abusing in public school and what candidate mentioned it none.\n\nWhy are they so distant from family morality the family is the key to a nation and yet they talk about a lot of nonsense instead of getting down to the real issues and that is the family and the innocent children in it can I hear an amen alleluia the first line of defense is the parent when the parent breaks down the second line of defense is the church when the parents forsake the child [unclear] the church will pick them up and that’s why we have a bus ministry and all the rest and we want it to grow and be bigger and we would love to see this place filled and a new building filled with kids yes if their parents want to go crazy let’s take their kids and lead them to Christ and right amen hallelujah yes they deserve a chance the third.\n\nDefense of kids is government because government can punish the parent the school teacher the molester the civilian that violates the rights of kids but they’re not doing it you molest these kids and you give parole ain’t there something wrong there tell us our justice system our judicial system is corrupt and evil am I right yeah and Christians are going on now they say they’re a Christian.",
+   "start_seconds": 1406,
+   "end_seconds": 1556,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1406s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-lines-of-defense",
+   "paragraphs": [
+    {
+     "start_seconds": 1406,
+     "text": "Amen. Wolves in sheep’s clothing I showed you the catholic priests that really wasn’t a real catholic priest you can’t blame the whole church because some priests broke the rules [unclear]. But you can hold the catholic church accountable for not dealing with that and a lot of protestant churches aren’t dealing with sexual immorality in their churches. School teachers over 4 million over 4 million public school students are sexually molested and abused from the time they’re like ten years old they graduate from school teachers are abusing in public school and what candidate mentioned it none.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1406s"
+    },
+    {
+     "start_seconds": 1462,
+     "text": "Why are they so distant from family morality the family is the key to a nation and yet they talk about a lot of nonsense instead of getting down to the real issues and that is the family and the innocent children in it can I hear an amen alleluia the first line of defense is the parent when the parent breaks down the second line of defense is the church when the parents forsake the child [unclear] the church will pick them up and that’s why we have a bus ministry and all the rest and we want it to grow and be bigger and we would love to see this place filled and a new building filled with kids yes if their parents want to go crazy let’s take their kids and lead them to Christ and right amen hallelujah yes they deserve a chance the third.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1462s"
+    },
+    {
+     "start_seconds": 1520,
+     "text": "Defense of kids is government because government can punish the parent the school teacher the molester the civilian that violates the rights of kids but they’re not doing it you molest these kids and you give parole ain’t there something wrong there tell us our justice system our judicial system is corrupt and evil am I right yeah and Christians are going on now they say they’re a Christian.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1520s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "masquerade:living-like-christ",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "What makes someone a Christian?",
+   "short_answer": "We are not Christians because we say so but because we live and talk like Christ, and admit it with repentance when we don’t. Jesus will come in the clouds in the body with nail prints.",
+   "text": "we are not a Christian because we say we are but as we live and talk like Christ is that a true statement it’s how we live that makes us a Christian and we admit it with repentance when we don’t live and talk like Christ how many of you made mistakes how many know you’re going to make some mistakes tomorrow but how many know you can confess you can admit I’m wrong turn from that error and God will forgive you and people will forget it now who’s this God Jesus God they’re both the same very good and who would this be coming in the clouds Jesus coming in the clouds with that earthly body that he had with the nail prints in his hands the spear in his side the nail prints and his feet and the crown of thorns scars on his head that’s how we’re going to know he’s the Jesus that the Bible told us about coming in a body a human body that has no blood that rose from the dead hallelujah so there’s two individuals here God in the flesh and God in light amen hallelujah.",
+   "start_seconds": 1556,
+   "end_seconds": 1635,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1556s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-living-like-christ",
+   "paragraphs": [
+    {
+     "start_seconds": 1556,
+     "text": "we are not a Christian because we say we are but as we live and talk like Christ is that a true statement it’s how we live that makes us a Christian and we admit it with repentance when we don’t live and talk like Christ how many of you made mistakes how many know you’re going to make some mistakes tomorrow but how many know you can confess you can admit I’m wrong turn from that error and God will forgive you and people will forget it now who’s this God Jesus God they’re both the same very good and who would this be coming in the clouds Jesus coming in the clouds with that earthly body that he had with the nail prints in his hands the spear in his side the nail prints and his feet and the crown of thorns scars on his head that’s how we’re going to know he’s the Jesus that the Bible told us about coming in a body a human body that has no blood that rose from the dead hallelujah so there’s two individuals here God in the flesh and God in light amen hallelujah.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1556s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Acts 1:11",
+     "translation": "NKJV",
+     "text_nkjv": "who also said, “Men of Galilee, why do you stand gazing up into heaven? This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Acts+1%3A11&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1598s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "masquerade:jesus-will-protect-you",
+   "type": "section",
+   "sermon_slug": "masquerade",
+   "section_question": "What does Jesus promise children?",
+   "short_answer": "Jesus will never ask you to do anything that harms you. He is returning to take his followers to be with him; every knee will bow, and he comes the second time as a lion to judge, not as a lamb to save.",
+   "text": "Jesus promised to protect you and never do or ask you to do anything that would harm you. That sums up what Jesus said not only adults but children Jesus promised to protect you young people all right and never asked you to do something that would bring harm to you your parents might your school teachers might you know the policemen might the soldier might but God will never ask you to do anything would bring harm to you.\n\nAnd he said he would protect you. And he would never do anything himself to hurt you and children today this Jesus is returning to take his followers to be with him forever one day Jesus is going to come through those clouds and everyone on earth I don’t care if they’re democrat republican socialists communists atheists I don’t care who they are they’re going to bow their knee when they see Jesus Christ coming in a fleshly body that he had on earth with those nail-scarred hands and feet with that crown of thorns scars on his head that spear in his side they’re gonna bow and they’re going to hide themselves because Jesus is coming the second time as a lion to judge not as a lamb to save and you if you commit your life to Jesus and follow him you’re going to welcome him when he comes while they’re scared to death of him you know that he is the one for you.",
+   "start_seconds": 1635,
+   "end_seconds": 1748,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1635s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#q-jesus-will-protect-you",
+   "paragraphs": [
+    {
+     "start_seconds": 1635,
+     "text": "Jesus promised to protect you and never do or ask you to do anything that would harm you. That sums up what Jesus said not only adults but children Jesus promised to protect you young people all right and never asked you to do something that would bring harm to you your parents might your school teachers might you know the policemen might the soldier might but God will never ask you to do anything would bring harm to you.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1635s"
+    },
+    {
+     "start_seconds": 1670,
+     "text": "And he said he would protect you. And he would never do anything himself to hurt you and children today this Jesus is returning to take his followers to be with him forever one day Jesus is going to come through those clouds and everyone on earth I don’t care if they’re democrat republican socialists communists atheists I don’t care who they are they’re going to bow their knee when they see Jesus Christ coming in a fleshly body that he had on earth with those nail-scarred hands and feet with that crown of thorns scars on his head that spear in his side they’re gonna bow and they’re going to hide themselves because Jesus is coming the second time as a lion to judge not as a lamb to save and you if you commit your life to Jesus and follow him you’re going to welcome him when he comes while they’re scared to death of him you know that he is the one for you.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1670s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Philippians 2:10",
+     "translation": "NKJV",
+     "text_nkjv": "that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth,",
+     "source_url": "https://www.biblegateway.com/passage/?search=Philippians+2%3A10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1703s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Revelation 5:5",
+     "translation": "NKJV",
+     "text_nkjv": "But one of the elders said to me, “Do not weep. Behold, the Lion of the tribe of Judah, the Root of David, has prevailed to open the scroll and to loose its seven seals.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Revelation+5%3A5&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1726s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  }
+ ],
+ "faqs": [
+  {
+   "id": "masquerade:can-the-dead-harm-you",
+   "type": "faq",
+   "sermon_slug": "masquerade",
+   "question": "Can the dead harm the living?",
+   "answer": "He says the dead can do nothing.",
+   "start_seconds": 62,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=62s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#faq-can-the-dead-harm-you",
+   "scriptures": []
+  },
+  {
+   "id": "masquerade:does-satan-have-horns",
+   "type": "faq",
+   "sermon_slug": "masquerade",
+   "question": "Does Satan have horns and a pitchfork?",
+   "answer": "No, that is an artist’s idea.",
+   "start_seconds": 179,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=179s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#faq-does-satan-have-horns",
+   "scriptures": []
+  },
+  {
+   "id": "masquerade:how-does-satan-disguise",
+   "type": "faq",
+   "sermon_slug": "masquerade",
+   "question": "How does Satan disguise himself?",
+   "answer": "As an angel of light.",
+   "start_seconds": 233,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=233s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#faq-how-does-satan-disguise",
+   "scriptures": []
+  },
+  {
+   "id": "masquerade:do-angels-have-wings",
+   "type": "faq",
+   "sermon_slug": "masquerade",
+   "question": "Do angels have wings?",
+   "answer": "He says no.",
+   "start_seconds": 233,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=233s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#faq-do-angels-have-wings",
+   "scriptures": []
+  },
+  {
+   "id": "masquerade:judge-by-cover",
+   "type": "faq",
+   "sermon_slug": "masquerade",
+   "question": "Can you judge a person by appearance?",
+   "answer": "No, look at their actions and speech.",
+   "start_seconds": 488,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=488s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#faq-judge-by-cover",
+   "scriptures": []
+  },
+  {
+   "id": "masquerade:can-clinton-trump-be-forgiven",
+   "type": "faq",
+   "sermon_slug": "masquerade",
+   "question": "Can Clinton and Trump be forgiven?",
+   "answer": "Yes, if they admit the wrong and turn.",
+   "start_seconds": 887,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=887s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#faq-can-clinton-trump-be-forgiven",
+   "scriptures": []
+  },
+  {
+   "id": "masquerade:where-do-rights-come-from",
+   "type": "faq",
+   "sermon_slug": "masquerade",
+   "question": "Where do rights come from?",
+   "answer": "From God, as Jefferson wrote.",
+   "start_seconds": 1026,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1026s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#faq-where-do-rights-come-from",
+   "scriptures": []
+  },
+  {
+   "id": "masquerade:how-to-know-false-prophets",
+   "type": "faq",
+   "sermon_slug": "masquerade",
+   "question": "How do you recognize false prophets?",
+   "answer": "By their fruits.",
+   "start_seconds": 1350,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1350s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#faq-how-to-know-false-prophets",
+   "scriptures": []
+  },
+  {
+   "id": "masquerade:first-line-of-defense",
+   "type": "faq",
+   "sermon_slug": "masquerade",
+   "question": "Who is a child’s first line of defense?",
+   "answer": "The parent; then the church; then government.",
+   "start_seconds": 1462,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1462s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#faq-first-line-of-defense",
+   "scriptures": []
+  },
+  {
+   "id": "masquerade:how-jesus-returns",
+   "type": "faq",
+   "sermon_slug": "masquerade",
+   "question": "How does Jesus come the second time?",
+   "answer": "As a lion to judge, not a lamb to save.",
+   "start_seconds": 1670,
+   "video_url_at_time": "https://www.youtube.com/watch?v=6CUA_E-9IFw&t=1670s",
+   "page_anchor_url": "https://growonthevine.com/messages/masquerade/#faq-how-jesus-returns",
+   "scriptures": []
+  }
+ ]
+}
