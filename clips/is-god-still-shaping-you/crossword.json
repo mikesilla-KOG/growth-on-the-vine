@@ -1,0 +1,39 @@
+{
+  "title": "Is God still shaping you?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "formed",
+      "answer": "FORMED",
+      "clue": "Until Christ is ___ in you",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "hope",
+      "answer": "HOPE",
+      "clue": "What the verse gave a struggling young Christian",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "light",
+      "answer": "LIGHT",
+      "clue": "A city on a hill is a ___ to the world",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "goal",
+      "answer": "GOAL",
+      "clue": "Pursuing it while accepting where you are",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}
