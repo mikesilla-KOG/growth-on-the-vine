@@ -1,0 +1,39 @@
+{
+  "title": "How should you answer an insult?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "reviled",
+      "answer": "REVILED",
+      "clue": "Insulted and spoken evil of",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "bless",
+      "answer": "BLESS",
+      "clue": "Being reviled, we ___",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "kindness",
+      "answer": "KINDNESS",
+      "clue": "What a real believer speaks back",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "hands",
+      "answer": "HANDS",
+      "clue": "Paul labored with his own ___",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}

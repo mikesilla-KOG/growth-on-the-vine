@@ -1823,9 +1823,9 @@
             "What do you say when someone speaks evil of you?",
             "Can you bless someone who hurts you?"
           ],
-          "youtube_id": null,
+          "youtube_id": "Y2hQzz0YTiI",
           "style": "illustrated",
-          "status": "preview",
+          "status": "published",
           "scripture": "1 Corinthians 4:12",
           "sermon_timestamps": "10:17–10:21 + 10:48–10:59 + 11:07–11:41",
           "body_duration_seconds": 40.3,
@@ -1834,7 +1834,9 @@
           "summary": "Paul worked with his own hands. When he was insulted, he spoke good words back. Pastor Kincer says that is the sign of a real believer: when you are verbally abused, answer with kindness and goodness.",
           "preview": "https://growonthevine.com/previews/division-series/#how-should-you-answer-an-insult",
           "source_url": "https://www.youtube.com/watch?v=w1apdlEqqmE&t=617s",
-          "source_start_seconds": 617
+          "source_start_seconds": 617,
+          "clip_page": "https://growonthevine.com/clips/how-should-you-answer-an-insult/",
+          "clip_page_published": "2026-10-09"
         },
         {
           "slug": "what-makes-a-real-father",
