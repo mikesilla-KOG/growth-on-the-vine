@@ -1,0 +1,39 @@
+{
+  "title": "How do you spell love?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "time",
+      "answer": "TIME",
+      "clue": "What love is spelled as",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "power",
+      "answer": "POWER",
+      "clue": "What TV, sports and recreation don’t give",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "near",
+      "answer": "NEAR",
+      "clue": "Draw ___ to God and He will draw near to you",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "daughter",
+      "answer": "DAUGHTER",
+      "clue": "Who Pastor Kincer told about T-I-M-E",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}

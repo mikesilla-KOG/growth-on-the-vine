@@ -791,5 +791,54 @@
     "source_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=325s",
     "source_video_id": "6NKKxhLki6o",
     "source_start_seconds": 325
+  },
+  {
+    "id": "how-do-you-spell-love",
+    "title": "How do you spell love?",
+    "slug": "how-do-you-spell-love",
+    "url": "clips/how-do-you-spell-love/",
+    "youtube": "https://youtube.com/shorts/ApIS9mqCF0w",
+    "sermon": "Division Part 2",
+    "keyTakeaway": "T-I-M-E. If you say you love God, you’ll spend time with Him.",
+    "answer": "T-I-M-E. If you say you love God, you’ll spend time with Him.",
+    "why": "Pastor Kincer says sports and recreation don’t give us power. Whatever we really love, we make time for, and that includes God.",
+    "scripture": [
+      "James 4:8"
+    ],
+    "quotes": [
+      {
+        "text": "I have to shut that thing off and find time for God. See, sports don’t give me the power. Recreation doesn’t give me the power.",
+        "start_sec": 1287
+      },
+      {
+        "text": "I was telling my daughter yesterday, love is not only spelled L-O-V-E, it’s spelled T-I-M-E.",
+        "start_sec": 1310
+      },
+      {
+        "text": "If I say I love something, I will spend time with it.",
+        "start_sec": 1318
+      },
+      {
+        "text": "If I say I love God, I’ll spend time with him.",
+        "start_sec": 1340
+      }
+    ],
+    "keyScripture": "James 4:8",
+    "scriptureText": "Draw near to God and He will draw near to you.",
+    "tags": [
+      "James 4:8",
+      "draw near to God",
+      "time with God",
+      "love is time",
+      "priorities",
+      "Division Part 2",
+      "Scriptures"
+    ],
+    "keywords": "james 4:8 draw near to god time with god love is time priorities division part 2 scriptures how do you spell love",
+    "duration": "PT39S",
+    "published": "2026-10-07",
+    "source_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=1278s",
+    "source_video_id": "6NKKxhLki6o",
+    "source_start_seconds": 1278
   }
 ]

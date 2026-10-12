@@ -638,9 +638,9 @@
             "What if love is spelled T-I-M-E?",
             "Where do we really spend our time?"
           ],
-          "youtube_id": null,
+          "youtube_id": "ApIS9mqCF0w",
           "style": "illustrated",
-          "status": "preview",
+          "status": "published",
           "scripture": "James 4:8",
           "sermon_timestamps": "21:18–22:02 + 22:12–22:15 + 22:20–22:24",
           "body_duration_seconds": 39.4,
@@ -649,7 +649,9 @@
           "summary": "TV, sports and recreation don’t give us power. Pastor Kincer told his daughter that love isn’t only spelled L-O-V-E, it’s spelled T-I-M-E. If we love our children, or God, we will spend time with them.",
           "preview": "https://growonthevine.com/previews/division-series/#how-do-you-spell-love",
           "source_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=1278s",
-          "source_start_seconds": 1278
+          "source_start_seconds": 1278,
+          "clip_page": "https://growonthevine.com/clips/how-do-you-spell-love/",
+          "clip_page_published": "2026-10-07"
         }
       ],
       "unused_candidates": [
