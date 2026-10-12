@@ -615,9 +615,9 @@
             "What happened at the altar?",
             "Is the power of God real?"
           ],
-          "youtube_id": null,
+          "youtube_id": "6qtOYINsC7U",
           "style": "illustrated",
-          "status": "preview",
+          "status": "published",
           "scripture": "2 Corinthians 5:17",
           "sermon_timestamps": "5:25–5:45 + 6:01–6:25",
           "body_duration_seconds": 38.7,
@@ -626,7 +626,9 @@
           "summary": "Pastor Kincer tells how he went to the altar, was baptized, and felt the presence of God. He left church that night in love with everybody. The power of God is real, and it made him a changed person.",
           "preview": "https://growonthevine.com/previews/division-series/#can-god-change-a-person",
           "source_url": "https://www.youtube.com/watch?v=6NKKxhLki6o&t=325s",
-          "source_start_seconds": 325
+          "source_start_seconds": 325,
+          "clip_page": "https://growonthevine.com/clips/can-god-change-a-person/",
+          "clip_page_published": "2026-10-06"
         },
         {
           "slug": "how-do-you-spell-love",

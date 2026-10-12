@@ -1,0 +1,39 @@
+{
+  "title": "Can God really change a person?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "altar",
+      "answer": "ALTAR",
+      "clue": "Where Pastor Kincer knelt",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "baptized",
+      "answer": "BAPTIZED",
+      "clue": "Immersed in water",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "changed",
+      "answer": "CHANGED",
+      "clue": "What God made of him",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "presence",
+      "answer": "PRESENCE",
+      "clue": "What came on him and scared him",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}
