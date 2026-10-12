@@ -1,0 +1,39 @@
+{
+  "title": "What does living your faith look like?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "tebow",
+      "answer": "TEBOW",
+      "clue": "The football player who bows on the field",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "light",
+      "answer": "LIGHT",
+      "clue": "Let your ___ so shine before men",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "works",
+      "answer": "WORKS",
+      "clue": "Good ___ that glorify the Father",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "praise",
+      "answer": "PRAISE",
+      "clue": "What he says first in interviews",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}

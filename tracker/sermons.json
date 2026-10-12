@@ -1540,9 +1540,9 @@
             "Can one life point people to Jesus?",
             "Are you living what you believe?"
           ],
-          "youtube_id": null,
+          "youtube_id": "HemnDUsgtew",
           "style": "illustrated",
-          "status": "preview",
+          "status": "published",
           "scripture": "Matthew 5:16",
           "sermon_timestamps": "9:36–10:09 + 10:18–10:28 + 10:36–10:43",
           "body_duration_seconds": 38.4,
@@ -1551,7 +1551,9 @@
           "summary": "Pastor Kincer talks about Tim Tebow bowing on the field and praising his Lord and Savior in interviews. He says Tebow isn’t putting on an act. He is living what he believes, and that gives his words weight.",
           "preview": "https://growonthevine.com/previews/division-series/#what-does-living-your-faith-look-like",
           "source_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=576s",
-          "source_start_seconds": 576
+          "source_start_seconds": 576,
+          "clip_page": "https://growonthevine.com/clips/what-does-living-your-faith-look-like/",
+          "clip_page_published": "2026-10-14"
         },
         {
           "slug": "does-it-matter-if-you-show-up",
