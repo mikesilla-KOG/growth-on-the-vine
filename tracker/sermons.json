@@ -1494,9 +1494,9 @@
             "Would a Marine skip roll call?",
             "Do we only show up when we want to?"
           ],
-          "youtube_id": null,
+          "youtube_id": "7oNZxG7oFs0",
           "style": "illustrated",
-          "status": "preview",
+          "status": "published",
           "scripture": "2 Timothy 2:3",
           "sermon_timestamps": "3:30–3:34 + 3:38–3:45 + 3:48–4:08 + 4:28–4:34 + 4:38–4:58",
           "body_duration_seconds": 48.0,
@@ -1505,7 +1505,9 @@
           "summary": "Can you imagine a Marine skipping reveille, or saying, “I’ll just be the sharpshooter, no marching”? Marines move in unity. Pastor Kincer says the church has been led to believe we can pick and choose.",
           "preview": "https://growonthevine.com/previews/division-series/#can-you-pick-and-choose",
           "source_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=210s",
-          "source_start_seconds": 210
+          "source_start_seconds": 210,
+          "clip_page": "https://growonthevine.com/clips/can-you-pick-and-choose/",
+          "clip_page_published": "2026-10-12"
         },
         {
           "slug": "is-jesus-the-only-way",

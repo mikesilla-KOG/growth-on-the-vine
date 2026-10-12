@@ -1,0 +1,39 @@
+{
+  "title": "Can you pick and choose with God?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "marine",
+      "answer": "MARINE",
+      "clue": "Can’t skip reveille",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "unity",
+      "answer": "UNITY",
+      "clue": "What marching in cadence shows",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "soldier",
+      "answer": "SOLDIER",
+      "clue": "A good ___ of Jesus Christ",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "excuses",
+      "answer": "EXCUSES",
+      "clue": "The church world is full of them",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}
