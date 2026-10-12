@@ -1800,9 +1800,9 @@
             "Why would anyone give up a good job for God?",
             "What if the world calls you a fool?"
           ],
-          "youtube_id": null,
+          "youtube_id": "Dhaxrb9TeYo",
           "style": "illustrated",
-          "status": "preview",
+          "status": "published",
           "scripture": "1 Corinthians 4:10",
           "sermon_timestamps": "4:47–5:07 + 5:13–5:31 + 5:47–5:57",
           "body_duration_seconds": 43.7,
@@ -1811,7 +1811,9 @@
           "summary": "Peter and John left a good fishing business to preach the gospel. The world says that makes no sense. Paul answers: “We are fools for Christ’s sake” — because we put Christ first.",
           "preview": "https://growonthevine.com/previews/division-series/#is-following-jesus-foolish",
           "source_url": "https://www.youtube.com/watch?v=w1apdlEqqmE&t=287s",
-          "source_start_seconds": 287
+          "source_start_seconds": 287,
+          "clip_page": "https://growonthevine.com/clips/is-following-jesus-foolish/",
+          "clip_page_published": "2026-10-08"
         },
         {
           "slug": "how-should-you-answer-an-insult",

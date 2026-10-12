@@ -1,0 +1,39 @@
+{
+  "title": "Is following Jesus foolish?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "fools",
+      "answer": "FOOLS",
+      "clue": "Paul says we are ___ for Christ’s sake",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "fishing",
+      "answer": "FISHING",
+      "clue": "Peter and John left this business",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "compassion",
+      "answer": "COMPASSION",
+      "clue": "Why some take a lower-paying church job",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "christ",
+      "answer": "CHRIST",
+      "clue": "Who we choose to put first",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}
