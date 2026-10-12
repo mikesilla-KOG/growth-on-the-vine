@@ -1846,9 +1846,9 @@
             "Who is helping you grow up in faith?",
             "Is talk enough to raise a Christian?"
           ],
-          "youtube_id": null,
+          "youtube_id": "UA0f_AVO834",
           "style": "illustrated",
-          "status": "preview",
+          "status": "published",
           "scripture": "1 Corinthians 4:15",
           "sermon_timestamps": "15:01–15:09 + 15:28–15:42 + 16:00–16:33",
           "body_duration_seconds": 45.1,
@@ -1857,7 +1857,9 @@
           "summary": "Paul told the Corinthians they had ten thousand instructors but not many fathers. A father gives life, then takes the time and labor to raise a child through every stage to maturity. Talk alone can’t do that.",
           "preview": "https://growonthevine.com/previews/division-series/#what-makes-a-real-father",
           "source_url": "https://www.youtube.com/watch?v=w1apdlEqqmE&t=901s",
-          "source_start_seconds": 901
+          "source_start_seconds": 901,
+          "clip_page": "https://growonthevine.com/clips/what-makes-a-real-father/",
+          "clip_page_published": "2026-10-10"
         },
         {
           "slug": "is-god-still-shaping-you",

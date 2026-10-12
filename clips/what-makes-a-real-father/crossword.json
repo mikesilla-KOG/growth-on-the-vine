@@ -1,0 +1,39 @@
+{
+  "title": "What makes a real father?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "fathers",
+      "answer": "FATHERS",
+      "clue": "Paul says you don’t have many",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "tutors",
+      "answer": "TUTORS",
+      "clue": "Ten thousand of them in Christ",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "maturity",
+      "answer": "MATURITY",
+      "clue": "Where a father brings a child",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "labor",
+      "answer": "LABOR",
+      "clue": "Raising a child takes time and ___",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}
