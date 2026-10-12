@@ -1517,9 +1517,9 @@
             "Do all roads lead to God?",
             "Is everybody okay with God?"
           ],
-          "youtube_id": null,
+          "youtube_id": "1poQjrNNNkI",
           "style": "illustrated",
-          "status": "preview",
+          "status": "published",
           "scripture": "John 14:6",
           "sermon_timestamps": "8:05–8:22 + 8:30–9:02",
           "body_duration_seconds": 46.5,
@@ -1528,7 +1528,9 @@
           "summary": "Some say there’s another way, or that all roads lead to the same God. Pastor Kincer points to Jesus’ words: He is the way, the truth and the life. Our unity is around Jesus, His word and the cross.",
           "preview": "https://growonthevine.com/previews/division-series/#is-jesus-the-only-way",
           "source_url": "https://www.youtube.com/watch?v=n_VSSQI9h3c&t=485s",
-          "source_start_seconds": 485
+          "source_start_seconds": 485,
+          "clip_page": "https://growonthevine.com/clips/is-jesus-the-only-way/",
+          "clip_page_published": "2026-10-13"
         },
         {
           "slug": "what-does-living-your-faith-look-like",

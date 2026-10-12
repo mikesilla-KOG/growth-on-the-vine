@@ -1,0 +1,39 @@
+{
+  "title": "Is Jesus really the only way?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "way",
+      "answer": "WAY",
+      "clue": "Jesus says, “I am the ___”",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "truth",
+      "answer": "TRUTH",
+      "clue": "The way, the ___ and the life",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "cross",
+      "answer": "CROSS",
+      "clue": "Our unity is around Jesus, His word and the ___",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "father",
+      "answer": "FATHER",
+      "clue": "No one comes to the ___ except through Jesus",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}
