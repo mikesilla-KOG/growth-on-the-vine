@@ -1,0 +1,39 @@
+{
+  "title": "Does it matter if you show up?",
+  "rows": 8,
+  "cols": 12,
+  "words": [
+    {
+      "id": "present",
+      "answer": "PRESENT",
+      "clue": "Just being ___ touches lives",
+      "row": 0,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "assembly",
+      "answer": "ASSEMBLY",
+      "clue": "Gathering of the church",
+      "row": 2,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "obedience",
+      "answer": "OBEDIENCE",
+      "clue": "Simple ___ to God’s word",
+      "row": 4,
+      "col": 0,
+      "dir": "across"
+    },
+    {
+      "id": "growth",
+      "answer": "GROWTH",
+      "clue": "God is the one who causes the ___",
+      "row": 6,
+      "col": 0,
+      "dir": "across"
+    }
+  ]
+}
