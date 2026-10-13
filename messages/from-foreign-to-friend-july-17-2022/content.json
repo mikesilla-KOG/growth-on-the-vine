@@ -1,0 +1,946 @@
+{
+ "schema_version": 1,
+ "sermon": {
+  "slug": "from-foreign-to-friend-july-17-2022",
+  "title": "From Foreign to Friend — July 17, 2022",
+  "series": "",
+  "series_part": "",
+  "speaker": "Michael Silla",
+  "church": "Vine Cluster Church",
+  "video_id": "zxdUOWwItaY",
+  "video_url": "https://www.youtube.com/watch?v=zxdUOWwItaY",
+  "upload_date": "2022-07-18",
+  "duration_seconds": 5145,
+  "language": "en",
+  "page_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/",
+  "status": "live",
+  "summary": "Eternal life is knowing God closely. Ruth the Moabite left everything, gleaned in Boaz’s field and became King David’s great-grandmother; Ittai the exile vowed to follow David in life or death; Moses chose Christ’s reproach. Will we leave darkness and pursue Christ like them?",
+  "transcript_source": "This transcript comes from YouTube’s automatic English captions, which supply the timing and the words. Punctuation, capitalization and paragraphing were added from the speaker’s pauses and then corrected by hand, and obvious caption errors (names, Bible references) were fixed; his wording was not rewritten. “[unclear]” marks a word or name that was not clear. Editor notes: Long worship and prayer before the message.",
+  "brand": "Grow on the Vine"
+ },
+ "bible_translation": {
+  "code": "NKJV",
+  "notice": "Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved."
+ },
+ "chunks": [
+  {
+   "id": "from-foreign-to-friend-july-17-2022:worship",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "How does the service open?",
+   "short_answer": "With welcome and worship: “these are the days” and “glory to the Lamb of God.”",
+   "text": "Good morning we want to welcome you is 10 o’clock we want to we’re going to be worshiping God this morning let’s find our seats we’re going to worship and have fellowship in just a minute will you stand with me as we sing to our God and worship our Lord and savior. These are all the days. Restored. And though these are days of great trials.\n\nAbandoned and darkness. Riding on the clouds shining like the sun at the trumpet is. Until salvation. Holidays. And we are the laborers.\n\nThank you. Your voice. As these are the days of I’m serving service.\n\nThis is. Shining like the sun because praise the Lord.\n\nGlory glory in the highest glory to. My glory to the lamb of God. Going to the lamb of God. Glory.\n\nGlory in the highest glory. To the almighty glory to the lamb of God. Lord. Glory. Glory to life. Thank you.\n\nForeign. Foreign. Jesus we give you the praise.\n\nAnd we were praising for the rest of our days. In the sanctuary we. Song to give you the glory sing our songs. For the rest of our days. Heaven.\n\nWe will praise you for the rest of our day. We clap our hands together. We will praise you for the rest of our days. I knew.\n\nEverything. Jesus we give you the praise. Emmanuel. We lift up your name heavenly heavenly father come in the messiah. And we will praise you for the rest of our name. Yes we will praise you for the rest of our days.\n\nLove you we love you. We worship you we worship. Praise the name of Jesus. He is my rock. My fortress. He’s my neighbor. Will I trust.\n\nPraise the name of Jesus. Praise God. Cheese. Jesus. Praise the name of us. The name of Jesus.\n\nPraise the name of Jesus. Will I I will trust. Praise the name of Jesus. Foreign.",
+   "start_seconds": 1,
+   "end_seconds": 1003,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-worship",
+   "paragraphs": [
+    {
+     "start_seconds": 1,
+     "text": "Good morning we want to welcome you is 10 o’clock we want to we’re going to be worshiping God this morning let’s find our seats we’re going to worship and have fellowship in just a minute will you stand with me as we sing to our God and worship our Lord and savior. These are all the days. Restored. And though these are days of great trials.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1s"
+    },
+    {
+     "start_seconds": 60,
+     "text": "Abandoned and darkness. Riding on the clouds shining like the sun at the trumpet is. Until salvation. Holidays. And we are the laborers.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=60s"
+    },
+    {
+     "start_seconds": 146,
+     "text": "Thank you. Your voice. As these are the days of I’m serving service.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=146s"
+    },
+    {
+     "start_seconds": 241,
+     "text": "This is. Shining like the sun because praise the Lord.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=241s"
+    },
+    {
+     "start_seconds": 345,
+     "text": "Glory glory in the highest glory to. My glory to the lamb of God. Going to the lamb of God. Glory.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=345s"
+    },
+    {
+     "start_seconds": 416,
+     "text": "Glory in the highest glory. To the almighty glory to the lamb of God. Lord. Glory. Glory to life. Thank you.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=416s"
+    },
+    {
+     "start_seconds": 480,
+     "text": "Foreign. Foreign. Jesus we give you the praise.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=480s"
+    },
+    {
+     "start_seconds": 561,
+     "text": "And we were praising for the rest of our days. In the sanctuary we. Song to give you the glory sing our songs. For the rest of our days. Heaven.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=561s"
+    },
+    {
+     "start_seconds": 648,
+     "text": "We will praise you for the rest of our day. We clap our hands together. We will praise you for the rest of our days. I knew.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=648s"
+    },
+    {
+     "start_seconds": 746,
+     "text": "Everything. Jesus we give you the praise. Emmanuel. We lift up your name heavenly heavenly father come in the messiah. And we will praise you for the rest of our name. Yes we will praise you for the rest of our days.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=746s"
+    },
+    {
+     "start_seconds": 804,
+     "text": "Love you we love you. We worship you we worship. Praise the name of Jesus. He is my rock. My fortress. He’s my neighbor. Will I trust.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=804s"
+    },
+    {
+     "start_seconds": 858,
+     "text": "Praise the name of Jesus. Praise God. Cheese. Jesus. Praise the name of us. The name of Jesus.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=858s"
+    },
+    {
+     "start_seconds": 919,
+     "text": "Praise the name of Jesus. Will I I will trust. Praise the name of Jesus. Foreign.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=919s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:city-of-god",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "What is prayed over the church?",
+   "short_answer": "Glorious things are spoken of the city of God; He births people into His kingdom and His truth.",
+   "text": "And Lord you are building a church and the scripture says city o city of God glorious things are spoken of you not horrible things are spoken of you but glorious things are spoken about my church and he goes on to say this one and that one is born in my church my city oh not only do I birth people into the kingdom but I birth people into the truth of my word thing that thing this one and that one is born in her because it is a work of the spirit of God that he does inside people because the kingdom of God is within people and he does that work within them oh church this day when you see with all your heart because you are a church that the gates of hell cannot prevail against you are a glorious church without spot or wrinkle and as a great artist never exposes his great painting until it is finished so the artist Jesus Christ is not has not exposed the finished work of the church yet but it will be glorious it will be favorable and they will overcome in this life.\n\nForeign. That I free. Foreign. Only.\n\nIn your mind. And free. All for Jesus. Foreign. Foreign.\n\nAnd have. And ever. Hold to me. Always. Submit ourselves. Lord give us America.\n\nForeign. Set us out to harvest. Of grace. In Jesus holy name.",
+   "start_seconds": 1003,
+   "end_seconds": 1412,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1003s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-city-of-god",
+   "paragraphs": [
+    {
+     "start_seconds": 1003,
+     "text": "And Lord you are building a church and the scripture says city o city of God glorious things are spoken of you not horrible things are spoken of you but glorious things are spoken about my church and he goes on to say this one and that one is born in my church my city oh not only do I birth people into the kingdom but I birth people into the truth of my word thing that thing this one and that one is born in her because it is a work of the spirit of God that he does inside people because the kingdom of God is within people and he does that work within them oh church this day when you see with all your heart because you are a church that the gates of hell cannot prevail against you are a glorious church without spot or wrinkle and as a great artist never exposes his great painting until it is finished so the artist Jesus Christ is not has not exposed the finished work of the church yet but it will be glorious it will be favorable and they will overcome in this life.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1003s"
+    },
+    {
+     "start_seconds": 1090,
+     "text": "Foreign. That I free. Foreign. Only.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1090s"
+    },
+    {
+     "start_seconds": 1153,
+     "text": "In your mind. And free. All for Jesus. Foreign. Foreign.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1153s"
+    },
+    {
+     "start_seconds": 1256,
+     "text": "And have. And ever. Hold to me. Always. Submit ourselves. Lord give us America.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1256s"
+    },
+    {
+     "start_seconds": 1349,
+     "text": "Foreign. Set us out to harvest. Of grace. In Jesus holy name.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1349s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Psalm 87:3-5",
+     "translation": "NKJV",
+     "text_nkjv": "Glorious things are spoken of you, O city of God! Selah “I will make mention of Rahab and Babylon to those who know Me; Behold, O Philistia and Tyre, with Ethiopia: ‘This one was born there.’ ” And of Zion it will be said, “This one and that one were born in her; And the Most High Himself shall establish her.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Psalm+87%3A3-5&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1003s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:word-to-nations",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "What message is given to the nations?",
+   "short_answer": "Draw nigh to Him and He will draw nigh to you; leaders of the nations are challenged to come to Jesus Christ, whose presence makes the difference.",
+   "text": "Lord give us America. Away. Set us. In Jesus holy name. Is Jesus. The message of the Lord of the harvest the message of the Lord of the church.\n\nThe message of the Lord of the nations. The message to the Lord of the leaders of the nation and the message to every parent and every person. If you draw nigh to me I will draw nigh to you he that cometh unto me I will yoke up with them and I will give them rest and refreshing for their souls and all that draw nigh and come to me there is no one I will reject and cast out therefore oh unsaved.\n\nTherefore o saved ah therefore leaders of the nations I challenge you to come unto God the Lord Jesus Christ and he will come to you and his meeting with you will set you above all the other nations Moses found in the Old Testament that his presence in you makes the difference between God’s people and the people of the world so whether you are a church member whether you are unsaved and a harvest that needs to be harvested whether you are the leader of a family or a leader of a nation the key in this day and hour is come to me.\n\nForeign. Foreign. That all things work together.\n\nTo his purpose. Must believe. That he is. Come come see spirit we pray.",
+   "start_seconds": 1412,
+   "end_seconds": 1749,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1412s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-word-to-nations",
+   "paragraphs": [
+    {
+     "start_seconds": 1412,
+     "text": "Lord give us America. Away. Set us. In Jesus holy name. Is Jesus. The message of the Lord of the harvest the message of the Lord of the church.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1412s"
+    },
+    {
+     "start_seconds": 1477,
+     "text": "The message of the Lord of the nations. The message to the Lord of the leaders of the nation and the message to every parent and every person. If you draw nigh to me I will draw nigh to you he that cometh unto me I will yoke up with them and I will give them rest and refreshing for their souls and all that draw nigh and come to me there is no one I will reject and cast out therefore oh unsaved.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1477s"
+    },
+    {
+     "start_seconds": 1523,
+     "text": "Therefore o saved ah therefore leaders of the nations I challenge you to come unto God the Lord Jesus Christ and he will come to you and his meeting with you will set you above all the other nations Moses found in the Old Testament that his presence in you makes the difference between God’s people and the people of the world so whether you are a church member whether you are unsaved and a harvest that needs to be harvested whether you are the leader of a family or a leader of a nation the key in this day and hour is come to me.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1523s"
+    },
+    {
+     "start_seconds": 1580,
+     "text": "Foreign. Foreign. That all things work together.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1580s"
+    },
+    {
+     "start_seconds": 1659,
+     "text": "To his purpose. Must believe. That he is. Come come see spirit we pray.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1659s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "James 4:8",
+     "translation": "NKJV",
+     "text_nkjv": "Draw near to God and He will draw near to you. Cleanse your hands, you sinners; and purify your hearts, you double-minded.",
+     "source_url": "https://www.biblegateway.com/passage/?search=James+4%3A8&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1477s",
+     "quoted_without_naming_reference": false
+    },
+    {
+     "ref": "Exodus 33:16",
+     "translation": "NKJV",
+     "text_nkjv": "For how then will it be known that Your people and I have found grace in Your sight, except You go with us? So we shall be separate, Your people and I, from all the people who are upon the face of the earth.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Exodus+33%3A16&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1523s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:seek-spirit",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "What happens in the prayer time?",
+   "short_answer": "The congregation seeks the Holy Spirit and prays for the young to be filled, and for new tongues.",
+   "text": "This morning we’re gonna take some time to seek God to seek his spirit whether if you’ve never experienced the Holy Spirit coming and filling you this morning we’re going to take some time to ask him to come and fill us with his spirit so that we can be clothed with power like they were on the day of Pentecost to go out and to spread the gospel to live a life that is pleasing to the father so let’s lift up our voices right now we’re going to pray that this. And fill us this morning so let’s lift up our voices together. Upon you God the Lord. Thank God all things are. Things. Jesus.\n\nWe have in the past Jesus. Christ. Come. Come holy. Holies I need you. To come. See spirit. S.\n\nIn your own sovereign. Right now we’re going to take a minute to pray for those that are young and God and don’t know I’ve been Christians for a short time and if you want the spirit of God this morning we want to invite you to lift up your hand and just say yes I want God’s spirit and the congregation they’re going to reach out their hand they’re going to pray that God’s spirit come to you that are with you be filled and should be clothed with the power of God that it would change your tongue and change your inner man lift up your hand if you want the spirit of God this morning a young person young and God wherever you are just lift up your hand right where you’re at. The praying that God would come and fill you. Gotta you gotta ask you gotta want this like he said earlier she.\n\nSaid draw nigh unto him and he will draw nigh unto you if you want the spirit of God you’ve got to draw nigh unto you’ve got to you put your effort out you’ve got to put your hand up you’ve got to humble yourself so I invite you one last one last time if you want the spirit of God if you want the Holy Spirit you young ones lift up your hand Riley you’re at and the congregation will pray that you can be filled with the Holy Spirit. And those in the room that have uh are experiencing God the rest of the congregation if you want more of his spirit like it says in the scriptures when Jesus walked into that room where the disciples were it says he breathed on them the spirit and they were filled with the spirit and then on the day of Pentecost they received the spirit again and we need God’s spirit more and more and more to this morning if you want God’s spirit and whoever you are you’ve been filled with the Holy Spirit before you want more of the spirit we’re going to cry out we’re going to pray for one another let’s let’s put our hands on the person next to us and we’re going to ask that the spirit would come and fill up fill us up again let’s lift up our voices in prayer this morning.\n\nForeign. Jesus. Holy Spirit come and Holy Spirit come fill us out this morning.\n\nThe Holy Spirit we need you. Jesus. Jesus. God we pray for our tongue Lord we pray that the spirit would come and change our tongue the scriptures say that the tongue is a fire Lord and with it we bless our neighbor and we curse our neighbor God Lord turn our tongues Lord into blessing you only Lord into blessing our neighbor only God change our mounds right now in our in our country in our relationships and our families in our neighborhood our tongues are a mess Jesus.\n\nSpeaking awful lies God and we’re not speaking the truth of God’s word God Lord we pray for a new tongue Lord we pray for a new tongue in our hearts Jesus give us. A wonderful things God Lord we lift this up fear and come. Fear of God. Holy Spirit. Come. Cause we spirit. We pray. That. Your power.\n\nWill come. Come. Come Holy Spirit. We need you. Come. Sweet spirit. We praise. Foreign. Go with us today be with us that we would surrender to his spirit.",
+   "start_seconds": 1749,
+   "end_seconds": 2263,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1749s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-seek-spirit",
+   "paragraphs": [
+    {
+     "start_seconds": 1749,
+     "text": "This morning we’re gonna take some time to seek God to seek his spirit whether if you’ve never experienced the Holy Spirit coming and filling you this morning we’re going to take some time to ask him to come and fill us with his spirit so that we can be clothed with power like they were on the day of Pentecost to go out and to spread the gospel to live a life that is pleasing to the father so let’s lift up our voices right now we’re going to pray that this. And fill us this morning so let’s lift up our voices together. Upon you God the Lord. Thank God all things are. Things. Jesus.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1749s"
+    },
+    {
+     "start_seconds": 1814,
+     "text": "We have in the past Jesus. Christ. Come. Come holy. Holies I need you. To come. See spirit. S.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1814s"
+    },
+    {
+     "start_seconds": 1876,
+     "text": "In your own sovereign. Right now we’re going to take a minute to pray for those that are young and God and don’t know I’ve been Christians for a short time and if you want the spirit of God this morning we want to invite you to lift up your hand and just say yes I want God’s spirit and the congregation they’re going to reach out their hand they’re going to pray that God’s spirit come to you that are with you be filled and should be clothed with the power of God that it would change your tongue and change your inner man lift up your hand if you want the spirit of God this morning a young person young and God wherever you are just lift up your hand right where you’re at. The praying that God would come and fill you. Gotta you gotta ask you gotta want this like he said earlier she.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1876s"
+    },
+    {
+     "start_seconds": 1934,
+     "text": "Said draw nigh unto him and he will draw nigh unto you if you want the spirit of God you’ve got to draw nigh unto you’ve got to you put your effort out you’ve got to put your hand up you’ve got to humble yourself so I invite you one last one last time if you want the spirit of God if you want the Holy Spirit you young ones lift up your hand Riley you’re at and the congregation will pray that you can be filled with the Holy Spirit. And those in the room that have uh are experiencing God the rest of the congregation if you want more of his spirit like it says in the scriptures when Jesus walked into that room where the disciples were it says he breathed on them the spirit and they were filled with the spirit and then on the day of Pentecost they received the spirit again and we need God’s spirit more and more and more to this morning if you want God’s spirit and whoever you are you’ve been filled with the Holy Spirit before you want more of the spirit we’re going to cry out we’re going to pray for one another let’s let’s put our hands on the person next to us and we’re going to ask that the spirit would come and fill up fill us up again let’s lift up our voices in prayer this morning.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=1934s"
+    },
+    {
+     "start_seconds": 2018,
+     "text": "Foreign. Jesus. Holy Spirit come and Holy Spirit come fill us out this morning.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2018s"
+    },
+    {
+     "start_seconds": 2081,
+     "text": "The Holy Spirit we need you. Jesus. Jesus. God we pray for our tongue Lord we pray that the spirit would come and change our tongue the scriptures say that the tongue is a fire Lord and with it we bless our neighbor and we curse our neighbor God Lord turn our tongues Lord into blessing you only Lord into blessing our neighbor only God change our mounds right now in our in our country in our relationships and our families in our neighborhood our tongues are a mess Jesus.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2081s"
+    },
+    {
+     "start_seconds": 2134,
+     "text": "Speaking awful lies God and we’re not speaking the truth of God’s word God Lord we pray for a new tongue Lord we pray for a new tongue in our hearts Jesus give us. A wonderful things God Lord we lift this up fear and come. Fear of God. Holy Spirit. Come. Cause we spirit. We pray. That. Your power.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2134s"
+    },
+    {
+     "start_seconds": 2189,
+     "text": "Will come. Come. Come Holy Spirit. We need you. Come. Sweet spirit. We praise. Foreign. Go with us today be with us that we would surrender to his spirit.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2189s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "James 3:6-10",
+     "translation": "NKJV",
+     "text_nkjv": "And the tongue is a fire, a world of iniquity. The tongue is so set among our members that it defiles the whole body, and sets on fire the course of nature; and it is set on fire by hell. For every kind of beast and bird, of reptile and creature of the sea, is tamed and has been tamed by mankind. But no man can tame the tongue. It is an unruly evil, full of deadly poison. With it we bless our God and Father, and with it we curse men, who have been made in the similitude of God. Out of the same mouth proceed blessing and cursing. My brethren, these things ought not to be so.",
+     "source_url": "https://www.biblegateway.com/passage/?search=James+3%3A6-10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2081s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:special",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "Who sings the special?",
+   "short_answer": "Mr. Davis, on one of the Davises’ last weekends.",
+   "text": "Lord Jesus we’re so thankful that you are faithful faithful to hear our Christ. Today appreciate your goodness. You. Ask you to deal this day the cries of every heart here. With your glory to the world to our families to our neighbors to everyone. Invite mr Davis to come on up he’s going to sing a special song this morning you may find your seats.\n\nAs you know it’s our one of our last weekends with Davis’s so we’re going to be blessed by mr Davis before he goes. We’re gonna have somebody. Uh that sings real well seeing this I’m going to play. All the songs.\n\nThe name of God’s. Redeeming love. Hitherto. Thy love has been list me that thou has drawn me to this place. Same bye. Bye Jesus. Foreign.\n\nOh to grace how. Foreign. Foreign.",
+   "start_seconds": 2263,
+   "end_seconds": 2620,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2263s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-special",
+   "paragraphs": [
+    {
+     "start_seconds": 2263,
+     "text": "Lord Jesus we’re so thankful that you are faithful faithful to hear our Christ. Today appreciate your goodness. You. Ask you to deal this day the cries of every heart here. With your glory to the world to our families to our neighbors to everyone. Invite mr Davis to come on up he’s going to sing a special song this morning you may find your seats.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2263s"
+    },
+    {
+     "start_seconds": 2328,
+     "text": "As you know it’s our one of our last weekends with Davis’s so we’re going to be blessed by mr Davis before he goes. We’re gonna have somebody. Uh that sings real well seeing this I’m going to play. All the songs.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2328s"
+    },
+    {
+     "start_seconds": 2420,
+     "text": "The name of God’s. Redeeming love. Hitherto. Thy love has been list me that thou has drawn me to this place. Same bye. Bye Jesus. Foreign.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2420s"
+    },
+    {
+     "start_seconds": 2540,
+     "text": "Oh to grace how. Foreign. Foreign.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2540s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:know-him",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "What does “from foreign to friend” mean?",
+   "short_answer": "Eternal life is knowing the only true God and Jesus Christ—as close as a spouse you see every day.",
+   "text": "Oh take and see. Seal it for the courts above. Calling this from foreign to friend. And the scriptures Jesus prayed in John 17 verse 2 as we have heard many times you have given him authority over all flesh that he should give eternal life to as many as you have given him. And this is eternal life that they may know you they is us that they may know you the only true God and Jesus Christ whom you have sent now we know the word no is more than just have knowledge of it means to have an intimate relationship with and we are to know Jesus and God to have an intimate relationship with our God Jesus Christ and though he is invisible.\n\nGod is saying in this prayer that you can know him like you know a spouse somebody that you see every day you can have a close relationship with him and so America and people all over the world have to decide how close are they going to have a relationship with God is it going to be a God far away miles thousands of miles away is it going to be a God in the same vicinity is it going to be a God in your house in your life how far what distance are you going to have between you and God. And you can have eternal life on earth because knowing Jesus and knowing God is. Eternal life and you don’t have to be fretting or worried about where you’re ending up when you die.",
+   "start_seconds": 2620,
+   "end_seconds": 2747,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2620s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-know-him",
+   "paragraphs": [
+    {
+     "start_seconds": 2620,
+     "text": "Oh take and see. Seal it for the courts above. Calling this from foreign to friend. And the scriptures Jesus prayed in John 17 verse 2 as we have heard many times you have given him authority over all flesh that he should give eternal life to as many as you have given him. And this is eternal life that they may know you they is us that they may know you the only true God and Jesus Christ whom you have sent now we know the word no is more than just have knowledge of it means to have an intimate relationship with and we are to know Jesus and God to have an intimate relationship with our God Jesus Christ and though he is invisible.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2620s"
+    },
+    {
+     "start_seconds": 2692,
+     "text": "God is saying in this prayer that you can know him like you know a spouse somebody that you see every day you can have a close relationship with him and so America and people all over the world have to decide how close are they going to have a relationship with God is it going to be a God far away miles thousands of miles away is it going to be a God in the same vicinity is it going to be a God in your house in your life how far what distance are you going to have between you and God. And you can have eternal life on earth because knowing Jesus and knowing God is. Eternal life and you don’t have to be fretting or worried about where you’re ending up when you die.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2692s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "John 17:2-3",
+     "translation": "NKJV",
+     "text_nkjv": "as You have given Him authority over all flesh, that He should give eternal life to as many as You have given Him. And this is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent.",
+     "source_url": "https://www.biblegateway.com/passage/?search=John+17%3A2-3&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2620s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:ruth-story",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "Who were Naomi and Ruth?",
+   "short_answer": "Naomi’s husband and sons died in Moab; Orpah turned back, but Ruth would not leave.",
+   "text": "And I suggest you really take it to heart knowing where you’re going if you want to want to live a life that is distant from Jesus and from God you’re going to be day in danger ah. Disobeying Jesus Christ rejecting his word and you’re going to be you’re gonna have to pay a penalty for that. So the best solution is to know God to know Jesus Christ and his prayer in his own words and that’s why it’s read is that we would know him have a relationship with him and look we’re going to at two Bible examples that walk us through knowing God first we’re going to look at Ruth and in Ruth chapter 1 gives us it sets up the story there was a famine in Israel so Naomi and Elimelech went to Moab they went to a different country.\n\nAnd they had two boys Mahlon and Chilion. And one married a country a Moab Moabite girl named Orpah and another married another Moabite girl named Ruth. And then the father the Israelite father Elimelech died and this family was actually from Bethlehem and Judah. And then ten years later this the husbands of Orpah and Ruth the two boys also died and so now Naomi is now a widow and now she doesn’t have any of her sons she has two uh young daughter-in-laws that are also widows. And so now some choices have to be made.\n\nAnd Naomi arose with her daughters-in-law that she might return from the country of Moab. For she had heard in the country that the Lord had visited his people by giving them bread. And they said to her surely we will return with you to your people and so Orpah and Ruth both said we’re going to go back home with you they had a relationship with Naomi more than 10 years they’ve been with Naomi they’ve been with her family and so they have some you know they’re not angry with her they’re not fighting can you imagine that. They have a good relationship with each other mother-in-law can you can you believe that. And uh you know they’re getting. They’re both you know getting very emotional and they’re they’re saying surely we’re returning because she’s telling them you need to stay and go back with your family because I don’t know if I can take care of you guys.",
+   "start_seconds": 2747,
+   "end_seconds": 2927,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2747s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-ruth-story",
+   "paragraphs": [
+    {
+     "start_seconds": 2747,
+     "text": "And I suggest you really take it to heart knowing where you’re going if you want to want to live a life that is distant from Jesus and from God you’re going to be day in danger ah. Disobeying Jesus Christ rejecting his word and you’re going to be you’re gonna have to pay a penalty for that. So the best solution is to know God to know Jesus Christ and his prayer in his own words and that’s why it’s read is that we would know him have a relationship with him and look we’re going to at two Bible examples that walk us through knowing God first we’re going to look at Ruth and in Ruth chapter 1 gives us it sets up the story there was a famine in Israel so Naomi and Elimelech went to Moab they went to a different country.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2747s"
+    },
+    {
+     "start_seconds": 2811,
+     "text": "And they had two boys Mahlon and Chilion. And one married a country a Moab Moabite girl named Orpah and another married another Moabite girl named Ruth. And then the father the Israelite father Elimelech died and this family was actually from Bethlehem and Judah. And then ten years later this the husbands of Orpah and Ruth the two boys also died and so now Naomi is now a widow and now she doesn’t have any of her sons she has two uh young daughter-in-laws that are also widows. And so now some choices have to be made.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2811s"
+    },
+    {
+     "start_seconds": 2866,
+     "text": "And Naomi arose with her daughters-in-law that she might return from the country of Moab. For she had heard in the country that the Lord had visited his people by giving them bread. And they said to her surely we will return with you to your people and so Orpah and Ruth both said we’re going to go back home with you they had a relationship with Naomi more than 10 years they’ve been with Naomi they’ve been with her family and so they have some you know they’re not angry with her they’re not fighting can you imagine that. They have a good relationship with each other mother-in-law can you can you believe that. And uh you know they’re getting. They’re both you know getting very emotional and they’re they’re saying surely we’re returning because she’s telling them you need to stay and go back with your family because I don’t know if I can take care of you guys.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2866s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Ruth 1:6-14",
+     "translation": "NKJV",
+     "text_nkjv": "Then she arose with her daughters-in-law that she might return from the country of Moab, for she had heard in the country of Moab that the LORD had visited His people by giving them bread. Therefore she went out from the place where she was, and her two daughters-in-law with her; and they went on the way to return to the land of Judah. And Naomi said to her two daughters-in-law, “Go, return each to her mother’s house. The LORD deal kindly with you, as you have dealt with the dead and with me. The LORD grant that you may find rest, each in the house of her husband.” So she kissed them, and they lifted up their voices and wept. And they said to her, “Surely we will return with you to your people.” But Naomi said, “Turn back, my daughters; why will you go with me? Are there still sons in my womb, that they may be your husbands? Turn back, my daughters, go—for I am too old to have a husband. If I should say I have hope, if I should have a husband tonight and should also bear sons, would you wait for them till they were grown? Would you restrain yourselves from having husbands? No, my daughters; for it grieves me very much for your sakes that the hand of the LORD has gone out against me!” Then they lifted up their voices and wept again; and Orpah kissed her mother-in-law, but Ruth clung to her.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ruth+1%3A6-14&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2866s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:ruths-vow",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "What did Ruth commit to?",
+   "short_answer": "Your people shall be my people, your God my God—even after you die. We must leave the kingdom of darkness for life.",
+   "text": "All of this stuff. Naomi convinced Orpah to leave but Ruth would not leave. Naomi. We don’t know why. It doesn’t say why but this is the what she said this is her response Ruth’s response to Naomi she says stop telling me to leave you. Or to turn back from following after you wherever you will go wherever you go I will go wherever you lodge I will lodge wherever whoever your people are shall be my people I mean that’s a big statement can you imagine you come from you have a family and you’re. You’re you know cutting yourself off from your family to go join your mother-in-law’s family and you you know the there’s no father-in-law there’s no son to be married to that’s a big deal.\n\nYour God will be my God where you will die where you die I will die and there I will be buried so she’s also making another commitment saying even after you die Naomi. Well you’re I’m gonna have 30 40 more years when you’re dead and gone I’m still gonna stay with your people your God I am staying with you and your family that’s a big commitment. That’s a big commitment so she’s committing to leaving her old family she’s committing to leaving her old gods her old direction where you go I will go her old dwelling where you stay I will stay where you lodge I will lodge she’s rejecting all that.\n\nAnd this is just like us today we have to make a choice as Christians are we going to leave the kingdom of darkness our old life our old ways. The old way of living the old dwelling oh I used to dwell and associate with all kinds of sinners and do bad kinds of all kinds of I used to be you know associate with all this identify. I used to hang around spend time with my people. And we had our opinions and our own gods we served uh we were atheists whatever it is whatever it is today that you have but see Ruth made a commitment to turn from all of that to go with Naomi to the promised land and we have to make that same choice.",
+   "start_seconds": 2927,
+   "end_seconds": 3097,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2927s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-ruths-vow",
+   "paragraphs": [
+    {
+     "start_seconds": 2927,
+     "text": "All of this stuff. Naomi convinced Orpah to leave but Ruth would not leave. Naomi. We don’t know why. It doesn’t say why but this is the what she said this is her response Ruth’s response to Naomi she says stop telling me to leave you. Or to turn back from following after you wherever you will go wherever you go I will go wherever you lodge I will lodge wherever whoever your people are shall be my people I mean that’s a big statement can you imagine you come from you have a family and you’re. You’re you know cutting yourself off from your family to go join your mother-in-law’s family and you you know the there’s no father-in-law there’s no son to be married to that’s a big deal.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2927s"
+    },
+    {
+     "start_seconds": 2985,
+     "text": "Your God will be my God where you will die where you die I will die and there I will be buried so she’s also making another commitment saying even after you die Naomi. Well you’re I’m gonna have 30 40 more years when you’re dead and gone I’m still gonna stay with your people your God I am staying with you and your family that’s a big commitment. That’s a big commitment so she’s committing to leaving her old family she’s committing to leaving her old gods her old direction where you go I will go her old dwelling where you stay I will stay where you lodge I will lodge she’s rejecting all that.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2985s"
+    },
+    {
+     "start_seconds": 3040,
+     "text": "And this is just like us today we have to make a choice as Christians are we going to leave the kingdom of darkness our old life our old ways. The old way of living the old dwelling oh I used to dwell and associate with all kinds of sinners and do bad kinds of all kinds of I used to be you know associate with all this identify. I used to hang around spend time with my people. And we had our opinions and our own gods we served uh we were atheists whatever it is whatever it is today that you have but see Ruth made a commitment to turn from all of that to go with Naomi to the promised land and we have to make that same choice.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3040s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Ruth 1:16-17",
+     "translation": "NKJV",
+     "text_nkjv": "But Ruth said: “Entreat me not to leave you, Or to turn back from following after you; For wherever you go, I will go; And wherever you lodge, I will lodge; Your people shall be my people, And your God, my God. Where you die, I will die, And there will I be buried. The LORD do so to me, and more also, If anything but death parts you and me.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ruth+1%3A16-17&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2927s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:chosen",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "What does Peter say we became?",
+   "short_answer": "A chosen generation—once not a people, now the people of God.",
+   "text": "And it’s not just a temporary thing she says where you die I will die and that’s the same with us it’s not just a temporary thing become a Christian it’s a lifelong thing you’re committed to Jesus Christ you’re committed to him and his word. It says in first Peter 2:9 you are a chosen generation a royal priesthood a holy nation his own special people that you may proclaim the praises of him who called you out of darkness out of Moab. And you know I want to bring this up why was Ruth so compelled to go with Naomi. I mean I’m gonna I’m gonna make some assumptions that may not be true but she saw something in Naomi she saw something in her and the father a limilex she saw something in her husband that died and she wanted that her family her that people she looked at and she rejected and said no I don’t want that life I want what they have I want to get with it and that’s why it’s important to let your light shine he young people you should be having a sheet in your hands you should be filling it out this is God’s word knowing God is so important for us and for people today.\n\nInto his marvelous light who once were not a people but are now the people of God who had not obtained mercy but now have obtained mercy so it’s saying here we weren’t once we’re not a people so Ruth was not an Israelite she was not part of the promised land but now she’s part of the people of God. Ruth chapter 2 verse 1. There was a relative of Naomi named Boaz a great wealthy man. And Ruth said let me go to the field and glean heads of grain after him and whose sight I might find favor and this is a big question today for us Christians. We accept Jesus Christ we believe in his death on the cross but now we’re in his kingdom are we seeking to find favor with Jesus Christ.",
+   "start_seconds": 3097,
+   "end_seconds": 3247,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3097s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-chosen",
+   "paragraphs": [
+    {
+     "start_seconds": 3097,
+     "text": "And it’s not just a temporary thing she says where you die I will die and that’s the same with us it’s not just a temporary thing become a Christian it’s a lifelong thing you’re committed to Jesus Christ you’re committed to him and his word. It says in first Peter 2:9 you are a chosen generation a royal priesthood a holy nation his own special people that you may proclaim the praises of him who called you out of darkness out of Moab. And you know I want to bring this up why was Ruth so compelled to go with Naomi. I mean I’m gonna I’m gonna make some assumptions that may not be true but she saw something in Naomi she saw something in her and the father a limilex she saw something in her husband that died and she wanted that her family her that people she looked at and she rejected and said no I don’t want that life I want what they have I want to get with it and that’s why it’s important to let your light shine he young people you should be having a sheet in your hands you should be filling it out this is God’s word knowing God is so important for us and for people today.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3097s"
+    },
+    {
+     "start_seconds": 3185,
+     "text": "Into his marvelous light who once were not a people but are now the people of God who had not obtained mercy but now have obtained mercy so it’s saying here we weren’t once we’re not a people so Ruth was not an Israelite she was not part of the promised land but now she’s part of the people of God. Ruth chapter 2 verse 1. There was a relative of Naomi named Boaz a great wealthy man. And Ruth said let me go to the field and glean heads of grain after him and whose sight I might find favor and this is a big question today for us Christians. We accept Jesus Christ we believe in his death on the cross but now we’re in his kingdom are we seeking to find favor with Jesus Christ.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3185s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "1 Peter 2:9-10",
+     "translation": "NKJV",
+     "text_nkjv": "But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light; who once were not a people but are now the people of God, who had not obtained mercy but now have obtained mercy.",
+     "source_url": "https://www.biblegateway.com/passage/?search=1+Peter+2%3A9-10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3097s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:favor",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "How do we find favor?",
+   "short_answer": "Ruth went to glean in Boaz’s field; keep His commands and bind mercy and truth on your heart.",
+   "text": "She said I’m going to go to his field and I’m going to go glean I’m going to go learn and I’m going to go do. What needs I’m going to get close to this guy Boaz this close relative so you see here the the steps being taken first she’s leaving Moab okay we leave the kingdom of darkness now she’s next to his field right. And so you see the steps here you’re getting closer and closer and closer and that is what we should be doing as Christians are you taking the steps to get closer and closer to Jesus Christ.\n\nHow do we find favor Proverbs chapter 3 verse 3 my son do not forget my law let your heart keep my commands let not mercy and truth forsake you bind them around your neck write them on the tablet of your heart and so find favor and high esteem in the sight of God and man so how do we find favor it says right here so find favor and high esteem in the sight of God how do we do that as we have heard many times and this is just another confirmation keep my commands there it is again my goodness Jesus said it in red letters he said it in Proverbs he said it all over the scriptures it’s all over keep my commands not only that let not mercy and truth forsake you you can’t just give out truth you got to have mercy you can’t just give out mercy you got to have what truth.\n\nYou can’t just be giving out mercy and and giving everybody a break you have to balance it with God’s truth. And you got to balance God’s truth with God’s mercy. And we write it install it inscribe it in our heart it says in the new covenant that he will do that it’s not going to happen uh just out of thin air you actually have to read and listen to God’s word so he has something to write on your heart right there has to be you can’t just grab out of the thinner I mean he can but not in America not when we have such accessibility to his word it’s not fair that we don’t do our part you know if you’re a blind deaf and dumb can’t read can’t write person in another country sure God can make some things happen.",
+   "start_seconds": 3247,
+   "end_seconds": 3421,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3247s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-favor",
+   "paragraphs": [
+    {
+     "start_seconds": 3247,
+     "text": "She said I’m going to go to his field and I’m going to go glean I’m going to go learn and I’m going to go do. What needs I’m going to get close to this guy Boaz this close relative so you see here the the steps being taken first she’s leaving Moab okay we leave the kingdom of darkness now she’s next to his field right. And so you see the steps here you’re getting closer and closer and closer and that is what we should be doing as Christians are you taking the steps to get closer and closer to Jesus Christ.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3247s"
+    },
+    {
+     "start_seconds": 3294,
+     "text": "How do we find favor Proverbs chapter 3 verse 3 my son do not forget my law let your heart keep my commands let not mercy and truth forsake you bind them around your neck write them on the tablet of your heart and so find favor and high esteem in the sight of God and man so how do we find favor it says right here so find favor and high esteem in the sight of God how do we do that as we have heard many times and this is just another confirmation keep my commands there it is again my goodness Jesus said it in red letters he said it in Proverbs he said it all over the scriptures it’s all over keep my commands not only that let not mercy and truth forsake you you can’t just give out truth you got to have mercy you can’t just give out mercy you got to have what truth.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3294s"
+    },
+    {
+     "start_seconds": 3354,
+     "text": "You can’t just be giving out mercy and and giving everybody a break you have to balance it with God’s truth. And you got to balance God’s truth with God’s mercy. And we write it install it inscribe it in our heart it says in the new covenant that he will do that it’s not going to happen uh just out of thin air you actually have to read and listen to God’s word so he has something to write on your heart right there has to be you can’t just grab out of the thinner I mean he can but not in America not when we have such accessibility to his word it’s not fair that we don’t do our part you know if you’re a blind deaf and dumb can’t read can’t write person in another country sure God can make some things happen.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3354s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Proverbs 3:1-4",
+     "translation": "NKJV",
+     "text_nkjv": "My son, do not forget my law, But let your heart keep my commands; For length of days and long life And peace they will add to you. Let not mercy and truth forsake you; Bind them around your neck, Write them on the tablet of your heart, And so find favor and high esteem In the sight of God and man.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Proverbs+3%3A1-4&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3294s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:priority",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "Is Jesus your top priority?",
+   "short_answer": "It is our job to put His word in us; Ruth made Boaz her priority and served in the field.",
+   "text": "But for us. Have we got ears we’ve got eyes we’ve got a place to buy a Bible it is our responsibility to go get that book and put it in us so that he can take those words and inscribe it in our heart. So Ruth continues she knows the story she knows why she’s there Naomi’s talking to her she’s Naomi’s like hey there’s a close relative you know you could get married to this guy and Ruth is on board she’s like oh man okay I know the plan give me the feel I’ll work I want to do anything and she’s out there and she’s working she is doing whatever it takes. To get to the sky do we approach Christ that way. We don’t approach Christ that way he is our last priority.\n\nMaybe not our last priority but for a lot of people he’s the last priority but Ruth here is making him Boaz her top priority she’s gone and she’s working the field you know you come to church you know help out in the church there’s a lot to do. It has been and Boaz says to her it has been fully reported to me all that you have done for your mother-in-law how you left your father and mother so she had a father and mother in the land of your birth and have come to a people whom you did not know before. And that’s exactly what happens in the church you may have had an old life a worldly life whatever it was and you may have had the old friends that wanted you to do the old dumb bad things right.\n\nAnd you don’t know any people the God you walk in and the people who got it like this. And some are like hey how you doing. And you have got to come to God’s field God’s house and submit to yourself. To people that you may not know but she did it. And Boaz says this very important thing he says the Lord repay your say that word with me you’re what work. And a full reward be given you by the Lord God. So Ruth did what work. And Boaz is recognizing her rejection of her people her country as a good work and I submit to you today when you reject the kingdom of darkness and the world that is a good work.",
+   "start_seconds": 3421,
+   "end_seconds": 3594,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3421s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-priority",
+   "paragraphs": [
+    {
+     "start_seconds": 3421,
+     "text": "But for us. Have we got ears we’ve got eyes we’ve got a place to buy a Bible it is our responsibility to go get that book and put it in us so that he can take those words and inscribe it in our heart. So Ruth continues she knows the story she knows why she’s there Naomi’s talking to her she’s Naomi’s like hey there’s a close relative you know you could get married to this guy and Ruth is on board she’s like oh man okay I know the plan give me the feel I’ll work I want to do anything and she’s out there and she’s working she is doing whatever it takes. To get to the sky do we approach Christ that way. We don’t approach Christ that way he is our last priority.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3421s"
+    },
+    {
+     "start_seconds": 3480,
+     "text": "Maybe not our last priority but for a lot of people he’s the last priority but Ruth here is making him Boaz her top priority she’s gone and she’s working the field you know you come to church you know help out in the church there’s a lot to do. It has been and Boaz says to her it has been fully reported to me all that you have done for your mother-in-law how you left your father and mother so she had a father and mother in the land of your birth and have come to a people whom you did not know before. And that’s exactly what happens in the church you may have had an old life a worldly life whatever it was and you may have had the old friends that wanted you to do the old dumb bad things right.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3480s"
+    },
+    {
+     "start_seconds": 3533,
+     "text": "And you don’t know any people the God you walk in and the people who got it like this. And some are like hey how you doing. And you have got to come to God’s field God’s house and submit to yourself. To people that you may not know but she did it. And Boaz says this very important thing he says the Lord repay your say that word with me you’re what work. And a full reward be given you by the Lord God. So Ruth did what work. And Boaz is recognizing her rejection of her people her country as a good work and I submit to you today when you reject the kingdom of darkness and the world that is a good work.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3533s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Ruth 2:11-12",
+     "translation": "NKJV",
+     "text_nkjv": "And Boaz answered and said to her, “It has been fully reported to me, all that you have done for your mother-in-law since the death of your husband, and how you have left your father and your mother and the land of your birth, and have come to a people whom you did not know before. The LORD repay your work, and a full reward be given you by the LORD God of Israel, under whose wings you have come for refuge.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ruth+2%3A11-12&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3480s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:good-works",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "What are we created for?",
+   "short_answer": "Good works—let your light shine.",
+   "text": "Ephesians chapter 2 verse 10 we are his workmanship the work doesn’t stop. Created in Christ Jesus for good works not only do we reject the kingdom of darkness but we’re also working on the next thing which is to live right and pleasing to God to keep his commands like it says which God prepared beforehand that we should walk in them Matthew chapter 5 verse 16 let your light so shine before men that they may see your good works that’s in red letters Jesus said that with his own mouth let your light shine that people may see your good work so doing good is a good thing. And God says we need to do it he said it was with his own lips it’s very important we are his workmanship created in Christ Jesus for good works.\n\nChrist it wants us to transform to people that are doing what good works. Whether you’re raising a family and a mother and father whatever you are whether you’re you know in the church and you’re going out and helping people whatever you’re doing God has created us for good works and so Ruth responds and says I’m not worthy or I’m not like one of your maidservants she says to Boaz let me find favor in your sight my Lord for you have comforted me and have spoken kindly to your maidservant though I am not like one of your made servants first some of us think that we need to be someone special. Even with our history with our history of darkness and sin and the bad even with all of that Jesus Christ will stop he will comfort you he will speak kindly to you if you go to the house seek him find him and humble yourself.",
+   "start_seconds": 3594,
+   "end_seconds": 3718,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3594s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-good-works",
+   "paragraphs": [
+    {
+     "start_seconds": 3594,
+     "text": "Ephesians chapter 2 verse 10 we are his workmanship the work doesn’t stop. Created in Christ Jesus for good works not only do we reject the kingdom of darkness but we’re also working on the next thing which is to live right and pleasing to God to keep his commands like it says which God prepared beforehand that we should walk in them Matthew chapter 5 verse 16 let your light so shine before men that they may see your good works that’s in red letters Jesus said that with his own mouth let your light shine that people may see your good work so doing good is a good thing. And God says we need to do it he said it was with his own lips it’s very important we are his workmanship created in Christ Jesus for good works.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3594s"
+    },
+    {
+     "start_seconds": 3648,
+     "text": "Christ it wants us to transform to people that are doing what good works. Whether you’re raising a family and a mother and father whatever you are whether you’re you know in the church and you’re going out and helping people whatever you’re doing God has created us for good works and so Ruth responds and says I’m not worthy or I’m not like one of your maidservants she says to Boaz let me find favor in your sight my Lord for you have comforted me and have spoken kindly to your maidservant though I am not like one of your made servants first some of us think that we need to be someone special. Even with our history with our history of darkness and sin and the bad even with all of that Jesus Christ will stop he will comfort you he will speak kindly to you if you go to the house seek him find him and humble yourself.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3648s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Ephesians 2:10",
+     "translation": "NKJV",
+     "text_nkjv": "For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand that we should walk in them.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ephesians+2%3A10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3594s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Matthew 5:16",
+     "translation": "NKJV",
+     "text_nkjv": "Let your light so shine before men, that they may see your good works and glorify your Father in heaven.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+5%3A16&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3594s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:comfort",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "How can Jesus comfort us?",
+   "short_answer": "Put yourself in the right place and commune with Him—don’t just know He is in your midst; hear what He says.",
+   "text": "And this is very important. Jesus Christ Boaz here comforted Ruth Jesus Christ can comfort you Jesus Christ can speak to you if you will have a hearing ear this morning there is plenty of opportunity to hear God speaking to you but you have to do your part Ruth put herself in the right place and she talked to Boaz. She communed with him she went and sat and ate with him. And you’ve got to do that when you come in you have a choice am I just going to sit here and not participate or am I going to start participating with my words asking God.\n\nJesus Christ to speak to me see we’ve got to do our part. Now the scriptures say that where two or three are gathered there he is in our midst that’s great. You’re one step closer. To knowing God you know I’d rather him be in my midst than not be in my midst right but you got to move on to the next step you can’t just look at the guy uh he’s in my midst what’s next. We want to hear what he has to what say. We want a big hug and kiss. So you got to do something you got to say something. Just like a relationship. You know nobody wants to get married to a guy and they walk in. They never speak.\n\nAnd I you know don’t want to get to a married woman hey how you doing huh. Oh you say kind things and of course mean things too but I don’t understand God why you do this. We’ve got to participate. Like it was said earlier draw nigh unto God and he will draw nigh unto you speak to God and let him speak back to you. So she stayed close by the young woman of Boaz to glean until the end of barley harvest and wheat harvest so she was faithful she was diligent she kept going to Boaz’s field and I know I didn’t put it in here but Boaz actually said to her don’t go anywhere else. You stay right here.",
+   "start_seconds": 3718,
+   "end_seconds": 3879,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3718s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-comfort",
+   "paragraphs": [
+    {
+     "start_seconds": 3718,
+     "text": "And this is very important. Jesus Christ Boaz here comforted Ruth Jesus Christ can comfort you Jesus Christ can speak to you if you will have a hearing ear this morning there is plenty of opportunity to hear God speaking to you but you have to do your part Ruth put herself in the right place and she talked to Boaz. She communed with him she went and sat and ate with him. And you’ve got to do that when you come in you have a choice am I just going to sit here and not participate or am I going to start participating with my words asking God.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3718s"
+    },
+    {
+     "start_seconds": 3772,
+     "text": "Jesus Christ to speak to me see we’ve got to do our part. Now the scriptures say that where two or three are gathered there he is in our midst that’s great. You’re one step closer. To knowing God you know I’d rather him be in my midst than not be in my midst right but you got to move on to the next step you can’t just look at the guy uh he’s in my midst what’s next. We want to hear what he has to what say. We want a big hug and kiss. So you got to do something you got to say something. Just like a relationship. You know nobody wants to get married to a guy and they walk in. They never speak.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3772s"
+    },
+    {
+     "start_seconds": 3828,
+     "text": "And I you know don’t want to get to a married woman hey how you doing huh. Oh you say kind things and of course mean things too but I don’t understand God why you do this. We’ve got to participate. Like it was said earlier draw nigh unto God and he will draw nigh unto you speak to God and let him speak back to you. So she stayed close by the young woman of Boaz to glean until the end of barley harvest and wheat harvest so she was faithful she was diligent she kept going to Boaz’s field and I know I didn’t put it in here but Boaz actually said to her don’t go anywhere else. You stay right here.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3828s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Matthew 18:20",
+     "translation": "NKJV",
+     "text_nkjv": "For where two or three are gathered together in My name, I am there in the midst of them.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=Matthew+18%3A20&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3772s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:under-wing",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "What did Ruth ask Boaz?",
+   "short_answer": "“Take your maidservant under your wing”—and she became great-grandmother of King David.",
+   "text": "And Jesus is saying the same thing to us don’t go anywhere else I’m working on you right here in God’s house I’m working on you. And God is looking for some faithfulness he’s looking for some diligence he’s looking for a heart that will is consistent. So as the story goes. Now I want to point out here in Ruth chapter 3 verse 9 it says that she said I am Ruth your maidservant take your maidservant under your wing for you are a close relative now normally in cultures around the world or even here you know women don’t just go up to guys and say hey marry me. But here Ruth is taking the initiative and that’s an example for us we need to come to Jesus Christ take the initiative and say Jesus I want you Jesus I want to know you I want you to be my husband God please.\n\nYou’re my close relative you made me you know everything about me. And his response was blessed are you and that you did not go after young men whether poor or rich you know Jesus is glad when you come to him and don’t go to some young man who’s only 80 years old oh I gotta follow I gotta follow the guy the preacher. And old Jesus I was thinking about God you know he’s old. He’s the old man. But she skipped right over the young men and she went straight to Boaz and that’s the same way with Jesus Christ we skipped right over all the speakers of today and there’s a lot of speakers of today if you go online there’s tons of speakers but you can skip right over them and get to the king of kings the Lord of lords the master.\n\nAnd so what Ruth did here later on she had a son with Boaz they were married. And her son’s name was Obed. Obed was the father of Jesse and Jesse was the father of David as many of us know so she was a great grandma of king David can you believe that all because she was willing to leave her family. Come to God’s kingdom. Pursue a man named Boaz and and God did a great work through her that’s awesome. Well something’s not working. And with her example we’re reminded of the steps to knowing Christ she went from a foreigner to marrying Boaz who was a great wealthy man and you can go from a foreigner of christianity to coming and being a bride of Christ and that is a beautiful beautiful thing.",
+   "start_seconds": 3879,
+   "end_seconds": 4094,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3879s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-under-wing",
+   "paragraphs": [
+    {
+     "start_seconds": 3879,
+     "text": "And Jesus is saying the same thing to us don’t go anywhere else I’m working on you right here in God’s house I’m working on you. And God is looking for some faithfulness he’s looking for some diligence he’s looking for a heart that will is consistent. So as the story goes. Now I want to point out here in Ruth chapter 3 verse 9 it says that she said I am Ruth your maidservant take your maidservant under your wing for you are a close relative now normally in cultures around the world or even here you know women don’t just go up to guys and say hey marry me. But here Ruth is taking the initiative and that’s an example for us we need to come to Jesus Christ take the initiative and say Jesus I want you Jesus I want to know you I want you to be my husband God please.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3879s"
+    },
+    {
+     "start_seconds": 3946,
+     "text": "You’re my close relative you made me you know everything about me. And his response was blessed are you and that you did not go after young men whether poor or rich you know Jesus is glad when you come to him and don’t go to some young man who’s only 80 years old oh I gotta follow I gotta follow the guy the preacher. And old Jesus I was thinking about God you know he’s old. He’s the old man. But she skipped right over the young men and she went straight to Boaz and that’s the same way with Jesus Christ we skipped right over all the speakers of today and there’s a lot of speakers of today if you go online there’s tons of speakers but you can skip right over them and get to the king of kings the Lord of lords the master.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3946s"
+    },
+    {
+     "start_seconds": 4013,
+     "text": "And so what Ruth did here later on she had a son with Boaz they were married. And her son’s name was Obed. Obed was the father of Jesse and Jesse was the father of David as many of us know so she was a great grandma of king David can you believe that all because she was willing to leave her family. Come to God’s kingdom. Pursue a man named Boaz and and God did a great work through her that’s awesome. Well something’s not working. And with her example we’re reminded of the steps to knowing Christ she went from a foreigner to marrying Boaz who was a great wealthy man and you can go from a foreigner of christianity to coming and being a bride of Christ and that is a beautiful beautiful thing.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4013s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Ruth 3:9-10",
+     "translation": "NKJV",
+     "text_nkjv": "And he said, “Who are you?” So she answered, “I am Ruth, your maidservant. Take your maidservant under your wing, for you are a close relative.” Then he said, “Blessed are you of the LORD, my daughter! For you have shown more kindness at the end than at the beginning, in that you did not go after young men, whether poor or rich.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ruth+3%3A9-10&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3879s",
+     "quoted_without_naming_reference": true
+    },
+    {
+     "ref": "Ruth 4:17",
+     "translation": "NKJV",
+     "text_nkjv": "Also the neighbor women gave him a name, saying, “There is a son born to Naomi.” And they called his name Obed. He is the father of Jesse, the father of David.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Ruth+4%3A17&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4013s",
+     "quoted_without_naming_reference": false
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:ittai",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "Who was Ittai?",
+   "short_answer": "A Gittite exile who vowed to be with King David in death or life; David treated him like family.",
+   "text": "Second Samuel 15:17 another person. In a different way who knew. The king the king went out and he was being driven out by Absalom this is king David he went out and the people after him and he stopped at the outskirts and all his servants passed before him the Gittites included and they were 600 men who followed him from Gath and Gath is in uh part of the philistine camp okay so David had people from the philistines that came from their land and fought and lived in Israel do you know that they rejected their their philistine Philistia and they came and they lived in Israel. And. We’re going to see right and hear what it says about them.\n\nAnd so we have Ittai he is a Gittite and he is from Gath he is from Philistia he’s from another country. And. There David says to him why are you also going with us return and remain with Absalom remain in the land just remain here you don’t have to come with us you have some land you’re a farmer now you’re comfortable don’t go anywhere this is what the king is saying to Ittai and so his response. Was. I’m sorry uh David he he labels him hey you you’re a foreigner you’re an exile from your own country your own place you came only yesterday you haven’t been here a long time.\n\nShould I make you wander up and down with us today since I go not you know I don’t know where I’m going return and take your brethren back mercy and truth be upon you so this man Ittai was a foreigner just like Ruth was a foreigner this man Ittai was an exile he was kicked out of his country couldn’t come back right he’s fighting for king David yeah you’re going to get kicked out but it’s I saw something in David that he did not see in his countrymen.\n\nSo he defected and came with David you came only yesterday maybe you’re a new Christian doesn’t matter Ittai’s response it’s I answered the king and he said as the Lord lives and as the Lord my Lord the king lives surely in whatever place my Lord shall be whether in death or life even there your servant will be and so Ittai even though he was from another country even though he was an exile even though he was a farmer even though he had just come recently he was devoted and committed to the king and that is the same way we need to be with Jesus Christ Jesus Christ is our king are we devoted to serving him are we willing to follow him wherever he is going even if he’s going into the desert even if he has even if he’s fleeing for a time are we willing to follow Jesus Christ.\n\nForeign. Is willing to change his where he’s dwelling where he’s living and and stay wherever. The king is in death or life how many you know I’d rather be with the king after when I die right this statement is an excellent statement I’m gonna die with Christ I’m not going to die with the kingdom of darkness I’m not going to die with some king I don’t even know the Absalom I don’t know this guy you know stay with him why should I stay with him he’s a jerk I want David. And that’s the same way it was with Jesus Christ you know don’t substitute Jesus with anything. Serve him follow him. And later when they fought against Absalom David sent out a third of his army under Ittai the guitar.",
+   "start_seconds": 4094,
+   "end_seconds": 4365,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4094s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-ittai",
+   "paragraphs": [
+    {
+     "start_seconds": 4094,
+     "text": "Second Samuel 15:17 another person. In a different way who knew. The king the king went out and he was being driven out by Absalom this is king David he went out and the people after him and he stopped at the outskirts and all his servants passed before him the Gittites included and they were 600 men who followed him from Gath and Gath is in uh part of the philistine camp okay so David had people from the philistines that came from their land and fought and lived in Israel do you know that they rejected their their philistine Philistia and they came and they lived in Israel. And. We’re going to see right and hear what it says about them.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4094s"
+    },
+    {
+     "start_seconds": 4149,
+     "text": "And so we have Ittai he is a Gittite and he is from Gath he is from Philistia he’s from another country. And. There David says to him why are you also going with us return and remain with Absalom remain in the land just remain here you don’t have to come with us you have some land you’re a farmer now you’re comfortable don’t go anywhere this is what the king is saying to Ittai and so his response. Was. I’m sorry uh David he he labels him hey you you’re a foreigner you’re an exile from your own country your own place you came only yesterday you haven’t been here a long time.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4149s"
+    },
+    {
+     "start_seconds": 4205,
+     "text": "Should I make you wander up and down with us today since I go not you know I don’t know where I’m going return and take your brethren back mercy and truth be upon you so this man Ittai was a foreigner just like Ruth was a foreigner this man Ittai was an exile he was kicked out of his country couldn’t come back right he’s fighting for king David yeah you’re going to get kicked out but it’s I saw something in David that he did not see in his countrymen.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4205s"
+    },
+    {
+     "start_seconds": 4237,
+     "text": "So he defected and came with David you came only yesterday maybe you’re a new Christian doesn’t matter Ittai’s response it’s I answered the king and he said as the Lord lives and as the Lord my Lord the king lives surely in whatever place my Lord shall be whether in death or life even there your servant will be and so Ittai even though he was from another country even though he was an exile even though he was a farmer even though he had just come recently he was devoted and committed to the king and that is the same way we need to be with Jesus Christ Jesus Christ is our king are we devoted to serving him are we willing to follow him wherever he is going even if he’s going into the desert even if he has even if he’s fleeing for a time are we willing to follow Jesus Christ.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4237s"
+    },
+    {
+     "start_seconds": 4307,
+     "text": "Foreign. Is willing to change his where he’s dwelling where he’s living and and stay wherever. The king is in death or life how many you know I’d rather be with the king after when I die right this statement is an excellent statement I’m gonna die with Christ I’m not going to die with the kingdom of darkness I’m not going to die with some king I don’t even know the Absalom I don’t know this guy you know stay with him why should I stay with him he’s a jerk I want David. And that’s the same way it was with Jesus Christ you know don’t substitute Jesus with anything. Serve him follow him. And later when they fought against Absalom David sent out a third of his army under Ittai the guitar.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4307s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "2 Samuel 15:17-21",
+     "translation": "NKJV",
+     "text_nkjv": "And the king went out with all the people after him, and stopped at the outskirts. Then all his servants passed before him; and all the Cherethites, all the Pelethites, and all the Gittites, six hundred men who had followed him from Gath, passed before the king. Then the king said to Ittai the Gittite, “Why are you also going with us? Return and remain with the king. For you are a foreigner and also an exile from your own place. In fact, you came only yesterday. Should I make you wander up and down with us today, since I go I know not where? Return, and take your brethren back. Mercy and truth be with you.” But Ittai answered the king and said, “As the LORD lives, and as my lord the king lives, surely in whatever place my lord the king shall be, whether in death or life, even there also your servant will be.”",
+     "source_url": "https://www.biblegateway.com/passage/?search=2+Samuel+15%3A17-21&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4094s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:moses",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "How did Moses choose?",
+   "short_answer": "He refused to be called Pharaoh’s son and esteemed the reproach of Christ above Egypt’s treasures.",
+   "text": "And the two others were Abishai and Joab you know Abishai and Joab they were his cousins. They were his family so David treated Ittai like family. I mean talk about loyalty talk about love. Amen and we need to have the kind of heart that it’s I had for. David we need to have that heart for Jesus Christ the same as with Ruth in closing. We’re going to end with uh it says in Hebrews talks about the all the the faith that the people had in the Old Testament and one of them was Moses when he became of age he refused to be called the son of Pharaoh’s daughter he did again like Ruth and like Ittai he rejected that.\n\nHe rejected the world Moses rejected being called a son of Pharaoh he chose rather to suffer affliction when he became of age he wanted to be with his people he knew who he was and he said I’m going to be with them he suffered affliction with the people of God rather to enjoy the passing pleasures of sin and today in our country we have this mentality that we wanted to enjoy the passing pleasures of sin with those in America who think they’re okay who think that they’re safe in their liberal lifestyle whatever it is a lifestyle that basically rejects God’s word right now we are rejecting God’s word in our country. And we have a choice are we going to stick with the people of God and Moses here he stuck with his people.\n\nAnd it says in Hebrews chapter 11:26 he esteemed the reproach of Christ as greater riches than the treasures in Egypt he looked to the reward see folks are thinking that there’s a reward to get from here uh in this life people are looking for the reward in this life but Christ Jesus has a much bigger reward for his people and that is what we need to seek after. He didn’t fear the wrath of the king but he endured as seeing him who is invisible. All of these people Ruth Ittai and Moses they. It says for whom I have suffered the loss of all things and count them as rubbish. Their old life they counted as rubbish that I may gain Christ and be found in him and that is the attitude that we need to bring to Jesus Christ if you want a relationship with him we’ve got to follow these examples that are given to us in the Old Testament that are given to us throughout the scriptures.",
+   "start_seconds": 4365,
+   "end_seconds": 4562,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4365s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-moses",
+   "paragraphs": [
+    {
+     "start_seconds": 4365,
+     "text": "And the two others were Abishai and Joab you know Abishai and Joab they were his cousins. They were his family so David treated Ittai like family. I mean talk about loyalty talk about love. Amen and we need to have the kind of heart that it’s I had for. David we need to have that heart for Jesus Christ the same as with Ruth in closing. We’re going to end with uh it says in Hebrews talks about the all the the faith that the people had in the Old Testament and one of them was Moses when he became of age he refused to be called the son of Pharaoh’s daughter he did again like Ruth and like Ittai he rejected that.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4365s"
+    },
+    {
+     "start_seconds": 4423,
+     "text": "He rejected the world Moses rejected being called a son of Pharaoh he chose rather to suffer affliction when he became of age he wanted to be with his people he knew who he was and he said I’m going to be with them he suffered affliction with the people of God rather to enjoy the passing pleasures of sin and today in our country we have this mentality that we wanted to enjoy the passing pleasures of sin with those in America who think they’re okay who think that they’re safe in their liberal lifestyle whatever it is a lifestyle that basically rejects God’s word right now we are rejecting God’s word in our country. And we have a choice are we going to stick with the people of God and Moses here he stuck with his people.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4423s"
+    },
+    {
+     "start_seconds": 4489,
+     "text": "And it says in Hebrews chapter 11:26 he esteemed the reproach of Christ as greater riches than the treasures in Egypt he looked to the reward see folks are thinking that there’s a reward to get from here uh in this life people are looking for the reward in this life but Christ Jesus has a much bigger reward for his people and that is what we need to seek after. He didn’t fear the wrath of the king but he endured as seeing him who is invisible. All of these people Ruth Ittai and Moses they. It says for whom I have suffered the loss of all things and count them as rubbish. Their old life they counted as rubbish that I may gain Christ and be found in him and that is the attitude that we need to bring to Jesus Christ if you want a relationship with him we’ve got to follow these examples that are given to us in the Old Testament that are given to us throughout the scriptures.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4489s"
+    }
+   ],
+   "scriptures": [
+    {
+     "ref": "Hebrews 11:24-27",
+     "translation": "NKJV",
+     "text_nkjv": "By faith Moses, when he became of age, refused to be called the son of Pharaoh’s daughter, choosing rather to suffer affliction with the people of God than to enjoy the passing pleasures of sin, esteeming the reproach of Christ greater riches than the treasures in Egypt; for he looked to the reward. By faith he forsook Egypt, not fearing the wrath of the king; for he endured as seeing Him who is invisible.",
+     "source_url": "https://www.biblegateway.com/passage/?search=Hebrews+11%3A24-27&version=NKJV",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4365s",
+     "quoted_without_naming_reference": true
+    }
+   ],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:pursue",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "What is God asking us?",
+   "short_answer": "Will we leave darkness and pursue Christ like Ruth, Ittai and Moses?",
+   "text": "We need to have Jesus Christ as such a higher priority in our lives. And so God is asking us today as my guitarist comes miss Woods would you please join me are we willing to leave the kingdom of darkness and the old life of sin. Like Ruth did like Ittai did like Moses did you know Moses his life was saved by Pharaoh’s daughter but still even after being with them he wanted to reject that because he knew that they were doing things that were wrong. Are you seeking the favor of your God or of man. Ruth reminds us to seek the favor of God.\n\nAre we pursuing Christ like like Ruth pursued Boaz like Ittai pursued the king David. He would not substitute. King David for anyone else like Moses pursued God. Will we be faithful to the king like Ittai was faithful and these are all questions God is asking you these examples are set forth because we have to seek the favor of Christ by following and keeping his commands we need to pursue Christ like Ruth pursue Boaz and we need to be faithful to him like it’s I was faithful to the king let’s bear our heads this morning. This morning if you hear God’s word if you understand God’s word this morning if you want to respond and say yes I want a closer relationship with Jesus Christ just raise your hand right where you’re at and we’re going to pray we’re going to ask God and we’re going to say Lord we commit to you Lord we commit to having a closer relationship with you.",
+   "start_seconds": 4562,
+   "end_seconds": 4699,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4562s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-pursue",
+   "paragraphs": [
+    {
+     "start_seconds": 4562,
+     "text": "We need to have Jesus Christ as such a higher priority in our lives. And so God is asking us today as my guitarist comes miss Woods would you please join me are we willing to leave the kingdom of darkness and the old life of sin. Like Ruth did like Ittai did like Moses did you know Moses his life was saved by Pharaoh’s daughter but still even after being with them he wanted to reject that because he knew that they were doing things that were wrong. Are you seeking the favor of your God or of man. Ruth reminds us to seek the favor of God.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4562s"
+    },
+    {
+     "start_seconds": 4618,
+     "text": "Are we pursuing Christ like like Ruth pursued Boaz like Ittai pursued the king David. He would not substitute. King David for anyone else like Moses pursued God. Will we be faithful to the king like Ittai was faithful and these are all questions God is asking you these examples are set forth because we have to seek the favor of Christ by following and keeping his commands we need to pursue Christ like Ruth pursue Boaz and we need to be faithful to him like it’s I was faithful to the king let’s bear our heads this morning. This morning if you hear God’s word if you understand God’s word this morning if you want to respond and say yes I want a closer relationship with Jesus Christ just raise your hand right where you’re at and we’re going to pray we’re going to ask God and we’re going to say Lord we commit to you Lord we commit to having a closer relationship with you.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4618s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:closing",
+   "type": "section",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "section_question": "How does the service close?",
+   "short_answer": "Prayer to know Him more and the song “Do You Know Him?”—turn your heart’s switch on and seek Him.",
+   "text": "We’re going to ask that he gives us the strength to follow his commands. And gives us the strength to follow him wholeheartedly. And we’re going to lift up our voices together in this room if you want a closer relationship with Jesus Christ let’s pray and let the barbara voices together Lord Jesus we come before you this morning God Lord God I want to know you more than I know you today Jesus Jesus Lord I want to understand more of your word than I understand today God I pray write your word on my heart on my mind Jesus Lord God I wanna love you God more than I do today Jesus Jesus I pray God I’m going to pursue you like Ruth pursued boys Jesus I I come this morning because I want to know you I want to hear your your voice Jesus we pray that you speak to us Lord we pray that you speak to us come for God Lord we know that we’ve messed up in life we know that we’ve done the wrong God we admit those things so the Lord we pray that you speak comfort to us and Lord speak also Lord kindly like you spoke to Ruth Jesus God we need you this morning Lord we invite you this morning Jesus we want to know you.\n\nWe’re going to sing the song this morning do you do you know him and would you stand with me we’re going to sing and we’re going to have us be a prayer this morning. Do you know him. Do you know him. His Christ’s real to you. Have you sought him. Sincerely till he’s found of you can you say. Of the Lord I’ve touched him he’s real and my soul loves him so.\n\nDo you know him have you touched him and found. Riches untold. And we’re going to change these words and going to be a prayer I want to know you God make yourself real to me. Lord I seek you to find you. Lord touch me let’s sing this unto him I want to know. I want to know. Make yourself real to me. I seek you. Sincerely.\n\nTo find. Find you. Can I say. Of the Lord. I’ve touched him he’s real and my soul loves him so. I want to know you to touch you and find riches untold. Yes. We’ve already had a prayer time before but I just want to give those a one more chance right now.\n\nTo. Turn the switch on. Right now we’re programmed not to pursue God but we need to turn the switch on. To come to him to worship him to do whatever posture we need to do to seek him in every whatever way we can we need to turn our heart switch on to seek Jesus Christ. And I invite you right now that ask God to do that in your heart and also make the steps. To turn the switch on right now that God would give you a desire for his word and for him to pursue him let’s just pray that and lift up our voices right now Jesus we call on you Lord God Lord we pray Lord Jesus that you would turn a switch on in our hearts God Lord that right now we may not have a desire for you but Lord we pray that you stir in our hearts Jesus Lord I desire for your word desire for your truth Jesus Lord you make yourself real to us God we call on you this morning Lord Jesus we need a new heart we need a new heart that is seeking you Jesus Lord we pray we ask Lord Jesus.\n\nForeign. Us. All for Jesus. All I am in heaven. And ever hope to be. Jesus.\n\nJesus. Oh for Jesus Jesus. All I am in heaven. And ever home to me. We trust those online that you have heard the message this morning and that is to seek Christ until you find him so that you may know him and have a relationship with Christ it may take having to leave the kingdom of darkness becoming closer and closer do not give up do not stop until you know Jesus Christ as your husband until you are the bride of Christ I encourage you this morning seek him seek after him with your whole heart God bless you thank you for joining us.",
+   "start_seconds": 4699,
+   "end_seconds": 5145,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4699s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#q-closing",
+   "paragraphs": [
+    {
+     "start_seconds": 4699,
+     "text": "We’re going to ask that he gives us the strength to follow his commands. And gives us the strength to follow him wholeheartedly. And we’re going to lift up our voices together in this room if you want a closer relationship with Jesus Christ let’s pray and let the barbara voices together Lord Jesus we come before you this morning God Lord God I want to know you more than I know you today Jesus Jesus Lord I want to understand more of your word than I understand today God I pray write your word on my heart on my mind Jesus Lord God I wanna love you God more than I do today Jesus Jesus I pray God I’m going to pursue you like Ruth pursued boys Jesus I I come this morning because I want to know you I want to hear your your voice Jesus we pray that you speak to us Lord we pray that you speak to us come for God Lord we know that we’ve messed up in life we know that we’ve done the wrong God we admit those things so the Lord we pray that you speak comfort to us and Lord speak also Lord kindly like you spoke to Ruth Jesus God we need you this morning Lord we invite you this morning Jesus we want to know you.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4699s"
+    },
+    {
+     "start_seconds": 4784,
+     "text": "We’re going to sing the song this morning do you do you know him and would you stand with me we’re going to sing and we’re going to have us be a prayer this morning. Do you know him. Do you know him. His Christ’s real to you. Have you sought him. Sincerely till he’s found of you can you say. Of the Lord I’ve touched him he’s real and my soul loves him so.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4784s"
+    },
+    {
+     "start_seconds": 4836,
+     "text": "Do you know him have you touched him and found. Riches untold. And we’re going to change these words and going to be a prayer I want to know you God make yourself real to me. Lord I seek you to find you. Lord touch me let’s sing this unto him I want to know. I want to know. Make yourself real to me. I seek you. Sincerely.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4836s"
+    },
+    {
+     "start_seconds": 4889,
+     "text": "To find. Find you. Can I say. Of the Lord. I’ve touched him he’s real and my soul loves him so. I want to know you to touch you and find riches untold. Yes. We’ve already had a prayer time before but I just want to give those a one more chance right now.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4889s"
+    },
+    {
+     "start_seconds": 4945,
+     "text": "To. Turn the switch on. Right now we’re programmed not to pursue God but we need to turn the switch on. To come to him to worship him to do whatever posture we need to do to seek him in every whatever way we can we need to turn our heart switch on to seek Jesus Christ. And I invite you right now that ask God to do that in your heart and also make the steps. To turn the switch on right now that God would give you a desire for his word and for him to pursue him let’s just pray that and lift up our voices right now Jesus we call on you Lord God Lord we pray Lord Jesus that you would turn a switch on in our hearts God Lord that right now we may not have a desire for you but Lord we pray that you stir in our hearts Jesus Lord I desire for your word desire for your truth Jesus Lord you make yourself real to us God we call on you this morning Lord Jesus we need a new heart we need a new heart that is seeking you Jesus Lord we pray we ask Lord Jesus.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4945s"
+    },
+    {
+     "start_seconds": 5027,
+     "text": "Foreign. Us. All for Jesus. All I am in heaven. And ever hope to be. Jesus.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=5027s"
+    },
+    {
+     "start_seconds": 5084,
+     "text": "Jesus. Oh for Jesus Jesus. All I am in heaven. And ever home to me. We trust those online that you have heard the message this morning and that is to seek Christ until you find him so that you may know him and have a relationship with Christ it may take having to leave the kingdom of darkness becoming closer and closer do not give up do not stop until you know Jesus Christ as your husband until you are the bride of Christ I encourage you this morning seek him seek after him with your whole heart God bless you thank you for joining us.",
+     "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=5084s"
+    }
+   ],
+   "scriptures": [],
+   "related_clip_pages": []
+  }
+ ],
+ "faqs": [
+  {
+   "id": "from-foreign-to-friend-july-17-2022:distance",
+   "type": "faq",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "question": "How close will your God be?",
+   "answer": "Far away, nearby, or in your house—you decide.",
+   "start_seconds": 2692,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2692s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#faq-distance",
+   "scriptures": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:penalty",
+   "type": "faq",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "question": "What if you live distant from Jesus?",
+   "answer": "You will pay a penalty, he says.",
+   "start_seconds": 2747,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=2747s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#faq-penalty",
+   "scriptures": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:lifelong",
+   "type": "faq",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "question": "Is being a Christian temporary?",
+   "answer": "No; it is lifelong.",
+   "start_seconds": 3097,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3097s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#faq-lifelong",
+   "scriptures": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:balance",
+   "type": "faq",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "question": "Should mercy be balanced?",
+   "answer": "Yes, with God’s truth.",
+   "start_seconds": 3354,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3354s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#faq-balance",
+   "scriptures": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:bible",
+   "type": "faq",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "question": "Whose responsibility is learning the word?",
+   "answer": "Ours—get the book.",
+   "start_seconds": 3421,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3421s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#faq-bible",
+   "scriptures": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:strangers",
+   "type": "faq",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "question": "What if you don’t know anyone at church?",
+   "answer": "Come to God’s house and submit anyway.",
+   "start_seconds": 3533,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3533s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#faq-strangers",
+   "scriptures": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:old-man",
+   "type": "faq",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "question": "Who did Ruth not chase?",
+   "answer": "Young men, rich or poor.",
+   "start_seconds": 3946,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=3946s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#faq-old-man",
+   "scriptures": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:great-grandma",
+   "type": "faq",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "question": "Who descended from Ruth?",
+   "answer": "Obed, Jesse and King David.",
+   "start_seconds": 4013,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4013s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#faq-great-grandma",
+   "scriptures": []
+  },
+  {
+   "id": "from-foreign-to-friend-july-17-2022:reward",
+   "type": "faq",
+   "sermon_slug": "from-foreign-to-friend-july-17-2022",
+   "question": "Where is the real reward?",
+   "answer": "With Christ, not in this life.",
+   "start_seconds": 4489,
+   "video_url_at_time": "https://www.youtube.com/watch?v=zxdUOWwItaY&t=4489s",
+   "page_anchor_url": "https://growonthevine.com/messages/from-foreign-to-friend-july-17-2022/#faq-reward",
+   "scriptures": []
+  }
+ ]
+}
