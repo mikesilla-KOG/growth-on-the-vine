@@ -81,20 +81,46 @@ function render(d){
  }else{ss.appendChild(el('p',null,'None of the six messages on our site speaks to this question yet.'))}
  art.appendChild(ss);art.appendChild(el('p','aiword','AI-written from the Bible and our sermons. Please read the verses and listen yourself.'));
  return art}
+
+var EST=12000,STAGES=[[0,'Searching the Bible\u2026'],[0.3,'Finding sermon moments\u2026'],[0.65,'Writing your answer\u2026']];
+var RM=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+var O=null;
+function buildO(){var o=el('div','al-ov');o.hidden=true;o.setAttribute('role','dialog');o.setAttribute('aria-modal','true');o.setAttribute('aria-labelledby','al-h');
+ var c=el('div','al-card');c.tabIndex=-1;var sp=el('div','al-spin');sp.setAttribute('aria-hidden','true');c.appendChild(sp);
+ var h=el('h2','al-h','Finding your answer');h.id='al-h';c.appendChild(h);
+ var q=el('p','al-q');c.appendChild(q);
+ var st=el('p','al-st');st.setAttribute('aria-live','polite');c.appendChild(st);
+ var bar=el('div','al-bar');bar.setAttribute('role','progressbar');bar.setAttribute('aria-valuemin','0');bar.setAttribute('aria-valuemax','100');bar.setAttribute('aria-labelledby','al-h');var fill=el('div','al-fill');bar.appendChild(fill);c.appendChild(bar);
+ var eta=el('p','al-eta');c.appendChild(eta);
+ var acts=el('div','al-acts');var rt=el('button','al-btn al-retry','Try again');rt.type='button';var cl=el('button','al-btn al-close','Close');cl.type='button';acts.appendChild(rt);acts.appendChild(cl);c.appendChild(acts);
+ o.appendChild(c);document.body.appendChild(o);
+ O={o:o,c:c,q:q,st:st,bar:bar,fill:fill,eta:eta,rt:rt,cl:cl,t0:0,raf:0,stage:-1,last:''};
+ cl.addEventListener('click',function(){seq++;hideO(true);busy(false)});
+ rt.addEventListener('click',function(){var q=O.last;hideO(false);ask(q,null)});
+ o.addEventListener('keydown',function(e){if(e.key==='Escape'&&o.classList.contains('al-err')){cl.click()}if(e.key==='Tab'){var f=[].filter.call(c.querySelectorAll('button'),function(b){return b.offsetParent});if(!f.length){e.preventDefault();return}var a=f[0],z=f[f.length-1];if(e.shiftKey&&document.activeElement===a){e.preventDefault();z.focus()}else if(!e.shiftKey&&document.activeElement===z){e.preventDefault();a.focus()}}});
+}
+function setP(p){var v=Math.round(p);O.fill.style.width=p+'%';O.bar.setAttribute('aria-valuenow',v);O.bar.setAttribute('aria-valuetext',v+' percent')}
+function tick(){var t=Date.now()-O.t0,f=t/EST;var p=90*(1-Math.exp(-2.3*f));setP(p);
+ var s=0;STAGES.forEach(function(x,i){if(f>=x[0])s=i});if(s!==O.stage){O.stage=s;O.st.textContent=STAGES[s][1]}
+ var left=Math.ceil((EST-t)/1000);O.eta.textContent=left>1?'About '+left+' seconds left':'Almost done\u2026';
+ O.raf=requestAnimationFrame(tick)}
+function showO(q){if(!O)buildO();O.last=q;O.o.classList.remove('al-err','al-done','al-out');O.q.textContent='\u201C'+q+'\u201D';O.stage=-1;O.t0=Date.now();setP(0);O.o.hidden=false;document.body.style.overflow='hidden';O.c.focus();cancelAnimationFrame(O.raf);tick()}
+function hideO(restore){if(!O)return;cancelAnimationFrame(O.raf);O.o.hidden=true;O.o.classList.remove('al-out');document.body.style.overflow='';if(restore)inp.focus()}
+function doneO(cb){if(!O||O.o.hidden){cb();return}cancelAnimationFrame(O.raf);O.o.classList.add('al-done');setP(100);O.st.textContent='Done';O.eta.textContent='';setTimeout(function(){O.o.classList.add('al-out');setTimeout(function(){hideO(false);cb()},RM?0:300)},RM?150:400)}
+function errO(text){if(!O)buildO();cancelAnimationFrame(O.raf);O.o.hidden=false;O.o.classList.add('al-err');O.st.textContent=text;O.eta.textContent='';O.rt.focus()}
 function busy(on){go.disabled=on;live.setAttribute('aria-busy',on?'true':'false')}
 var seq=0;
 function ask(q,fallbackId){
  q=(q||'').replace(/\s+/g,' ').trim();if(!q){inp.focus();return}
  if(q.length>300){live.textContent='';live.appendChild(msg('err',['Please keep your question under 300 characters.']));return}
- var my=++seq;clearSamples();live.textContent='';var ld=el('div','loading');ld.appendChild(el('span','spin'));ld.appendChild(el('span',null,'Looking through Scripture and the sermons\u2026 this takes about 10 seconds.'));live.appendChild(ld);busy(true);
- live.scrollIntoView({behavior:'smooth',block:'nearest'});
+ var my=++seq;clearSamples();live.textContent='';busy(true);showO(q);
  var ctl=new AbortController(),to=setTimeout(function(){ctl.abort()},60000);
- function fail(paras){if(my!==seq)return;live.textContent='';if(fallbackId&&document.getElementById(fallbackId)){var m=msg('err',paras.concat(['Showing the prepared sample answer instead.']));live.appendChild(m);as.forEach(function(a){a.classList.toggle('on',a.id===fallbackId)});bs.forEach(function(b){b.setAttribute('aria-pressed',b.dataset.target===fallbackId)})}else{var m2=msg('err',paras);var ap=form.getAttribute('data-askpage');if(ap){var pp=el('p');pp.appendChild(link(ap,null,'Try the Ask page'));m2.appendChild(pp)}live.appendChild(m2)}}
+ function fail(paras){if(my!==seq)return;if(!(fallbackId&&document.getElementById(fallbackId))){errO(paras[0]);return}hideO(false);live.textContent='';if(fallbackId&&document.getElementById(fallbackId)){var m=msg('err',paras.concat(['Showing the prepared sample answer instead.']));live.appendChild(m);as.forEach(function(a){a.classList.toggle('on',a.id===fallbackId)});bs.forEach(function(b){b.setAttribute('aria-pressed',b.dataset.target===fallbackId)})}else{var m2=msg('err',paras);var ap=form.getAttribute('data-askpage');if(ap){var pp=el('p');pp.appendChild(link(ap,null,'Try the Ask page'));m2.appendChild(pp)}live.appendChild(m2)}}
  fetch(API,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({q:q}),signal:ctl.signal}).then(function(r){return r.json().catch(function(){return {}}).then(function(d){return {s:r.status,d:d}})}).then(function(x){
   clearTimeout(to);if(my!==seq)return;busy(false);var d=x.d||{};
-  if(d.kind==='answer'&&d.ok){live.textContent='';var a=render(d);live.appendChild(a);a.scrollIntoView({behavior:'smooth',block:'start'})}
-  else if(d.kind==='crisis'){live.textContent='';live.appendChild(msg('care',[d.message],d.verse))}
-  else if(d.kind==='declined'||d.kind==='bad'){live.textContent='';live.appendChild(msg('',[d.message]))}
+  if(d.kind==='answer'&&d.ok){doneO(function(){live.textContent='';var a=render(d);live.appendChild(a);a.scrollIntoView({behavior:'smooth',block:'start'})})}
+  else if(d.kind==='crisis'){doneO(function(){live.textContent='';live.appendChild(msg('care',[d.message],d.verse))})}
+  else if(d.kind==='declined'||d.kind==='bad'){doneO(function(){live.textContent='';live.appendChild(msg('',[d.message]))})}
   else if(d.kind==='limit'){fail([d.message])}
   else{fail([d.message||'Something went wrong on our side and we could not put an answer together. Please try again in a moment.'])}
  }).catch(function(){clearTimeout(to);busy(false);fail(['We could not reach the answer service just now. Please check your connection and try again in a moment.'])});

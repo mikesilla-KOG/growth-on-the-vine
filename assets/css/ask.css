@@ -153,3 +153,27 @@ button.vs-open:focus-visible,a.vs-rc:focus-visible{outline:3px solid var(--focus
   @keyframes vp-up{from{transform:translateY(100%)}to{transform:none}}
 }
 @media(prefers-reduced-motion:reduce){.vp-card{animation:none}}
+
+/* Full-screen Ask loading overlay */
+.al-ov{position:fixed;inset:0;z-index:1000;display:flex;align-items:center;justify-content:center;padding:1rem;background:rgba(15,42,32,.72);backdrop-filter:blur(3px);-webkit-backdrop-filter:blur(3px);animation:al-in .2s ease-out;transition:opacity .3s}
+.al-ov[hidden]{display:none}.al-ov.al-out{opacity:0}
+.al-card{background:var(--card);color:var(--ink);border-radius:var(--radius);box-shadow:var(--shadow);border-top:5px solid var(--gold);width:100%;max-width:460px;padding:2rem 1.6rem 1.6rem;text-align:center;font-family:var(--font-sans);outline:none}
+.al-spin{width:56px;height:56px;margin:0 auto 1rem;border-radius:50%;border:5px solid var(--cream-deep);border-top-color:var(--leaf);animation:al-rot .9s linear infinite}
+.al-done .al-spin{animation:none;border-color:var(--leaf)}
+.al-err .al-spin{animation:none;border-color:#b3412e}
+.al-h{font-family:var(--font-serif);color:var(--forest);font-size:1.35rem;margin:0 0 .35rem}
+.al-q{color:var(--muted);font-style:italic;margin:0 0 1rem;overflow-wrap:anywhere}
+.al-st{font-size:1.15rem;font-weight:600;color:var(--leaf);min-height:1.5em;margin:0 0 .8rem}
+.al-err .al-st{color:#8f2f1f;font-weight:400;font-size:1.05rem}
+.al-bar{height:14px;background:var(--cream-deep);border-radius:99px;overflow:hidden;border:1px solid var(--border)}
+.al-fill{height:100%;width:0;background:linear-gradient(90deg,var(--leaf),var(--gold));border-radius:99px;transition:width .25s linear}
+.al-err .al-bar,.al-err .al-eta{display:none}
+.al-eta{color:var(--muted);font-size:.95rem;margin:.6rem 0 0}
+.al-acts{display:none;gap:.6rem;justify-content:center;margin-top:1.2rem}
+.al-err .al-acts{display:flex}
+.al-btn{font:600 1rem var(--font-sans);padding:.7rem 1.3rem;border-radius:10px;border:2px solid var(--leaf);cursor:pointer;min-height:44px}
+.al-retry{background:var(--leaf);color:#fff}.al-close{background:#fff;color:var(--leaf)}
+.al-btn:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+@keyframes al-rot{to{transform:rotate(360deg)}}@keyframes al-in{from{opacity:0}}
+@media (max-width:480px){.al-card{padding:1.5rem 1.1rem 1.2rem}.al-h{font-size:1.2rem}}
+@media (prefers-reduced-motion:reduce){.al-ov{animation:none;transition:none}.al-spin{animation:al-rot 3s linear infinite}.al-fill{transition:none}}
